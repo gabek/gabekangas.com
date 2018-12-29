@@ -1,40 +1,29 @@
 ---
-title: "About Me"
-description: "All About Me"
-date: "2015-08-18"
-type: "about"
-layout: "single"
+title: 'About Gabe'
+description: 'All About Gabe'
+type: 'about'
+layout: 'single'
 categories:
-    - "bio"
-    - "about"
-    - "meta"
+  - 'bio'
+  - 'about'
+  - 'meta'
 tags:
-    - "bio"
-blurb: "Just a city boy, born and raised in South Detroit"
-recentposts: 5
-recentprojects: 5
-photo: "/images/avatar.png"
-cardheaderimage: "/images/default.jpg" #optional: default solid color if unset
-cardbackground: "#263238" #optional: card background color; only shows when no image specified
+  - 'bio'
+blurb: 'Building products you should probably use and listening to music you should probably hear.'
+recentposts: 0
+recentprojects: 0
+photo: '/images/avatar.png'
+cardheaderimage: '/images/default.jpg' #optional: default solid color if unset
+cardbackground: '#263238' #optional: card background color; only shows when no image specified
 ---
 
-90's slow-carb Schlitz Shoreditch mixtape typewriter, wayfarers Austin keffiyeh 
-Helvetica artisan flexitarian. Health goth vinyl scenester pickled kitsch. 
-Organic slow-carb stumptown freegan, PBR ugh chia Intelligentsia pork belly 
-locavore retro kale chips. Tofu put a bird on it squid tattooed beard master 
-cleanse, mumblecore keytar mustache blog direct trade PBR&B quinoa.
+#### Previous roles
 
-#### Education
+- Unix systems administrator
+- Videogame developer
+- Mobile software engineer
+- Web app developer
 
-- 2015 - Master of Arts in Wine Tasting, University of British Columbia
+An old side-project of mine was once featured in PC World. I thought that was pretty cool. I can't imagine I'll be in a print magazine again.
 
-- 2013 - Bachelor of Arts , University of British Columbia
- 
-
-#### Publications
-
-- Painting with condiments (2015) 
-
-#### Places I've worked
-
-I don't work :(
+If you can write software for it, I'm probably interested in giving it a shot.

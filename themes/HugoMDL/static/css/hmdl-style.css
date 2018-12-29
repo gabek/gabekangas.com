@@ -499,3 +499,7 @@ main {
   background-blend-mode: luminosity;
   background-position-y: 40%;
 }
+
+.mdl-card__media:hover {
+  background-blend-mode: normal;
+}

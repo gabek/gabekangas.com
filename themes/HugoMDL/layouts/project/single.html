@@ -8,10 +8,6 @@
                         {{- with .Params.author.image }}
                         <div class="minilogo" style="background-image: url('{{ . | relURL }}');"></div>
                         {{- end }}
-                        <div>
-                            <strong>{{ .Params.author.name }}</strong>
-                            <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-                        </div>
                         <div class="section-spacer"></div>
                         <div><span>
                             {{- with .Params.repo }}
