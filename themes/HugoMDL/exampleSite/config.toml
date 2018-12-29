@@ -1,28 +1,28 @@
-baseurl = "/"
-languageCode = "en_US"
-title = "Gabe Kangas"
+baseurl = "http://your.base.url/"
+languageCode = "en-us"
+title = "My HugoMDL Site"
 theme = "HugoMDL"
+MetaDataFormat = "yaml"
 
 [permalinks]
-    blog = "/blog/:year/:month/:title/"
+	page = "/:title/"
+	about = "/:filename/"
 
 [params]
-  author = "Gabe Kangas"
+  author = "Firstname Lastname"
   avatar = "/images/avatar.png"
   background = "/images/background.jpg"
-  description = "Gabe's digital life" #meta description
+  description = "A place to publish my incomprehensible ramblings" #meta description
   image = "/images/avatar-192x210.png" #for frontpage profile card
   mdlPrimary = "grey"
-  mdlSecondary = "brown"
-  cardtitlecolor = "green"
-  cardbackground = "green"
-  website = "gabekangas.com"
-  email = "gabek@real-ity.com"
-#   twitter = "https://twitter.com/firstname_lastname"
-  github = "https://github.com/gabek/"
+  mdlSecondary = "orange"
+  website = "example.com"
+  email = "Firstname@example.com"
+  twitter = "https://twitter.com/firstname_lastname"
+  github = "https://github.com/firstname_lastname/"
   linkedin = "https://linkedin.com/in/firstname_lastname/"
-#   facebook = "https://facebook.com/firstname_lastname/"
-  copyrightyear = "2019"
+  facebook = "https://facebook.com/firstname_lastname/"
+  copyrightyear = "2015"
   frontpageposts = 6 #number of post cards to display on frontpage
 
 # Fully customizable header menu
@@ -31,8 +31,8 @@ theme = "HugoMDL"
   url = "/"
   weight = -200
 [[menu.main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Articles"
+  url = "/post/"
   weight = -180
 [[menu.main]]
   name = "Projects"

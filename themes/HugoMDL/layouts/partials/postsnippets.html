@@ -1,0 +1,7 @@
+{{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "blog") }}
+    {{- if (eq $index 0) }}
+        {{- .Render "card-8" }}
+    {{- else }}
+        {{- .Render "card-12" }}
+    {{- end }}
+{{- end }}
