@@ -1,0 +1,11 @@
+<aside class="col-md-3 tikva-sidebar">
+  
+
+{{ $sidebarItems := .Site.GetPage "/sections/sidebar" }}
+{{ if $sidebarItems }}
+    {{ range sort $sidebarItems.Resources "Name" }}
+
+        {{ partial "sidebar_item.html" . }}
+    {{ end }}
+{{ end }}
+</aside><!-- /.tikva-sidebar -->

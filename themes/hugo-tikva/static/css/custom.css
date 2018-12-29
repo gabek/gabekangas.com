@@ -1,0 +1,194 @@
+.footer-container > .container {
+  padding-top: 20px; 
+}
+
+
+.subfooter-container > .container {
+  padding-top: 20px; 
+}
+
+
+/* media query stuff, new widths come from Bootstrap grid widths */
+
+#media-width-detection-element {
+  display: block;
+  /*border: 1px solid white;*/
+  height: 1px;
+  width: 100%;
+
+}
+
+
+@media (max-width: 575.98px) {
+  #media-width-detection-element {
+      width: 1px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #media-width-detection-element {
+      width: 540px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #media-width-detection-element {
+      width: 720px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  #media-width-detection-element {
+      width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  #media-width-detection-element {
+      width: 1140px;
+  }
+}
+
+
+/* Header */
+
+#site-header-image {
+  box-shadow: #000 0em 0em 0em; /* fix for fadeIn bug in firefox */
+}
+
+
+
+/* default: hidden, will be shown by JavaScript */
+#site-header-above {
+  display: none;
+  position: relative;
+}
+
+#site-header-above img {
+  position: relative;
+}
+
+
+/**********************************/
+
+
+/* default: hidden, will be shown by JavaScript */
+/*#site-header1 {
+  display: block;
+  position: relative;
+}
+
+#site-header1 img {
+  position: relative;
+}*/
+
+#site-header-container-overlay {
+/*    position: absolute;
+  top: 20px;
+  left: 100px;*/
+  z-index: 1000;
+}
+
+/*
+#site-header-text a, #site-description {
+ 
+  background: rgb(0, 0, 0); 
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}*/
+
+
+
+
+/* Assistive text */
+
+.screen-reader-text {
+  position: absolute !important;
+  clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+  clip: rect(1px, 1px, 1px, 1px);
+  overflow: hidden;
+  max-height:0px;
+}
+
+
+
+/* Menu Settings - later... maybe... */
+.main-nav ul {
+  text-align: center;
+  letter-spacing: -1em;
+  margin: 0;
+  padding: 0;
+}
+
+.main-nav ul li {
+  display: inline-block;
+  letter-spacing: normal;
+}
+
+.main-nav ul li a {
+  position: relative;
+  display: block;
+  line-height: 45px;
+  color: #fff;
+  padding: 0 20px;
+  white-space: nowrap;
+}
+
+.main-nav > ul > li > a {
+  border-radius: 2px;
+}
+
+/*Active dropdown nav item */
+.main-nav ul li:hover > a {
+  background-color: #175e91;
+}
+
+/* Selected Dropdown nav item */
+.main-nav ul li.selected > a {
+  background-color: #fff;
+  color: #175e91;
+}
+
+/* Dropdown CSS */
+.main-nav ul li {
+  position: relative;
+}
+
+.main-nav ul li ul {
+  position: absolute;
+  background-color: #1f8dd6;
+  min-width: 100%;
+  text-align: left;
+  z-index: 999;
+
+  display: none;
+}
+.main-nav ul li ul li {
+  display: block;
+}
+
+/* Dropdown CSS */
+.main-nav ul li ul ul {
+  left: 100%;
+  top: 0;
+}
+
+/* Active on Hover */
+.main-nav li:hover > ul {
+  display: block;
+}
+
+/* Child Indicator */
+.main-nav .has-children > a {
+  padding-right: 30px;
+}
+.main-nav .has-children > a:after {
+  font-family: FontAwesome;
+  content: "\f107";
+  position: absolute;
+  display: inline-block;
+  right: 8px;
+  top: 0;
+}
+
+.main-nav .has-children .has-children > a:after {
+  content: "\f105";
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_pages on My New Hugo Site</title>
+    <link>http://example.org/_pages/</link>
+    <description>Recent content in _pages on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/_pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#TheCabin Mobile</title>
+      <link>http://example.org/_pages/2018-12-29-thecabin-mobile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/_pages/2018-12-29-thecabin-mobile/</guid>
+      <description>The definitive iPhone app for #TheCabin. Use #TheCabin Mobile to quickly join the channel for the best chat on the internet, share images instantly, &#34;check in&#34; to share what you&#39;re up to with your friends, or browse the vast world of #TheCabin online. 
+
+#TheCabin&#39;s mobile client is an iPhone Application build for two reasons 1) To allow brand new people a quick way to join the IRC channel without worrying about servers or what software to use and 2) To give people who frequent the channel features and functionality that are useful to them.</description>
+    </item>
+    
+    <item>
+      <title>About Gabe</title>
+      <link>http://example.org/_pages/2018-12-29-about-gabe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/_pages/2018-12-29-about-gabe/</guid>
+      <description>Gabe Kangas is a mobile-focused developer, musician, and technology professional from San Francisco.In Gabe’s list of accomplishments you’ll see things like being the host of a top 10 ranked Podcast, author of a web app rated by PC World as “best of the web”, founder of one of the internet’s longest existing chat communities, and mentioned on Digg.com and TechCrunch.com’s front pages on multiple occasions.
+In the professional realm Gabe has previously inhabited the cubes as a senior systems administrator, web developer, operations lead, unix systems engineer, and infrastructure tool developer.</description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://example.org/_pages/2018-12-29-music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/_pages/2018-12-29-music/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>http://example.org/_pages/2018-12-29-gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/_pages/2018-12-29-gallery/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://example.org/_pages/2018-12-29-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/_pages/2018-12-29-projects/</guid>
+      <description>#TheCabin Mobile
+    Description: #TheCabin is a 15+ year old online chat community founded and maintained by Gabe. #TheCabin&#39;s mobile client is an iPhone Application build for two reasons 1) To allow brand new people a quick way to join the IRC channel without worrying about servers or what software to use and 2) To give people who frequent the channel features and functionality that are useful to them.</description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>http://example.org/_pages/2018-12-29-social/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/_pages/2018-12-29-social/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>http://example.org/_pages/2018-12-29-video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/_pages/2018-12-29-video/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>
