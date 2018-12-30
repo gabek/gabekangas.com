@@ -46,9 +46,8 @@ body:before {
   position: fixed;
 }
 main {
-  max-width: 900px;
   display: flex;
-  width: 100%;
+  width: 80vw;
   margin: 0 auto;
   flex-shrink: 0;
   justify-content: center;

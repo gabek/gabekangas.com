@@ -1,7 +1,39 @@
-            {{- partial "header.html" . }}
-            <div class="hmdl-frontpage mdl-grid">
-                {{- partial "profile.html" . }}
-                {{- partial "postsnippets.html" . }}
-                {{- partial "showallposts.html" . }}
+{{- partial "header.html" . }}
+
+<div class="home-container">
+  <div class="hmdl-frontpage mdl-grid">
+    {{- partial "profile.html" . }} {{- partial "postsnippets.html" . }}
+    {{- partial "showallposts.html" . }}
+  </div>
+  <div class="home-sidebar-container">
+        <div class="junklist hmdl-list mdl-grid">
+            <div class="mdl-card mdl-shadow--4dp mdl-cell--12-col">
+                {{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "junk") }}
+                {{- .Render "junkitem" }}
+                {{- end }}
             </div>
-            {{- partial "footer.html" . }}
+        </div>
+
+  </div>
+</div>
+
+{{- partial "footer.html" . }}
+
+<style>
+
+  .home-sidebar-container {
+    position: sticky;
+    height: 100%;
+    top: 0;
+    margin-top: 15px;
+    padding-bottom: 30px;
+  }
+
+  .home-container {
+    display: flex;
+  }
+
+  .mdl-grid {
+    max-width: 70vw;
+  }
+</style>

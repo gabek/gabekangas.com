@@ -1,0 +1,8 @@
+{{- partial "header.html" . }}
+<div class="hmdl-list mdl-grid">
+  <div class="mdl-card mdl-shadow--4dp mdl-cell--12-col">
+    {{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "junk") }}
+        {{- .Render "junkitem" }}
+  {{- end }}
+  </div>
+</div>

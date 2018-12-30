@@ -1,0 +1,19 @@
+                <!-- Make a card view for junk -->
+                <div class="mdl-card mdl-cell mdl-cell--12-col">
+                    {{ $taxo := "tags" }} <!-- Use the plural form here -->
+                    <div class=" mdl-color-text--grey-50" style="{{with .Params.cardthumbimage}}background-image: url('{{ . | relURL }}');{{end}} {{with .Params.cardbackground}}background-color:{{.}};{{end}}">
+                        <h4><a href="{{ .RelPermalink }}" {{ with .Params.cardtitlecolor }} style="color:{{.}};"{{end}}>{{ title .Title }}</a></h4>
+                    </div>
+                    <div class="mdl-card__supporting-text mdl-color-text--grey-600">
+                    {{ with .Param $taxo }}
+                        {{ range $index, $tag := . }}
+                            {{- if gt $index 0 }}, {{ end -}}
+                                {{ with $.Site.GetPage (printf "/%s/%s" $taxo $tag) -}}
+                                <a href="{{ .Permalink }}">{{ $tag }}</a>
+                            {{- end -}}
+                        {{- end -}}
+                    {{ end }}
+                        {{ .Content }}
+                    </div>
+ 
+                </div>
