@@ -5,7 +5,7 @@ theme = "HugoMDL"
 
 [permalinks]
     blog = "/blog/:year/:month/:title/"
-
+    pages = "/:title/"
 [params]
   author = "Gabe Kangas"
   avatar = "/images/avatar.png"

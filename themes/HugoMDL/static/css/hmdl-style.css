@@ -52,7 +52,7 @@ main {
   margin: 0 auto;
   flex-shrink: 0;
   justify-content: center;
-  padding-top: 160px;
+  padding-top: 60px;
   padding-bottom: 80px;
   position: relative;
   -webkit-overflow-scrolling: touch;
@@ -437,6 +437,7 @@ main {
 .hmdl-page .hmdl-page-content h2,
 .hmdl-page .hmdl-page-content h3 {
   margin-top: 64px;
+  margin-bottom: 15px;
 }
 .hmdl-page .hmdl-page-content .highlight {
   border-radius: 4px;

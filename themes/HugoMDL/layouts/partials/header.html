@@ -5,9 +5,33 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="My thoughts and rambles">
+    <meta name="description" content="The personal home page of Gabe Kangas">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <style>
+        .overlay {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            z-index: 100;
+            pointer-events: none;
+            opacity: 0.44;
+            background-color: rgba(43, 27, 27, 0.7);
+            background-image: url("http://api.thumbr.it/whitenoise-361x370.png?background=52121200&noise=666666&density=25&opacity=100")
+        }
+
+        .coffee-stain {
+            position: absolute;
+            background: url("https://www.onlygfx.com/wp-content/uploads/2016/05/cup-coffee-stain-7.png");
+            background-position: center;
+            z-index: 101;
+            pointer-events: none;
+            width: 60%;
+            height: 100%;
+            right: 0px;
+            background-position: center top;
+        }
+    </style>
     <!-- User-specified favicon -->
     {{- if isset .Site.Params "favicon" }}
         {{- $.Scratch.Set "favicon" .Site.Params.favicon }}
@@ -47,16 +71,16 @@
     <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.1.3/material.{{ $.Scratch.Get "mdlPrimary" }}-{{ $.Scratch.Get "mdlAccent" }}.min.css"/>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/hmdl-style.css"/>
-    {{- if and .IsPage (eq .Type "presentation") }}
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/remark.css"/>
-    {{- end }}
 
     {{- partial "extra-header.html" . }}
 
-    <title>{{ .Title }}</title>
+    <title>{{ .Title }} | Gabe Kangas</title>
 </head>
 <!-- TODO: rethink background -->
 <body style="background-image: url('{{ .Site.Params.background | relURL }}');">
+    <div class="overlay">
+    </div>
+
     <div class="hmdl-body mdl-layout mdl-js-layout has-drawer is-upgraded">
         {{- if not (and .IsPage (eq .Type "presentation")) }}
             {{- partial "navbar.html" . }}
