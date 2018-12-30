@@ -12,8 +12,8 @@ theme = "HugoMDL"
   background = "/images/background.jpg"
   description = "Gabe's digital life" #meta description
   image = "/images/avatar-192x210.png" #for frontpage profile card
-  mdlPrimary = "grey"
-  mdlSecondary = "brown"
+  mdlPrimary = "gray"
+  mdlSecondary = "gray"
   cardtitlecolor = "green"
   cardbackground = "green"
   website = "gabekangas.com"
@@ -38,6 +38,10 @@ theme = "HugoMDL"
   name = "Projects"
   url = "/project/"
   weight = -160
+[[menu.main]]
+  name = "Junk"
+  url = "/junk/"
+  weight = -150
 [[menu.main]]
   name = "About"
   url = "/about/"

@@ -503,3 +503,11 @@ main {
 .mdl-card__media:hover {
   background-blend-mode: normal;
 }
+
+a {
+  color: #444444;
+}
+
+a:hover {
+  color: #000000;
+}
