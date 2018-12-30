@@ -7,7 +7,7 @@ cardheaderimage: '/project/thebatstation.png' #optional: default solid color if 
 #cardtitlecolor: "#fafafa" #optional: can be changed to make text visible over card image
 web: 'https://longtail.fm/stations/the-bat-station'
 repo: 'https://github.com/gabek/samcloud-updater'
-date: '2015-08-18'
+weight: 110
 categories:
   - 'project'
 tags:

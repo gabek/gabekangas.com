@@ -6,6 +6,7 @@ cardheaderimage: '/project/longtail-music.png' #optional: default solid color if
 #cardbackground: "#263238" #optional: card background color; only shows when no image specified
 #cardtitlecolor: "#fafafa" #optional: can be changed to make text visible over card image
 web: 'https://longtail.fm/' #optional: no icon appears if unset
+weight: 120
 categories:
   - 'project'
 tags:

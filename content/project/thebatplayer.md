@@ -7,6 +7,7 @@ cardheaderimage: '/project/thebatplayer.jpg'
 #cardtitlecolor: "#fafafa" #optional: can be changed to make text visible over card image
 repo: 'https://github.com/gabek/TheBatPlayerServer' #optional: no icon appears if unset
 web: 'https://itunes.apple.com/us/app/the-bat-player-radio/id1050517930?ls=1&mt=8' #optional: no icon appears if unset
+weight: 100
 categories:
   - 'project'
 tags:
