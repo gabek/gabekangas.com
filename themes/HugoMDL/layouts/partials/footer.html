@@ -22,6 +22,9 @@
     {{- end }}
     {{- if .IsNode }}
     <script src={{ "/js/cardmedia.js" | relURL }}></script>
+    {{ if ($.Page.Scratch.Get "include_mastodon") "true" }}
+    <script src="https://mastodon.social/embed.js" async="async"></script>
+    {{ end }}
     <!-- <script src={{ "/js/fabbutton.js" | relURL }}></script> -->
     {{- end }}
     {{- partial "extra-footer.html" . }}

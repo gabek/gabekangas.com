@@ -6,7 +6,7 @@
     {{- partial "showallposts.html" . }}
   </div>
   <div class="home-sidebar-container">
-        <div class="junklist hmdl-list mdl-grid">
+        <div class="junklist">
             <div class="mdl-card mdl-shadow--4dp mdl-cell--12-col">
                 {{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "junk") }}
                 {{- .Render "junkitem" }}
@@ -24,6 +24,7 @@
   .home-sidebar-container {
     position: sticky;
     height: 100%;
+    width: 20vw;
     top: 0;
     margin-top: 15px;
     padding-bottom: 30px;
