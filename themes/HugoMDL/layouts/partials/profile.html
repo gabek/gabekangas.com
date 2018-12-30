@@ -14,16 +14,30 @@
       <strong
         ><a href="/about">{{ .Site.Params.author }}</a></strong
       >
-      So much stuff to build. Not enough time.
-      <div>
+      <div class="contactbox">
         <a href="https://github.com/gabek"
           ><i class="material-icons_2x icon ion-social-github"></i
         ></a>
         <a href="https://mastodon.social/@gabek"
           ><img src="/icons/mastodon-icon.png" width="40px"
         /></a>
-        <a href="https://www.linkedin.com/in/gabek/"> LinkedIn </a>
+        <a href="https://www.linkedin.com/in/gabek/">
+          <img src="/icons/linkedin-icon.png" width="30px" />
+        </a>
+        <a href="https://keybase.io/gabek"
+          ><img src="/icons/keybase-icon.png" width="30px"
+        /></a>
       </div>
     </div>
   </div>
 </div>
+
+<style>
+  .contactbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 240px;
+  }
+</style>
