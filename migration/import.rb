@@ -70,6 +70,14 @@ module JekyllImport
           metas[key] = value;
         end
 
+        author = {
+          'name' => 'Gabe Kangas',
+          'website' => 'http://gabekangas',
+          'email' => 'gabek@real-ity.com',
+          'github' => 'https://github.com/gabek',
+          'image' => '/images/avatar-64x64.png'
+        }
+
         # Identify Squarespace-hosted images, download them, and update the
         # URLs to point to our copies
         body = item.at('content:encoded').inner_text
@@ -98,7 +106,8 @@ module JekyllImport
           'type' => type,
           'published' => published,
           'date' => date,
-          'meta' => metas
+          'meta' => metas,
+          'author' => author
         }
 
         begin

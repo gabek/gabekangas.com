@@ -12,7 +12,6 @@ cardbackground: '#263238' #optional: card background color; only shows when no i
 #cardtitlecolor: "#fafafa" #optional: can be changed to make text visible over card image
 'author':
   name: 'Gabe Kangas'
-  description: 'Writer of stuff'
   website: 'http://gabekangas.com/'
   email: 'gabek@real-ity.com'
   github: 'https://github.com/gabek'
