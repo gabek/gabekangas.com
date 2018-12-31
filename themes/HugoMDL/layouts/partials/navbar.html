@@ -1,5 +1,5 @@
         <!-- Site navigation -->
-        <header class="mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll">
+        <header class="mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll">            
             <div class="mdl-layout__header-row">
                 {{- if eq .Title "Projects" }}
                 <!-- Title -->
@@ -7,6 +7,9 @@
                 {{- end }}
                 <div class="mdl-layout-spacer"></div>
                 <nav class="mdl-navigation">
+                <p><input id="search-input" type="text" placeholder="Search..."/></p>
+                <div id="search-results"></div>
+
                 {{- range .Site.Menus.main }}
                 <a class="mdl-navigation__link{{ if eq ($.Permalink | relURL) (.URL | safeHTML) }} mdl-color-text--accent{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
                 {{- end }}

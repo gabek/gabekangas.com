@@ -514,3 +514,15 @@ a {
 a:hover {
   color: #000000;
 }
+
+#search-input {
+  position: relative;
+  top: 10px;
+}
+
+#search-results {
+  position: absolute;
+  background-color: white;
+  top: 50px;
+  right: 20%;
+}
