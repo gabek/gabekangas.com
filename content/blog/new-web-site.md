@@ -10,9 +10,10 @@ tags:
   - 'blog'
   - 'hugo'
   - 'web site'
+  - 'featured'
 
-cardthumbimage: '/images/default.jpg' #optional: default solid color if unset
-cardheaderimage: '/images/default.jpg' #optional: default solid color if unset
+cardthumbimage: '/blog/images/new-web-site.jpg' #optional: default solid color if unset
+cardheaderimage: '/blog/images/new-web-site.jpg' #optional: default solid color if unset
 cardbackground: '#263238' #optional: card background color; only shows when no image specified
 #cardtitlecolor: "#fafafa" #optional: can be changed to make text visible over card image
 'author':
