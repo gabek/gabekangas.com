@@ -11,9 +11,6 @@
     class="hmdl-page-meta mdl-card__supporting-text meta--fill mdl-color-text--grey-600 "
   >
     <div>
-      <strong
-        ><a href="/about">{{ .Site.Params.author }}</a></strong
-      >
       <div class="contactbox">
         <a href="https://github.com/gabek"
           ><i class="material-icons_2x icon ion-social-github"></i
@@ -22,10 +19,13 @@
           ><img src="/icons/mastodon-icon.png" width="40px"
         /></a>
         <a href="https://www.linkedin.com/in/gabek/">
-          <img src="/icons/linkedin-icon.png" width="30px" />
+          <i class="material-icons_2x icon ion-social-linkedin "></i>
         </a>
         <a href="https://keybase.io/gabek"
-          ><img src="/icons/keybase-icon.png" width="30px"
+          ><img
+            src="/icons/keybase-icon.png"
+            width="23px"
+            style="position: relative; top: -2px; opacity: 0.7"
         /></a>
       </div>
     </div>
@@ -38,6 +38,10 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    width: 240px;
+    width: 290px;
+  }
+
+  .contactbox img:hover {
+    opacity: 1;
   }
 </style>
