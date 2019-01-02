@@ -10,6 +10,7 @@
   </div>
   <div class="home-sidebar-container">
       <div class="home-sidebar-content mdl-card mdl-shadow--4dp mdl-cell--12-col">
+          <div class="junk-header"><strong>Junk Feed</strong></div>
           {{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "junk") }}
           {{- .Render "sidebarjunkitem" }}
           <hr>
@@ -56,5 +57,25 @@
     flex-direction: column;
     justify-content: center;
     font-size: 15px;
+  }
+
+  .junk-header {
+    text-align: right;
+    margin: 10px;
+    margin-right: 15px;
+  }
+
+  .junk-item-date {
+    font-size: 11px;
+    text-align: right;
+    margin-right: 15px;
+  }
+
+  .home-sidebar-content h4 {
+    font-size: 12px;
+  }
+
+  .home-sidebar-content h4 a {
+    text-decoration: none;
   }
 </style>
