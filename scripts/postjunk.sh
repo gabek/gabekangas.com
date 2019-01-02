@@ -19,8 +19,9 @@ filename="content/junk/$DATE-$filenameinput.md"
 
 awk "NR==2{print \"title: \'$title\'\"}7" archetypes/junk.md | awk "NR==3{print \"date: \'$DATE\'\"}7" > $filename
 code --wait $filename
-#git commit $filename -m "Added junk feed item: $title"
-#git push
+git add $filename
+git commit $filename -m "Added junk feed item: $title"
+git push
 
 # Restore the working directory
 if [ "$did_stash" = true ] ; then
