@@ -8,9 +8,13 @@
   ></div>
   <!-- {{- partial "fab-buttons" . }} -->
   <div
-    class="hmdl-page-meta mdl-card__supporting-text meta--fill mdl-color-text--grey-600 "
+    class="profile-box hmdl-page-meta mdl-card__supporting-text meta--fill mdl-color-text--grey-600 "
   >
     <div>
+      Gabe Kangas is a product engineer in San Francisco. He goes to concerts
+      and will talk to you about futurepop. He likes to work on lots of
+      <a class="projects-link" href="/project">different projects</a>.
+      <hr />
       <div class="contactbox">
         <a href="https://github.com/gabek"
           ><i class="material-icons_2x icon ion-social-github"></i
@@ -33,6 +37,10 @@
 </div>
 
 <style>
+  .profile-card {
+    min-height: 360px !important;
+  }
+
   .contactbox {
     display: flex;
     flex-direction: row;
@@ -43,5 +51,19 @@
 
   .contactbox img:hover {
     opacity: 1;
+  }
+
+  .projects-link {
+    display: contents;
+    text-decoration: none;
+  }
+
+  .profile-box hr {
+    margin-top: 5px;
+    margin-bottom: 3px;
+  }
+
+  .profile-box {
+    padding-bottom: 5px;
   }
 </style>

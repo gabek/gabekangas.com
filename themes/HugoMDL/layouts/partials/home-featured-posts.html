@@ -1,10 +1,7 @@
 <!-- Make a card view for posts -->
 <div class="mdl-card mdl-cell mdl-cell--8-col home-intro-block">
-    Gabe Kangas is a product engineer in San Francisco. He'll share some rad playlists with you if you ask.
-    <hr>
-    The following are some posts I've written that you might be interested in.
     <div class="mdl-grid">
-        {{ range first 6 (where .Site.Taxonomies.tags.featured.Pages "Section" "blog") }}
+        {{ range first 4 (where (shuffle .Site.Taxonomies.tags.featured.Pages) "Section" "blog") }}
           <a href="{{ .RelPermalink }}">
               <div class="mdl-cell mdl-cell--6-col">
                 {{- .Render "smallcard" }} 
@@ -16,10 +13,12 @@
 
 <style>
   .home-intro-block {
-    padding: 2%;
   }
 
   .home-intro-block .mdl-grid {
-    width: 90%;
+    width: 95%;
+    height: 100%;
+    margin: 0px;
+    padding-top: 30px;
   }
 </style>
