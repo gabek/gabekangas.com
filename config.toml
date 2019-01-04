@@ -3,6 +3,24 @@ languageCode = "en_US"
 title = "Gabe Kangas"
 theme = "HugoMDL"
 
+[outputs]
+  page = ["HTML", "Gopher"]
+  section = ["HTML", "Gopher"]
+  home = ["HTML", "Gopher"]
+
+[mediaTypes]
+[mediaTypes."text/gopher"]
+suffixes = ["txt"]
+
+[outputFormats]
+  [outputFormats.Gopher]
+    baseName = "post"
+    isPlainText = true
+    isHTML = false
+    mediaType = "text/gopher"
+    path = "gopher"
+    suffix = "txt"
+
 [permalinks]
     blog = "/blog/:year/:month/:title/"
     pages = "/:title/"
@@ -24,7 +42,7 @@ theme = "HugoMDL"
   linkedin = "https://www.linkedin.com/in/gabek/"
 #   facebook = "https://facebook.com/firstname_lastname/"
   copyrightyear = "2019"
-  frontpageposts = 6 #number of post cards to display on frontpage
+  frontpageposts = 10 #number of post cards to display on frontpage
 
 # Fully customizable header menu
 [[menu.main]]

@@ -1,0 +1,15 @@
+{{ partial "gopher/gopherheader.txt" . }}
+
+Recent blog posts
+
+{{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "blog") }}
+0{{ .Date.Format "Jan 2, 2006" }} {{ .Title }}	{{substr .RelPermalink 1}}post.txt
+{{ end }}
+
+My projects
+
+{{- range .Data.Pages }}
+{{- if eq .Type "project" }}
+0{{ .Title }}	{{substr .RelPermalink 1}}post.txt
+{{- end }}
+{{- end }}
