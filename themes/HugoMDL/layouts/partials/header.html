@@ -64,7 +64,11 @@
 
     {{- partial "extra-header.html" . }}
 
+    {{ if .IsHome }}
+    <title>Gabe Kangas</title>
+    {{ else }}
     <title>{{ .Title }} | Gabe Kangas</title>
+    {{ end }}
 </head>
 <!-- TODO: rethink background -->
 <body style="background-image: url('{{ .Site.Params.background | relURL }}');">
