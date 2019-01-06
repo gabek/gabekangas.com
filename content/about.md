@@ -17,13 +17,16 @@ cardheaderimage: '/images/default.jpg' #optional: default solid color if unset
 cardbackground: '#263238' #optional: card background color; only shows when no image specified
 ---
 
-#### Previous roles
+Gabe Kangas is a founder, full-stack client engineer and developer of products across multiple platforms with a history in media technology companies.
 
-- Unix systems administrator
-- Videogame developer
-- Mobile software engineer
-- Web app developer
+Currently at a consumer OTT television streaming service, he works on Roku, Amazon Fire, AppleTV and iPhone clients to enable users to consume television, both live and recorded, from anywhere.
 
-An old side-project of mine was once featured in PC World. I thought that was pretty cool. I can't imagine I'll be in a print magazine again.
+Previously he was at Rdio, a leading music streaming service who got acquired by Pandora, where he worked on the iOS application, live radio integration, and automotive hardware initiatives.
 
-If you can write software for it, I'm probably interested in giving it a shot.
+Prior to Rdio he led the mobile products at TastemakerX, a social music discovery platform, who got acquired by Rdio.
+
+Gabe’s first big connected media endeavor was PandoraFM, a service that would allow users to keep track of their Pandora music listening via LastFM who at the time was called one of the "Best of the Web" in PC World magazine.
+
+Aside from purely media-focused projects he’s spent time building a credit card product at a fintech startup, founded a contacts management startup, had a stint in social-mobile gaming and originally started his career in enterprise systems and networking.
+
+In 2017 Gabe built Longtail Music out of his own passion for the deep world of music discovery and the people who inhabit the world of internet radio.

@@ -3,4 +3,4 @@
 hugo
 
 mv public/gopher/post.txt public/gopher/gophermap
-scp public/* gabek@sdf.lonestar.org:/sdf/udd/g/gabek/gopher
+scp -r public/gopher/* gabek@sdf.lonestar.org:~/gopher
