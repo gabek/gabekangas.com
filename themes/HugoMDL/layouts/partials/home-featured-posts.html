@@ -1,24 +1,10 @@
 <!-- Make a card view for posts -->
 <div class="mdl-card mdl-cell mdl-cell--8-col home-intro-block">
-    <div class="mdl-grid">
-        {{ range first 4 (where (shuffle .Site.Taxonomies.tags.featured.Pages) "Section" "blog") }}
-          <a href="{{ .RelPermalink }}">
-              <div class="mdl-cell mdl-cell--6-col">
-                {{- .Render "smallcard" }} 
-              </div>
-          </a>
-        {{- end }}
-    </div>
+  <div class="mdl-grid">
+    {{ range first 4 (where (shuffle .Site.Taxonomies.tags.featured.Pages) "Section" "blog") }}
+    <a href="{{ .RelPermalink }}">
+      <div class="mdl-cell mdl-cell--6-col">{{- .Render "smallcard" }}</div>
+    </a>
+    {{ end }}
+  </div>
 </div>
-
-<style>
-  .home-intro-block {
-  }
-
-  .home-intro-block .mdl-grid {
-    width: 95%;
-    height: 100%;
-    margin: 0px;
-    padding-top: 30px;
-  }
-</style>
