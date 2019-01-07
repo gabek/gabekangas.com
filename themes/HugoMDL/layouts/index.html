@@ -9,7 +9,7 @@
     {{- partial "showallposts.html" . }}
   </div>
   <div class="home-sidebar-container">
-      <div class="home-sidebar-content mdl-card mdl-shadow--4dp mdl-cell--12-col">
+      <div class="home-sidebar-content mdl-card mdl-cell--12-col">
           <div class="junk-header"><strong>Junk Feed</strong></div>
           {{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "junk") }}
           {{- .Render "sidebarjunkitem" }}

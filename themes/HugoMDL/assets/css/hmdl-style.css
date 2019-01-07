@@ -50,7 +50,7 @@ body:before {
 }
 main {
   display: flex;
-  width: 80vw;
+  width: 85vw;
   margin: 0 auto;
   flex-shrink: 0;
   justify-content: center;
