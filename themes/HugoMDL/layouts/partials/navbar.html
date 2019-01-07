@@ -11,7 +11,7 @@
                 <div id="search-results"></div>
 
                 {{- range .Site.Menus.main }}
-                <a class="mdl-navigation__link{{ if eq ($.Permalink | relURL) (.URL | safeHTML) }} mdl-color-text--accent{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                <a class="mdl-navigation__link{{ if eq ($.Permalink | relURL) (.URL | safeHTML) }} menu-accent{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
                 {{- end }}
                 </nav>
             </div>
@@ -22,7 +22,7 @@
             {{- end }}
             <nav class="mdl-navigation">
             {{- range .Site.Menus.main }}
-            <a class="mdl-navigation__link{{ if eq ($.Permalink | relURL) (.URL | safeHTML) }} mdl-color-text--accent{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+            <a class="mdl-navigation__link{{ if eq ($.Permalink | relURL) (.URL | safeHTML) }} menu-accent{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
             {{- end }}
             </nav>
         </div>

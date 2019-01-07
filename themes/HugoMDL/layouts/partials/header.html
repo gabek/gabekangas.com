@@ -60,7 +60,7 @@
     {{ $customsource := $customsass | resources.ToCSS }}
     {{ $css := slice $csssource $iconsource $customsource | resources.Concat "css/style.css" }}
     {{ $cssminified := $css | resources.Minify | resources.Fingerprint}}
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}{{$cssminified.RelPermalink}}"/>
+    <link rel="stylesheet" href="{{$cssminified.RelPermalink}}"/>
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/brands.css" integrity="sha384-1KLgFVb/gHrlDGLFPgMbeedi6tQBLcWvyNUN+YKXbD7ZFbjX6BLpMDf0PJ32XJfX"
         crossorigin="anonymous">
@@ -75,7 +75,7 @@
     {{ $js := slice $lunrsource $searchsource $generalscriptssource | resources.Concat "js/scripts.js" }}
     {{ $jsminified := $js | resources.Minify | resources.Fingerprint}}
     
-    <script src="{{ .Site.BaseURL }}{{$jsminified.RelPermalink}}" defer async></script>
+    <script src="{{$jsminified.RelPermalink}}" defer async></script>
 
     {{- partial "extra-header.html" . }}
 

@@ -2,5 +2,7 @@
 
 hugo
 
-mv public/gopher/post.txt public/gopher/gophermap
-scp -r public/gopher/* gabek@sdf.lonestar.org:~/gopher
+cd public
+now
+mv gopher/post.txt gopher/gophermap
+scp -r gopher/* gabek@sdf.lonestar.org:~/gopher >> /dev/null
