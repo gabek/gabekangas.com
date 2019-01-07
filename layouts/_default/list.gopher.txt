@@ -1,5 +1,7 @@
 {{ partial "gopher/gopherheader.txt" . }}
 
+0About Gabe	about/post.txt
+
 Recent blog posts
 
 {{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "blog") }}
