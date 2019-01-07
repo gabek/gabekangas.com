@@ -122,13 +122,13 @@
 }
 
 .contactbox {
+  position: relative;
+  top: 5px;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  width: 290px;
   font-size: 25px;
-  padding: 5px;
 }
 
 .contactbox img:hover {
@@ -146,8 +146,9 @@
 }
 
 .profile-box div {
-  padding-bottom: 5px;
   width: 100%;
+  margin-top: 5px;
+  padding-bottom: 5px;
 }
 
 .home-small-post-card {
@@ -221,4 +222,24 @@
 .menu-accent {
   color: rgb(10, 40, 150);
   font-weight: 700;
+}
+
+.fa-spotify:hover {
+  color: #84bd00;
+}
+
+.fa-linkedin:hover {
+  color: #0077b5;
+}
+
+.fa-github:hover {
+  color: #4078c0;
+}
+
+.fa-keybase:hover {
+  color: #ff6f20;
+}
+
+.fa-mastodon:hover {
+  color: #444b5d;
 }
