@@ -1,0 +1,15 @@
+{{- partial "header.html" . }}  
+
+  {{ with .Site.Taxonomies.tags.ByCount }}
+  <section class="tag-list">
+    {{ range $.Site.Taxonomies.tags.ByCount }}
+      <span class="tag">
+        <a href="/tags/{{ .Name | urlize }}/" class="tag_font_size_{{ .Count }}">
+          {{ .Name }} <small>({{ .Count }})</small>
+        </a>
+      </span>
+      {{ end }}
+  </section>
+  {{ end }}
+
+{{- partial "footer.html" . }}

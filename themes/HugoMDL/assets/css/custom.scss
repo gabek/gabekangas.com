@@ -243,3 +243,27 @@
 .fa-mastodon:hover {
   color: #444b5d;
 }
+
+.tag-list {
+  background-color: white;
+  padding: 30px;
+  line-height: 50px;
+  font-size: 18px;
+
+  a {
+    text-decoration: none;
+  }
+
+  @for $i from 2 through 1000 {
+    $size: 10px;
+    @if $i <= 20 {
+      $size: 1em + (2 / 20) * $i;
+    }
+    @if $i > 20 {
+      $size: 3em;
+    }
+    .tag_font_size_#{$i} {
+      font-size: $size;
+    }
+  }
+}
