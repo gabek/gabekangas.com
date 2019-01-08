@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://gabekangas.com"
 languageCode = "en_US"
 title = "Gabe Kangas"
 theme = "HugoMDL"
@@ -29,7 +29,7 @@ suffixes = ["txt"]
   author = "Gabe Kangas"
   avatar = "/images/avatar.png"
   background = "/images/background.png"
-  description = "Gabe's digital life" #meta description
+  description = "Gabe's home page." #meta description
   image = "/images/avatar.png" #for frontpage profile card
   mdlPrimary = "gray"
   mdlSecondary = "gray"
