@@ -1,4 +1,4 @@
 {{ .Title }}
 {{ .Date.Format "Jan 2, 2006" }}
 
-{{ replace (htmlUnescape .Plain) "\n" "\n\n"}}
+{{ replaceRE "<[^>]*>" "" (htmlUnescape .Content) }}
