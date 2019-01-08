@@ -6,7 +6,7 @@ theme = "HugoMDL"
 [outputs]
   page = ["HTML", "Gopher"]
   section = ["HTML", "Gopher"]
-  home = ["HTML", "Gopher"]
+  home = ["HTML", "Gopher", "RSS"]
 
 [mediaTypes]
 [mediaTypes."text/gopher"]

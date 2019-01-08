@@ -32,4 +32,8 @@ property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
 <meta property="twitter:card" content="{{ .Title }}" /> {{ end }} {{ end }}
 <meta property="twitter:title" content="{{ .Title }}" />
 
+{{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
 <!-- End of Twitter -->
