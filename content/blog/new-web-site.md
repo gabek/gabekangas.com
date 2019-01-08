@@ -11,7 +11,7 @@ tags:
   - 'hugo'
   - 'web site'
   - 'featured'
-
+draft: false
 cardthumbimage: '/blog/images/new-web-site.jpg' #optional: default solid color if unset
 cardheaderimage: '/blog/images/new-web-site.jpg' #optional: default solid color if unset
 cardbackground: '#263238' #optional: card background color; only shows when no image specified
