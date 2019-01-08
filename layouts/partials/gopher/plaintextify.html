@@ -1,0 +1,10 @@
+{{- $plainTextContent := markdownify . | htmlUnescape }}
+
+{{- $plainTextContent = replaceRE "{{<[^>]*>}}" "" $plainTextContent }}
+{{- $plainTextContent = replaceRE "<[^>]*>" "" $plainTextContent }}
+{{- $plainTextContent = replaceRE `\[(.*?)\][\[\(].*?[\]\)]` "$1" $plainTextContent }}
+{{- $plainTextContent = replaceRE `\!\[(.*?)\]\s?[\[\(].*?[\]\)]` "" $plainTextContent }}
+{{- $plainTextContent = replaceRE `\n={2,}` "" $plainTextContent }}
+{{- $plainTextContent = replaceRE `\*\*([^*]+)\*\*` "" $plainTextContent }}
+
+{{- $plainTextContent }}

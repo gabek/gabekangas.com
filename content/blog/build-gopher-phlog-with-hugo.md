@@ -26,7 +26,7 @@ Given I just rebuilt my web site, I wanted to see how I could render my site in 
 
 ### Config File Changes
 
-A few changes need to be made to the Hugo config file to tell it about the new output your want to render.
+A few changes need to be made to the Hugo config file to tell it about the new output you want to render.
 
 #### Create a media type.
 
@@ -67,27 +67,33 @@ This says to render each type of page as the built-in HTML support, and the newl
 
 ### Create your post's plain text render template
 
-Here is where you can do some plain text data munging to try and fix gaps in formatting going from Markdown -> Plain text. A simple template in the file `layouts/_default/single.gopher.txt` could look like this:
+First, we'll need to do some plain text data munging to try and fix gaps in formatting going from Markdown -> Plain text, and I centralized that in a [Hugo Shortcode](https://gohugo.io/content-management/shortcodes/).
+So create a file, `layouts/partials/gopher/plaintextify.html` that contains the following regex replacements for taking the Markdown and sanitizing it for plaintext usage.
+
+{{< highlight go >}}
+{{- $plainTextContent := markdownify . | htmlUnescape }}
+
+{{- $plainTextContent = replaceRE "{{</*[^>]**/>}}" "" $plainTextContent }}
+{{- $plainTextContent = replaceRE "<[^>]*>" "" $plainTextContent }}
+{{- $plainTextContent = replaceRE `\[(.*?)\][\[\(].*?[\]\)]` "$1" $plainTextContent }}
+{{- $plainTextContent = replaceRE `\!\[(.*?)\]\s?[\[\(].*?[\]\)]` "" $plainTextContent }}
+{{- $plainTextContent = replaceRE `\n={2,}` "" $plainTextContent }}
+{{- $plainTextContent = replaceRE `\*\*([^*]+)\*\*` "" $plainTextContent }}
+
+{{- $plainTextContent }}
+
+{{< / highlight >}}
+Take note, I cherry picked these regexes from [go-strip-markdown](https://github.com/writeas/go-strip-markdown/blob/master/strip.go) so visit that source if you'd like some other quick Markdown stripping expressions.  If you've found a cleaner way than these replacements to get better plain text output from Markdown, please let me know!
+
+Then you can make a simple template in the file `layouts/_default/single.gopher.txt` that uses the above shortcode and could look like this:
 
 {{< highlight go >}}
 {{ .Title }}
-{{ .Date.Format "Jan 2, 2019" }}
+{{ .Date.Format "Jan 2, 2006" }}
 
-{{ replace (htmlUnescape .Plain) "\n" "\n\n"}}
+{{ partial "gopher/plaintextify.html" .RawContent }}
 {{< / highlight >}}
 
-Another option here is to render as HTML but then try to strip the tags with regex with something like
-{{< highlight go >}}
-{{ replaceRE "<[^>]*>" "" (htmlUnescape .Content) }}
-{{< / highlight >}}
-
-And lastly, if you're using plain text (not HTML) to author your posts, you might just want to render the raw content.
-{{< highlight go >}}
-{{ .RawContent }}
-{{< / highlight >}}
-But any markdown tags will get rendered as well, so that's not great.
-
-If you've found a cleaner way to get better plain text output than either of these options, please let me know!
 
 ### And then create your gophermap template
 
@@ -105,7 +111,7 @@ Recent blog posts
 **Important**, the template above has as a _TAB_ in it and is important that be a tab and not a space.
 
 {{< highlight go >}}
-0{{ .Date.Format "Jan 2, 2019" }} {{ .Title }<TAB>{{substr .RelPermalink 1}}post.txt
+0{{ .Date.Format "Jan 2, 2019" }} {{ .Title }[TAB]{{substr .RelPermalink 1}}post.txt
 {{< / highlight >}}
 
 Read more about the format of a gophermap at [sdf.org/?tutorials/gopher](https://sdf.org/?tutorials/gopher#publish). You can expand yours to be as fancy as you like, and link both internally to your own content, and externally to other gopherholes. I suggest you learn how it works in order to get other types of links to work correctly.

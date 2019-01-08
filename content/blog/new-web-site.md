@@ -34,6 +34,7 @@ Once I had content I thought I'd test to see if I could render it within a basic
 
 - I wanted a static site with no backend and no dependancies. I think Hugo is a great option. Before using Squarespace I was a Wordpress user for years and I never want to go back to that place again. I just want to be able to throw this site anywhere.
 - The site should be simple. Not just visually, but something more like what web sites used to be like years ago. Somewhere between when all the good pages were on Geocities and the point everyone had Flash sites.
+- As little Javascript as possible. Preferably zero Javascript, but some was required for the search functionality. As a side note, the search is all client-side using [Lunr](http://lunrjs.com).
 - I wanted a place where I could have a central list of my current projects.
 - Since I left Facebook and Twitter, I wanted a place to put all the trivial junk I'd normally share through those avenues, but weren't worthy of an entire blog post.
 - And be a place that I actually want to update way more often than my couple posts a year.

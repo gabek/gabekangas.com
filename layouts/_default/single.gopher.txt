@@ -1,4 +1,4 @@
 {{ .Title }}
 {{ .Date.Format "Jan 2, 2006" }}
 
-{{ replaceRE "<[^>]*>" "" (htmlUnescape .Content) }}
+{{ partial "gopher/plaintextify.html" .RawContent }}
