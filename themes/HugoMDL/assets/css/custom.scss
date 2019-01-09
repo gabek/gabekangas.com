@@ -267,3 +267,18 @@
     }
   }
 }
+
+#search-results {
+  position: absolute;
+  background-color: white;
+  top: 50px;
+  padding: 20px;
+  display: none;
+  ul {
+    padding-left: 0px;
+
+    a {
+      text-decoration: none;
+    }
+  }
+}

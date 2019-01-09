@@ -32,7 +32,6 @@ window.onload = function() {
           };
         }, this);
       });
-
       if (query != '') {
         $searchInput.value = query;
         renderSearchResults(search(query));
@@ -59,6 +58,7 @@ function registerSearchHandlers() {
     renderSearchResults(results);
 
     if ($searchInput.value == '') {
+      $searchResults.style.display = 'none';
       $searchResults.innerHTML = '';
     }
   };
@@ -69,6 +69,8 @@ function search(query) {
 }
 
 function renderSearchResults(results) {
+  $searchResults.style.display = 'block';
+
   // Create a list of results
   var ul = document.createElement('ul');
   if (results.length > 0) {
@@ -81,9 +83,7 @@ function renderSearchResults(results) {
         result.ref +
         '">' +
         resultDetails[result.ref].title +
-        '</a></div><div class="card-body"><p class="card-text text-muted search-result-excerpt">' +
-        resultDetails[result.ref].excerpt +
-        '</p></div>';
+        '</a></div>';
       ul.appendChild(li);
     });
 
