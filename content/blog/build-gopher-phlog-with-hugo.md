@@ -71,7 +71,7 @@ First, we'll need to do some plain text data munging to try and fix gaps in form
 So create a file, `layouts/partials/gopher/plaintextify.html` that contains the following regex replacements for taking the Markdown and sanitizing it for plaintext usage.
 
 {{< highlight go >}}
-{{- $plainTextContent := markdownify . | htmlUnescape }}
+{{- $plainTextContent := . }}
 
 {{- $plainTextContent = replaceRE "{{</*[^>]**/>}}" "" $plainTextContent }}
 {{- $plainTextContent = replaceRE "<[^>]*>" "" $plainTextContent }}
@@ -80,7 +80,7 @@ So create a file, `layouts/partials/gopher/plaintextify.html` that contains the 
 {{- $plainTextContent = replaceRE `\n={2,}` "" $plainTextContent }}
 {{- $plainTextContent = replaceRE `\*\*([^*]+)\*\*` "" $plainTextContent }}
 
-{{- $plainTextContent }}
+{{- htmlUnescape $plainTextContent | safeHTML }}
 
 {{< / highlight >}}
 Take note, I cherry picked these regexes from [go-strip-markdown](https://github.com/writeas/go-strip-markdown/blob/master/strip.go) so visit that source if you'd like some other quick Markdown stripping expressions.  If you've found a cleaner way than these replacements to get better plain text output from Markdown, please let me know!

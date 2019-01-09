@@ -1,4 +1,4 @@
-{{- $plainTextContent := markdownify . | htmlUnescape }}
+{{- $plainTextContent := . }}
 
 {{- $plainTextContent = replaceRE "{{<[^>]*>}}" "" $plainTextContent }}
 {{- $plainTextContent = replaceRE "<[^>]*>" "" $plainTextContent }}
@@ -7,4 +7,4 @@
 {{- $plainTextContent = replaceRE `\n={2,}` "" $plainTextContent }}
 {{- $plainTextContent = replaceRE `\*\*([^*]+)\*\*` "" $plainTextContent }}
 
-{{- $plainTextContent }}
+{{- htmlUnescape $plainTextContent | safeHTML }}
