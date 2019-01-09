@@ -48,4 +48,6 @@ Let me highlight a few features of the site.
 - On the right will be the junk feed. It may have little blurbs of text, an image, a song, a video or whatever. Just a feed of junk that's not important but I might want to share.
 - And then a chronologically ordered list of recent posts.
 - Even though the site is completely static and there's no backend, there's still client-side search by utilizing [Lunr](http://lunrjs.com). This was the only real Javascript I had to write.
-- And you can subscribe to it via [RSS](https://gabekangas.com/index.xml) because even though you all keep saying it's dead because Google no longer supports it, Google can go to hell. RSS still works great. Did you know it's how Podcasts work?
+- And you can subscribe to it via [RSS](https://gabekangas.com/index.xml) because even though you all keep saying it's dead because Google no longer supports it, Google can go to hell. RSS still works great. You know that's how podcasts work, right?
+
+So that's that. I have a new web site, that I hope I'll use more often. I'm no longer paying Squarespace, and I have complete control over every aspect of the page without high overhead or any maintanance required. Let me know what you think over on [Mastodon](https://mastodon.social/@gabek).

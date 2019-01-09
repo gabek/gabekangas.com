@@ -22,7 +22,7 @@ I've recently (re)discovered Gopher. A protocol that predates the web and was us
 
 Because of somebody I follow on Mastodon, I learned that there are handfuls of people who host their personal blogs (they call them phlogs) using gopher. Once I saw this I fell in love with the idea and had to try it.
 
-Given I just rebuilt my web site, I wanted to see how I could render my site in plaintext for use on a gopher server at the same time I render the HTML web version. I came up with a pretty decent solution, and thought I'd share it hoping that others would expand their content into a Gopherspace.
+Given I just [rebuilt my web site](/blog/2019/01/new-web-site-for-2019/), I wanted to see how I could render my site in plaintext for use on a gopher server at the same time I render the HTML web version. I came up with a pretty decent solution, and thought I'd share it hoping that others would expand their content into a Gopherspace.
 
 ### Config File Changes
 
