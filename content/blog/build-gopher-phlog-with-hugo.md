@@ -67,7 +67,7 @@ This says to render each type of page as the built-in HTML support, and the newl
 
 ### Create your post's plain text render template
 
-First, we'll need to do some plain text data munging to try and fix gaps in formatting going from Markdown -> Plain text, and I centralized that in a [Hugo Shortcode](https://gohugo.io/content-management/shortcodes/).
+First, we'll need to do some plain text data munging to try and fix gaps in formatting going from Markdown -> Plain text, and I centralized that in a [Hugo Partial](https://gohugo.io/templates/partials/).
 So create a file, `layouts/partials/gopher/plaintextify.html` that contains the following regex replacements for taking the Markdown and sanitizing it for plaintext usage.
 
 {{< highlight go >}}
@@ -85,7 +85,7 @@ So create a file, `layouts/partials/gopher/plaintextify.html` that contains the 
 {{< / highlight >}}
 Take note, I cherry picked these regexes from [go-strip-markdown](https://github.com/writeas/go-strip-markdown/blob/master/strip.go) so visit that source if you'd like some other quick Markdown stripping expressions.  If you've found a cleaner way than these replacements to get better plain text output from Markdown, please let me know!
 
-Then you can make a simple template in the file `layouts/_default/single.gopher.txt` that uses the above shortcode and could look like this:
+Then you can make a simple template in the file `layouts/_default/single.gopher.txt` that uses the above partial and could look like this:
 
 {{< highlight go >}}
 {{ .Title }}

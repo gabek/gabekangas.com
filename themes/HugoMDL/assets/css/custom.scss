@@ -98,16 +98,17 @@
   background-image: url('/images/whitenoise.png');
 }
 
-.coffee-stain {
-  position: absolute;
-  background: url('https://www.onlygfx.com/wp-content/uploads/2016/05/cup-coffee-stain-7.png');
-  background-position: center;
-  z-index: 101;
-  pointer-events: none;
-  width: 60%;
-  height: 100%;
-  right: 0px;
-  background-position: center top;
+.home-intro-block {
+  .more-links {
+    position: relative;
+    bottom: 0px;
+    text-align: right;
+    padding-right: 10%;
+    font-size: 10px;
+    a {
+      text-decoration: none;
+    }
+  }
 }
 
 .home-intro-block .mdl-grid {
@@ -157,7 +158,6 @@
   height: 100%;
   margin-bottom: 10px;
   margin-right: 10px;
-  // padding-bottom: 40px;
 }
 
 .home-small-post-card .text-items {
@@ -176,7 +176,7 @@
 
 .home-small-post-card .title {
   text-decoration: none;
-  @include responsive-font(1.8vw, 10px, 18px);
+  @include responsive-font(1.8vw, 10px, 20px);
   line-height: 1.4;
   margin-bottom: 2%;
   @media screen and (max-width: 1200px) {
@@ -188,7 +188,7 @@
   opacity: 0.93;
   overflow: hidden;
   line-height: 1.4;
-  @include responsive-font(1.2vw, 9px, 16px);
+  @include responsive-font(1.2vw, 9px, 17px);
 }
 
 @media screen and (max-width: 1200px) {
