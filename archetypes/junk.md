@@ -2,7 +2,7 @@
 categories:
   - 'junk'
 tags:
-  - 'meta'
+  - 'junk'
 ---
 
 This is a piece of junk.
