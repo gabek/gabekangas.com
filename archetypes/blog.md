@@ -1,11 +1,13 @@
 ---
 title: 'Blog post title'
 description: 'Blog post description'
-date: '2015-08-18'
+date: '2019-01-01'
+type: 'post'
 categories:
   - 'blog'
 tags:
   - 'blog'
+draft: true
 cardthumbimage: '/images/default.jpg' #optional: default solid color if unset
 cardheaderimage: '/images/default.jpg' #optional: default solid color if unset
 cardbackground: '#263238' #optional: card background color; only shows when no image specified
