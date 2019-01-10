@@ -142,14 +142,17 @@
 }
 
 .profile-box hr {
-  margin-top: 5px;
+  margin-top: 10px;
   margin-bottom: 3px;
 }
 
-.profile-box div {
+.profile-box {
   width: 100%;
-  margin-top: 5px;
-  padding-bottom: 5px;
+  margin-bottom: 5px;
+
+  .bio {
+    line-height: 1.45;
+  }
 }
 
 .home-small-post-card {
