@@ -58,10 +58,6 @@ suffixes = ["txt"]
   url = "/project/"
   weight = -160
 [[menu.main]]
-  name = "Junk"
-  url = "/junk/"
-  weight = -150
-[[menu.main]]
   name = "About"
   url = "/about/"
   weight = "-140"
