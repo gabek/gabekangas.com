@@ -31,18 +31,11 @@
 }
 
 .home-sidebar-container {
-  position: sticky;
-  height: 95vh;
   width: 20vw;
   top: 0;
   padding-bottom: 30px;
   background-color: transparent;
   overflow-y: scroll;
-}
-
-.home-sidebar-content {
-  margin-top: 15px;
-  width: 100%;
 }
 
 .home-container {
@@ -79,11 +72,19 @@
   margin-right: 15px;
 }
 
-.home-sidebar-content h4 {
+.home-sidebar-junk-feed {
+  margin-top: 15px;
+  width: 100%;
+  overflow: scroll;
+  height: 70vh;
+  min-height: 250px !important;
+}
+
+.home-sidebar-junk-feed h4 {
   font-size: 12px;
 }
 
-.home-sidebar-content h4 a {
+.home-sidebar-junk-feed h4 a {
   text-decoration: none;
 }
 

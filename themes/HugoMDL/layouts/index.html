@@ -1,22 +1,36 @@
 {{- partial "header.html" . }}
 
 <div class="home-container">
-  <div class="hmdl-frontpage mdl-grid">
-    {{- partial "profile.html" . }}
-    {{- partial "home-featured-posts.html" . }}
-    <div class="recent-posts-header">Recent Posts</div>
-    {{- partial "postsnippets.html" . }}
-    {{- partial "showallposts.html" . }}
-  </div>
-  <div class="home-sidebar-container">
-      <div class="home-sidebar-content mdl-card mdl-cell--12-col">
-          <div class="junk-header"><strong>Junk Feed</strong></div>
-          {{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "junk") }}
-          {{- .Render "sidebarjunkitem" }}
-          <hr>
-          {{- end }}
-      </div>
-  </div>
-</div>
+    <div class="hmdl-frontpage mdl-grid">
+        {{- partial "profile.html" . }}
+        {{- partial "home-featured-posts.html" . }}
+        <div class="recent-posts-header">Recent Posts</div>
+        {{- partial "postsnippets.html" . }}
+        {{- partial "showallposts.html" . }}
+    </div>
+    <div class="home-sidebar-container">
+        <div class="home-sidebar-junk-feed mdl-card mdl-cell--12-col">
+            <div class="junk-header"><strong>Junk Feed</strong></div>
+            {{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "junk") }}
+            {{- .Render "sidebarjunkitem" }}
+            <hr>
+            {{- end }}
+        </div>
+        <div class="home-sidebar-junk-feed mdl-card mdl-cell--12-col">
+            <div class="junk-header"><strong>Music I've been Listening to</strong></div>
+            Some other stuff.
+        </div>
 
-{{- partial "footer.html" . }}
+        <div class="home-sidebar-junk-feed mdl-card mdl-cell--12-col">
+            <div class="junk-header"><strong>Music I've been Listening to</strong></div>
+            Some other stuff.
+        </div>
+
+        <div id="mastodon-container" class="home-sidebar-junk-feed mdl-card mdl-cell--12-col">
+            <div class="junk-header"><strong><a href="https://mastodon.social/@gabek">Me on Mastodon</a></strong></div>
+            <div id="mastodon-content">
+            </div>
+        </div>
+    </div>
+
+    {{- partial "footer.html" . }}

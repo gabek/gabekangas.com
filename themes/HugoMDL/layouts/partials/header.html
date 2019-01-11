@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     {{ .Hugo.Generator }}
 
@@ -33,31 +34,32 @@
     {{- $.Scratch.Set "mdlPrimary" "grey" }}
     {{- $.Scratch.Set "mdlAccent" "orange" }}
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en"/>
-    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.1.3/material.{{ $.Scratch.Get "mdlPrimary" }}-{{ $.Scratch.Get "mdlAccent" }}.min.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" />
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.1.3/material.{{ $.Scratch.Get "mdlPrimary" }}-{{ $.Scratch.Get "mdlAccent" }}.min.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
-    {{ $csssource := resources.Get "css/hmdl-style.css" }}    
+    {{ $csssource := resources.Get "css/hmdl-style.css" }}
     {{ $iconsource := resources.Get "css/ionicons.min.css" }}
     {{ $customsass := resources.Get "css/custom.scss" }}
     {{ $customsource := $customsass | resources.ToCSS }}
     {{ $css := slice $csssource $iconsource $customsource | resources.Concat "css/style.css" }}
     {{ $cssminified := $css | resources.Minify | resources.Fingerprint}}
-    <link rel="stylesheet" href="{{$cssminified.RelPermalink}}"/>
+    <link rel="stylesheet" href="{{$cssminified.RelPermalink}}" />
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/brands.css" integrity="sha384-1KLgFVb/gHrlDGLFPgMbeedi6tQBLcWvyNUN+YKXbD7ZFbjX6BLpMDf0PJ32XJfX"
         crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/fontawesome.css" integrity="sha384-jLuaxTTBR42U2qJ/pm4JRouHkEDHkVqH0T1nyQXn1mZ7Snycpf6Rl25VBNthU4z0"
         crossorigin="anonymous">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/solid.css" integrity="sha384-+0VIRx+yz1WBcCTXBkVQYIBVNEFH1eP6Zknm16roZCyeNg2maWEpk/l/KsyFKs7G"
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/solid.css" integrity="sha384-+0VIRx+yz1WBcCTXBkVQYIBVNEFH1eP6Zknm16roZCyeNg2maWEpk/l/KsyFKs7G"
         crossorigin="anonymous">
 
     {{ $lunrsource := resources.Get "js/lunr.js" }}
     {{ $searchsource := resources.Get "js/search.js" }}
     {{ $generalscriptssource := resources.Get "js/general.js" }}
-    {{ $js := slice $lunrsource $searchsource $generalscriptssource | resources.Concat "js/scripts.js" }}
+    {{ $mastodonscriptsource := resources.Get "js/mastodon.js" }}
+    {{ $js := slice $lunrsource $searchsource $generalscriptssource $mastodonscriptsource | resources.Concat "js/scripts.js" }}
     {{ $jsminified := $js | resources.Minify | resources.Fingerprint}}
-    
+
     <script src="{{$jsminified.RelPermalink}}" defer async></script>
 
     {{- partial "extra-header.html" . }}
@@ -69,13 +71,13 @@
     {{ end }}
 </head>
 <!-- TODO: rethink background -->
+
 <body style="background-image: url('{{ .Site.Params.background | relURL }}');">
     <div class="overlay">
     </div>
 
     <div class="hmdl-body mdl-layout mdl-js-layout has-drawer is-upgraded">
         {{- if not (and .IsPage (eq .Type "presentation")) }}
-            {{- partial "navbar.html" . }}
+        {{- partial "navbar.html" . }}
         {{- end }}
         <main class="mdl-layout__content">
-
