@@ -386,3 +386,12 @@
     }
   }
 
+.read-more-card-link {
+  margin-top: 5px;
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
