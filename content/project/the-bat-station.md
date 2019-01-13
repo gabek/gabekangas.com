@@ -1,6 +1,6 @@
 ---
 title: 'The Bat Station'
-description: 'Description of the sample project' #optional: curently displays as tooltip
+description: 'Gothy and dancy, with a 90s twist.' #optional: curently displays as tooltip
 cardthumbimage: '/project/thebatstation.png' #optional: default solid color if unset
 cardheaderimage: '/project/thebatstation.png' #optional: default solid color if unset
 #cardbackground: "#263238" #optional: card background color; only shows when no image specified

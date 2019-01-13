@@ -1,5 +1,6 @@
 ---
 title: '#TheCabin for iOS'
+description: 'Native iOS client for #TheCabin chat community.'
 cardthumbimage: '/project/thecabin-ios-screenshot.png' #optional: default solid color if unset
 cardheaderimage: '/project/thecabin-ios-screenshot.png' #optional: default solid color if unset
 #cardbackground: "#263238" #optional: card background color; only shows when no image specified
@@ -23,6 +24,7 @@ There used to be chat rooms where you can meet new friends and be a part of a co
 #TheCabin started in 1995 and has had the opportunity to have people from all over the world become friends through it. And while #TheCabin isn’t a dating site, multiple marriages have even taken place after people met there.
 
 If you could use some new friends, just want to talk to somebody, or want to try something different then #TheCabin is a pretty great place to do that. We have our own holidays and in the past have run our own podcast and radio station. It’s a vibrant community we’d love you to be a part of.
-
+{{< gallery>}}
 <img src="/project/thecabin-ios.gif" width="250">
 <img src="/project/thecabin-for-ios-ipad.gif" width="250">
+{{</ gallery>}}

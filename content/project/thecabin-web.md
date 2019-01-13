@@ -1,5 +1,6 @@
 ---
 title: '#TheCabin Web Chat'
+description: 'Web app for #TheCabin chat community.'
 cardthumbimage: '/project/thecabin-web.png' #optional: default solid color if unset
 cardheaderimage: '/project/thecabin-web.png' #optional: default solid color if unset
 #cardbackground: "#263238" #optional: card background color; only shows when no image specified

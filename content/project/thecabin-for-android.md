@@ -1,5 +1,6 @@
 ---
 title: '#TheCabin for Android'
+description: 'Native Android client for #TheCabin chat community.'
 cardthumbimage: '/project/thecabin-android-screenshot.png' #optional: default solid color if unset
 cardheaderimage: '/project/thecabin-android-screenshot.png' #optional: default solid color if unset
 #cardbackground: "#263238" #optional: card background color; only shows when no image specified
