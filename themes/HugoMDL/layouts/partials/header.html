@@ -57,7 +57,8 @@
     {{ $searchsource := resources.Get "js/search.js" }}
     {{ $generalscriptssource := resources.Get "js/general.js" }}
     {{ $mastodonscriptsource := resources.Get "js/mastodon.js" }}
-    {{ $js := slice $lunrsource $searchsource $generalscriptssource $mastodonscriptsource | resources.Concat "js/scripts.js" }}
+    {{ $topartistssource := resources.Get "js/topartists.js" }}
+    {{ $js := slice $lunrsource $searchsource $generalscriptssource $mastodonscriptsource $topartistssource | resources.Concat "js/scripts.js" }}
     {{ $jsminified := $js | resources.Minify | resources.Fingerprint}}
 
     <script src="{{$jsminified.RelPermalink}}" defer async></script>

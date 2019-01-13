@@ -1,8 +1,7 @@
 <!-- Make a card view for junk -->
 <div style="width: 100%">
-  {{ $taxo := "tags" }}
   <!-- Use the plural form here -->
   <!-- <h4 style="text-align: center;"><a href="{{ .RelPermalink }}" {{ with .Params.cardtitlecolor }} style="color:rgb(73, 72, 72);font-size: 14px;text-decoration: none;"{{end}}>{{ title .Title }}</a></h4> -->
-  <div style="padding-left: 15px; padding-right: 5px">{{ .Content }}</div>
+  <div class="sidebar-item">{{ .Content }}</div>
   <div class="junk-item-date">{{ .Date.Format "Jan 2, 2006" }}</div>
 </div>

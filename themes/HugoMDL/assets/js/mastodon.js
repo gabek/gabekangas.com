@@ -33,16 +33,8 @@ function populateMastodon() {
 }
 
 function makeMastodonDOMItem(item) {
-  let date = new Date(item.created_at)
-
-  let icon = document.createElement("span")
-  icon.innerHTML = '<i class="fas fa-comment-alt"></i>&nbsp;'
   let node = document.createElement("div")
-  node.innerHTML = `${item.content}`
-
-  const dateNode = document.createElement("span")
-  dateNode.innerHTML = `<br>-${date.getMonth() + 1}/${date.getDate()}/${date.getFullYear()} ${date.getHours()}:${date.getMinutes()}`
-  node.getElementsByTagName("p")[0].prepend(icon)
-  node.getElementsByTagName("p")[node.getElementsByTagName("p").length - 1].appendChild(dateNode)
+  node.className = "sidebar-item"
+  node.innerHTML = `${item.content}<hr>`
   return node
 }

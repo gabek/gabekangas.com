@@ -3,7 +3,7 @@ echo "Optimizing images..."
 /Applications/ImageOptim.app/Contents/MacOS/ImageOptim ./static/icons/*.png ./themes/HugoMDL/static/images/*.png ./themes/HugoMDL/static/images/*.jpg ./content/blog/images/* >> /dev/null
 
 echo "Building site..."
-hugo >> /dev/null
+hugo --minify >> /dev/null
 
 cd public
 cp ../now.json .
