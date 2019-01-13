@@ -15,7 +15,7 @@ draft: false
 cardthumbimage: '/blog/images/new-web-site.jpg' #optional: default solid color if unset
 cardheaderimage: '/blog/images/new-web-site.jpg' #optional: default solid color if unset
 cardbackground: '#263238' #optional: card background color; only shows when no image specified
-images: ["/images/default.jpg"]
+images: ["/blog/images/new-web-site.jpg"]
 'author':
   name: 'Gabe Kangas'
   website: 'http://gabekangas.com/'
