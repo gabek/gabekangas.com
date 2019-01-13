@@ -15,14 +15,15 @@ type Artist struct {
 	Url       string `json:"url"`
 	PlayCount int    `json:"count"`
 	Mbid      string `json:"-"`
+	Image     string `json:"image"`
 }
 
 var api = lastfm.New("c29e5238888b890632d2611d52d89e1e", "5af64c83988f5fb8e81cc65289b89cf2")
 
-// func main() {
-// 	json := getResponse()
-// 	fmt.Println(string(json))
-// }
+func main() {
+	json := getResponse()
+	fmt.Println(string(json))
+}
 
 func getResponse() []byte {
 	result, _ := api.User.GetTopArtists(lastfm.P{"user": "gabek", "period": "1month", "limit": 20})
@@ -31,9 +32,18 @@ func getResponse() []byte {
 	var artists []Artist
 
 	for _, artist := range result.Artists {
+		// fmt.Printf("%+v\n", artist)
+
 		playcount, _ := strconv.Atoi(artist.PlayCount)
+		var image string
+
 		if artist.Mbid != "" && playcount > 5 {
-			artists = append(artists, Artist{artist.Name, artist.Url, playcount, artist.Mbid})
+			for _, singleImage := range artist.Images {
+				if singleImage.Size == "large" {
+					image = singleImage.Url
+				}
+			}
+			artists = append(artists, Artist{artist.Name, artist.Url, playcount, artist.Mbid, image})
 		}
 	}
 
