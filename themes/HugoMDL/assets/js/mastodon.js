@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 }, false)
 
 function populateMastodon() {
-  const url = "https://mastodon.social/api/v1/accounts/271966/statuses?exclude_replies=false"
+  const url = "https://mastodon.social/api/v1/accounts/271966/statuses?exclude_replies=true"
 
   fetch(url)
     .then(function (response) {
