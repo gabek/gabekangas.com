@@ -340,3 +340,49 @@
   }
 }
 
+  .image-gallery {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    h4 {
+      @include responsive-font(1.7vw, 15px, 20px);
+      line-height: 22px;
+    }
+
+    a {
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    figcaption {
+      text-align: center;
+    }
+
+    figure {
+      max-width: 250px;
+      min-width: 70px;
+      width: 75%;
+    }
+
+  }
+
+  @media screen and (max-width: 1200px) {
+    .hmdl-page p {
+      @include responsive-font(1.1vw, 14px, 16px);
+      line-height: 24px;
+    }
+
+    .hmdl-page .hmdl-page-content {
+      padding: 2vh;
+    }
+
+    main {
+      width: 100vw;
+    }
+  }
+
