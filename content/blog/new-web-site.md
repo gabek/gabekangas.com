@@ -2,7 +2,7 @@
 title: 'New web site for 2019'
 description: 'For the first time in a long time, a new personal home page!  I talk a bit about why, and the tools I used.'
 type: post
-date: "2019-01-08"
+date: "2019-01-13"
 categories:
   - 'blog'
   - 'web site'
