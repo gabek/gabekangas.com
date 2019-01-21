@@ -6,11 +6,13 @@
                     </div>
                     <div class="hmdl-page-content mdl-color-text--grey-700 mdl-card__supporting-text">
                         {{ .Content }}
+                        <hr/>
+                        {{- partial "related.html" . }}
                     </div>
                     <div class="hmdl-page-comments mdl-color-text--primary-contrast mdl-card__supporting-text comments"> 
                         {{ .Params.author.name }}
                         <p>{{ .Params.author.description }}</p> <span>{{ .Date.Format "Jan 2, 2006" }}</span>
-                    </div>  
+                    </div>
                 </div>
             </div>
             {{- partial "footer.html" . }}

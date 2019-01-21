@@ -61,3 +61,16 @@ suffixes = ["txt"]
   name = "About"
   url = "/about/"
   weight = "-140"
+
+[related]
+threshold = 90
+includeNewer = true
+toLower = true
+
+[[related.indices]]
+name = "tags"
+weight = 100
+[[related.indices]]
+name  = "date"
+weight = 10
+pattern = "2006"
