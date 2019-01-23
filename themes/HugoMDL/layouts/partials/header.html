@@ -34,9 +34,7 @@
     {{- $.Scratch.Set "mdlPrimary" "grey" }}
     {{- $.Scratch.Set "mdlAccent" "orange" }}
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" />
     <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.1.3/material.{{ $.Scratch.Get "mdlPrimary" }}-{{ $.Scratch.Get "mdlAccent" }}.min.css" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     {{ $csssource := resources.Get "css/hmdl-style.css" }}
     {{ $iconsource := resources.Get "css/ionicons.min.css" }}
@@ -61,7 +59,7 @@
     {{ $js := slice $lunrsource $searchsource $generalscriptssource $mastodonscriptsource $topartistssource | resources.Concat "js/scripts.js" }}
     {{ $jsminified := $js | resources.Minify | resources.Fingerprint}}
 
-    <script src="{{$jsminified.RelPermalink}}" defer async></script>
+    <script src="{{$jsminified.RelPermalink}}" async></script>
 
     {{- partial "extra-header.html" . }}
 
@@ -71,7 +69,6 @@
     <title>{{ .Title }} | Gabe Kangas</title>
     {{ end }}
 </head>
-<!-- TODO: rethink background -->
 
 <body style="background-image: url('{{ .Site.Params.background | relURL }}');">
     <div class="overlay">
