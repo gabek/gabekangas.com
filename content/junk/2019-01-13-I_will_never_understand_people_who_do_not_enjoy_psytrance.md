@@ -6,6 +6,7 @@ categories:
 tags:
   - 'junk'
   - 'psytrance'
+  - 'music'
 ---
 
 So many people think of psytrance as some lesser genre.  I don't know why.  How can you not love this?
