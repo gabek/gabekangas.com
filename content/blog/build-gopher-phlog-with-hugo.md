@@ -137,4 +137,4 @@ You can see the commit I made to my Hugo site to enable the above changes [here]
 
 I'm both new to Hugo and Gopher, so I wouldn't be surprised if there were different or better ways to accomplish this task. So if you're more knowledgable than I am about either of these topics, I'd love to chat about ways to get more stuff into the world of Gopher.
 
-So check out [my phlog](gopher://sdf.lonestar.org/1/users/gabek/), and see what else is out there on Gopher!
+So check out [my phlog](gopher://sdf.lonestar.org/1/users/gabek/) ([web proxy](https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fsdf.lonestar.org%2F1%2Fusers%2Fgabek%2F)), and see what else is out there on Gopher!

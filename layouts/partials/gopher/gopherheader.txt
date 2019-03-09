@@ -11,8 +11,6 @@ Gabe is a product engineer in San Francisco. He goes to concerts and will
 talk to you about futurepop. He likes to work on lots of different
 projects, some listed here.
 
-I just (re)discovered Gopher through Logout on Mastodon in January 2019, so
+I just (re)discovered Gopher via Mastodon in January 2019, so
 I'm still figuring this stuff out and learning how to get content onto
 a Gophersphere of my own.
-
-1Logout's Phlog and Bongusta! Gopher phlog aggregator	/	i-logout.cz
