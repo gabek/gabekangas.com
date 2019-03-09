@@ -64,7 +64,7 @@ suffixes = ["txt"]
 
 [related]
 threshold = 90
-includeNewer = true
+includeNewer = false
 toLower = true
 
 [[related.indices]]
