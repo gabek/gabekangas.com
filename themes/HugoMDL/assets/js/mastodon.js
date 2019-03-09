@@ -11,7 +11,13 @@ function populateMastodon() {
     })
     .then(function (myJson) {
       const filtered = myJson.filter(function (item) {
-        return (item.favourites_count > 0 || item.reblogs_count > 0 || item.replies_count > 0) && !item.in_reply_to_id && !item.sensitive && item.mentions == 0 && item.spoiler_text === ""
+        console.log(item.media_attachments)
+        return (item.favourites_count > 0 || item.reblogs_count > 0 || item.replies_count > 0)
+          && !item.in_reply_to_id
+          && !item.sensitive
+          && item.mentions == 0
+          && item.spoiler_text === ""
+          && item.media_attachments.length == 0
       })
       if (filtered.length < 5) {
         document.getElementById("mastodon-container").style.display = 'none'
