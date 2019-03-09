@@ -2,7 +2,7 @@
 title: 'A journey through my music tastes'
 description: 'Where I look back at how I ended up with my current music preferences.'
 date: 2019-03-09
-draft: true
+draft: false
 type: 'post'
 categories:
   - 'blog'
