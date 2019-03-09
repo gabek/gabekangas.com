@@ -4,7 +4,11 @@
   "alias": "homepageproxy.gabekangas.com",
   "builds": [
     {
-      "src": "*.go",
+      "src": "artists/artists.go",
+      "use": "@now/go"
+    },
+    {
+      "src": "concerts/concerts.go",
       "use": "@now/go"
     }
   ]

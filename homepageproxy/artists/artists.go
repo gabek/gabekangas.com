@@ -20,10 +20,10 @@ type Artist struct {
 
 var api = lastfm.New("c29e5238888b890632d2611d52d89e1e", "5af64c83988f5fb8e81cc65289b89cf2")
 
-func main() {
-	json := getResponse()
-	fmt.Println(string(json))
-}
+// func main() {
+// 	json := getResponse()
+// 	fmt.Println(string(json))
+// }
 
 func getResponse() []byte {
 	result, _ := api.User.GetTopArtists(lastfm.P{"user": "gabek", "period": "1month", "limit": 20})

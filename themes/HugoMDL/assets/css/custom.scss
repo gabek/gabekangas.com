@@ -309,6 +309,21 @@
   }
 }
 
+#concerts-container {
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 200px;
+
+  #concerts-content {
+      line-height: 1.4;
+
+      a {
+        text-decoration: none;
+        font-size: 14px;
+      }
+  }
+}
+
 #topartists-container {
   height: unset;
   line-height: 1.2;

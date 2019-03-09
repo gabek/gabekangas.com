@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 }, false)
 
 function populateTopArtists() {
-  const url = "https://homepageproxy.gabekangas.com/artists.go"
+  const url = "https://homepageproxy.gabekangas.com/artists/artists.go"
 
   fetch(url)
     .then(function (response) {
