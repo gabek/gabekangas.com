@@ -29,5 +29,3 @@ Gabe’s first big connected media endeavor was PandoraFM, a service that would 
 Aside from purely media-focused projects he’s spent time building a credit card product at a fintech startup, founded a contacts management startup, had a stint in social-mobile gaming and originally started his career in enterprise systems and networking.
 
 In 2017 Gabe built Longtail Music out of his own passion for the deep world of music discovery and the people who inhabit the world of internet radio.
-
-Currently Gabe is working on the first native macOS client for Mastodon.
