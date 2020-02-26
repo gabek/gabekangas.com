@@ -9,13 +9,14 @@
         {{- partial "showallposts.html" . }}
     </div>
     <div class="home-sidebar-container">
-        <div class="home-sidebar-junk-feed mdl-card mdl-cell--12-col">
-            <div class="junk-header"><strong>Junk Feed</strong></div>
-            {{- range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "junk") }}
-            {{- .Render "sidebarjunkitem" }}
-            <hr>
-            {{- end }}
+
+        <div id="mastodon-container" class="home-sidebar-junk-feed mdl-card mdl-cell--12-col">
+            <div class="junk-header"><strong><a href="https://mastodon.social/@gabek">Me on the Fediverse</a></strong>
+            </div>
+            <div id="mastodon-content">
+            </div>
         </div>
+
         <div id="topartists-container" class="home-sidebar-junk-feed mdl-card mdl-cell--12-col">
             <div class="junk-header"><strong><a href="https://www.last.fm/user/gabek">Artists I've been Listening
                         to</a></strong></div>
@@ -27,13 +28,6 @@
                         Concerts</a></strong>
             </div>
             <div id="concerts-content"></div>
-        </div>
-
-        <div id="mastodon-container" class="home-sidebar-junk-feed mdl-card mdl-cell--12-col">
-            <div class="junk-header"><strong><a href="https://mastodon.social/@gabek">Me on the Fediverse</a></strong>
-            </div>
-            <div id="mastodon-content">
-            </div>
         </div>
     </div>
 
