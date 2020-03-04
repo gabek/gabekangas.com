@@ -41,7 +41,7 @@ suffixes = ["txt"]
   github = "https://github.com/gabek/"
   linkedin = "https://www.linkedin.com/in/gabek/"
 #   facebook = "https://facebook.com/firstname_lastname/"
-  copyrightyear = "2019"
+  copyrightyear = "2020"
   frontpageposts = 10 #number of post cards to display on frontpage
 
 # Fully customizable header menu
