@@ -11,7 +11,7 @@ function populateMastodon() {
     })
     .then(function (myJson) {
       const filtered = myJson.filter(function (item) {
-        console.log(item.media_attachments)
+        console.log(item)
         return !item.in_reply_to_id
           && !item.sensitive
           && item.mentions == 0
@@ -19,7 +19,7 @@ function populateMastodon() {
           && item.media_attachments.length == 0
           && !item.muted
           && !item.locked
-
+          && !item.reblog
       })
 
       if (filtered.length < 5) {
