@@ -661,8 +661,8 @@ Array.prototype.forEach.call(document.querySelectorAll('.mdl-card__media'),funct
 var target=link.getAttribute('href');if(!target){return;}
 el.addEventListener('click',function(){location.href=target;});});document.addEventListener('DOMContentLoaded',function(){populateMastodon()},false)
 function populateMastodon(){const url="https://mastodon.social/api/v1/accounts/271966/statuses?exclude_replies=true"
-fetch(url).then(function(response){return response.json();}).then(function(myJson){const filtered=myJson.filter(function(item){console.log(item.media_attachments)
-return!item.in_reply_to_id&&!item.sensitive&&item.mentions==0&&item.spoiler_text===""&&item.media_attachments.length==0&&!item.muted&&!item.locked})
+fetch(url).then(function(response){return response.json();}).then(function(myJson){const filtered=myJson.filter(function(item){console.log(item)
+return!item.in_reply_to_id&&!item.sensitive&&item.mentions==0&&item.spoiler_text===""&&item.media_attachments.length==0&&!item.muted&&!item.locked&&!item.reblog})
 if(filtered.length<5){document.getElementById("mastodon-container").style.display='none'
 return}
 const newDOMItems=filtered.map(function(item){return makeMastodonDOMItem(item)}).slice(0,4)
