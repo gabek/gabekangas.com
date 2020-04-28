@@ -1,0 +1,138 @@
+Gabe's 2012 Year in Review
+Dec 28, 2012
+
+
+
+It's time for my mostly-annual "stuff and things" post.  I've missed some years, but I think I have more new stuff this time around.  I'll try and detail all of the software, hardware and services that I've used this year to make my personal and professional life better or more interesting.
+Software
+
+Desktop (OS X)
+
+
+Xcode.Love it or hate it, I live in it.  Actually, I don't know if I love it or hate it.
+
+Transmit.For many years in a row it's been my OS X FTP client of choice and I'm still very happy with it.
+
+Textual.I switched OS X IRC clients this year to to Textual.  It's open source, and it's pretty customizable.  It's done me well, while admittedly my requirements in a desktop IRC client are minimal these days.  Not like the crazy stuff I used to do back in the "good ol' days".  This app doesn't seem to be actively updated on the App Store, but it's open source so I just compile it myself.
+
+Tweetbot.The Tapbots guys can do no wrong, and I was happy to pay anything they wanted when I found they were coming out with a desktop version of Tweetbot.  
+
+Chrome.  It has been my browser of choice.  I don't know why.  I guess it's faster?  I'm pretty browser agnostic, in general.  As long as you can build plugins for it and it's fast I'm fine.
+
+Textmate / Sublime Text 2.I've been using the same old version of Textmate for years.  But I'm trying to move over to Sublime Text 2.  Sometimes I forget.  But Sublime Text 2 is better,  the features are handy, and it's faster.
+
+
+1Password.A great password management application for desktop and mobile, 1Password makes my life easy by managing all of the many developer accounts I have, as well as the ever growing social media world.
+
+Mobile (iOS)
+
+  
+         Workclub  
+  
+
+
+
+Tweetbot.Same as above.  But for iOS.
+
+SF Climates.A weather application for the many micro-climates of San Francisco.  Everyone in SF should have this because it works.  Nobody outside of the city limits has a use for it.
+
+Reeder.I don't use this because I love it, I use it because it currently works for me.  I require a RSS reader that will cache posts offline so I can read them while on BART.  This does that.  I'm always keeping my eyes out for something better.
+
+Downcast.After moving to SF I started listening to Podcasts again.  When in Omaha I stopped listening all together, mostly due to a lack of a commute.  Here I'm listening to them just as much as I was in Chicago, and I'm again hooked.  Downcast is a really great podcast consumption application.  It has everything that I could want.  Things like playback speed, dynamic playlists and geo-fencing makes this the application for people who take podcasts seriously.
+
+Highlight.As a fan of social-by-way-of-digital having an application that just tells me who's around is interesting to me.  I can ping those people that seem interesting, and you never know what will come of that.
+
+Workclub.This is a new application from the Coffee & Power people.  It's something that I don't exactly know the true value of yet, but I think will become apparent before long.  As people are checking into their respective locations, it's cool to know what people are working on, and where.  I think this information can be invaluable at some point in the future when you realize "Hey, I think I saw a guy working on X at Y.  I should get in touch with him".  I almost want to think of it as virtual coworking.  I look forward to see what it does in the next year.
+
+Routsey Pro.It tells me the when's and where's of the public transportation system of the Bay Area.  I set bookmarks of the stops and routes that I rely on and it becomes a one stop view of how much time until another one goes by.
+
+
+Lyft / Uber.Lyft is my first choice for having a car pick me up and bring me somewhere,  it's cheaper than Uber.  But sometimes demand isn't in my favor and I go back to Uber.  Both are awesome services when using their application will tell someone behind a wheel where to get me.  And best part: no paying with cash.
+
+  
+         SF Climates  
+  
+
+
+  
+         Downcast  
+  
+
+Services
+
+Spotify.I was a Spotify user years ago.  I had a fake UK account and I used a UK proxy server to access it.  Eventually they shut me down and I no longer had access to the service.  When Rdio launched I became a happy subscriber and used that until Spotify came to the US.  After comparing and contrasting side-by-side I again went back to Spotify mostly due to the API.
+
+
+
+Evernote.I'm not sure why I pay for Evernote.  I should stop.  I use it plenty, but not enough to require the paid plan.  It's my cloud-based dropbox of text that I always know is accessible everywhere.  I use it for everything from todo lists, to just sketching down notes.
+
+
+Cloud.ly.Such a rad service.  I have a little menu item that sits there waiting for me to drag something on it, and when I do it uploads it and copies the URL to my clipboard.  As simple as that.  It'll also auto-upload screenshots.  It works great and I use it a ton every day for sending files around to people.
+
+
+Hover.My domain registrar of choice.  It used to be the old "Tucows Domains" from the day, but rebranded.  It's a simple, clean service.  If you think about what the complete opposite of GoDaddy would be, it would be Hover.
+
+
+Fastmail.I continue to use Fastmail.fm as my email provider.  I pay them every year to do nothing but accept email and make it accessible to me.  They're not going through my email and selling the data to the highest bidder, and aren't trying to make me into a webmail convert.
+
+
+Dropbox.Dropbox is kind of like the working directory of my life.  All documents, code, images, etc hang out here.  It's nice to know all my stuff is accessible from anywhere I happen to be.  Throw something in there and then grab it again from my iPhone or at work.
+
+
+Testflight.TestFlight makes the life of any iPhone developer easier.  I use it both personally and professionally to send out test versions of applications I'm working on.  Without it the test process for normal users is a little more convoluted than you'd like, but using Testflight it's fast and easy.  Plus they add things like bug reporting, checkpoints and install reporting.  For free.
+
+
+Hardware
+
+
+iPhone 5.The upgrade from the iPhone4S to the iPhone5 was one of the bigger ones.  It's substantially faster and the screen is a great size.  The memory bump in it makes a huge difference as well, as apps that are "in the background" take a lot longer to get killed by the OS.  Something I launch before work now is still alive when I go home.
+
+Klipsch Image ONE headphones.The pair of headphones I've had for years, and really liked, a set of Sennheisers, finally reached their end this year so it was time to find a new pair.  I figured I'd use the Apple Store as my venue of choice to try out different options, since they had them physically there and it was easy to return if needed.  I tried a couple different ones and returned them.  I even thought I'd give a brand I wouldn't normally try, Skull Candy, a shot.  For your future reference the "Aviators" were awful.  Just awful.  More proof that headphones associated with a rapper (Jay-Z in this case) are bad.  Anyway.  I really like this pair of Klipschs.  They are over the ear, light, and mobile.  Perfect for my commuting and listening at work needs.
+
+AppleTV.Next to my iPhone my AppleTV is the piece of hardware I use the most.  I purchase current shows through iTunes.  I stream movies through Netflix.  New movies I rent through iTunes.  If I wanted to use Hulu, that's there as well.  I've amassed a digital library of episodes of my favorite shows I can watch at any time, and I often do.  It's also a great AirTunes receiver where I send it music from Spotify from my Macbook Pro, iPhone or iPad to fill my apartment with tunes.  This piece of hardware is the most underrated Apple product, and I'm a fan.
+
+
+
+
+Misc
+
+1-800-Got-Junk.When I moved from Omaha to SF I had a ton of stuff I didn't know what to do with.  I hate selling things, so I figured I'd offer everything I had to friends, and anything left would just get disposed of.  1-800-Junk to the rescue.  They showed up with a truck and took everything I pointed out into their truck, and then charged me less than I expected to pay.
+Media/Music and Podcasts
+These are the podcasts I'm currently subscribed to:
+
+
+Tech News Today.  A daily podcast detailing a succinct dose of what you need to know in the world of technology.
+
+MacBreak Weekly.  A weekly podcast discussing the world of Apple products.
+
+this WEEK in TECH.  A weekly podcast discussing everything that happened in tech in detail.
+
+You Look Nice Today.  A comedy-ish podcast that is just three funny guys chatting.  From the mind of Merlin Mann.
+
+MacCast.  A weekly podcast about the world of Apple products.
+
+Debug.  A new podcast that focuses on the world of iPhone development.  Great guests/interviews and really goes in depth with some of the great applications that live in the Apple ecosystem.
+
+
+
+
+
+
+
+
+As far as the musical soundtrack of 2012, I can't say there's a ton of really new stuff that I listened to.  A lot of stuff that's just "new to me".  I can say the new Blaqk Audio album was way rad, and I listened to that a ton.  Also the first full length album from Stepdad was something I recommended to people.  Marilyn Manson came back with a vengeance with the new album "Born Villain , I enjoyed that quite a bit.  And last, but not least, Mark Mallman's epic adventure "Double Silhouette" is a masterpiece.  My favorite Mallman album, and that's saying a lot.  I feel like he's taken the songwriting and construction of these songs in a new direction that I really like.  That on top of the obvious attention to detail of the production quality makes it a must listen.Anyway, here's a list of songs I've listened to a lot in the past year with the help of Last.FM keeping track of that for me.
+
+
+ 
+   
+ 
+Here are some older year in reviews to compare if you'd like.
+
+2009
+2007
+2006
+2005
+
+
+
+

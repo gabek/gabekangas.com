@@ -1,0 +1,12 @@
+Phone nerd
+Jul 28, 2007
+
+
+
+I haven't done a little project for a while.  I've been slacking.  So I started one last night.
+I realized I never use my Vonage line.  At all.  It's really a complete waste of money.  I used 0 min out of 500 last month.  How very sad.  Even though I like the features, I never use it.
+So yesterday I decided to read up and learn about Asterisk, an open-source software PBX system.  I signed up to a Voip provider and got a local number.  When that number is dialed the provider makes a SIP call to my PBX and the call is answered over IP.  Once Asterisk answers that call I can do anything I want.  Forward to my cell, have a menu, voicemail, etc.
+At this point i've got Asterisk to actually answer the call, so that's a win.  I've also been able to leave a voicemail for an extension.  Now I have to learn about forwarding calls elsewhere.
+Rockin.
+
+

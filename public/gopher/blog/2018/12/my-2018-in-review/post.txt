@@ -1,0 +1,148 @@
+My 2018 in review
+Dec 28, 2018
+
+
+
+
+  
+    
+      I figured enough has taken place this year, enough changes have taken
+      place, and I’ve worked on enough projects that a post recapping things
+      might be worthwhile.
+    
+    
+      To start, here’s a playlist of my favorite songs of the year that you can
+      listen to while reading this post.
+    
+
+    
+
+    
+      So what did I do with this year?  It seems, looking back,
+      I wrote a ton of code.  Professionally I contributed to a Roku app, two
+      iOS apps, AppleTV and Amazon Fire/Android TV apps.  Outside of work I
+      released #TheCabin for iOS, #TheCabin for Android, #TheCabin web app, an
+      IRC Bot in Go and maintained Longtail Music and The Bat Player for
+      AppleTV.  It was nice to spend time on Android this year, something I’ve
+      been wanting to do in previous years.
+    
+    
+      If you’re following along at home, you might notice one application
+      missing from the above list.
+      Going into 2019 I no longer will be supporting or maintaining The Bat
+        Player for Roku.
+      This decision isn’t made lightly, as a lot of people use that app on the
+      Roku and has enjoyed it for a handful of years.  But Roku, the company, as
+      of 2019, will no longer allow applications written with the original Roku
+      software development kit to be run on devices.  And while this sucks, it
+      wouldn’t be the end of the world to re-write it, all it takes is time and
+      energy. And to be honest, I got pretty far in that rewrite. But Roku, in
+      general, has made life difficult for developers on their platform, and I’m
+      no longer interested in developing for them. On top of that they break
+      APIs in every OS version update, they don’t fix reported problems, and the
+      development environment you have to work with is just horrible.  So on a
+      personal level, I’m done with Roku.  I get to choose what platforms and
+      environments to develop for in my free time, so I’m choosing to no longer
+      support them with my work.
+    
+    
+      Even though I shipped a bunch of stuff this year, there’s one thing that
+      didn’t make it out, my currently in-progress Mastodon client.  I’ve been
+      hard at work on it, and I had hoped to have a beta out by the end of 2018,
+      but it’s just not done yet.  I’m sure you’ll hear more about it in the
+      coming months, but until then, learn a bit about Mastodon and check it
+      out.
+    
+
+    
+    
+
+    
+      Speaking of social networks, 2018 is the year that broke the camel’s back
+      when it came to leaving Twitter and Facebook.  But before I brief you on
+      that, believe me, I don’t want a big dramatic announcement saying
+      “OMG I’M LEAVING”, but I do want to explain myself.
+    
+    
+      Twitter this year deprecated a handful of important APIs for third party
+      developers.
+      That means fantastic applications such as Tweetbot, Twitterific and
+        others were cut off at the knees by Twitter so people would start using
+        the official Twitter apps
+      instead of third party apps that many people, like me, preferred.  You can
+      read more about this at
+      http://apps-of-a-feather.com/.  After telling these apps they could no longer have full access to the
+      Twitter feature set they had the nerve to email their users and say
+      “Use the official Twitter app because it has all the features, unlike
+        the others”.
+      That’s like punching somebody in the face and then making fun of their
+        black eye.
+      This whole developer ordeal on top of the way the Twitter corporation
+      handles their product, privacy, abuse, nazis, Trump, ads, etc… I just had
+      enough.
+    
+    
+      As for Facebook, I shouldn’t need to explain myself much there.  Facebook
+      is a horrible company for all the reasons you already know. The company
+      needs to be burned to the ground.  I highly recommend watching the two
+      part PBS Frontline documentary called
+      The Facebook Dilemma
+      if you’re not sufficiently angry about Facebook.  I stuck around on the
+      service as long as I have because
+        Facebook is the single thread that kept me connected to handfuls of
+        people, and the local events that get surfaced to me through “the algorithm”. 
+      But admittedly I actually talk to very, very few people on Facebook, but
+      that doesn’t mean it’s not hard to walk away from having those
+      connections. But the hardest thing to replicate going forward will be the
+      event calendars. I’m posting a link to this blog post on Facebook so
+      people know where to find me, but other than that I’m done there.
+    
+    
+      So if you want to chat with me online going forward, there’s
+        options.
+    
+    
+      For private communication there’s
+      no reason not to use encrypted messaging products.  If
+      you want to chat and you have my phone number, and use Apple devices,
+      there’s iMessage.  If you don’t use iMessage you can look me up on
+      Signal Messenger by
+      number as well.  You can also chat with me on Keybase:
+      https://keybase.io/gabek, a great
+      security product with a wide range of features outside of just messaging.
+    
+    
+      As far as following me publicly, Mastodon is where it’s at.  Follow me at
+      https://mastodon.social/@gabek
+      and learn more about Mastodon at
+      https://joinmastodon.org/.  While
+      I still don’t feel “at home” on Mastodon, I do think it’s early days.  It
+      keeps growing, and little by little I follow more and more people and feel
+      out the different communities.  But I feel strongly enough about it to
+      support it with my time, money and effort by donating to their Patreon and
+      building a dedicated desktop client. I think Mastodon in 2019 has big
+      things in store.
+    
+    
+      So what will change for me in 2019? Well, I should
+      probably write on gabekangas.com more often. The (rare) things that used
+      to go on Facebook, and the tiny things I would post to Twitter was usually
+      enough, so only a couple large posts a year showed up here. I should write
+      more, and about different and smaller things. But given that there’s not
+      really a network to share those posts out to, I’m not sure if anybody
+      would see them. I’ve thought about revamping this site, as well. Moving it
+      from Squarespace to a Static Site generated by Hugo, but that’s a lot of
+      work unless I really plan on using it.
+    
+    
+      And lastly, since I have your attention, take some time in 2019 to learn
+      about the alternatives to the free online corporate services you regularly
+      use.  A great resource is
+      https://switching.social/ and
+      https://nomoregoogle.com/.  The
+      companies you trust your data to don’t have your best intentions in mind
+      and I think we’ll see even more examples of that in 2019.
+    
+  
+
+

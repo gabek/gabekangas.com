@@ -1,0 +1,609 @@
+<rss version="2.0" 
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabe Kangas</title>
+    <link>https://gabekangas.com/</link>
+    <description>Blog posts from Gabe</description>
+    
+        <atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+
+    <item>
+<title>Blogs</title>
+<link>https://gabekangas.com/blog/</link>
+<pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/blog/</guid>
+<description></description>
+</item>
+    
+
+    <item>
+<title>When work becomes life: A Pandemic story</title>
+<link>https://gabekangas.com/blog/2020/03/when-work-becomes-life-a-pandemic-story/</link>
+<pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/blog/2020/03/when-work-becomes-life-a-pandemic-story/</guid>
+<description>&lt;p&gt;There&amp;rsquo;s no lack of thinkpieces around the lockdowns and global work from home changes taking place.  But I wanted to discuss a different angle that people don&amp;rsquo;t seem to be discussing, at least publicly.&lt;/p&gt;
+&lt;p&gt;Right now the internet is flooded with screenshots of Zoom video conferences, everyone smiling, talking about their cute background images and how comfortable it is to be home.  They&amp;rsquo;re talking about how they&amp;rsquo;re working more efficient than ever, how they can just roll out of bed and immediately start working.  Others are saying that it&amp;rsquo;s like nothing changed.  Everyone quietly implying that &lt;strong&gt;there&amp;rsquo;s nothing more to life than work and as long as you can be productive things are great&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Work means different things to different people.  For some it&amp;rsquo;s the most important thing in their lives.  For others it&amp;rsquo;s just a thing they have to do to pay the rent.  For most people it&amp;rsquo;s somewhere in between.  But for a small few, they might be going though a rough patch with their job, and &lt;strong&gt;everything but their job has been taken away from them&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m one of those few.  Work hasn&amp;rsquo;t been great for a while.  But it&amp;rsquo;s ok in general, and I get through the day knowing of all the exciting things that I have to look forward to.  The concerts of some of my favorite bands coming up, going out to dinner with my girlfriend, my first trip to Europe in a couple months, going out to dance to some techno this weekend.  But all of these things have been taken away from me and all that&amp;rsquo;s left is my job and a bunch of faces on Zoom saying how great things are.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m glad it seems most people love their job, and I&amp;rsquo;m glad things are seemingly going so well for them.  I&amp;rsquo;m glad work is enough for them and they don&amp;rsquo;t appear to need other things to look forward to.  But I&amp;rsquo;m guessing things aren&amp;rsquo;t what it seems and more people are taking this harder than they let on.  Those faces next to yours in that conference call who are saying we can just keep on keepin&amp;rsquo; on may just be saying what everyone wants to hear.  &lt;strong&gt;The reality is everyone has had so much taken from them, and all that remains is Slack and Zoom&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m well aware that having a job right now at all is something to be thankful for, and I am indeed thankful.  Businesses are closing and people don&amp;rsquo;t know what the future holds for them.  Things are bad for a lot of people, and I&amp;rsquo;m trying to put my money where my mouth is by donating to places that will help support the businesses and people I care about.  But that&amp;rsquo;s a topic that&amp;rsquo;s thankfully getting plenty of discussion, so I&amp;rsquo;m finding myself thinking about the people like me who are &lt;em&gt;&amp;ldquo;supposed&amp;rdquo;&lt;/em&gt; to be ok.&lt;/p&gt;
+&lt;p&gt;So next time you login to Zoom and say it&amp;rsquo;s great that it&amp;rsquo;s business as usual, know that some people are dealing with this lockdown a bit harder than you are.  They probably won&amp;rsquo;t say anything, but &lt;strong&gt;it&amp;rsquo;s likely one of those faces is wondering how they&amp;rsquo;re going to get through the day, the week, and the months ahead&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I hope you&amp;rsquo;re all ok.&lt;/p&gt;
+</description>
+</item>
+    
+
+    <item>
+<title>Goodbye Longtail Music</title>
+<link>https://gabekangas.com/blog/2019/12/goodbye-longtail-music/</link>
+<pubDate>Wed, 04 Dec 2019 00:21:06 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/blog/2019/12/goodbye-longtail-music/</guid>
+<description>&lt;p&gt;A few weeks ago I shut down Longtail Music, my internet radio discovery platform.  I wanted to give a bit of a postmortem to talk about what I sent out to do, what it did, and why I think things never worked out.&lt;/p&gt;
+&lt;p&gt;I originally built Longtail Music as a spinoff from my time with &lt;a href=&#34;https://apps.apple.com/us/app/the-bat-player-radio/id1050517930&#34;&gt;The Bat Player&lt;/a&gt;, an internet radio client for the TV.  I thought if The Bat Player was a client for people who already love internet radio and know what they want to listen to, then &lt;strong&gt;I want to build something on the web for people to discover internet radio for the first time and discover a station they would love&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;first-as-a-refresher-heres-what-longtail-music-was&#34;&gt;First, as a refresher, here&amp;rsquo;s what Longtail Music was.&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;A &lt;strong&gt;discovery engine&lt;/strong&gt; for people to find an internet radio station they would enjoy.&lt;/li&gt;
+&lt;li&gt;An &lt;strong&gt;internet radio client&lt;/strong&gt; that displayed details about the artist including images and album information.  A smaller version of the player was also embeddable on external web sites.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A crowd funding platform&lt;/strong&gt; to allow stations to collect funds to help keep the station online.&lt;/li&gt;
+&lt;li&gt;Provided links for each track in your history so you can &lt;strong&gt;listen on Spotify, Apple Music, YouTube, etc&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A CMS for stations&lt;/strong&gt; to post messages, update show schedules, announce special events, and contact fans.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A promotions service&lt;/strong&gt; for featuring the stations on social networks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;An analytics platform&lt;/strong&gt; showing station owners the listening statistics and the most popular tracks.&lt;/li&gt;
+&lt;li&gt;A social platform for listeners to &lt;strong&gt;interact with the station&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;A user re-engagement drip campaign that will email users if they haven&amp;rsquo;t tuned into a station for a while.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Let&amp;rsquo;s go over some of these points in more detail and talk about what it was I was trying to provide for these stations.&lt;/p&gt;
+&lt;h4 id=&#34;help-them-stay-in-business-i-wanted-to-give-stations-money--for-free&#34;&gt;Help them stay in business: I wanted to give stations money.  For free.&lt;/h4&gt;
+&lt;p&gt;Since stations need money to stay online I wanted to help on that front.  A part of Longtail was having a place that encouraged listeners to support the station via donations.  &lt;strong&gt;Donations were featured on the station&amp;rsquo;s page&lt;/strong&gt; and listeners could keep track of how much they&amp;rsquo;ve donated over time.  Much like Patreon, OpenCollective, or other crowdfunding platforms, I wanted to build a mutually beneficial ecosystem where it&amp;rsquo;s super easy to donate to a station, and in turn the station gets to keep running and playing music for the listener.  I thought stations would really like this, since stations are asking for money &lt;em&gt;ALL OF THE TIME&lt;/em&gt;.  They ignored it completely.&lt;/p&gt;
+&lt;h4 id=&#34;get-more-listeners-i-wanted-to-provide-promotion-of-stations--for-free&#34;&gt;Get more listeners: I wanted to provide promotion of stations.  For free.&lt;/h4&gt;
+&lt;p&gt;The whole point is to have people discover new music via internet radio stations, so acquiring users is important.  My goal was to spend some highly targeted dollars on advertising for stations on the platform in order to acquire new listeners.  Find people who like rap and send them to the rap stations, get country people to the country stations.  It&amp;rsquo;s a self-identifying demographic and as far as targeting goes this seemed straightforward.  No catch, I just wanted more people to listen to their stations by routing them through Longtail Music.  But I wasn&amp;rsquo;t willing to do this unless a handful of stations were at least minimally active on the platform.&lt;/p&gt;
+&lt;h4 id=&#34;a-modern-and-more-interactive-listening-experience-i-wanted-to-build-something-that-the-facebook-generation-felt-at-home-with&#34;&gt;A modern and more interactive listening experience: I wanted to build something that the &amp;ldquo;Facebook Generation&amp;rdquo; felt at home with.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.181.fm/&#34;&gt;Most internet radio stations have web sites that look like they were built 15 years ago&lt;/a&gt;&lt;/strong&gt;.  Some of them were.  If you want new listeners then not only do the first impressions matter, but you have to keep them coming back.  &lt;strong&gt;People are used to newsfeeds, social posts and continued engagement&lt;/strong&gt;.  Some of my favorite internet radio stations have live DJ sets, and with a single click of a button on Longtail a station can notify fans of the station via email that a live set is about to begin and it features that station on the home page so everyone knows a special event is occurring.  Stations never used this this feature.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;That&amp;rsquo;s a lot of functionality&lt;/strong&gt;, and lots to build.  But just as many things were somewhat out of my control.  In order to run successfully, a handful of things had to work out.&lt;/p&gt;
+&lt;h4 id=&#34;the-stations-have-to-be-good&#34;&gt;The stations have to be good.&lt;/h4&gt;
+&lt;p&gt;This is obvious, but it&amp;rsquo;s also not a given.  &lt;strong&gt;There are so many internet radio stations out there, and very few of them are worthy of featuring in front of people&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Most internet radio stations fall into the category of &lt;em&gt;&amp;ldquo;Variety and misc&amp;rdquo;&lt;/em&gt;.  An unappealing random grab bag of tracks.  It shows no personality, no target demographic, and &lt;strong&gt;no way for a potential listener to really dig in and know what is being offered&lt;/strong&gt;.  Even the tag lines of these stations are all generic &lt;em&gt;&amp;ldquo;From old to new, hard to soft, we have the best that music has to offer&amp;rdquo;&lt;/em&gt; or bragging about not sticking within a single genre.  So when I started Longtail Music I had the task ahead of me of trying to find stations that had a real personality and a clear goal.  A station that said things like &lt;em&gt;&amp;ldquo;Promoting Soca and Calypso music to the world&amp;rdquo;&lt;/em&gt; was something that would catch my eye since it was unique.&lt;/p&gt;
+&lt;h4 id=&#34;the-stations-had-to-realize-im-just-trying-to-help&#34;&gt;The stations had to realize I&amp;rsquo;m just trying to help.&lt;/h4&gt;
+&lt;p&gt;I&amp;rsquo;d email these stations individually, and that is more difficult than it sounds as it would sometimes take a lot of digging to find out how to contact a station owner.  If I got a response at all it would usually be along the lines of them assuming I&amp;rsquo;m scamming them, looking to sell them something, or are out to get them in some way.  I emailed hundreds of station owners and most of the responses were things like &amp;ldquo;I&amp;rsquo;ve been doing this for 15 years and I don&amp;rsquo;t need you&amp;rdquo; or something equally negative.  Some stations even had concerns being listed next to another station on a web site because they thought they&amp;rsquo;d &amp;ldquo;lose listeners&amp;rdquo; and saw other stations as &amp;ldquo;competition&amp;rdquo; and didn&amp;rsquo;t want to take part.&lt;/p&gt;
+&lt;h4 id=&#34;the-stations-had-to-be-willing-to-minimally-use-the-platform&#34;&gt;The stations had to be willing to minimally use the platform.&lt;/h4&gt;
+&lt;p&gt;For each station I onboarded I would manually station info, audio streams and input it into the Longtail platform so the station owners didn&amp;rsquo;t have to do anything to start using it.  I would ask if they ever changed their audio stream to make sure they change it on Longtail.  This didn&amp;rsquo;t happen.  Many stations would get a new audio stream, not tell me, and not update it on Longtail, making their station completely unavailable.  So if I notice this happening I&amp;rsquo;d go digging for the new one, update it for them, and fix it.  &lt;strong&gt;This showed that the minimum effort of even making sure people can listen to their station was not being made&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;the-stations-on-the-platform-have-to-stay-online&#34;&gt;The stations on the platform have to stay online.&lt;/h4&gt;
+&lt;p&gt;Internet radio stations do not make money.  Each station owner operates at a loss and if they&amp;rsquo;re lucky they&amp;rsquo;ll have some donations to help each month.  But realistically the number of listeners most stations have can&amp;rsquo;t make enough money even if everyone donated.  Because of this stations disappear, often.  There&amp;rsquo;s only so much money people will spend on a hobby, and they just give up.  &lt;strong&gt;Out of pocket expenses, few listeners and increasing hassle with licensing leads to stations just being turned off&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;i-needed-to-get-potential-listeners-to-the-site-and-discover-these-stations&#34;&gt;I needed to get potential listeners to the site and discover these stations.&lt;/h4&gt;
+&lt;p&gt;Even if the stations were on board and engaged that&amp;rsquo;s only half the equation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I&amp;rsquo;ve been detailing a lot about the stations and what I wanted to provide for them, but I built Longtail Music for the listeners.  The goal was to get people to listen to more internet radio and discover new music by giving them the following.&lt;/p&gt;
+&lt;h4 id=&#34;a-simple-way-to-discover-an-internet-radio-station-to-enjoy&#34;&gt;A simple way to discover an internet radio station to enjoy.&lt;/h4&gt;
+&lt;p&gt;By clicking on genres you&amp;rsquo;re into, or connecting your Facebook or Spotify accounts Longtail surfaced you a list of stations that were compatible with things you already listen to.&lt;/p&gt;
+&lt;h4 id=&#34;the-ability-to-share-your-thoughts-about-songs-and-the-station&#34;&gt;The ability to share your thoughts about songs and the station.&lt;/h4&gt;
+&lt;p&gt;You could like and dislike songs, sharing with others what you thought about what was currently playing on the station.  You could also leave messages for other listeners and for the DJs.  These likes, dislikes and messages would then get emailed to station owners at the end of the week so they knew what people thought of the content on the station.&lt;/p&gt;
+&lt;h4 id=&#34;showing-you-werent-alone-you-saw-other-people-in-real-time-tune-in-and-react-to-songs&#34;&gt;Showing you weren&amp;rsquo;t alone, you saw other people, in real-time, tune in and react to songs.&lt;/h4&gt;
+&lt;p&gt;As people tuned into the station, liked, disliked, or commented on songs, you would see it in real time.  This created a communial listening experience.  It wasn&amp;rsquo;t just you listening by yourself, the world was enjoying that song with you.&lt;/p&gt;
+&lt;h4 id=&#34;a-listening-history-so-you-can-go-back-to-that-song-you-really-enjoyed-and-find-it-on-your-streaming-service-of-choice&#34;&gt;A listening history so you can go back to that song you really enjoyed, and find it on your streaming service of choice.&lt;/h4&gt;
+&lt;p&gt;You could look at your history to find that song you heard earlier, and quickly jump to it in Spotify or other services, to listen to it again or add it to your personal playlists.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;so-what-went-wrong&#34;&gt;So what went wrong?&lt;/h3&gt;
+&lt;h4 id=&#34;not-enough-station-engagement&#34;&gt;Not enough station engagement.&lt;/h4&gt;
+&lt;p&gt;This has been mentioned a couple times, but &lt;strong&gt;building something for somebody who doesn&amp;rsquo;t want it isn&amp;rsquo;t going to get you anywhere&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;not-enough-listeners&#34;&gt;Not enough listeners.&lt;/h4&gt;
+&lt;p&gt;This is pretty common with anything new, you just don&amp;rsquo;t have users yet.  But for me I wasn&amp;rsquo;t willing to put money into user acquisition until I felt confident that the stations would engage with them once they got there, and this never happened.  And with the promotion that did happen, my guess is people think &amp;ldquo;Spotify is good enough&amp;rdquo; and really aren&amp;rsquo;t looking for another way to discover new music, so they&amp;rsquo;re not jumping to press play on some random web site.&lt;/p&gt;
+&lt;h4 id=&#34;zero-stations-actively-utilized-the-donations-feature&#34;&gt;Zero stations actively utilized the donations feature.&lt;/h4&gt;
+&lt;p&gt;I didn&amp;rsquo;t mean they didn&amp;rsquo;t enable the feature, as it was on by default, but stations weren&amp;rsquo;t telling listeners to donate via Longtail, or making posts saying they were accepting donations.  Therefore users didn&amp;rsquo;t donate.&lt;/p&gt;
+&lt;h4 id=&#34;onboarding-each-station-was-a-chore&#34;&gt;Onboarding each station was a chore.&lt;/h4&gt;
+&lt;p&gt;It took &lt;em&gt;way&lt;/em&gt; too much effort to find, communicate with, and convince each station to take part.  I felt like a sales person who wasn&amp;rsquo;t making money.  I even used a sales pipeline tool to keep track of who I emailed and what the status of each conversation was.  &lt;strong&gt;It&amp;rsquo;s possible I spent just as much time emailing as I did with the development of the product&lt;/strong&gt;.  But I felt strongly about creating a relationship with each quality station, and that I was willing to put effort into it, even though it didn&amp;rsquo;t pay off.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;what-worked&#34;&gt;What worked?&lt;/h3&gt;
+&lt;h4 id=&#34;the-idea-was-sound&#34;&gt;The idea was sound.&lt;/h4&gt;
+&lt;p&gt;A few stations were active on Longtail Music, and seeing them post their schedule, send weekly updates to listeners, and keep their information active really showed me that the idea of the platform, when executed, was a really good one.&lt;/p&gt;
+&lt;h4 id=&#34;putting-a-fresh-coat-of-paint-on-internet-radio-does-make-internet-radio-more-accessible&#34;&gt;Putting a fresh coat of paint on internet radio does make internet radio more accessible.&lt;/h4&gt;
+&lt;p&gt;Making people who feel at home on Facebook feel comfortable tuning into internet radio does modernize something that hasn&amp;rsquo;t changed a lot for years.&lt;/p&gt;
+&lt;h4 id=&#34;i-hired-a-designer-and-the-end-product-came-out-pretty-nice&#34;&gt;I hired a designer and the end product came out pretty nice.&lt;/h4&gt;
+&lt;p&gt;I made the choice upfront to have somebody design the site for me, and that was a good idea, though it slowed me down to have somebody else involved.  And while I had never built in React before, I built a pretty complex, multifaceted social platform with billing features.  It would have been easier if I built an iOS app or something, since that&amp;rsquo;s my focus, the React app ran great for years.  I focused on performance, speed, and ease of use, and it worked.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;what-i-learned&#34;&gt;What I learned&lt;/h3&gt;
+&lt;h4 id=&#34;some-people-dont-want-your-help--you-cant-make-people-care&#34;&gt;Some people don&amp;rsquo;t want your help &amp;amp; you can&amp;rsquo;t make people care.&lt;/h4&gt;
+&lt;p&gt;Even if you&amp;rsquo;re just trying to do something helpful, for free, that doesn&amp;rsquo;t mean that people want what you have.  A lot of these station owners have been doing it for many years and don&amp;rsquo;t want anybody else involved.  Even if they need money, even if they want more listeners, even if their web page is crap.  &lt;strong&gt;It&amp;rsquo;s their thing and they don&amp;rsquo;t want you or anybody else involved&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I wanted to forge partnerships with people who care deeply about music, internet radio and sharing the worlds of both.  But making partnerships is hard, and you can&amp;rsquo;t force somebody to care as much as you about your thing.  I cared about their stations, and I wanted to see them all thrive, but nobody cared that I cared.&lt;/p&gt;
+&lt;h4 id=&#34;being-a-platform-for-other-peoples-content-is-a-difficult-road&#34;&gt;Being a platform for other people&amp;rsquo;s content is a difficult road.&lt;/h4&gt;
+&lt;p&gt;Sometimes I think it would have been easier to create 100 of my own internet radio stations from scratch, operate them, and then use those stations on Longtail Music.  But I wanted to be a part of something bigger, and help people who really love music.  But anytime you&amp;rsquo;re trying to surface the work and content of others you&amp;rsquo;re at the mercy of other people.  Luckily I didn&amp;rsquo;t have to pay to have this content on Longtail (unlike running a music streaming service like Rdio or a TV streaming service), so it didn&amp;rsquo;t become a financial burden, but it&amp;rsquo;s still a challenge when you don&amp;rsquo;t control everything.  You rely on the people generating that content to be involved.&lt;/p&gt;
+&lt;h4 id=&#34;building-a-product-for-the-worst-case-scenario-buys-you-time-and-lowers-expectations&#34;&gt;Building a product for the worst case scenario buys you time and lowers expectations.&lt;/h4&gt;
+&lt;p&gt;I built Longtail Music knowing on day one there would be zero people and very little action on the platform.  I called it a &lt;strong&gt;site on autopilot&lt;/strong&gt;.  So I made sure that every little thing gets surfaced in a stream and keeps the content fresh.  It was constantly showing the recent songs played by each station, and as each person tuned into a station it would show off that the station got a new listener.  Even at its most quiet the site had a feed of content that was always fresh, interesting and showed you what has been going on while you were away.  You could even discover new music just by browsing the home page and seeing stations that you might be interested in or cover art that catches you attention.  There were previews of recent songs, definitions of genres you might not be familiar with, and a way to discover stations via your Facebook and Spotify accounts.  I didn&amp;rsquo;t build it to look good after hundreds of people started using it, I built it to attract somebody when nothing was going on and didn&amp;rsquo;t require activity, and that was a good call.&lt;/p&gt;
+&lt;p&gt;In a similar vein, even though I talk about the lack of engagement by stations, &lt;strong&gt;I built Longtail Music to require as little usage by station owners as possible&lt;/strong&gt;.  The platform would feature a station when it plays a song for the first time and keep a record of artists that are often played on the station so station owners don&amp;rsquo;t have to do anything for it to be obvious what type of content they&amp;rsquo;re playing.  It allowed the page for a station to always be up to date and featuring things without any human being involved.&lt;/p&gt;
+&lt;h4 id=&#34;dont-waste-time-building-a-user-accounts-system-unless-you-need-to&#34;&gt;Don&amp;rsquo;t waste time building a user accounts system unless you need to.&lt;/h4&gt;
+&lt;p&gt;Unless the value of the product relies on accounts to exist, it&amp;rsquo;s a waste of time.  Longtail Music had user accounts where you could view your listening history, donation history, mark songs as favorites, like/dislike, etc.  &lt;strong&gt;None of this was necessary&lt;/strong&gt;.  You could do most everything without a user account (on purpose), so I shouldn&amp;rsquo;t have spent time building them in the first place.  That&amp;rsquo;s not where the value of the product was.  It would have been a nice v2 addition if there were enough listeners and stations were active enough where they were generating content that should be pushed to individual users.&lt;/p&gt;
+&lt;h4 id=&#34;in-general-the-scope-of-the-product-was-too-big&#34;&gt;In general the scope of the product was too big.&lt;/h4&gt;
+&lt;p&gt;I built it all, and it had everything I wanted, so it&amp;rsquo;s not like the large scope had any real downsides other than it took longer to build.  But, like the user accounts, I probably shouldn&amp;rsquo;t have started with the donations platform or any of the special features for station owners.  All of the dashboards and special station-owner features were probably never even looked at.  While seeing graphs about who&amp;rsquo;s tuning in and when and what songs are popular are very cool, it&amp;rsquo;s not terribly useful early on, and &lt;strong&gt;really not useful if the station owner isn&amp;rsquo;t even logging in&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;dont-spend-time-on-all-the-dumb-social-stuff&#34;&gt;Don&amp;rsquo;t spend time on all the dumb &amp;ldquo;social stuff&amp;rdquo;.&lt;/h4&gt;
+&lt;p&gt;I spent a lot of time working on integration with Twitter and Facebook.  Both from the automated posting standpoint, and using Facebook and Spotify data to match you up with stations via your social listening history.  I also spent a bunch of time on server-rendered pages for every part of the site so OpenGraph tags would render for anybody who linked to it.  &lt;strong&gt;None of this was required or helpful&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;all-the-real-time-interactive-user-stuff-wasnt-very-useful-with-so-few-users&#34;&gt;All the real-time interactive user stuff wasn&amp;rsquo;t very useful with so few users.&lt;/h4&gt;
+&lt;p&gt;While it was super cool to see, in real-time, users around you react to songs and tune into stations, it wasn&amp;rsquo;t very useful, and it took a lot of work to build.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;whats-next&#34;&gt;What&amp;rsquo;s next?&lt;/h3&gt;
+&lt;p&gt;Nothing new, actually.  I&amp;rsquo;m currently working on an update for &lt;a href=&#34;https://apps.apple.com/us/app/the-bat-player-radio/id1050517930&#34;&gt;The Bat Player&lt;/a&gt; for AppleTV and I look forward to getting that out in 2020.  It&amp;rsquo;s been a long time since I&amp;rsquo;ve worked on it, and it needs some updates.&lt;/p&gt;
+&lt;p&gt;Unlike social web sites where you require some critical mass before you can call yourself a success, a useful application is a success for each person who installs it and uses it.&lt;/p&gt;
+&lt;p&gt;So I&amp;rsquo;m going &amp;ldquo;back to my roots&amp;rdquo;, if you will, and making sure the client for existing internet radio lovers is in good shape.&lt;/p&gt;
+&lt;p&gt;As far as the future, I haven&amp;rsquo;t given up on the idea of introducing more people to internet radio and making it more accessible and modern.  I just don&amp;rsquo;t know how to do it.  I&amp;rsquo;ll keep thinking.  In the mean time I&amp;rsquo;ll put on some good tunes and listen to internet radio somewhere else.&lt;/p&gt;
+&lt;p&gt;PS: If you&amp;rsquo;re at all curious about what the station owner experience with Longtail was like I uploaded the &lt;a href=&#34;https://gabekangas.com/blog/LongtailMusicAdminGuide.pdf&#34;&gt;Station Admin guide&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/214576527&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+</item>
+    
+
+    <item>
+<title>It&#39;s time a for change: I&#39;m trying Linux on the desktop</title>
+<link>https://gabekangas.com/blog/2019/05/its-time-a-for-change-im-trying-linux-on-the-desktop/</link>
+<pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/blog/2019/05/its-time-a-for-change-im-trying-linux-on-the-desktop/</guid>
+<description>&lt;p&gt;I&amp;rsquo;ve felt lousy about the internet, software, computers and technology lately.  Recently I&amp;rsquo;ve abandoned a project of mine and that made me feel pretty bad.  It made me think about my relationship with my personal computer and the things I use it for.  I realized once I removed macOS and iOS software development from things I use my computer for I&amp;rsquo;m not really tied to a Mac.  And though I love macOS, Macintosh computers, and the entire Apple ecosystem, I just needed to look at something else for a while and rekindle that passion I have for my computer.&lt;/p&gt;
+&lt;p&gt;So I purchased a brand new computer, a Lenovo Thinkpad X1 Carbon.  Before I ever was a Mac user I had an IBM Thinkpad and I have such great memories of it.  Plus when I polled people on The Fediverse a lot of people suggested that there&amp;rsquo;s good compatibility with Linux and the X1 hardware.  So I went to Central Computers in San Francisco, a real, physical computer store, and came out with a new laptop.&lt;/p&gt;
+&lt;h4 id=&#34;picking-a-linux-distribution&#34;&gt;Picking a Linux distribution&lt;/h4&gt;
+&lt;p&gt;The first step was picking a Linux distro that I&amp;rsquo;d be happy with.  I was originally suggested to check out &lt;a href=&#34;https://system76.com/pop&#34;&gt;Pop!_OS&lt;/a&gt; so I wrote the ISO to a USB drive and installed it.  I didn&amp;rsquo;t really know much about it before I installed it, but there was no reason not to try it.  But after playing with it a bit I found something about the window management just to be a bit weird.  I couldn&amp;rsquo;t really see what apps were open, and had to view submenus in order to get the state of the apps without a dock or something.  No big deal.  Next up, after doing a bit of reading, was &lt;a href=&#34;https://linuxmint.com/&#34;&gt;Linux Mint&lt;/a&gt; Cinnamon edition.  It seemed polished enough for a nice desktop, but also has some standard elements that I&amp;rsquo;d expect.  It took less than 5 minutes to download the ISO, write it to the USB drive and be booted up into it.  I can&amp;rsquo;t explain how cool it is to be testing out different distributions so quickly.&lt;/p&gt;
+&lt;h4 id=&#34;upfront-impressions-hardware--os&#34;&gt;Upfront impressions: Hardware + OS&lt;/h4&gt;
+&lt;p&gt;With the OS installed I could poke around and check it out.  I noticed right away how much nicer it is to type on this Thinkpad keyboard than that horrible butterfly switch keyboard on the Apple Macbook Pro.&lt;/p&gt;
+&lt;p&gt;And while the keyboard is pretty great, one thing isn&amp;rsquo;t: Keyboard shortcuts.  For some reason even something as simple as copy/paste shortcuts only work some places.  I can command+c in a web browser to copy text, but I can&amp;rsquo;t command+v in the terminal to paste it.  But I can command+v in other apps.  There seems to be no rhyme or reason where shortcuts work and where they don&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;So many icons are blurry.  This machine has a high DPI screen, so I understand that&amp;rsquo;s probably the problem, but why haven&amp;rsquo;t the apps been updated to support modern screens?&lt;/p&gt;
+&lt;p&gt;After about a week of using this setup I looked into what I could do to get inertial (or kenetic) scrolling to work.  You know how if you fling the trackpad quickly it&amp;rsquo;ll scroll quickly and decelerate over time.  It turns out it&amp;rsquo;s kind of possible, but you have to change the mouse driver.  So I replaced &lt;a href=&#34;https://www.freedesktop.org/wiki/Software/libinput/&#34;&gt;libinput&lt;/a&gt; with the &lt;a href=&#34;https://wayland.freedesktop.org/libinput/doc/latest/faqs.html#kinetic-scrolling-does-not-work&#34;&gt;Synaptics driver&lt;/a&gt;, and that helped.  But it&amp;rsquo;s still &amp;ldquo;off&amp;rdquo;, in that kind of hard to describe way.&lt;/p&gt;
+&lt;p&gt;But aside from that trackpad driver I didn&amp;rsquo;t have to install any custom drivers, perform any hand editing of config files, or boot into a console to tweak some settings.  The actual Linux distros these days seem to be extremely solid out of the box.  The desktop environment and window managers have been polished and work great.&lt;/p&gt;
+&lt;h4 id=&#34;installing-software&#34;&gt;Installing software&lt;/h4&gt;
+&lt;p&gt;So with Linux Mint installed, and me being happy enough with the standard elements of the OS, it was time to install the apps I will need to start gaining functionality.&lt;/p&gt;
+&lt;p&gt;There are handfuls of ways to install software in Linux and you never know what one you should look at first.&lt;/p&gt;
+&lt;p&gt;Linux Mint has this &amp;ldquo;Software Manager&amp;rdquo; that I think is probably just a GUI frontend to apt, or something.  It&amp;rsquo;s a handy way to search for and install applications.  Some things, though, you&amp;rsquo;ll want to, or have to, install via the command line.  That&amp;rsquo;s even the case in macOS as Homebrew allows you to easily install a ton of unix software.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s also some thing now called &lt;a href=&#34;https://snapcraft.io/store&#34;&gt;&amp;ldquo;snap&amp;rdquo;&lt;/a&gt; where you can install all-in-one app images of some sort that deal with dependencies, and that seems to work pretty well once you find it on the snap ecosystem.  It shows that the experience of installing applications in Linux has been a focus over the years, as there are a number of different ways now, all trying to be easier than the next.  Unfortunately they spent all the time on the installer UIs and not on the software itself.&lt;/p&gt;
+&lt;h4 id=&#34;the-state-of-linux-software&#34;&gt;The State of Linux Software&lt;/h4&gt;
+&lt;p&gt;So if the actual Linux distribution and software experiences are great, then this whole thing sounds like a success, right?  Well, let&amp;rsquo;s talk about the actual applications.&lt;/p&gt;
+&lt;p&gt;To be completely honest, it looks like Linux desktop applications have not been touched much since I last used Linux as a desktop OS over 10 years ago.  There doesn&amp;rsquo;t seem to be any really polished applications, and ones that were around back then are still the ones people use now, and they&amp;rsquo;re not any better than they were a decade ago.&lt;/p&gt;
+&lt;p&gt;I can only assume that the same thing I complain about on macOS desktops, that people have just given up and only use the web, is happening with Linux.  Or maybe Linux users just decided there&amp;rsquo;s no reason to leave the terminal?  Is the reason why Thunderbird is still the best option for a mail client because everyone just uses stupid Gmail in their browser?&lt;/p&gt;
+&lt;p&gt;And sure there are some exceptions, there are technically more apps than there used to be.  But just like on the Mac, most of them are cross-platform Electron/Javascript apps.  Visual Studio Code is on Linux, so is Signal messenger, so is Whalebird for Mastodon and Keybase.  There&amp;rsquo;s a new calendar app called MineTime that I found.  But all of those are just web apps in an Electron wrapper.&lt;/p&gt;
+&lt;p&gt;And while some applications are &amp;ldquo;bad&amp;rdquo;, some are completely unusable.  Take for instance the application QOwnNotes, it&amp;rsquo;s completely unusable because it just does its own thing as far as handling the screen resolution for some reason.  Spotify also does that, but at least with Spotify it&amp;rsquo;s not a productivity app where you spend time in it getting work done, you just press play and minimize.  A note taking app where you can&amp;rsquo;t read the notes is a good example of all the bad software for Linux on the desktop.&lt;/p&gt;
+&lt;img src=&#34;https://gabekangas.com/blog/images/smalltextapp.png&#34;&gt;
+&lt;h4 id=&#34;using-linux-daily&#34;&gt;Using Linux daily&lt;/h4&gt;
+&lt;p&gt;It&amp;rsquo;s hard to really describe it.  But using Linux on the desktop, and Linux desktop apps, kind of feel like using a computer through a layer of mud.  Just moving the mouse cursor around, and pointing and clicking feels odd.  Everything is a little messy.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s hard to put words to a lot of this.  But even typing this blog post I&amp;rsquo;ll be typing and then the cursor will just jump to a random part of the document because I &lt;em&gt;guess&lt;/em&gt; I accidentally touched the trackpad while typing or something?  This kind of thing happens all the time and it&amp;rsquo;s so frustrating.  If I try and highlight a block of text sometimes I end up deleting it, or dragging it somewhere else because of all these wierd rogue inputs.  You have to be super, super deliberate when using the trackpad because it feels like it&amp;rsquo;s always out to trip you up.  I imagine using Linux with an external mouse and keyboard is a much, much more pleasant experience.  It feels like another example of how Linux stagnated over ten years ago, where Linux on a laptop was probably less popular and everyone was using beefy desktop computers with external devices.&lt;/p&gt;
+&lt;p&gt;Applications have no consistency to them whatsoever.  Some have menu bars, some have menu buttons, some have no menus.  So if you&amp;rsquo;re looking for the &amp;ldquo;Preferences&amp;rdquo; window within an app you have to go digging.  Here&amp;rsquo;s an example of a few different apps.  The browser has a three horizontal line &amp;ldquo;hamburger menu&amp;rdquo;, Spotify has a dropdown associated with your profile image, Thunderbird has a menu bar, MimeTime has a three vertical line menu button, Tootle has a custom toolbar (and completely different minimize, maximize and close buttons), and Keybase has your profile image.  The cognitive overhead in using these apps is a little much.&lt;/p&gt;
+&lt;img src=&#34;https://gabekangas.com/blog/images/wtfmenus.png&#34;&gt;
+&lt;p&gt;Because I spend so much time in the macOS terminal much of using Desktop Linux feels comfortable.  I use my same dotfiles, so my bash prompt looks the same, and all the same tools are there in the terminal to use.  I still don&amp;rsquo;t know why I can&amp;rsquo;t paste using a keyboard shortcut there, though.&lt;/p&gt;
+&lt;h4 id=&#34;things-i-miss&#34;&gt;Things I miss&lt;/h4&gt;
+&lt;p&gt;Many of these are all obvious, since there&amp;rsquo;s a certain amount of Apple Integration Magic that you can&amp;rsquo;t replicate once you leave that ecosystem, but it doesn&amp;rsquo;t change the fact that there are a handful of things that I found to miss right away.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;There&amp;rsquo;s no global spellcheck.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m guessing this is due to none of the desktop applications playing by the same rules and it being a wild west of controls and text handling, so the idea of having any kind of global spell check is probably out of the question.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Replying to text messages and iMessages from the desktop.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Given that I don&amp;rsquo;t really enjoy spending time on my phone, and I&amp;rsquo;m always at a computer anyway, the ability to respond to messages that come through my phone via my desktop computer was immediately missed as I started to have to reply to messages via my phone instead of a real keyboard.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cross-device copy and paste&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;iOS and macOS have a shared clipboard.  I use this a ton.  One thing I do a lot is copying a password on my desktop and then pasting it in an app on my phone.  It&amp;rsquo;s way faster than opening 1Password on my phone, unlocking it, searching for the login, and copying it.  And now that I have to use my phone to reply to text messages I really wish I could search for things on the desktop and paste them into a message response.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Auto unlocking with my Apple Watch&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m one of those rare people who really enjoys their Apple watch, and it&amp;rsquo;s like magic when I walk up to my computer and it unlocks without me typing in a password or even scanning my fingerprint.&lt;/p&gt;
+&lt;h4 id=&#34;apps-im-using&#34;&gt;Apps I&amp;rsquo;m using&lt;/h4&gt;
+&lt;p&gt;I have a handful of apps I&amp;rsquo;m used to on macOS every day, and I needed to find equivalents.  Here&amp;rsquo;s what I&amp;rsquo;ve come up with so far:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Apps that exist on macOS and Linux&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brave browser&lt;/li&gt;
+&lt;li&gt;Spotify&lt;/li&gt;
+&lt;li&gt;1Password (Only as a browser extension, though)&lt;/li&gt;
+&lt;li&gt;Signal Messenger&lt;/li&gt;
+&lt;li&gt;Dropbox&lt;/li&gt;
+&lt;li&gt;Visual Studio Code&lt;/li&gt;
+&lt;li&gt;Signal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Replacements for daily use apps&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mail.app -&amp;gt; Mozilla Thunderbird&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://reinventedsoftware.com/keepit/&#34;&gt;KeepIt Notes&lt;/a&gt; (Syncs notes via iCloud) -&amp;gt; Maybe go back to Evernote?  I&amp;rsquo;d rather not.&lt;/li&gt;
+&lt;li&gt;Mastodon client -&amp;gt; &lt;a href=&#34;https://whalebird.org/en/desktop/contents&#34;&gt;Whalebird&lt;/a&gt; (Electron app)&lt;/li&gt;
+&lt;li&gt;Calendar.app -&amp;gt; &lt;a href=&#34;https://minetime.ai&#34;&gt;Minetime&lt;/a&gt; (Electron app)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Apps with no replacements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;iMessage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;takeaways-and-future&#34;&gt;Takeaways and future&lt;/h4&gt;
+&lt;p&gt;I &lt;strong&gt;really&lt;/strong&gt; want this to work, but man, this kind of sucks.  I guess if I were a person who spent all day in a web browser using Google Docs, or only wanted to use the terminal then Linux would be mostly usable.  But I love native desktop apps, and the ones for Linux are not a pleasure to use.  Stack on top of that the horrible trackpad experience and me accidentally deleting things, typing over things, moving things around, and generally being a mess anytime I try and click things it makes me just not want to use the machine at all.&lt;/p&gt;
+&lt;p&gt;I know I won&amp;rsquo;t get much constructive feedback, but if any of my complaints and concerns are something you&amp;rsquo;ve experienced and been able to work out for yourself, please let me know.  I really want to continue using Linux as a daily driver desktop OS at home, but I don&amp;rsquo;t know how I can continue to do so outside of a short term experiment with the fundamental issues I&amp;rsquo;m experiencing.&lt;/p&gt;
+&lt;p&gt;As always, &lt;a href=&#34;https://mastodon.social/@gabek&#34;&gt;find me on the Fediverse&lt;/a&gt; and let&amp;rsquo;s chat about it.&lt;/p&gt;
+</description>
+</item>
+    
+
+    <item>
+<title>I&#39;m discontinuing work on Mastochist for Mastodon</title>
+<link>https://gabekangas.com/blog/2019/04/im-discontinuing-work-on-mastochist-for-mastodon/</link>
+<pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/blog/2019/04/im-discontinuing-work-on-mastochist-for-mastodon/</guid>
+<description>&lt;img src=&#39;https://gabekangas.com/blog/images/mastochist.png&#39; width=&#34;30%&#34;&gt;
+&lt;p&gt;&lt;strong&gt;I&amp;rsquo;m no longer going to continue work on my Mastodon client, Mastochist.&lt;/strong&gt;  And even though it doesn&amp;rsquo;t really impact anybody but myself, I felt I owed people a detailed explanation and apology since people have heard me talk about the work I&amp;rsquo;ve put in it for quite a while.&lt;/p&gt;
+&lt;p&gt;Mostly I owe an apology to &lt;a href=&#34;https://mastodon.social/@carami&#34;&gt;Cara&lt;/a&gt; who I hired to design the look of the app, and she became my sounding board as I built out features.  She did a fantastic job and was a huge help.  You should hire her next time you need something designed.&lt;/p&gt;
+&lt;p&gt;So after months and months of being heads down, working on something I thought was pretty cool, I&amp;rsquo;m going to stop working on it and not release it.  Why?&lt;/p&gt;
+&lt;p&gt;The reasons are ultimately a mix of product reasons, and personal reasons, with even a little political reasoning thrown in for good measure.  Let me break down all the things that come to mind when I think of building this client for Mastodon.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;i-thought-id-be-really-into-the-fediverse-by-now-just-like-i-was-with-twitter-in-its-early-days&#34;&gt;I thought I&amp;rsquo;d be really into the Fediverse by now, just like I was with Twitter in its early days.&lt;/h4&gt;
+&lt;p&gt;Selfishly, I built this client for myself because I wanted something great.  And comparatively Mastochist is pretty great, but my relationship with the Fediverse didn&amp;rsquo;t grow as I expected it to.  Maybe I was overly optimistic.&lt;/p&gt;
+&lt;p&gt;In the early days of Twitter I met so many friends.  We discovered each other online, met in person via Tweetups, and it made for life-long friendships.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t talk to many people on the Fediverse.  I still don&amp;rsquo;t feel at home there, and I&amp;rsquo;m certainly not the person who should be making choices for a client used by people who do.  There are probably better people for that.  I&amp;rsquo;m not a pansexual furry enby posting &amp;ldquo;lewds&amp;rdquo;.  I&amp;rsquo;m just a guy with a Mac striking out when I see if anybody is posting about topics that I like.  I&amp;rsquo;ll often think about music I don&amp;rsquo;t understand like Beyonce or Lil Rapstar or whatever and realize I don&amp;rsquo;t enjoy it because it wasn&amp;rsquo;t made for me.  And maybe that&amp;rsquo;s the Fediverse, maybe it wasn&amp;rsquo;t made for me, and that&amp;rsquo;s ok.&lt;/p&gt;
+&lt;p&gt;But I will say there&amp;rsquo;s a small handful of people that I follow that I didn&amp;rsquo;t know before I joined Mastodon, and I think they&amp;rsquo;re really cool.&lt;/p&gt;
+&lt;h4 id=&#34;i-use-software-development-as-a-crutch&#34;&gt;I use software development as a crutch.&lt;/h4&gt;
+&lt;p&gt;The past year hasn&amp;rsquo;t been awesome for me, and I took that lack of control in one part of my life and put it into software development instead.  Something you may not know if you don&amp;rsquo;t spend a lot of time telling a computer what to do: It&amp;rsquo;s very gratifying.  It always listens.  Things work exactly the way you tell them to.  And if they don&amp;rsquo;t work, it&amp;rsquo;s your fault and you can spend time fixing it.  The world is 100% controllable inside a computer, always.&lt;/p&gt;
+&lt;p&gt;In 2018 I shipped a bunch of software on a bunch of platforms.  But before that I was writing music.  I stopped writing music because it was easier to write software and I thought maybe I could make a larger impact.  I should get back to music because it&amp;rsquo;s harder for me to do so.&lt;/p&gt;
+&lt;h4 id=&#34;i-dont-think-as-highly-about-mastodon-as-i-once-did-but-i-still-am-completely-behind-the-fediverse&#34;&gt;I don&amp;rsquo;t think as highly about Mastodon as I once did, but I still am completely behind the Fediverse.&lt;/h4&gt;
+&lt;p&gt;I jumped into writing this client before I had a real feel for the Fediverse as a whole and I wanted to focus on Mastodon.  Since then I&amp;rsquo;ve grown disillusioned with Mastodon and its leadership.  I&amp;rsquo;ve since pulled my financial backing from its Patreon and I no longer feel invested in that particular project&amp;rsquo;s success.&lt;/p&gt;
+&lt;p&gt;So you might be asking &lt;em&gt;&amp;ldquo;Why don&amp;rsquo;t you just release something less Mastodon-specific?&amp;quot;&lt;/em&gt; and that&amp;rsquo;s a fantastic question.  There are a handful of great alternative Fediverse servers out there that&amp;rsquo;s compatible with ActivityPub, but there&amp;rsquo;s a problem: Mastodon.  Given Mastodon is the biggest game in town other servers are trying to be (and you could argue need to be) API compatible.  And this is not a bad thing, in fact, it&amp;rsquo;s great.  The problem lies with Mastodon itself and the fact that it has a funded, full-time developer who makes all the decisions for the project single handedly.  So if he, one night in a fever dream, decides to add some crazy feature to Mastodon then the other clients &lt;strong&gt;and&lt;/strong&gt; servers have to either adopt that or get left out.  So we have one person calling the shots on client API compatibility, so apps like Mastochist can talk to servers, and ActivityPub implementations so all of the Fediverse can talk to each other.  I once brought this up in a post on the Fediverse, and instead of a mature conversation coming out of it, the person in question replied with &amp;ldquo;pee pee poo poo&amp;rdquo; and then sent all of his fanboys after me.  So ultimately I don&amp;rsquo;t know what&amp;rsquo;s going to happen with all of that, but I see a future of pain if I were to release and maintain a Fediverse client into the future as a side project.&lt;/p&gt;
+&lt;h4 id=&#34;im-a-shitty-capitalist&#34;&gt;I&amp;rsquo;m a shitty capitalist.&lt;/h4&gt;
+&lt;p&gt;I&amp;rsquo;ve never charged for independent software I&amp;rsquo;ve written, and I doubt I&amp;rsquo;d start now.  That means I&amp;rsquo;d get burnt out, as all the drama listed above would require some serious money to keep up with that crap.&lt;/p&gt;
+&lt;h4 id=&#34;were-only-months-away-from-a-hundred-lousy-marzipan-apps-anyway&#34;&gt;We&amp;rsquo;re only months away from a hundred lousy Marzipan apps anyway.&lt;/h4&gt;
+&lt;p&gt;Let&amp;rsquo;s be honest here, the world of Mac software is about to change soon. I thought my passion for the platform would allow me to build something that showed how much I care for macOS, but nobody really cares but me given that people are already perfectly happy using the web on their desktops during the rare moments they&amp;rsquo;re not just using their phones for everything, anyway.&lt;/p&gt;
+&lt;h4 id=&#34;i-dont-think-its-good-enough&#34;&gt;I don&amp;rsquo;t think it&amp;rsquo;s good enough.&lt;/h4&gt;
+&lt;p&gt;That&amp;rsquo;s probably the smallest issue, because I could just make it better and the problem would be solved.  But ultimately, even though I completely believe it&amp;rsquo;s better than every client available out there right now, and I use Mastochist exclusively every day, releasing something that&amp;rsquo;s just a better version of something you can just do on the web&amp;hellip; what&amp;rsquo;s the point?  In the big picture of it all it doesn&amp;rsquo;t really change anything.  Most people are happy with the web and I should probably stand down in my fight against the web taking over because I&amp;rsquo;m losing that battle.&lt;/p&gt;
+&lt;p&gt;I had a lot of really great power-user features that I looked forward to building, but I had to earn that by building something really great as a version 1.0, and that just didn&amp;rsquo;t happen.  Better than the rest still doesn&amp;rsquo;t mean good enough.&lt;/p&gt;
+&lt;h4 id=&#34;so-why-dont-i-just-open-source-it&#34;&gt;So why don&amp;rsquo;t I just open source it?&lt;/h4&gt;
+&lt;p&gt;That idea always sounds great, and it is a great idea.  But it takes just as much effort to release something usable as open source as it does writing it in the first place.  Ultimately nobody really would want to do anything more than critique the code and make frivolous pull requests for typos in comments.  It&amp;rsquo;s not like releasing it as an open source project would get a bunch of people to rally behind it and release it.  I tried to find people who would be interested in working with me on the project early on, and nobody was interested, so that would be no different now.&lt;/p&gt;
+&lt;h4 id=&#34;so-what-now&#34;&gt;So what now?&lt;/h4&gt;
+&lt;p&gt;I don&amp;rsquo;t know.  I built with AppKit for the first time and came out of it with a better understanding of Apple frameworks I&amp;rsquo;ve never had an opportunity to use before.  But whoopdie fucking do, right?  Nobody was on their death bed lamenting the fact they didn&amp;rsquo;t get an opportunity to spend more time with NSGridView.&lt;/p&gt;
+&lt;p&gt;As for me on the Fediverse, I&amp;rsquo;m not going anywhere.  I&amp;rsquo;m not going back to Twitter or Facebook, and I look forward to what the future of federated social holds for all of us.  I&amp;rsquo;ll probably even continue to use Mastochist until it stops working, because I hate the others and I&amp;rsquo;d probably post way less if I didn&amp;rsquo;t have it.  But it&amp;rsquo;s time to move forward and discover that part of me that doesn&amp;rsquo;t lie within my code editor.&lt;/p&gt;
+&lt;img src=&#34;https://gabekangas.com/blog/images/farewell-mastochist.png&#34;&gt;</description>
+</item>
+    
+
+    <item>
+<title>A journey through my music tastes</title>
+<link>https://gabekangas.com/blog/2019/03/a-journey-through-my-music-tastes/</link>
+<pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/blog/2019/03/a-journey-through-my-music-tastes/</guid>
+<description>&lt;p&gt;&lt;em&gt;I&amp;rsquo;ve had this blog post as a draft for a couple months now.  And who knows how long it would have stayed as a draft, but &lt;a href=&#34;https://consequenceofsound.net/2019/03/the-prodigy-keith-flint-dead/&#34;&gt;Keith Flint of The Prodigy died this week&lt;/a&gt;, and given how much I owe to The Prodigy being one of my earliest electronic loves, I felt I should actually publish it.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;br&gt;
+My music taste and the different artists that I&#39;ve listened to throughout my life is a big part of my identity.  So I thought it might be fun to try and document some of the ways I came about some of this music, and maybe a story or two about them.  And since this is a history that goes back pretty far, I&#39;m going to try to stick to &#34;modern times&#34; and leave out the less relevant stuff when I was a kid listening to old Beatles tapes or classic rock on the radio. While I can appreciate a ton of different stuff, much of that hasn&#39;t influenced my day-to-day music taste right now.  Though I&#39;ll still probably get around to watching that new Garth Brooks concert.  While I&#39;ll try and keep somewhat a consistent linear timeline, this will probably jump around a bit.
+&lt;p&gt;
+&lt;p&gt;&lt;strong&gt;I&amp;rsquo;m a compilation success story&lt;/strong&gt;.  So much of the music I heard for the first time was on a compilation or soundtrack album.  For whatever reason compilations and soundtracks don&amp;rsquo;t get enough credit, but I&amp;rsquo;m here to say that they are the fastest way to take in a bunch of cool music that&amp;rsquo;s new to you.  Not all of them are great, but some are &lt;em&gt;really&lt;/em&gt; great.&lt;/p&gt;
+&lt;p&gt;For example, as a kid I went to the movie theater to see Mortal Kombat: The Motion Picture.  I left thinking &amp;ldquo;that music was awesome!  How do I get this soundtrack?&amp;quot;.  Thumping electronic music wasn&amp;rsquo;t something I experienced in a movie before.  It wasn&amp;rsquo;t until years later when I went to look up who made that definitive &lt;a href=&#34;https://www.youtube.com/watch?v=EAwWPadFsOA&#34;&gt;&amp;ldquo;Mortal Kombat song&amp;rdquo;&lt;/a&gt;.  Turned out to be a band called &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Immortals_(band)&#34;&gt;&amp;ldquo;The Immortals&amp;rdquo;&lt;/a&gt;.  I had never heard of that band before, and there&amp;rsquo;s a reason for that.  It seems they only existed for the sole purpose of &lt;a href=&#34;https://en.wikipedia.org/wiki/Mortal_Kombat:_The_Album&#34;&gt;making music for Mortal Kombat stuff&lt;/a&gt;.  And who was behind &amp;ldquo;The Immortals&amp;rdquo;?  Lords of Acid.  How cool.&lt;/p&gt;
+&lt;p&gt;One compilation I remember listening to was the &lt;a href=&#34;https://www.discogs.com/Various-American-Recordings-1995-CD-Sampler/release/310169&#34;&gt;American Recordings 1995 Sampler&lt;/a&gt;.  This was the first time I heard real Lords of Acid, MC 900 FT Jesus, God Lives Underwater, and Love and Rockets.  I don&amp;rsquo;t know where I got this album from.  And it certainly was after 1995 that I acquired it.  It&amp;rsquo;s likely I got it through an exercise a high school friend of mine and I would perform where we&amp;rsquo;d go to the music store at the mall, visit the discount CD bin, and grab something totally random, often by the title or album cover.  We also got &lt;a href=&#34;https://en.wikipedia.org/wiki/Life_Begins_at_40_Million&#34;&gt;The Bogmen&amp;rsquo;s Life Begins at 40 Million&lt;/a&gt; this way.&lt;/p&gt;
+&lt;p&gt;But a compilation that really helped shaped me for the rest of my life was &lt;a href=&#34;https://www.youtube.com/watch?v=k07cflKCl-Y&amp;amp;list=PL6E1AC915A0204BC0&#34;&gt;The Hackers Soundtrack&lt;/a&gt;.  It&amp;rsquo;s the first time I heard Underworld, Carl Cox, The Prodigy, Orbital, Stereo MC&amp;rsquo;s, Leftfield, Kruder &amp;amp; Dorfmeister, and more.  That first time I heard &amp;ldquo;Voodoo People&amp;rdquo; and &amp;ldquo;Cowgirl&amp;rdquo; for the first time my life was changed forever.  One thing a lot of people don&amp;rsquo;t know is there were actually &lt;a href=&#34;http://download-soundtracks.com/movie_soundtracks/hackers-1-3-soundtrack/&#34;&gt;three Hackers soundtracks&lt;/a&gt;.  Each one more rare to find than the other.  If you like the first one you&amp;rsquo;ll love the others, too.  BT, Moby, Scooter, Chicane and more get added to the above list, creating a who&amp;rsquo;s who of Gabe&amp;rsquo;s favorite electronic music of the 90s across three cds.  &lt;a href=&#34;https://open.spotify.com/user/gabek/playlist/24ZMF47J9spG30iNEywhDQ?si=x4E4JNj2T12LYRwVURXSlg&#34;&gt;I compiled them, as best as I could, on Spotify, if you&amp;rsquo;re interested&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A compilation I ran into years later, who was my first concentrated dose of modern goth and EBM was &lt;a href=&#34;https://www.discogs.com/Various-Gravers-Paradise/release/592106&#34;&gt;Graver&amp;rsquo;s Paradise&lt;/a&gt;.  This was the first time I heard the likes of Apoptygma Berzerk, Funker Vogt, Zeromancer, The Mission UK, Gary Numan, Razed in Black, Switchblade Symphony and more.&lt;/p&gt;
+  &lt;iframe src=&#34;https://open.spotify.com/embed/user/1233445085/playlist/5TCzkRBCf87WE4OJZTD2aX&#34; width=&#34;300&#34; height=&#34;380&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;
+&lt;p&gt;Admittedly my music taste didn&amp;rsquo;t start forming in earnest until I left High School. In High School, even though I was intensely deep in a world of musicians and performance, I didn&amp;rsquo;t discover new music. We were collectively far too busy listening to the RENT soundtrack or drumming on something. One exception to this was Marilyn Manson. There was a guy a couple years older than I was who would wear KMFDM t-shirts and talk about Marilyn Manson. And while KMFDM was not really accessible to me in my high school years, that was the height of &lt;a href=&#34;https://www.rollingstone.com/music/music-news/marilyn-mansons-antichrist-superstar-10-wild-stories-121825/&#34;&gt;Marilyn Manson hysteria&lt;/a&gt;. So a friend and I picked up a copy of Antichrist Superstar from the mall and we both fell in love with it.  In 1998 &lt;a href=&#34;https://www.youtube.com/watch?v=zo2nIcqCYU4&#34;&gt;we performed &amp;ldquo;The Beautiful People&amp;rdquo;&lt;/a&gt; at our High School with 7 people using a mix of rock and symphonic instruments, dressed as members of Hanson, replacing the lyrics with those of &amp;ldquo;MMM Bop&amp;rdquo;.  We were told we weren&amp;rsquo;t allowed to pray to a skull on stage on the second night of the performance.&lt;/p&gt;
+&lt;p&gt;Another rare High School discovery was The Prodigy&amp;rsquo;s Fat of the Land.  I mentioned above how the Hackers soundtrack was my first taste of the band, but Fat of the Land changed everything for The Prodigy, and for me as well.  One of my friends had recently put one of those crazy 90s sound systems in his car and loved showing off the subwoofer. That was the first time I had heard The Prodigy&amp;rsquo;s &amp;ldquo;Breathe&amp;rdquo;.  &lt;strong&gt;It was electronic, dancable, but with a hard punk edge to it&lt;/strong&gt;.  I was primed to soon dig deep into their discography and have a long-lasting favorite.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6_PAHbqq-o4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;
+&lt;p&gt;The late 90s had a handful of pivotal albums for me.  BT&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/ESCM_(album)&#34;&gt;ESCM&lt;/a&gt; featuring &amp;ldquo;Flaming June&amp;rdquo; was my first taste of BT.  I found Daft Punk&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Homework_(Daft_Punk_album)&#34;&gt;Homework&lt;/a&gt; in a CD player of mine one day.  I have no idea who&amp;rsquo;s it was, or how it got there.  During this time there&amp;rsquo;s also standouts such as Moby&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Play_(Moby_album)&#34;&gt;Play&lt;/a&gt;,  and my enjoyment of Eurodance was heavily inspired by Aqua&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Aquarium_(Aqua_album)&#34;&gt;Aquarium&lt;/a&gt; and Eiffel 65&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/Europop_(album)&#34;&gt;Europop&lt;/a&gt;.  I listened to Underworld&amp;rsquo;s 1999 album &amp;ldquo;Beaucoup Fish&amp;rdquo; over and over, along with &lt;a href=&#34;https://www.youtube.com/watch?v=CkP9A1ECTw8&#34;&gt;Fatboy Slim&amp;rsquo;s remix of &amp;ldquo;King of Snake&amp;rdquo;&lt;/a&gt;.  That album doesn&amp;rsquo;t get enough credit.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;You might think that &amp;ldquo;random cd left in a CD player&amp;rdquo; thing is a weird story.  And it is.  It&amp;rsquo;s even weirder that it&amp;rsquo;s &lt;strong&gt;not the only time it happened&lt;/strong&gt;.  The first time I really got into triphop was a cd left of Hooverphonic&amp;rsquo;s &lt;a href=&#34;https://en.wikipedia.org/wiki/A_New_Stereophonic_Sound_Spectacular&#34;&gt;A New Stereophonic Sound Spectacular&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;While sometimes I discovered music through explicit recommendations and listening to entire albums, sometimes you listen to what you have. And in the early days of MP3s I had a completely random collection of stuff. Some old, some new, some popular, some completely underground, and I didn&amp;rsquo;t really know who was who much of the time. I just downloaded it, and if I liked it I continued to listen to it.  Because of the nature of illegal MP3 trading, music tastes spread around like a virus.  And to be fair, we probably spread around computer viruses, too.  And while I had a natural inclination for euro trash already, I ended up getting my hands on all that I missed in the 90s.  Captain Hollywood Project, Black Box, Venga Boys, Real McCoy, and more.  I knew a lot of friends online who enjoyed the early 2000s alternative scene, so while I wasn&amp;rsquo;t the biggest fan in the world I certainly listened to my fair share of Linkin Park, 311, Incubus, and others just because the MP3s showed up on my hard drive.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;I started going to concerts seriously when I was around 20. The first band I started to see live was &lt;a href=&#34;https://en.wikipedia.org/wiki/Kill_Hannah&#34;&gt;Kill Hannah&lt;/a&gt;.  They were still a local Chicago band at the time and hadn&amp;rsquo;t yet released their major label debut so they were playing a lot of shows nearby, often opening for larger touring acts. One notable show was seeing them open for Shiny Toy Guns. Shiny Toy Guns wasn&amp;rsquo;t huge at the time, but they were touring. And this show they did in Chicago was horrible. To this day I don&amp;rsquo;t know what the problem was, since I&amp;rsquo;m now a fan of the band and have seen them probably 5 times at this point. But they sounded so bad when I was first introduced to them that the crowd was laughing.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ncWKerhpx_o&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;p&gt;In the early 2000s I had met somebody at work, Frank, who was blogging about music he was enjoying at &lt;a href=&#34;https://web.archive.org/web/20040607061730/http://www.frankpayne.com:80/html/main.php&#34;&gt;frankpayne.com&lt;/a&gt;. Every day he introduced me to something new. Quintron, Har Mar Superstar, !!!, Out Hud, Ladytron, Ratatat, Adult., 8bitpeoples, Ghostland Observatory, Hella, I am the World Trade Center, and so many more that I still enjoy to this day are thanks to him. He told me about all of the upcoming Chicago shows, and I went. And that&amp;rsquo;s when I really got hooked on live music. And while I couldn&amp;rsquo;t really jive with The Magnetic Fields, and he didn&amp;rsquo;t really understand why I was into Nine Inch Nails, in general he had a good 98% success rate with recommending music to me that to this day has not been matched.  Imagine how excited I was when he told me one day that Daft Punk&amp;rsquo;s Discovery had a movie.  And if you haven&amp;rsquo;t seen this movie, you should: &lt;a href=&#34;https://en.wikipedia.org/wiki/Interstella_5555:_The_5tory_of_the_5ecret_5tar_5ystem&#34;&gt;Interstella 5555: The 5tory of the 5ecret 5tar 5ystem&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;You know the awesome solo in Daft Punk&amp;rsquo;s Digital Love? Well Ratatat is entirely that.&amp;quot;&lt;/em&gt; - Frank Payne.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He now throws &lt;a href=&#34;https://www.facebook.com/noisefloorchicago/&#34;&gt;techno events in Chicago&lt;/a&gt;, so go drop by if you&amp;rsquo;re ever in Chicago.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;p&gt;Around 2004, back when Podcasts were an underground, independent way of distributing things (aka: &lt;em&gt;When Podcasts were good&lt;/em&gt;) there was this one feed where every week he&amp;rsquo;d put a single electronic song out that he wanted people to hear.  And one week it was The Postal Service&amp;rsquo;s &amp;ldquo;Such Great Heights&amp;rdquo;.  I remember listening on my iPod, walking to work, and this song came on.  And I was blown away.  &lt;strong&gt;It was indie, but it was danceable&lt;/strong&gt;.  The lyrics, while I often don&amp;rsquo;t care about lyrics, were &lt;strong&gt;verbose, but not pretentious&lt;/strong&gt;.  I immediately grabbed the album, &lt;a href=&#34;https://en.wikipedia.org/wiki/Give_Up&#34;&gt;&amp;ldquo;Give Up&amp;rdquo;&lt;/a&gt; and it was song after song of fantastic tracks.  It opened up the door to other of Jimmy Tamborello&amp;rsquo;s stuff like Dntel and James Figurine to me.  I can&amp;rsquo;t say the same about Ben Gibbard, however.  I don&amp;rsquo;t care about Death Cab for Cutie.  Ten years later they re-released the album and toured.  I finally got my first and last chance to see them perform that album live.  It was a very cool experience.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;p&gt;I was a late in life Nine Inch Nails fan.  I liked them, but I wasn&amp;rsquo;t a real fan in any way.  It wasn&amp;rsquo;t until I saw the concert video of &lt;a href=&#34;https://en.wikipedia.org/wiki/And_All_That_Could_Have_Been#DVD&#34;&gt;And All That Could Have Been&lt;/a&gt; where I &lt;em&gt;really&lt;/em&gt; got Nine Inch Nails.  It took seeing and hearing the live experience to really buy into the band, and I was hooked.  A live NIN show is still one of the greatest experiences ever, and as long as Trent Reznor keeps performing those songs I&amp;rsquo;ll keep showing up to see him do it.&lt;/p&gt;
+&lt;p&gt;You can say I became a Nine Inch Nails fan around the &amp;ldquo;With Teeth&amp;rdquo; era, and that&amp;rsquo;s kind of a rebirth of Nine Inch Nails, so it was appropriate.  It was six years since their last album, so I was on board for the new stuff.  But it was &lt;a href=&#34;https://en.wikipedia.org/wiki/With_Teeth&#34;&gt;&amp;ldquo;Year Zero&amp;rdquo;&lt;/a&gt;, the next album that changed everything for me.  It is to this day one of the greatest beginning to end albums I&amp;rsquo;ve ever heard.  I almost think Trent Reznor sat around thinking &amp;ldquo;What would Gabe want?  A concept album about a dystopian future?  Done.  Glitchy drums?  Done.  A song that ends with &lt;a href=&#34;https://youtu.be/yhXlyvPom64?t=245&#34;&gt;a crazy squealing synth solo?&lt;/a&gt;?  Let&amp;rsquo;s do it.&amp;rdquo;  Everybody has one of those albums that got them through some dark places in life, and this is that album for me.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BRCR6onaASU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;p&gt;Up until recently, I enjoyed what could be considered &lt;em&gt;&amp;ldquo;mainstream dance and electronic&amp;rdquo;&lt;/em&gt;.  For years I was enjoying Moby, Ferry Corsten, BT, Tiga, Paul Oakenfold, Crystal Method, Chemical Brothers and more.  I&amp;rsquo;d legally buy and illegally download DJ compilations of all sorts of &amp;ldquo;dance&amp;rdquo; music.  Anywhere from minimal techno to trance to drum and bass.  I loved the harder big beat stuff, and I loved the super cheesy Happy Hardcore rave on speed stuff.  And I continued to listen to new stuff that came out of the different electronic genres well into the Dubstep fad. But it wasn&amp;rsquo;t long after I was thinking &lt;em&gt;&amp;ldquo;This new Skrillex and deadmau5 stuff isn&amp;rsquo;t so bad&amp;rdquo;&lt;/em&gt; that I was done with mainstream electronic forever and felt saddened that &amp;ldquo;electronic music&amp;rdquo; has become a dirty phrase because of the rise of &amp;ldquo;EDM&amp;rdquo;.  Of course I still like electronic music, and still love dance music, but new and old producers alike are making crap that appeals only to fucked up 14 year olds.  Now I can&amp;rsquo;t stand this overly formulaic, &amp;ldquo;drop&amp;rdquo;-based pop dance music that&amp;rsquo;s infected the landscape.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;p&gt;Everybody knows I love internet radio, and through it I&amp;rsquo;ve been able to discover more new music than I ever thought.  It&amp;rsquo;s like a compilation album that never ends, curated by somebody who is deeply knowledgeable and passionate about the material.  Without any commercial involvement, without pay-to-play, and without record labels&amp;rsquo; marketing campaigns involved you&amp;rsquo;re getting suggested music from somebody you trust.  &lt;a href=&#34;http://www.sanctuaryradio.com/&#34;&gt;Sanctuary Radio&lt;/a&gt;, in general, has really been a fantastic source for goth, industrial, and futurepop stuff.  Through DJ Rob I&amp;rsquo;ve discovered artists like Frozen Plazma, Rotersand, Blutengel, Beborn Beton, Incubite, ohGr, Necro Facility, and the list goes on and on.&lt;/p&gt;
+&lt;div id=&#34;longtail-embed-player&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://longtail.fm/embedplayer/siteEmbed.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://gabekangas.com/sanctuary-radio.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;So to wrap all this up, I&amp;rsquo;ll share some takeaways.  One big one is how often it&amp;rsquo;s been individuals who have turned me on to something new.  Maybe it was somebody sending me an MP3, or suggesting an upcoming show, or playing a song on an internet radio station that I was listening to.  The human connection was always there suggesting something new that I might love.&lt;/p&gt;
+&lt;p&gt;And maybe that&amp;rsquo;s why I enjoy doing the same thing so much.  One of my favorite things to do is tell somebody about some music that I really enjoy so that maybe, even if it&amp;rsquo;s a long shot, they might enjoy too.  It&amp;rsquo;s one of my favorite parts of meeting new people and sharing.  &lt;strong&gt;So tell me about one of your favorite songs sometime, and I&amp;rsquo;ll tell you about mine.&lt;/strong&gt;  But realistically, you probably already know about many of mine.&lt;/p&gt;
+&lt;p&gt;And the second takeaway is luck has had a lot to play for me.  Sometimes I&amp;rsquo;d just listen to something not knowing what it was and found it to be great.  Maybe I didn&amp;rsquo;t know who the artist was, or even what the cd was.  Maybe it was a compilation full of stuff opening a door to something brand new compiled together that just happens to resonate with me.  I guess that&amp;rsquo;s maybe why I find the process around pop music weird.  The idea of everyone being told &lt;em&gt;&amp;ldquo;Ok, here&amp;rsquo;s the new Taylor Swift song you like now&amp;rdquo;&lt;/em&gt; or &lt;em&gt;&amp;ldquo;you all have to be really into Beyonce&amp;rdquo;&lt;/em&gt; and everyone does it.  It seems like no fun to be told what to like.  There&amp;rsquo;s so much fun in discovering it for yourself, over many years.  Music is a hell of a journey and it&amp;rsquo;s not just what&amp;rsquo;s hot right now that counts.  It&amp;rsquo;s what&amp;rsquo;s still hot to you in twenty years that matters.&lt;/p&gt;
+</description>
+</item>
+    
+
+    <item>
+<title>Working with others on personal projects</title>
+<link>https://gabekangas.com/blog/2019/02/working-with-others-on-personal-projects/</link>
+<pubDate>Sat, 16 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/blog/2019/02/working-with-others-on-personal-projects/</guid>
+<description>&lt;p&gt;I like working with other people.  I like having people to throw ideas off of, and having sanity checks for approaches I&amp;rsquo;m taking with things.  I like the additional creativity that happens when you have another voice in the conversation and I like learning from people who know more about a topic than I do.&lt;/p&gt;
+&lt;p&gt;This is generally pretty difficult with personal projects.  And for whatever reason many of my projects start with me using a technology I&amp;rsquo;ve never used before.  So I wanted to write a bit about my experiences, and my attempts to try to add other voices to something that at it&amp;rsquo;s core is only my thing.&lt;/p&gt;
+&lt;p&gt;When I first built The Bat Player for Roku, &lt;a href=&#34;https://gabekangas.com/blog/2014/12/developing-for-roku/&#34;&gt;I had never touched Roku development before&lt;/a&gt;.  In fact I had never met a single person who had.  So I wrote it completely in the open on Github in hopes that other people looking at Roku projects might be interested.  I should have known better because there aren&amp;rsquo;t many Roku developers in the first place, so the chances that there would be a drive-by collaborator is pretty low.&lt;/p&gt;
+&lt;p&gt;I did the same with &lt;a href=&#34;https://gabekangas.com/project/thebatplayer/&#34;&gt;The Bat Player for AppleTV&lt;/a&gt;, knowing the chances for somebody showing interest in working on an AppleTV app when checking it out on Github would be much higher.  The app wasn&amp;rsquo;t even completed yet when &lt;strong&gt;somebody copied it, changed the name, and &lt;a href=&#34;http://www.148apps.com/app/1051556217/&#34;&gt;put it on the App Store&lt;/a&gt; under his own name.&lt;/strong&gt;  Then &lt;strong&gt;he started a crowdfunding campaign for it&lt;/strong&gt; so he could hire people to continue work on it.  I immediately pulled it from Github and never put it back after convincing him to remove it from the AppleTV App Store and to stop his funding campaign.&lt;/p&gt;
+&lt;img src=&#34;https://gabekangas.com/blog/images/rr-player-kickstarter.jpg&#34;&gt;
+&lt;p&gt;So we have an example of somebody who could have reached out to me and said &amp;ldquo;hey, I love your app, can I be a part of it?&amp;rdquo;  Instead he stole it and tried to make money off of my work.  Maybe we could have made a great team if he wasn&amp;rsquo;t so horrible.&lt;/p&gt;
+&lt;p&gt;When I started on &lt;a href=&#34;https://gabekangas.com/project/longtail-music/&#34;&gt;Longtail Music&lt;/a&gt; I knew there were lots of opportunities to get other people involved.  On purely the product side I had never built a web app in React before, and in general never built a web app of that scale before, as I&amp;rsquo;m not a day to day web developer.  On top of that a lot of the work for Longtail focused on non-technical communications with station owners, reaching out to stations, and all of the management of those relationships.  So I spent time on cofounder forums, had conversations with people, followed leads, but no luck.  Finding a cofounder is hard.  If you&amp;rsquo;re a technical person you need to find a business person to buy into your product, and business people already think their ideas are better, since they&amp;rsquo;re the &amp;ldquo;idea people&amp;rdquo;.  And if you&amp;rsquo;re a business person looking to find a technical person, you have to convince somebody to build something for free in order to fulfill your idea.  I&amp;rsquo;m of the former, and finding somebody to help with the non-technical role in Longtail didn&amp;rsquo;t work out.&lt;/p&gt;
+&lt;p&gt;As for building Longtail, obviously just putting your code on Github isn&amp;rsquo;t a way to actively find collaborators and share knowledge and build something.  You have to be far more proactive than that.  And there&amp;rsquo;s &lt;strong&gt;nothing more proactive then going and hiring somebody to work with you on a piece of a project&lt;/strong&gt;.  So that&amp;rsquo;s exactly what I did.&lt;/p&gt;
+&lt;p&gt;There were a couple times during development that I really wanted a second set of eyes when working through technical things, and I was willing to pay for this.  So I hired a freelance contractor to work on a couple things with me.  Some time was spent getting familiar with the project and then he bailed saying they were unable to help.  So I tried a couple more times, and pattern repeated itself.  Once it was time to actually work on something the person would duck out saying that they were unable to move forward.  So here is an example of me, learning something new, building something new, wanting to pick up some tips, best practices and collaborate with somebody else&amp;hellip; &lt;strong&gt;and I&amp;rsquo;m paying them&lt;/strong&gt;, still with no luck.&lt;/p&gt;
+&lt;p&gt;While I could take this personally and interpret it as &amp;ldquo;the work I do is so horrible&amp;rdquo;, or &amp;ldquo;I&amp;rsquo;m so horrible that people refuse to work with me on it&amp;rdquo;, I think the truth is these online freelancers aren&amp;rsquo;t good at working in an existing codebase, feel over their heads, or would prefer to be hired by non-technical people to throw new projects together, not work hand-in-hand with somebody technical on an existing project where they could be judged.  And frankly, &lt;strong&gt;you can&amp;rsquo;t pay somebody to care or put effort in&lt;/strong&gt;.  At least not at my budget.&lt;/p&gt;
+&lt;p&gt;So realistically, I know it&amp;rsquo;s not me, but that doesn&amp;rsquo;t mean I don&amp;rsquo;t have a slight complex about the whole thing.  I have a 0% track record trying to get people to work with me on projects.  &lt;strong&gt;If I&amp;rsquo;m paying them&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d understand if I was asking for something crazy, but generally the scenario is:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I&amp;rsquo;m trying something new.&lt;/li&gt;
+&lt;li&gt;I find a freelancer who&amp;rsquo;s an expert claiming a deep background in it.&lt;/li&gt;
+&lt;li&gt;I want them to share their knowledge and best practices with me.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;But they can&amp;rsquo;t&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Usually the comments are along the lines of &lt;em&gt;&amp;ldquo;this project is much more elaborate than I thought&amp;rdquo;&lt;/em&gt;, or &lt;em&gt;&amp;ldquo;I no longer have the time that I expected to work on this project&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;My coworkers seem to like working with me, and I have a track record of shipping things, so it seems like people might want to work on things that are shared interests.&lt;/p&gt;
+&lt;p&gt;So why am I writing about this now?  Currently I&amp;rsquo;m writing my first macOS AppKit application.  While much of my experience working in iOS can be transferred to the desktop, there are handfuls of quirks very specific to the storied history of AppKit on the Mac, and given that AppKit was released in 1989 I wanted to dig into all that experience that people have and get some tips and best practices from people who specialize in it.  &lt;strong&gt;You can probably guess how well that turned out&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll close on a more positive note, though.  I&amp;rsquo;ve been fortunate enough to hire a couple designers who I personally know, both for my current project and for Longtail Music that have worked out.  I assume that hiring a designer is far more successful for me not just because I knew them previously, but because I&amp;rsquo;m not a designer.  I think there&amp;rsquo;s a far different vibe when working &lt;em&gt;with&lt;/em&gt; somebody and working &lt;em&gt;for&lt;/em&gt; somebody.  With design I say &amp;ldquo;here&amp;rsquo;s kind of what I&amp;rsquo;m thinking, go crazy&amp;rdquo;, some time goes by, and then I get some results.  With developers I&amp;rsquo;m looking to work hand-in-hand, learn something, and create output together.  And unless you&amp;rsquo;re super confident and super capable that style of work is probably uncomfortable for people.&lt;/p&gt;
+&lt;img src=&#34;https://gabekangas.com/blog/images/forever-alone.png&#34;&gt;</description>
+</item>
+    
+
+    <item>
+<title>Can we encourage Facebook employees to go elsewhere?</title>
+<link>https://gabekangas.com/blog/2019/02/can-we-encourage-facebook-employees-to-go-elsewhere/</link>
+<pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/blog/2019/02/can-we-encourage-facebook-employees-to-go-elsewhere/</guid>
+<description>&lt;p&gt;I was walking to work this morning past a group of Facebook employees waiting for their bus.  I wanted to say something to them.  While I didn&amp;rsquo;t, it got me thinking, what if?&lt;/p&gt;
+&lt;p&gt;What if I actually stopped to say something?  Would it turn confrontational?  Would they ignore me?  What if I had an encouraging, positive, standardized statement that said &amp;ldquo;Hey, you&amp;rsquo;re really fucking good at your job.  You have options.  You can do what you do anywhere&amp;rdquo;.  What if it were printed on a little card that I could just give people so they don&amp;rsquo;t try and hit me.  What if the card had statements from people smarter, and more influential than I encouraging these talented people to put their skills to use elsewhere?&lt;/p&gt;
+&lt;p&gt;The thoughts started to balloon.  What if there were a recruiter attached who&amp;rsquo;s specializing in trying to get these Facebook employees to interview elsewhere?  Or employers who&amp;rsquo;s willing to fast-track Facebook employees to an on-site interview?  While these are real, tangible things, they wouldn&amp;rsquo;t really help here.  Facebook employees, in theory, get reached out to by hiring representatives every day so they don&amp;rsquo;t need special treatment.  They already have options.  But I don&amp;rsquo;t know what kind of tangible things you could offer somebody working there that would make them feel like it&amp;rsquo;s worthwhile to go a different direction.  &lt;a href=&#34;https://mashable.com/article/facebook-employees-react-teen-spying-app-blind/#eNEWhq8YHaqK&#34;&gt;Is money, truly, all that matters to Facebook employees?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Everyone has worked somewhere they&amp;rsquo;re not 100% proud of, but with an organization such as Facebook I think we&amp;rsquo;re seeing employees doubling down on their choice because the alternative is that they work for somewhere truly evil, and that&amp;rsquo;s a hard pill to swallow.  Every Facebook employee is part of the problem, but they don&amp;rsquo;t have to be.  They can leave and do amazing things.  Things that don&amp;rsquo;t require waiting for a bus to Menlo Park or enabling the demise of democracy.&lt;/p&gt;
+&lt;p&gt;If you worked somewhere that you knew at your core was not positive for humanity what are some things that people could say to you to make you feel like it&amp;rsquo;s ok to move on and do something else?  How do you support them in stopping what they&amp;rsquo;re doing without coming off as judging them?&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t know if this is just a thought experiment, or if it&amp;rsquo;s something that&amp;rsquo;s actually ethically possible to pursue.  But if you have ideas on how we can encourage Facebook employees to go do something else, let me know by &lt;a href=&#34;https://mastodon.social/@gabek&#34;&gt;pinging me on the Fediverse&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+
+    <item>
+<title>New web site for 2019</title>
+<link>https://gabekangas.com/blog/2019/01/new-web-site-for-2019/</link>
+<pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/blog/2019/01/new-web-site-for-2019/</guid>
+<description>&lt;p&gt;If you look back at my recent &lt;a href=&#34;https://gabekangas.com/blog/2018/12/my-2018-in-review/&#34;&gt;2018 Year in Review&lt;/a&gt; you know I was toying with the idea of updating my web site to use a &lt;a href=&#34;https://www.staticgen.com/&#34;&gt;static site generator&lt;/a&gt;. As you can see, I went through with it. Let me explain a bit of the process, and my rationalization behind it all.&lt;/p&gt;
+&lt;p&gt;I last did a major refresh of my web site about 6 years ago where I went from self-hosting a Wordpress blog to moving everything over to Squarespace. With that I lost a ton of flexibility, &lt;strong&gt;but also lost a ton of hassle&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;My friend &lt;a href=&#34;http://www.bobbyt.com&#34;&gt;Bob&lt;/a&gt; has been working on his new site, and we talk about it every once in a while. So a personal web refresh has been on my mind. On top of these conversations I also left Twitter and Facebook, so &lt;strong&gt;having a place to call my own has started to become a little bit more important to me&lt;/strong&gt;. I kind of knew what I wanted next time I went about it, even if I had no intention of actually doing this anytime soon.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I wanted a static site with no backend and no dependancies. Before using Squarespace I was a Wordpress user for years and I never want to go back to that place again. I just want to be able to throw this site anywhere.&lt;/li&gt;
+&lt;li&gt;The site should be simple. Something more like what the web used to be like years ago. Some time just after everyone was building pages on Geocities and just before everyone was building stupid Flash sites.&lt;/li&gt;
+&lt;li&gt;As little Javascript as possible. Preferably zero Javascript, though I went back on this and did end up adding a couple things that required it.  Too bad you have to use Javascript when writing for the web.&lt;/li&gt;
+&lt;li&gt;I wanted a place where I could have a list of my current projects.&lt;/li&gt;
+&lt;li&gt;Since I left Facebook and Twitter, I wanted a place to put all the trivial junk I&amp;rsquo;d normally share through those avenues, but weren&amp;rsquo;t worthy of an entire blog post.&lt;/li&gt;
+&lt;li&gt;And it should have a little more of my personality than the standard layouts and templates I&amp;rsquo;ve used over the years.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I already have too many projects on my plate in active development, but I figured something small and fun would be to see how difficult it would be to export my Squarespace content and get it into &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. Since obviously if I couldn&amp;rsquo;t get my data out of there then there wasn&amp;rsquo;t much point in even thinking about putting work in. The first step was to export from Squarespace. They give you a Wordpress &amp;ldquo;bundle&amp;rdquo;, an XML file with all of your posts and metadata, but that wasn&amp;rsquo;t much use to me. So I did some research and found &lt;a href=&#34;https://github.com/thomasf/exitwp&#34;&gt;ExitWP&lt;/a&gt;, a Python script that converts Wordpress bundles to html files that would work with Hugo. A little tweaking and customizing, and in less than an hour I had a directory of files ready for consumption.&lt;/p&gt;
+&lt;p&gt;Once I had content I thought I&amp;rsquo;d test to see if I could render it within a basic Hugo site. And before you know it I was actively working on a new personal home page.&lt;/p&gt;
+&lt;p&gt;Out of curiosity I hit up the Wayback Machine to look at some old websites of mine. I forgot how fully featured they were. Before Facebook was a daily part of our lives my personal website was &lt;strong&gt;really cool&lt;/strong&gt;. It tied into Netflix, iTunes, LastFM, Vimeo, Twitter, Twitpic, and more. I wasn&amp;rsquo;t limited by what Facebook offered me, I just built whatever I wanted.  You can see how each version of my site gets progressively more lame over time.&lt;/p&gt;
+&lt;div class=&#34;image-gallery&#34;&gt;
+  
+&lt;a href=&#34;https://gabekangas.com/blog/images/old-website-1.png&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://gabekangas.com/blog/images/old-website-1.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;My site until 2009&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/a&gt;
+&lt;a href=&#34;https://gabekangas.com/blog/images/old-website-2.png&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://gabekangas.com/blog/images/old-website-2.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;2009 - 2013&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/a&gt;
+&lt;a href=&#34;https://gabekangas.com/blog/images/old-website-3.png&#34;&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;https://gabekangas.com/blog/images/old-website-3.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;2013 - 2019&lt;/h4&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;p&gt;So here we are. A new web site that I &lt;em&gt;think&lt;/em&gt; accomplishes all the requirements above. It&amp;rsquo;s not the most advanced, or novel, but if nothing else you can tell it&amp;rsquo;s mine. I own the content, I can move it anywhere, and I&amp;rsquo;m no longer paying Squarespace. And not to be overlooked, I&amp;rsquo;ve now officially changed the background image on my web site &lt;strong&gt;for the first time in 10 years&lt;/strong&gt;. Let me know what you think over on &lt;a href=&#34;https://mastodon.social/@gabek&#34;&gt;Mastodon&lt;/a&gt;.&lt;/p&gt;
+</description>
+</item>
+    
+
+    <item>
+<title>My 2018 in review</title>
+<link>https://gabekangas.com/blog/2018/12/my-2018-in-review/</link>
+<pubDate>Fri, 28 Dec 2018 20:53:13 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/blog/2018/12/my-2018-in-review/</guid>
+<description>
+&lt;!DOCTYPE html PUBLIC &#34;-//W3C//DTD HTML 4.0 Transitional//EN&#34; &#34;http://www.w3.org/TR/REC-html40/loose.dtd&#34;&gt;
+&lt;html&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+      I figured enough has taken place this year, enough changes have taken
+      place, and I’ve worked on enough projects that a post recapping things
+      might be worthwhile.
+    &lt;/p&gt;
+    &lt;p&gt;
+      To start, here’s a playlist of my favorite songs of the year that you can
+      listen to while reading this post.
+    &lt;/p&gt;
+
+    &lt;iframe
+      class=&#34;embedly-embed&#34;
+      src=&#34;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fopen.spotify.com%2Fembed%2Fuser%2Fgabek%2Fplaylist%2F19O9V2b18geBYuRWo17fqb&amp;amp;url=https%3A%2F%2Fopen.spotify.com%2Fuser%2Fgabek%2Fplaylist%2F19O9V2b18geBYuRWo17fqb&amp;amp;image=https%3A%2F%2Fmosaic.scdn.co%2F640%2F7f289e90ddb7bb04b51abcb0a0c8abc9e073d089997f86b60c8f790386efa16144af5e3ccc7c523be28ee5d01614983310f16f1f3746586affdf2f57ff72bd8dc442fbeeb681d09e36c4598982c578b8&amp;amp;key=61d05c9d54e8455ea7a9677c366be814&amp;amp;type=text%2Fhtml&amp;amp;schema=spotify&amp;amp;wmode=opaque&#34;
+      width=&#34;300&#34;
+      height=&#34;380&#34;
+      scrolling=&#34;no&#34;
+      frameborder=&#34;0&#34;
+      allow=&#34;autoplay; fullscreen&#34;
+      allowfullscreen=&#34;true&#34;
+    &gt;&lt;/iframe&gt;
+
+    &lt;p&gt;
+      &lt;strong&gt;So what did I do with this year? &lt;/strong&gt; It seems, looking back,
+      I wrote a ton of code.  Professionally I contributed to a Roku app, two
+      iOS apps, AppleTV and Amazon Fire/Android TV apps.  Outside of work I
+      released #TheCabin for iOS, #TheCabin for Android, #TheCabin web app, an
+      IRC Bot in Go and maintained Longtail Music and The Bat Player for
+      AppleTV.  It was nice to spend time on Android this year, something I’ve
+      been wanting to do in previous years.
+    &lt;/p&gt;
+    &lt;p&gt;
+      If you’re following along at home, you might notice one application
+      missing from the above list.
+      &lt;strong
+        &gt;Going into 2019 I no longer will be supporting or maintaining The Bat
+        Player for Roku.&lt;/strong
+      &gt;
+      This decision isn’t made lightly, as a lot of people use that app on the
+      Roku and has enjoyed it for a handful of years.  But Roku, the company, as
+      of 2019, will no longer allow applications written with the original Roku
+      software development kit to be run on devices.  And while this sucks, it
+      wouldn’t be the end of the world to re-write it, all it takes is time and
+      energy. And to be honest, I got pretty far in that rewrite. But Roku, in
+      general, has made life difficult for developers on their platform, and I’m
+      no longer interested in developing for them. On top of that they break
+      APIs in every OS version update, they don’t fix reported problems, and the
+      development environment you have to work with is just horrible.  So on a
+      personal level, I’m done with Roku.  I get to choose what platforms and
+      environments to develop for in my free time, so I’m choosing to no longer
+      support them with my work.
+    &lt;/p&gt;
+    &lt;p&gt;
+      Even though I shipped a bunch of stuff this year, there’s one thing that
+      didn’t make it out, my currently in-progress Mastodon client.  I’ve been
+      hard at work on it, and I had hoped to have a beta out by the end of 2018,
+      but it’s just not done yet.  I’m sure you’ll hear more about it in the
+      coming months, but until then, learn a bit about Mastodon and check it
+      out.
+    &lt;/p&gt;
+
+    &lt;iframe
+      src=&#34;//www.youtube.com/embed/IPSbNdBmWKE?wmode=opaque&amp;amp;enablejsapi=1&#34;
+      height=&#34;480&#34;
+      width=&#34;854&#34;
+      scrolling=&#34;no&#34;
+      frameborder=&#34;0&#34;
+      allowfullscreen=&#34;&#34;
+    &gt;
+    &lt;/iframe&gt;
+
+    &lt;p&gt;
+      Speaking of social networks, 2018 is the year that broke the camel’s back
+      when it came to leaving Twitter and Facebook.  But before I brief you on
+      that, believe me, I don’t want a big dramatic announcement saying
+      &lt;em&gt;“OMG I’M LEAVING”&lt;/em&gt;, but I do want to explain myself.
+    &lt;/p&gt;
+    &lt;p&gt;
+      Twitter this year deprecated a handful of important APIs for third party
+      developers.
+      &lt;strong
+        &gt;That means fantastic applications such as Tweetbot, Twitterific and
+        others were cut off at the knees by Twitter so people would start using
+        the official Twitter apps&lt;/strong
+      &gt;
+      instead of third party apps that many people, like me, preferred.  You can
+      read more about this at
+      &lt;a href=&#34;http://apps-of-a-feather.com/&#34;&gt;http://apps-of-a-feather.com/&lt;/a
+      &gt;.  After telling these apps they could no longer have full access to the
+      Twitter feature set they had the nerve to email their users and say
+      &lt;em
+        &gt;“Use the official Twitter app because it has all the features, unlike
+        the others”&lt;/em
+      &gt;.
+      &lt;strong
+        &gt;That’s like punching somebody in the face and then making fun of their
+        black eye.&lt;/strong
+      &gt;
+      This whole developer ordeal on top of the way the Twitter corporation
+      handles their product, privacy, abuse, nazis, Trump, ads, etc… I just had
+      enough.
+    &lt;/p&gt;
+    &lt;p&gt;
+      As for Facebook, I shouldn’t need to explain myself much there.  Facebook
+      is a horrible company for all the reasons you already know. The company
+      needs to be burned to the ground.  I highly recommend watching the two
+      part PBS Frontline documentary called
+      &lt;a
+        href=&#34;https://www.pbs.org/wgbh/frontline/film/facebook-dilemma/&#34;
+        target=&#34;_blank&#34;
+        &gt;The Facebook Dilemma&lt;/a
+      &gt;
+      if you’re not sufficiently angry about Facebook.  I stuck around on the
+      service as long as I have because&lt;strong&gt;
+        Facebook is the single thread that kept me connected to handfuls of
+        people&lt;/strong
+      &gt;, and the local events that get surfaced to me through “the algorithm”. 
+      But admittedly I actually talk to very, very few people on Facebook, but
+      that doesn’t mean it’s not hard to walk away from having those
+      connections. But the hardest thing to replicate going forward will be the
+      event calendars. I’m posting a link to this blog post on Facebook so
+      people know where to find me, but other than that I’m done there.
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;strong
+        &gt;So if you want to chat with me online going forward, there’s
+        options.&lt;/strong
+      &gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+      For private communication there’s
+      &lt;strong&gt;no reason not to use encrypted messaging products&lt;/strong&gt;.  If
+      you want to chat and you have my phone number, and use Apple devices,
+      there’s iMessage.  If you don’t use iMessage you can look me up on
+      &lt;a href=&#34;https://www.signal.org/&#34; target=&#34;_blank&#34;&gt;Signal Messenger&lt;/a&gt; by
+      number as well.  You can also chat with me on Keybase:
+      &lt;a href=&#34;https://keybase.io/gabek&#34;&gt;https://keybase.io/gabek&lt;/a&gt;, a great
+      security product with a wide range of features outside of just messaging.
+    &lt;/p&gt;
+    &lt;p&gt;
+      As far as following me publicly, Mastodon is where it’s at.  Follow me at
+      &lt;a href=&#34;https://mastodon.social/@gabek&#34;
+        &gt;https://mastodon.social/@gabek&lt;/a
+      &gt;
+      and learn more about Mastodon at
+      &lt;a href=&#34;https://joinmastodon.org/&#34;&gt;https://joinmastodon.org/&lt;/a&gt;.  While
+      I still don’t feel “at home” on Mastodon, I do think it’s early days.  It
+      keeps growing, and little by little I follow more and more people and feel
+      out the different communities.  But I feel strongly enough about it to
+      support it with my time, money and effort by donating to their Patreon and
+      building a dedicated desktop client. I think Mastodon in 2019 has big
+      things in store.
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;strong&gt;So what will change for me in 2019?&lt;/strong&gt; Well, I should
+      probably write on gabekangas.com more often. The (rare) things that used
+      to go on Facebook, and the tiny things I would post to Twitter was usually
+      enough, so only a couple large posts a year showed up here. I should write
+      more, and about different and smaller things. But given that there’s not
+      really a network to share those posts out to, I’m not sure if anybody
+      would see them. I’ve thought about revamping this site, as well. Moving it
+      from Squarespace to a Static Site generated by Hugo, but that’s a lot of
+      work unless I really plan on using it.
+    &lt;/p&gt;
+    &lt;p&gt;
+      And lastly, since I have your attention, take some time in 2019 to learn
+      about the alternatives to the free online corporate services you regularly
+      use.  A great resource is
+      &lt;a href=&#34;https://switching.social/&#34;&gt;https://switching.social/&lt;/a&gt; and
+      &lt;a href=&#34;https://nomoregoogle.com/&#34;&gt;https://nomoregoogle.com/&lt;/a&gt;.  The
+      companies you trust your data to don’t have your best intentions in mind
+      and I think we’ll see even more examples of that in 2019.
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+</item>
+    
+  </channel>
+</rss>

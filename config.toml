@@ -3,9 +3,12 @@ languageCode = "en_US"
 title = "Gabe Kangas"
 theme = "HugoMDL"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [outputs]
   page = ["HTML", "Gopher"]
-  section = ["HTML", "Gopher"]
+  section = ["HTML", "Gopher", "RSS"]
   home = ["HTML", "Gopher", "RSS"]
 
 [mediaTypes]

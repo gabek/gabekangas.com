@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bio on Gabe Kangas</title>
+    <link>https://gabekangas.com/categories/bio/</link>
+    <description>Recent content in bio on Gabe Kangas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_US</language>
+    
+	<atom:link href="https://gabekangas.com/categories/bio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Gabe</title>
+      <link>https://gabekangas.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gabekangas.com/about/</guid>
+      <description>Gabe Kangas is a founder, full-stack client engineer and developer of products across multiple platforms with a history in media technology companies.
+Currently at a consumer OTT television streaming service, he works on Roku, Amazon Fire, AppleTV and iPhone clients to enable users to consume television, both live and recorded, from anywhere.
+Previously he was at Rdio, a leading music streaming service who got acquired by Pandora, where he worked on the iOS application, live radio integration, and automotive hardware initiatives.</description>
+    </item>
+    
+  </channel>
+</rss>
