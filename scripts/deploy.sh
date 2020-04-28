@@ -16,4 +16,4 @@ mv gopher/post.txt gopher/gophermap
 scp -r gopher/* gabek@sdf.lonestar.org:~/gopher >> /dev/null
 
 echo "Setting domain to the new web instance..."
-now alias
+now --prod
