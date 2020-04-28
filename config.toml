@@ -11,6 +11,11 @@ unsafe= true
   section = ["HTML", "Gopher", "RSS"]
   home = ["HTML", "Gopher", "RSS"]
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  artist = "artist"
+
 [mediaTypes]
 [mediaTypes."text/gopher"]
 suffixes = ["txt"]
@@ -34,6 +39,7 @@ suffixes = ["txt"]
   background = "/images/background.png"
   description = "Gabe's home page." #meta description
   image = "/images/avatar.png" #for frontpage profile card
+  mainSections = ["blog", "mixes"]
   mdlPrimary = "gray"
   mdlSecondary = "gray"
   cardtitlecolor = "green"
