@@ -1,55 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>San Francisco on Gabe Kangas</title>
-    <link>https://gabekangas.com/categories/san-francisco/</link>
-    <description>Recent content in San Francisco on Gabe Kangas</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en_US</language>
-    <lastBuildDate>Tue, 17 Nov 2015 17:41:12 +0000</lastBuildDate>
-    
-	<atom:link href="https://gabekangas.com/categories/san-francisco/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Goodbye, Rdio</title>
-      <link>https://gabekangas.com/blog/2015/11/goodbye-rdio/</link>
-      <pubDate>Tue, 17 Nov 2015 17:41:12 +0000</pubDate>
-      
-      <guid>https://gabekangas.com/blog/2015/11/goodbye-rdio/</guid>
-      <description>Like everybody else, I felt like I had heard every song on Pandora by the time I discovered Rdio. I was user number 4075, a paid unlimited user, signing up on June 6, 2010. I was really happy to hear anything I wanted. I used the Rdio Desktop client to create a collection on the service with my local iTunes Library. I listened to it a lot.</description>
-    </item>
-    
-    <item>
-      <title>Gabe&#39;s 2012 Year in Review</title>
-      <link>https://gabekangas.com/blog/2012/12/gabes-2012-year-in-review/</link>
-      <pubDate>Fri, 28 Dec 2012 04:20:04 +0000</pubDate>
-      
-      <guid>https://gabekangas.com/blog/2012/12/gabes-2012-year-in-review/</guid>
-      <description>It&#39;s time for my mostly-annual &#34;stuff and things&#34; post. I&#39;ve missed some years, but I think I have more new stuff this time around. I&#39;ll try and detail all of the software, hardware and services that I&#39;ve used this year to make my personal and professional life better or more interesting.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>San Francisco on Gabe Kangas</title><link>https://gabekangas.com/categories/san-francisco/</link><description>Recent content in San Francisco on Gabe Kangas</description><generator>Hugo -- gohugo.io</generator><language>en_US</language><lastBuildDate>Tue, 17 Nov 2015 17:41:12 +0000</lastBuildDate><atom:link href="https://gabekangas.com/categories/san-francisco/index.xml" rel="self" type="application/rss+xml"/><item><title>Goodbye, Rdio</title><link>https://gabekangas.com/blog/2015/11/goodbye-rdio/</link><pubDate>Tue, 17 Nov 2015 17:41:12 +0000</pubDate><guid>https://gabekangas.com/blog/2015/11/goodbye-rdio/</guid><description>Like everybody else, I felt like I had heard every song on Pandora by the time I discovered Rdio. I was user number 4075, a paid unlimited user, signing up on June 6, 2010. I was really happy to hear anything I wanted. I used the Rdio Desktop client to create a collection on the service with my local iTunes Library. I listened to it a lot.</description></item><item><title>Gabe's 2012 Year in Review</title><link>https://gabekangas.com/blog/2012/12/gabes-2012-year-in-review/</link><pubDate>Fri, 28 Dec 2012 04:20:04 +0000</pubDate><guid>https://gabekangas.com/blog/2012/12/gabes-2012-year-in-review/</guid><description>It's time for my mostly-annual "stuff and things" post. I've missed some years, but I think I have more new stuff this time around. I'll try and detail all of the software, hardware and services that I've used this year to make my personal and professional life better or more interesting.
 Software
- Desktop (OS X)   Xcode.
-Love it or hate it, I live in it. Actually, I don&#39;t know if I love it or hate it.</description>
-    </item>
-    
-    <item>
-      <title>I&#39;ve lived in San Francisco for a while</title>
-      <link>https://gabekangas.com/blog/2012/07/ive-lived-in-san-francisco-for-a-while/</link>
-      <pubDate>Sun, 22 Jul 2012 10:23:59 +0000</pubDate>
-      
-      <guid>https://gabekangas.com/blog/2012/07/ive-lived-in-san-francisco-for-a-while/</guid>
-      <description>I was asked a few weeks back why I haven&#39;t written a post on my blog since I&#39;ve been to San Francisco. I mean, there must be a lot of stuff to talk about, right? It&#39;s a pretty significant move and maybe the world wants to hear me blab about it. But I think in general I have been blabbing about it, but in more specific channels. But that&#39;s not to say I shouldn&#39;t have a larger periodic update.</description>
-    </item>
-    
-    <item>
-      <title>Another adventure begins.  Goodbye Omaha.</title>
-      <link>https://gabekangas.com/blog/2012/01/another-adventure-begins.-goodbye-omaha./</link>
-      <pubDate>Sun, 29 Jan 2012 10:05:13 +0000</pubDate>
-      
-      <guid>https://gabekangas.com/blog/2012/01/another-adventure-begins.-goodbye-omaha./</guid>
-      <description>My time in Omaha is coming to an end. On Friday, February 3rd I&#39;ll have relocated to San Francisco. When looking back at the past three years it&#39;s hard to decide what to put in this rather long retrospective post. But I&#39;ll use it as my last opportunity to highlight, clarify, give thanks, and try to explain why I&#39;m taking on this new adventure.
-I moved to Omaha thinking I&#39;d have to dodge cows on the way to the office every day.</description>
-    </item>
-    
-  </channel>
-</rss>
+Desktop (OS X) Xcode.
+Love it or hate it, I live in it. Actually, I don't know if I love it or hate it.</description></item><item><title>I've lived in San Francisco for a while</title><link>https://gabekangas.com/blog/2012/07/ive-lived-in-san-francisco-for-a-while/</link><pubDate>Sun, 22 Jul 2012 10:23:59 +0000</pubDate><guid>https://gabekangas.com/blog/2012/07/ive-lived-in-san-francisco-for-a-while/</guid><description>I was asked a few weeks back why I haven't written a post on my blog since I've been to San Francisco. I mean, there must be a lot of stuff to talk about, right? It's a pretty significant move and maybe the world wants to hear me blab about it. But I think in general I have been blabbing about it, but in more specific channels. But that's not to say I shouldn't have a larger periodic update.</description></item><item><title>Another adventure begins. Goodbye Omaha.</title><link>https://gabekangas.com/blog/2012/01/another-adventure-begins.-goodbye-omaha./</link><pubDate>Sun, 29 Jan 2012 10:05:13 +0000</pubDate><guid>https://gabekangas.com/blog/2012/01/another-adventure-begins.-goodbye-omaha./</guid><description>My time in Omaha is coming to an end. On Friday, February 3rd I'll have relocated to San Francisco. When looking back at the past three years it's hard to decide what to put in this rather long retrospective post. But I'll use it as my last opportunity to highlight, clarify, give thanks, and try to explain why I'm taking on this new adventure.
+I moved to Omaha thinking I'd have to dodge cows on the way to the office every day.</description></item></channel></rss>

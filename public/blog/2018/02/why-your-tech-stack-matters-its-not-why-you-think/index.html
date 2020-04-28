@@ -1,368 +1,114 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta name="generator" content="Hugo 0.69.2" />
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="The personal home page of Gabe Kangas">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/favicon/apple-touch-icon-57x57.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/favicon/apple-touch-icon-114x114.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/favicon/pple-touch-icon-72x72.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicon/apple-touch-icon-144x144.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/favicon/apple-touch-icon-60x60.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/favicon/apple-touch-icon-120x120.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/favicon/apple-touch-icon-76x76.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/favicon/apple-touch-icon-152x152.png" />
-    <link rel="icon" type="image/png" href="/favicon/favicon-196x196.png" sizes="196x196" />
-    <link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16" />
-    <link rel="icon" type="image/png" href="/favicon/favicon-128.png" sizes="128x128" />
-    <meta name="application-name" content="&nbsp;" />
-    <meta name="msapplication-TileColor" content="#FFFFFF" />
-    <meta name="msapplication-TileImage" content="/favicon/mstile-144x144.png" />
-    <meta name="msapplication-square70x70logo" content="/favicon/mstile-70x70.png" />
-    <meta name="msapplication-square150x150logo" content="/favicon/mstile-150x150.png" />
-    <meta name="msapplication-wide310x150logo" content="/favicon/mstile-310x150.png" />
-    <meta name="msapplication-square310x310logo" content="/favicon/mstile-310x310.png" />
-
-    <link rel="stylesheet"
-        href="https://storage.googleapis.com/code.getmdl.io/1.1.3/material.grey-orange.min.css" />
-
-    
-    
-    
-    
-    
-    
-    <link rel="stylesheet" href="/css/style.min.cd2ac739f06431be109ffdcb7ad75a36e2ed473f233926d44c62f37c2096047c.css" />
-
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/brands.css"
-        integrity="sha384-1KLgFVb/gHrlDGLFPgMbeedi6tQBLcWvyNUN+YKXbD7ZFbjX6BLpMDf0PJ32XJfX" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/fontawesome.css"
-        integrity="sha384-jLuaxTTBR42U2qJ/pm4JRouHkEDHkVqH0T1nyQXn1mZ7Snycpf6Rl25VBNthU4z0" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/solid.css"
-        integrity="sha384-+0VIRx+yz1WBcCTXBkVQYIBVNEFH1eP6Zknm16roZCyeNg2maWEpk/l/KsyFKs7G" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://gabekangas.com/css/custom.css" />
-
-    
-    
-    
-    
-    
-    
-    
-    
-
-    <script src="/js/scripts.min.51220b6cff322f0f22ece056dc7ba902c83663c1fc1fb67b092c36a526f2eee8.js" async></script><meta property="og:title" content="Why your tech stack matters (It&#39;s not why you think)" />
-<meta property="og:description" content="My thoughts on cross-platform development solutions given the rise in popularity of React Native." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://gabekangas.com/blog/2018/02/why-your-tech-stack-matters-its-not-why-you-think/" />
-<meta property="article:published_time" content="2018-02-06T17:32:39+00:00" />
-<meta property="article:modified_time" content="2018-02-06T17:32:39+00:00" />
-
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Why your tech stack matters (It&#39;s not why you think)"/>
-<meta name="twitter:description" content="My thoughts on cross-platform development solutions given the rise in popularity of React Native."/>
-
-
-
-
-
-    
-    <title>Why your tech stack matters (It&#39;s not why you think) | Gabe Kangas</title>
-    
-</head>
-
-<body style="background-image: url('/images/background.png');">
-    <div class="overlay">
-    </div>
-
-    <div class="hmdl-body mdl-layout mdl-js-layout has-drawer is-upgraded">        
-        <header class="mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll">            
-            <div class="mdl-layout__header-row">
-                <div class="mdl-layout-spacer"></div>
-                <nav class="mdl-navigation">
-                <p><input id="search-input" type="text" placeholder="Search..."/></p>
-                <div id="search-results"></div>
-                <a class="mdl-navigation__link" href="/">Home</a>
-                <a class="mdl-navigation__link" href="/blog/">Blog</a>
-                <a class="mdl-navigation__link" href="/project/">Projects</a>
-                <a class="mdl-navigation__link" href="/about/">About</a>
-                </nav>
-            </div>
-        </header>
-        <div class="mdl-layout__drawer">
-            <nav class="mdl-navigation">
-            <a class="mdl-navigation__link" href="/">Home</a>
-            <a class="mdl-navigation__link" href="/blog/">Blog</a>
-            <a class="mdl-navigation__link" href="/project/">Projects</a>
-            <a class="mdl-navigation__link" href="/about/">About</a>
-            </nav>
-        </div>
-
-        <main class="mdl-layout__content">
-            <div class="hmdl-page mdl-grid">
-                <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
-                    <div class="hmdl-page-banner mdl-card__media mdl-color-text--grey-50" style="background-image: url('/blog/images/tech-stack-matters.jpg'); ">
-                        <h3 class="card-header-text" >Why Your Tech Stack Matters (It&#39;s Not Why You Think)</h3>
-                    </div>
-                    <div class="hmdl-page-content mdl-color-text--grey-700 mdl-card__supporting-text">
-                        
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html>
-  <body>
-    <img
-      src="/squarespace_images/static_50ce21f9e4b0a7200de38642_50d2a1a4e4b0fd42afd19a23_5a762fc453450ac9093ce48a_1517694953069_What%E2%80%99s_New_in_Swift_-_402-480x253.png_"
-      alt=""
-    />
-
-    <p>
-      Recently I've received a lot of messages from recruiters looking for an
-      iOS developer to build with React Native.  And while I generally don't
-      care what technologies people are selecting to build their products, I
-      find this to be a subject that I think warrants a deeper dive.  But a
-      disclaimer up front: I have a bias, and I only speak for me, not for any
-      team I'm currently or have been a part of.
-    </p>
-    <p>
-      I'm going to focus on mobile development in this post, but it's as bad, or
-      worse, with the desktop.  Bad
-      <a href="https://electronjs.org/">Electron</a> apps, written with web
-      technologies, are everywhere, and today
-      <a
-        href="https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/"
-        >Microsoft announced</a
-      >
-      that web apps are going to be first class citizens next to native apps on
-      the Microsoft Windows store.
-    </p>
-    <p>
-      My experiences with different mobile development options have been with
-      the best of intentions by the team who selected it.  For example, I'm
-      currently on a team I think nothing but the best of who have gone the
-      React Native route with a good mixture of actual-native.
-    </p>
-    <p>What I've released iOS applications with:</p>
-    <ol>
-      <li>Web only (Web view)</li>
-      <li>
-        Hybrid frameworks (<a href="https://phonegap.com/">Phonegap</a>,
-        <a href="https://www.appcelerator.com/Titanium/">Titanium</a>)
-      </li>
-      <li>Swift</li>
-      <li>Objective-C</li>
-      <li>Game engine (C++)</li>
-      <li><a href="https://www.xamarin.com/">Xamarin</a> (C#)</li>
-      <li>
-        <a href="https://facebook.github.io/react-native/">React Native</a>
-        (Javascript)
-      </li>
-    </ol>
-    <p>
-      While I won't go into the details of each of the above stacks, I would
-      like to use two of these solutions, Xamarin and React Native, as examples
-      to talk about the realities in using them.
-    </p>
-    <p>
-      Xamarin is a development environment that allows you to write your
-      application in C# while still using native Apple controls and frameworks. 
-      Business logic, networking, persistence, etc would only be written once. 
-      C# is a generally well-liked language and has a lot of features.  While
-      very different than Apple's languages there's nothing you really can't do
-      at a language level.
-    </p>
-    <p>
-      With React Native the view layer additionally is abstracted.  It has its
-      own version of everything and only behind the scenes are the native
-      frameworks and libraries even known about.  Often they're not used at all
-      and a replacement React Native specific implementation of what you'd
-      expect is used instead. You'd write most things only once for multiple
-      platforms, both from a business logic and UI standpoint.  In general,
-      you'll get mixed reactions from the developer community when asking about
-      Javascript.
-    </p>
-    <p>
-      So let's use these two development environments and talk about a fictional
-      new UIKit class that Apple adds to iOS, let's call it UITriangleView.
-    </p>
-    <p>
-      First UITriangleView will be announced at WWDC.  There will be sessions
-      dedicated to it with examples of its usage, details on using it in a
-      performant way with Swift and Objective-C, and where you can go next to
-      read more about it.
-    </p>
-    <p>
-      UITriangleView will then be available in the iOS betas.  All of the iOS
-      developers will download the new XCode with the new SDK and try it out. 
-      Blog posts will be written about all of the advantages of drawing
-      triangles, and there will be deep dives into the future of triangles on
-      iOS.  Throughout this process the Xamarin and React Native developers are
-      patiently waiting, since neither of these environments know about
-      UITriangleView yet.  Depending on the complexity of this new class, the
-      release timelines of these organizations, and testing, we're talking
-      anywhere from weeks to months to get it added to Xamarin or React Native. 
-      And it's likely to be buggy when it does since they're just learning about
-      it, too.
-    </p>
-    <p>
-      When looking for documentation you'll find a lot from Apple.  It's
-      detailed and will get you moving fast.  But you won't find this
-      documentation for your non-native implementation.  With React Native you
-      don't access the class directly at all, so Apple's documentation is
-      useless to you.  With Xamarin hopefully you can translate the usage of the
-      class into C# yourself, as long it's not using any native Apple language
-      features, or you have a different way of doing things in C#.
-    </p>
-    <p>
-      Some new really cool 3rd party libraries might be built on top of
-      UITriangleView.  Maybe FUTriangleManager was written in Swift and takes
-      advantage of the new class.  Xamarin and React Native will never know
-      about the APIs in this library so a process known as
-      <a
-        href="https://facebook.github.io/react-native/docs/native-modules-ios.html"
-        >bridging</a
-      >
-      (or
-      <a
-        href="https://developer.xamarin.com/guides/ios/advanced_topics/binding_objective-c/walkthrough/"
-        >binding</a
-      >, or linking) must be done where the developer wanting to utilize the
-      library must write code that links the non-native C# or Javascript to
-      native iOS or Android code.  This process must be done for any library,
-      SDK or 3rd party code that the developer wants to use.  This bridge code
-      must then be maintained throughout the lifetime of the application and
-      updated each time the 3rd party code is updated.  And given this 3rd party
-      bridge you wrote only works for one platform your dreams of running the
-      same codebase everywhere just fell apart.
-    </p>
-    <p>
-      All of these, and more, often lead people who use non-native development
-      to hold off on new APIs either because they have to, or it's too much of a
-      hassle.  And that's ok.  You don't need to live on the bleeding edge.  But
-      sometimes it's not even about taking advantage of new technologies.  Do
-      you have a partner that needs you to integrate an SDK of 3rd party code
-      for any reason?  And this means <strong>any 3rd party code</strong>. 
-      Analytics, partner SDKs, marketing, etc.  Sometimes a specific version for
-      your environment is available, and sometimes you'll be able to bridge it,
-      and sometimes it makes more sense just to write your own implementation of
-      it from scratch so you can try and share it between multiple platforms. 
-      Writing 3rd party SDKs from scratch probably won't fall into your idea of
-      "easier" or "faster".
-    </p>
-    <p>
-      <strong
-        >These are what I think of as the hard facts surrounding iOS
-        development.</strong
-      >
-      The technology, the implementation and the actual day to day usage of it. 
-      How much time you spend trying to get it to work by emailing Xamarin and
-      searching React Native's Github issues.
-      <strong>But I believe even more important are the soft facts</strong>.
-    </p>
-    <p>
-      What are the community events like that are held around those
-      technologies?  When recruiting how hard is it to find somebody with
-      experience using your non-native choice?  Are you going to hire native
-      developers and train them when they join?  How happy will they be one
-      year, two years down the road when they're left out of all of the exciting
-      new APIs coming out of Apple?  How happy will they be when they go to look
-      for their next position and have to explain that they built using
-      alternative options and haven't written using supported Apple technologies
-      in a while?
-    </p>
-    <p>
-      And, sure, it's a little "touchy-feely" of me, but as somebody who's been
-      a part of the Apple ecosystem for a while I feel like I'm a part of
-      something.  When something new comes out we all talk about it together. 
-      We have Slack rooms and forums where we post questions, meetups at coffee
-      shops, and events hosted by companies who are using these technologies. 
-      Once a year we show up at WWDC from all over the world.  It's a real,
-      tangible thing that you can feel and experience.  It's a world you're a
-      part of.  It's not just a technology choice.  There's a passion for the
-      tools used.  Many of the tools and developers with a deep history going
-      back to <a href="https://en.wikipedia.org/wiki/NeXT">NeXT</a>, and I
-      happen to think that's pretty cool.
-    </p>
-    <p>
-      Of course, Javascript people have passion, too.  But you can argue
-      <a
-        href="https://www.quora.com/Why-does-JavaScript-have-so-much-hype-nowadays/answer/Richard-Kenneth-Eng?utm_content=buffer680b5&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer"
-        ><em>they have to</em></a
-      >.  And it's generally not a passion for devices and apps, it's for the
-      web and the DOM.
-    </p>
-    <p>
-      While the holy grail of "write once, run anywhere" may pull you in, it's a
-      promise that time and time again rarely comes to fruition, and I've
-      personally seen many instances where it falls flat. Think not just about
-      those hard facts (3rd party integration, new APIs, performance,
-      compatibility, long-term maintenance) but also about the soft (developer
-      happiness, community, recruiting).
-    </p>
-    <p>
-      Sometimes you just want to build a quick app, and sometimes you want to do
-      and be a part of something bigger.
-    </p>
-    <p></p>
-  </body>
-</html>
-
-                        <hr/>
-
-
-<h4>I have more stuff you can read if you like. You might like these: </h4>
-<ul>
-  
-  <li><a href="/blog/2013/12/building-tastemakerx-for-ios/">Building TastemakerX for iOS</a></li>
-  
-  <li><a href="/blog/2015/11/goodbye-rdio/">Goodbye, Rdio</a></li>
-  
-  <li><a href="/blog/2015/07/launching-the-bat-player-on-the-roku-store-and-its-aftermath/">Launching The Bat Player on the Roku Store and its aftermath</a></li>
-  
-  <li><a href="/blog/2014/12/developing-for-roku/">Developing for Roku</a></li>
-  
-  <li><a href="/blog/2013/01/stuff-id-like-to-do-in-2013/">Stuff I&#39;d like to do in 2013</a></li>
-  
-</ul>
-
-                    </div>
-                    <div class="hmdl-page-comments mdl-color-text--primary-contrast mdl-card__supporting-text comments"> 
-                        Gabe Kangas
-                        <p></p> <span>Feb 6, 2018</span>
-                    </div>
-                </div>
-            </div>
-</main>
-<footer class="mdl-mini-footer">
-    <div class="mdl-mini-footer--left-section">                
-                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="mailto:gabek@real-ity.com?subject=Hi">
-                    <i class="material-icons_lg icon ion-email"></i>
-                    <span class="visuallyhidden">Email</span>
-                </a>
-                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://github.com/gabek/">
-                    <i class="material-icons_lg icon ion-social-github"></i>
-                    <span class="visuallyhidden">Github</span>
-                </a>
-                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://www.linkedin.com/in/gabek/">
-                    <i class="material-icons_lg icon ion-social-linkedin "></i>                        
-                    <span class="visuallyhidden">LinkedIn</span>
-                </a>
-
-    </div>
-    <div class="mdl-mini-footer--right-section">
-        <span>© 2020 Gabe Kangas</span>
-    </div>
-</footer>
-<div class="mdl-layout__obfuscator"></div>
-</div>
-
-
-</body>
-
-</html>
+<!doctype html><html><head><meta name=generator content="Hugo 0.69.2"><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=description content="The personal home page of Gabe Kangas"><meta name=viewport content="width=device-width,initial-scale=1"><link rel=apple-touch-icon-precomposed sizes=57x57 href=/favicon/apple-touch-icon-57x57.png><link rel=apple-touch-icon-precomposed sizes=114x114 href=/favicon/apple-touch-icon-114x114.png><link rel=apple-touch-icon-precomposed sizes=72x72 href=/favicon/pple-touch-icon-72x72.png><link rel=apple-touch-icon-precomposed sizes=144x144 href=/favicon/apple-touch-icon-144x144.png><link rel=apple-touch-icon-precomposed sizes=60x60 href=/favicon/apple-touch-icon-60x60.png><link rel=apple-touch-icon-precomposed sizes=120x120 href=/favicon/apple-touch-icon-120x120.png><link rel=apple-touch-icon-precomposed sizes=76x76 href=/favicon/apple-touch-icon-76x76.png><link rel=apple-touch-icon-precomposed sizes=152x152 href=/favicon/apple-touch-icon-152x152.png><link rel=icon type=image/png href=/favicon/favicon-196x196.png sizes=196x196><link rel=icon type=image/png href=/favicon/favicon-96x96.png sizes=96x96><link rel=icon type=image/png href=/favicon/favicon-32x32.png sizes=32x32><link rel=icon type=image/png href=/favicon/favicon-16x16.png sizes=16x16><link rel=icon type=image/png href=/favicon/favicon-128.png sizes=128x128><meta name=application-name content="&nbsp;"><meta name=msapplication-TileColor content="#FFFFFF"><meta name=msapplication-TileImage content="/favicon/mstile-144x144.png"><meta name=msapplication-square70x70logo content="/favicon/mstile-70x70.png"><meta name=msapplication-square150x150logo content="/favicon/mstile-150x150.png"><meta name=msapplication-wide310x150logo content="/favicon/mstile-310x150.png"><meta name=msapplication-square310x310logo content="/favicon/mstile-310x310.png"><link rel=stylesheet href=https://storage.googleapis.com/code.getmdl.io/1.1.3/material.grey-orange.min.css><link rel=stylesheet href=/css/style.min.cd2ac739f06431be109ffdcb7ad75a36e2ed473f233926d44c62f37c2096047c.css><link rel=stylesheet href=https://use.fontawesome.com/releases/v5.6.3/css/brands.css integrity=sha384-1KLgFVb/gHrlDGLFPgMbeedi6tQBLcWvyNUN+YKXbD7ZFbjX6BLpMDf0PJ32XJfX crossorigin=anonymous><link rel=stylesheet href=https://use.fontawesome.com/releases/v5.6.3/css/fontawesome.css integrity=sha384-jLuaxTTBR42U2qJ/pm4JRouHkEDHkVqH0T1nyQXn1mZ7Snycpf6Rl25VBNthU4z0 crossorigin=anonymous><link rel=stylesheet href=https://use.fontawesome.com/releases/v5.6.3/css/solid.css integrity=sha384-+0VIRx+yz1WBcCTXBkVQYIBVNEFH1eP6Zknm16roZCyeNg2maWEpk/l/KsyFKs7G crossorigin=anonymous><link rel=stylesheet href=https://gabekangas.com/css/custom.css><script src=/js/scripts.min.51220b6cff322f0f22ece056dc7ba902c83663c1fc1fb67b092c36a526f2eee8.js async></script><meta property="og:title" content="Why your tech stack matters (It's not why you think)"><meta property="og:description" content="My thoughts on cross-platform development solutions given the rise in popularity of React Native."><meta property="og:type" content="article"><meta property="og:url" content="https://gabekangas.com/blog/2018/02/why-your-tech-stack-matters-its-not-why-you-think/"><meta property="article:published_time" content="2018-02-06T17:32:39+00:00"><meta property="article:modified_time" content="2018-02-06T17:32:39+00:00"><meta name=twitter:card content="summary"><meta name=twitter:title content="Why your tech stack matters (It's not why you think)"><meta name=twitter:description content="My thoughts on cross-platform development solutions given the rise in popularity of React Native."><title>Why your tech stack matters (It's not why you think) | Gabe Kangas</title></head><body style=background-image:url(/images/background.png)><div class=overlay></div><div class="hmdl-body mdl-layout mdl-js-layout has-drawer is-upgraded"><header class="mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll"><div class=mdl-layout__header-row><div class=mdl-layout-spacer></div><nav class=mdl-navigation><p><input id=search-input type=text placeholder=Search...></p><div id=search-results></div><a class=mdl-navigation__link href=/>Home</a>
+<a class=mdl-navigation__link href=/blog/>Blog</a>
+<a class=mdl-navigation__link href=/project/>Projects</a>
+<a class=mdl-navigation__link href=/about/>About</a></nav></div></header><div class=mdl-layout__drawer><nav class=mdl-navigation><a class=mdl-navigation__link href=/>Home</a>
+<a class=mdl-navigation__link href=/blog/>Blog</a>
+<a class=mdl-navigation__link href=/project/>Projects</a>
+<a class=mdl-navigation__link href=/about/>About</a></nav></div><main class=mdl-layout__content><div class="hmdl-page mdl-grid"><div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col"><div class="hmdl-page-banner mdl-card__media mdl-color-text--grey-50" style=background-image:url(/blog/images/tech-stack-matters.jpg)><h3 class=card-header-text>Why Your Tech Stack Matters (It's Not Why You Think)</h3></div><div class="hmdl-page-content mdl-color-text--grey-700 mdl-card__supporting-text"><!doctype html><html><body><img src=/squarespace_images/static_50ce21f9e4b0a7200de38642_50d2a1a4e4b0fd42afd19a23_5a762fc453450ac9093ce48a_1517694953069_What%E2%80%99s_New_in_Swift_-_402-480x253.png_ alt><p>Recently I've received a lot of messages from recruiters looking for an
+iOS developer to build with React Native.  And while I generally don't
+care what technologies people are selecting to build their products, I
+find this to be a subject that I think warrants a deeper dive.  But a
+disclaimer up front: I have a bias, and I only speak for me, not for any
+team I'm currently or have been a part of.</p><p>I'm going to focus on mobile development in this post, but it's as bad, or
+worse, with the desktop.  Bad
+<a href=https://electronjs.org/>Electron</a> apps, written with web
+technologies, are everywhere, and today
+<a href=https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/>Microsoft announced</a>
+that web apps are going to be first class citizens next to native apps on
+the Microsoft Windows store.</p><p>My experiences with different mobile development options have been with
+the best of intentions by the team who selected it.  For example, I'm
+currently on a team I think nothing but the best of who have gone the
+React Native route with a good mixture of actual-native.</p><p>What I've released iOS applications with:</p><ol><li>Web only (Web view)</li><li>Hybrid frameworks (<a href=https://phonegap.com/>Phonegap</a>,
+<a href=https://www.appcelerator.com/Titanium/>Titanium</a>)</li><li>Swift</li><li>Objective-C</li><li>Game engine (C++)</li><li><a href=https://www.xamarin.com/>Xamarin</a> (C#)</li><li><a href=https://facebook.github.io/react-native/>React Native</a>
+(Javascript)</li></ol><p>While I won't go into the details of each of the above stacks, I would
+like to use two of these solutions, Xamarin and React Native, as examples
+to talk about the realities in using them.</p><p>Xamarin is a development environment that allows you to write your
+application in C# while still using native Apple controls and frameworks. 
+Business logic, networking, persistence, etc would only be written once. 
+C# is a generally well-liked language and has a lot of features.  While
+very different than Apple's languages there's nothing you really can't do
+at a language level.</p><p>With React Native the view layer additionally is abstracted.  It has its
+own version of everything and only behind the scenes are the native
+frameworks and libraries even known about.  Often they're not used at all
+and a replacement React Native specific implementation of what you'd
+expect is used instead. You'd write most things only once for multiple
+platforms, both from a business logic and UI standpoint.  In general,
+you'll get mixed reactions from the developer community when asking about
+Javascript.</p><p>So let's use these two development environments and talk about a fictional
+new UIKit class that Apple adds to iOS, let's call it UITriangleView.</p><p>First UITriangleView will be announced at WWDC.  There will be sessions
+dedicated to it with examples of its usage, details on using it in a
+performant way with Swift and Objective-C, and where you can go next to
+read more about it.</p><p>UITriangleView will then be available in the iOS betas.  All of the iOS
+developers will download the new XCode with the new SDK and try it out. 
+Blog posts will be written about all of the advantages of drawing
+triangles, and there will be deep dives into the future of triangles on
+iOS.  Throughout this process the Xamarin and React Native developers are
+patiently waiting, since neither of these environments know about
+UITriangleView yet.  Depending on the complexity of this new class, the
+release timelines of these organizations, and testing, we're talking
+anywhere from weeks to months to get it added to Xamarin or React Native. 
+And it's likely to be buggy when it does since they're just learning about
+it, too.</p><p>When looking for documentation you'll find a lot from Apple.  It's
+detailed and will get you moving fast.  But you won't find this
+documentation for your non-native implementation.  With React Native you
+don't access the class directly at all, so Apple's documentation is
+useless to you.  With Xamarin hopefully you can translate the usage of the
+class into C# yourself, as long it's not using any native Apple language
+features, or you have a different way of doing things in C#.</p><p>Some new really cool 3rd party libraries might be built on top of
+UITriangleView.  Maybe FUTriangleManager was written in Swift and takes
+advantage of the new class.  Xamarin and React Native will never know
+about the APIs in this library so a process known as
+<a href=https://facebook.github.io/react-native/docs/native-modules-ios.html>bridging</a>
+(or
+<a href=https://developer.xamarin.com/guides/ios/advanced_topics/binding_objective-c/walkthrough/>binding</a>, or linking) must be done where the developer wanting to utilize the
+library must write code that links the non-native C# or Javascript to
+native iOS or Android code.  This process must be done for any library,
+SDK or 3rd party code that the developer wants to use.  This bridge code
+must then be maintained throughout the lifetime of the application and
+updated each time the 3rd party code is updated.  And given this 3rd party
+bridge you wrote only works for one platform your dreams of running the
+same codebase everywhere just fell apart.</p><p>All of these, and more, often lead people who use non-native development
+to hold off on new APIs either because they have to, or it's too much of a
+hassle.  And that's ok.  You don't need to live on the bleeding edge.  But
+sometimes it's not even about taking advantage of new technologies.  Do
+you have a partner that needs you to integrate an SDK of 3rd party code
+for any reason?  And this means <strong>any 3rd party code</strong>. 
+Analytics, partner SDKs, marketing, etc.  Sometimes a specific version for
+your environment is available, and sometimes you'll be able to bridge it,
+and sometimes it makes more sense just to write your own implementation of
+it from scratch so you can try and share it between multiple platforms. 
+Writing 3rd party SDKs from scratch probably won't fall into your idea of
+"easier" or "faster".</p><p><strong>These are what I think of as the hard facts surrounding iOS
+development.</strong>
+The technology, the implementation and the actual day to day usage of it. 
+How much time you spend trying to get it to work by emailing Xamarin and
+searching React Native's Github issues.
+<strong>But I believe even more important are the soft facts</strong>.</p><p>What are the community events like that are held around those
+technologies?  When recruiting how hard is it to find somebody with
+experience using your non-native choice?  Are you going to hire native
+developers and train them when they join?  How happy will they be one
+year, two years down the road when they're left out of all of the exciting
+new APIs coming out of Apple?  How happy will they be when they go to look
+for their next position and have to explain that they built using
+alternative options and haven't written using supported Apple technologies
+in a while?</p><p>And, sure, it's a little "touchy-feely" of me, but as somebody who's been
+a part of the Apple ecosystem for a while I feel like I'm a part of
+something.  When something new comes out we all talk about it together. 
+We have Slack rooms and forums where we post questions, meetups at coffee
+shops, and events hosted by companies who are using these technologies. 
+Once a year we show up at WWDC from all over the world.  It's a real,
+tangible thing that you can feel and experience.  It's a world you're a
+part of.  It's not just a technology choice.  There's a passion for the
+tools used.  Many of the tools and developers with a deep history going
+back to <a href=https://en.wikipedia.org/wiki/NeXT>NeXT</a>, and I
+happen to think that's pretty cool.</p><p>Of course, Javascript people have passion, too.  But you can argue
+<a href="https://www.quora.com/Why-does-JavaScript-have-so-much-hype-nowadays/answer/Richard-Kenneth-Eng?utm_content=buffer680b5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"><em>they have to</em></a>.  And it's generally not a passion for devices and apps, it's for the
+web and the DOM.</p><p>While the holy grail of "write once, run anywhere" may pull you in, it's a
+promise that time and time again rarely comes to fruition, and I've
+personally seen many instances where it falls flat. Think not just about
+those hard facts (3rd party integration, new APIs, performance,
+compatibility, long-term maintenance) but also about the soft (developer
+happiness, community, recruiting).</p><p>Sometimes you just want to build a quick app, and sometimes you want to do
+and be a part of something bigger.</p><p></p></body></html><hr><h4>I have more stuff you can read if you like. You might like these:</h4><ul><li><a href=/blog/2013/12/building-tastemakerx-for-ios/>Building TastemakerX for iOS</a></li><li><a href=/blog/2015/11/goodbye-rdio/>Goodbye, Rdio</a></li><li><a href=/blog/2015/07/launching-the-bat-player-on-the-roku-store-and-its-aftermath/>Launching The Bat Player on the Roku Store and its aftermath</a></li><li><a href=/blog/2014/12/developing-for-roku/>Developing for Roku</a></li><li><a href=/blog/2013/01/stuff-id-like-to-do-in-2013/>Stuff I'd like to do in 2013</a></li></ul></div><div class="hmdl-page-comments mdl-color-text--primary-contrast mdl-card__supporting-text comments">Gabe Kangas<p></p><span>Feb 6, 2018</span></div></div></div></main><footer class=mdl-mini-footer><div class=mdl-mini-footer--left-section><a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="mailto:gabek@real-ity.com?subject=Hi"><i class="material-icons_lg icon ion-email"></i><span class=visuallyhidden>Email</span></a>
+<a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href=https://github.com/gabek/><i class="material-icons_lg icon ion-social-github"></i><span class=visuallyhidden>Github</span></a>
+<a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href=https://www.linkedin.com/in/gabek/><i class="material-icons_lg icon ion-social-linkedin"></i><span class=visuallyhidden>LinkedIn</span></a></div><div class=mdl-mini-footer--right-section><span>© 2020 Gabe Kangas</span></div></footer><div class=mdl-layout__obfuscator></div></div></body></html>
