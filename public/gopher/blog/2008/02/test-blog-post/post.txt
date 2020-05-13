@@ -1,6 +1,0 @@
-Test blog post
-Feb 23, 2008
-
-
-Just a test blog post to see if RSS parsing in #TheCabin is working.
-

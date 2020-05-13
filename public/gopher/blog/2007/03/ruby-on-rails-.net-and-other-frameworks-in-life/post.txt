@@ -1,6 +1,0 @@
-Ruby on Rails, .NET and other Frameworks in life
-Mar 27, 2007
-
-
-People say that working within restrictive frameworks give them freedom.  Is it true?
-
