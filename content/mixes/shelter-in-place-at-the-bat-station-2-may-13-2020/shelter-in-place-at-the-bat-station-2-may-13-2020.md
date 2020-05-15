@@ -42,6 +42,8 @@ May 13, 2020.  Another live stream mix on The Bat Station!  This was my first ti
 
 As a side note, I'm generating the track list from the Cue file that Rekordbox exports when saving a recording of a set.  It's not terribly accurate because it's the time that I load a track, not the time that you hear the track.  So if you seek exactly to the timestamp you're probably not going to hear what you're looking for, but at some point after that location the song should get mixed in.
 
+**ALSO** if you're at all interested in the tooling I've been using to post these mixes, specifically if you're a user of Pioneer Rekordbox, [check out this post](/blog/2020/05/some-recent-projects-for-my-dj-mix-hobby/) with some details.
+
 <br>
 <h4>Tracklist</h4>
 
@@ -63,7 +65,6 @@ As a side note, I'm generating the track list from the Cue file that Rekordbox e
 1. 00:50:30 **Jackal and Hyde** - Electromagnetic
 1. 00:51:58 **Seabound** - Smoke
 1. 00:54:43 **DJ JOJO** - Wash Your Hands
-1. 00:56:33 **The Prodigy** - Out Of Space (Audio Bullys Remix) (Original Mix)
 1. 00:59:36 **Amelia Arsenic** - T.H.I.R.S.T.Y
 1. 01:00:18 **The Prodigy** - Out Of Space (Audio Bullys Remix) (Original Mix)
 1. 01:06:39 **Hatari** - Engin Miskunn

@@ -23,7 +23,7 @@ images: ["/blog/images/2020-05-13-a-couple-dj-projects.jpg"]
 ---
 While the lockdowns have been going on, and I haven't been working (I'll probably blog about that soon), I've been keeping busy with other projects.
 
-I've picked up a new hobby of doing some DJ mixes, streaming them on internet radio, and recording them for sharing with friends.  This has led me to building some tooling around all of this stuff that I think, for a small population, might find useful.
+I've picked up a new hobby of [doing some DJ mixes](/mixes/), streaming them on internet radio, and recording them for sharing with friends.  This has led me to building some tooling around all of this stuff that I think, for a small population, might find useful.
 
 * [Supbox](https://github.com/gabek/supbox): A tool to get the currently playing track from [Rekordbox v6](https://rekordbox.com/en/).
 
@@ -46,6 +46,8 @@ Speaking of another tool taking that JSON file and running with it, this tool si
 I built this to simplify distributing recordings I make.  Ultimately in the form of blog posts and Podcasts.  I use a [Static Site Generator](https://www.staticgen.com/) (specifically [Hugo](https://gohugo.io/)) to generate this web site.  It takes a bunch of Markdown files and builds a web site out of it.  It also renders a RSS feed.  So I thought I'd use that as a jumping off point to add a [section of my site for mixes](/mixes/) I'm doing while in lockdown, as well as generate a [RSS feed](/mixes/index.xml) that people can use to subscribe to this as a Podcast.
 
 So it goes through each MP3 file, reads the ID3 information, and creates Markdown files that include a blurb of text extracted from the `commend` tag, the image, and sets the `genre` as a tag in the post.  It also embeds a link to the audio in an `audio` html tag so you can just play it directly.
+
+Also, as a bonus if you're a Rekordbox user, if you save and record your sets using that software, Markcast will use the accompanying _cue_ file and add a playlist and approximate time to the post you generate.
 
 **[Check out some examples](/mixes/)** by clicking on one of the mix titles.
 
