@@ -9,7 +9,7 @@ tags:
   - 'blog'
   - video
   - streaming
-draft: true
+draft: false
 cardthumbimage: '/blog/images/2020-01-03-owncast-self-hosted-live-streaming.jpg' #optional: default solid color if unset
 cardheaderimage: '/blog/images/2020-01-03-owncast-self-hosted-live-streaming.jpg' #optional: default solid color if unset
 cardbackground: '#263238' #optional: card background color; only shows when no image specified
