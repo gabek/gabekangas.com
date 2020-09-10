@@ -5,7 +5,7 @@ cardthumbimage: '/project/longtail-music.png' #optional: default solid color if 
 cardheaderimage: '/project/longtail-music.png' #optional: default solid color if unset
 #cardbackground: "#263238" #optional: card background color; only shows when no image specified
 #cardtitlecolor: "#fafafa" #optional: can be changed to make text visible over card image
-web: 'https://longtail.fm/' #optional: no icon appears if unset
+web: '/blog/2019/12/goodbye-longtail-music/' #optional: no icon appears if unset
 weight: 120
 categories:
   - 'project'
@@ -14,7 +14,7 @@ tags:
   - 'project'
 ---
 
-Longtail Music is a loosely connected network of independent internet radio stations where each station is independently run and managed, allowing for a wide variety of content and style.
+Longtail Music was a loosely connected network of independent internet radio stations where each station is independently run and managed, allowing for a wide variety of content and style.
 
 In a world of algorithmically generated on-demand streaming products, sponsored playlists and an overabundance of Top 40 music videos flooding the social networks it's time to find another approach to finding unique music that you'll love.
 
