@@ -12,9 +12,9 @@ unsafe= true
   author = "authors"
 
 [outputs]
-  page = ["HTML"]
+  page = ["HTML", "GEMINI"]
   section = ["HTML", "RSS"]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "GEMINI"]
 
 [permalinks]
     blog = "/blog/:year/:month/:title/"
@@ -82,3 +82,16 @@ unsafe= true
   name = "About"
   url = "/about/"
   weight = "-140"
+
+[mediaTypes]
+  [mediaTypes."text/gemini"]
+    suffixes = ["gmi"]
+
+[outputFormats.Gemini]
+  name = "GEMINI"
+  isPlainText = true
+  isHTML = false
+  mediaType = "text/gemini"
+  protocol = "gemini://"
+  permalinkable = true
+  path = "gemini/"
