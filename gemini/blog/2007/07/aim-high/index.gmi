@@ -1,0 +1,11 @@
+# AIM high
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>So long story short, like 7 months ago I changed the password on my AIM screen name in order to do some testing of code I was working on.  I never changed the password back, and my client somehow forgot what the password was.  As did I.
+I couldn't get the stupid "reset password" thing to work on aim.com, so I figured now was as good of a time as any just to sign up a new name again.  My buddy lists get so long and crapped up with random people every 4 years or so it's good just to start over anyway.</p>
+<p>So go ahead and throw "TheGabeKangas" on your buddy list.</p>
+<p>Of course, after I decided to create that name I did a grep through some old apache logs and saw that password I forgot in a HTTP GET request for that code I was working on.  So whatever, i'll keep both of them logged in :)</p>
+<p>Had to go into work tonight.  It kinda sucks having to make that extra trip there, but what needs to be done needs to be done.</p>
+<p>Ok, off to bed.  I really need my sleep.  But a wise man once said "You can sleep when you're dead."  Oh wait, that was MDFMK i'm thinking of.  Oh well.</p>
+</body></html>

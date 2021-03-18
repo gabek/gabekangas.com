@@ -1,0 +1,11 @@
+# Admiral Ackbar joins Twitter
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Per recommendation of @EternalCow I built a bot that puts a much needed appearance of Admiral Ackbar (@AdmiralAckbar_) on Twitter.  He's warning (as he should be) to all who will listen that "It's a trap!"
+This is funny, but the most entertaining part is the fact that people are replying back.</p>
+<p>See below for a real time update of responses to "It's a trap!"</p>
+<ol> <!--rss:rss_feed_url:=http://search.twitter.com/search.atom?q=to%3Aadmiralackbar_,num_items:=10,random:=true,show_description:=false-->
+</ol>
+<p>I'll soon have itsatrap.org up :P</p>
+</body></html>

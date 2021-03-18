@@ -1,0 +1,24 @@
+# Personal update
+
+
+I had promised a more encompassing update about what I've been up to.  This is that update.
+
+=> /blog/2020/03/when-work-becomes-life-a-pandemic-story I had previously written about my initial discomforts around working from home during the early days of COVID lockdown.  It wasn't long after that when I realized that the indefinite work-from-home for a role I was increasingly no longer compatible with needed to end.
+
+My plan was simple: Take a couple months off, work on personal projects, let the world wake back up, and when people start going back to the office I'll be ready to find my next opportunity and join them.
+
+We collectively discovered soon thereafter that none of us are going back to an office anytime soon.
+
+I was fortunate enough to be put in touch with a fantastic San Francisco-based mobile agency offering me a two month contract helping a healthcare company work on some additional features in their Android app.  This was the perfect opportunity.  Something I had no ownership over, so I wouldn't get invested in it.  It was Android work, something I hadn't been doing much professionally.  And it was short, so I wouldn't be giving up the opportunity to find something more permanent.
+
+About those side projects.
+
+While I did post about some of the
+
+=> /blog/2020/05/some-recent-projects-for-my-dj-mix-hobby/ DJ Projects
+
+ and gave
+
+=> /blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/ an intro to Owncast
+
+ previously, It's been Owncast that's been taking up most of my time.

@@ -1,0 +1,10 @@
+# Gabe's 90s Dance Mix
+
+<center><img src="/mixes/gabe-s-90s-dance-mix/gabe-s-90s-dance-mix.png" width="30%"></center>
+<center><audio controls preload="metadata" style=" width:300px;">
+	<source src="/mixes/gabe-s-90s-dance-mix/gabe-s-90s-dance-mix.mp3" type="audio/mpeg">
+</audio>
+	</center>
+
+<br>
+<h4>For fun I wanted to do a little mix with some 90s dance tracks.  I unapologetically love that stuff.  I still don’t know how to DJ or mix tracks properly, but I’m enjoying myself.</h4>

@@ -1,0 +1,16 @@
+# Music recommendations
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>I was putting a list of artists together for someone who wanted some music recommendations from me. I figured i'd throw it up here as well.</p>
+<p>I'd guess most people I know already are aware or are fans of this stuff already, but maybe not.</p>
+<p>* The Postal Service: <a href="http://www.youtube.com/watch?v=hMOkfI7wCrI">http://www.youtube.com/watch?v=hMOkfI7wCrI</a></p>
+<p>*!!!: <a href="http://www.youtube.com/watch?v=iYXvSUei4Ow">http://www.youtube.com/watch?v=iYXvSUei4Ow</a></p>
+<p>* Black Moth Super Rainbow: <a href="http://www.youtube.com/watch?v=iYXvSUei4Ow">http://www.youtube.com/watch?v=iYXvSUei4Ow</a></p>
+<p>* Walter Meego: <a href="http://www.youtube.com/watch?v=U0guf7O4mKQ">http://www.youtube.com/watch?v=U0guf7O4mKQ</a></p>
+<p>* Ghostland Observatory: <a href="http://www.last.fm/music/Ghostland+Observatory/+videos/+1-wzE1sSVSY_8">http://www.last.fm/music/Ghostland+Observatory/+videos/+1-wzE1sSVSY_8</a></p>
+<p>* The New Pornographers: <a href="http://www.youtube.com/watch?v=qDUHJNVjpS0">http://www.youtube.com/watch?v=qDUHJNVjpS0</a></p>
+<p>* The Go! Team: <a href="http://www.youtube.com/watch?v=1lT2Tq2rC9I">http://www.youtube.com/watch?v=1lT2Tq2rC9I</a></p>
+<p>* Battles: <a href="http://www.youtube.com/watch?v=VSkU5GJmtXc">http://www.youtube.com/watch?v=VSkU5GJmtXc</a></p>
+<p>* Hella: <a href="http://www.youtube.com/watch?v=8xOW8urHBDU">http://www.youtube.com/watch?v=8xOW8urHBDU</a></p>
+</body></html>

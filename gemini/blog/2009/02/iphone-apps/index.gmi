@@ -1,0 +1,42 @@
+# iPhone Apps
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Just as a quick information dump, with regards to real apps (not jailbreak utils for the console) here's what I have on my iPhone so far:</p>
+<p>Utilities:</p>
+<p>* SBSettings<br>
+* Winterboard<br>
+* Backgrounder<br>
+* IntelliScreen<br>
+* Supreme Settings</p>
+<p>Apps:</p>
+<p>* Facebook<br>
+* MySpace<br>
+* Last.FM<br>
+* Pandora<br>
+* Twitterific<br>
+* Tweety<br>
+* NetNewsWire<br>
+* Colloquy<br>
+* Yelp<br>
+* Urban Spoon<br>
+* Wiki Mobile<br>
+* Shazam<br>
+* MCleaner<br>
+* Simplify Media<br>
+* Evernote<br>
+* Cydia</p>
+<p>Games:</p>
+<p>* iBurn<br>
+* Lightsaber<br>
+* NES Emu<br>
+* Tap Tap Revenge<br>
+* Bowl Lite<br>
+* iSteam<br>
+* Bubble Wrap<br>
+* That's What She Said<br>
+* Zippo Lighter</p>
+<p><img src="http://gallery.me.com/gabekangas/100072/photo1235169061597/web.jpg"><br>
+<img src="http://gallery.me.com/gabekangas/100072/photo/web.jpg"><br>
+<img src="http://gallery.me.com/gabekangas/100072/photo1235700731508/web.jpg"></p>
+</body></html>

@@ -1,0 +1,7 @@
+# Cute@Facebook
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>:)</p>
+<p><img src="http://www.real-ity.com/blog/wp-content/uploads/2008/07/200807172033.jpg" width="391" height="60" alt="200807172033.jpg"></p>
+</body></html>

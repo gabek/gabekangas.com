@@ -1,0 +1,11 @@
+# Tweply and SMS
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Happy post Saint Patrick's day.
+So maybe I was optimistic (or pessimistic, depending on how you see it) about Tweply and SMS functionality.  Like other projects I've thrown  together I felt a need that I couldn't find elsewhere, and then offered it to others.  Except this time it's costing me more than I expected with people signing up for it.</p>
+<p>I love that people find it useful, but unfortunately I'm paying much more than I expected.</p>
+<p>So the other day I added Direct Message support.  This allows you to get your Tweply notification using Twitter as the notification method.  Make sure Twitter is sending DMs to your phone and you're good to go.</p>
+<p>All you have to do to make this work is delete your old Tweply watch and create a new one using your username as the alert method.</p>
+<p>Let me know if you have any questions.  At some point down the road I'll probably disable SMS notification all together, but I want to make sure I have the proper options in place so people can still use the service the way they want to.</p>
+</body></html>

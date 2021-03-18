@@ -1,0 +1,10 @@
+# Gabe's Gym Story
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>So I took my gym going to another level.</p>
+<p>I haven't been going often... at all. So I figured I needed help if I were to expedite the degutting process. So last week I signed up for a personal trainer at the local Bally's.</p>
+<p>I got Jen, a cute, short, bubbly girl. Oh yeah. She's also the manager and just finished her first Iron Man Triathlon this past weekend.</p>
+<p>She kicked my ass last night. About 45min into my hour session I had to stop because the room was spinning. She said my blood sugar got too low and got me some Gatorade. I did feel better after that. Then we sat down and she said something about the food I eat... "How much did you pay for personal training? And how much did you pay for the mostacholi? Throw away the leftover mostacholi."</p>
+<p>My choices are a) lifestyle change or b) blow it off. Both are valid.</p>
+</body></html>

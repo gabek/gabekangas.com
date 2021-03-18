@@ -1,0 +1,8 @@
+# The World of Stupid Man, the Comic Book
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>So I came across an archive of little comics I made in 6th grade.  These are surrounded around the character "Stupid Man" and his friends.  I'll post a new one every once and a while.  So to start things up is Stupid Man #1.
+Click on the thumbnail to read it.</p>
+<p><a onclick="window.open('http://www.real-ity.com/blog/wp-content/uploads/2007/06/sc006a6218.jpg','popup','width=1236,height=2045,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false" href="http://www.real-ity.com/blog/wp-content/uploads/2007/06/sc006a6218.jpg"><img width="60" vspace="4" hspace="4" height="100" border="1" alt="Sc006A6218" src="http://www.real-ity.com/blog/wp-content/uploads/2007/06/sc006a6218-tm.jpg"></a></p>
+</body></html>

@@ -1,0 +1,8 @@
+# Couple random photos
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>#TheCabin @ Staples<span style="font-size:0pt;"></span><a href="http://www.real-ity.com/blog/wp-content/uploads/2007/01/Photo_010507_001.jpg" onclick="window.open('http://www.real-ity.com/blog/wp-content/uploads/2007/01/Photo_010507_001.jpg','popup','width=640,height=480,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.real-ity.com/blog/wp-content/uploads/2007/01/Photo_010507_001-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt="Photo 010507 001"></a></p>
+<p>PandoraFM in PC World @ Walgreens
+<a href="http://www.real-ity.com/blog/wp-content/uploads/2007/01/Photo_012507_001.jpg" onclick="window.open('http://www.real-ity.com/blog/wp-content/uploads/2007/01/Photo_012507_001.jpg','popup','width=640,height=480,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.real-ity.com/blog/wp-content/uploads/2007/01/Photo_012507_001-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt="Photo 012507 001"></a></p>
+</body></html>

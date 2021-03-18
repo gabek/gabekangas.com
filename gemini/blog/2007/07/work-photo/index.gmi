@@ -1,0 +1,5 @@
+# Work photo
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><p>Friday was the last day for my uber-manager Khyle.  It sucks that he left.
+<a href="http://www.real-ity.com/blog/wp-content/uploads/2007/07/2007-07-20-11h04m54-2.jpg" onclick="window.open('http://www.real-ity.com/blog/wp-content/uploads/2007/07/2007-07-20-11h04m54-2.jpg','popup','width=1024,height=768,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.real-ity.com/blog/wp-content/uploads/2007/07/2007-07-20-11h04m54-2-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt="2007-07-20-11H04M54-2"></a></p></body></html>

@@ -1,0 +1,7 @@
+# New Nine Inch Nails Track (with words)
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>New single called Discipline is released. Take a look at the id3 info of the song...</p>
+<p><a href="http://www.real-ity.com/blog/wp-content/uploads/2008/04/200804230532.jpg"><img src="http://www.real-ity.com/blog/wp-content/uploads/2008/04/200804230532-tm.jpg" width="150" height="375" alt="200804230532.jpg"></a></p>
+</body></html>
