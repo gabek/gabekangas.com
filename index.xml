@@ -1,0 +1,640 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>A brief update on Owncast</title><link>https://gabekangas.com/blog/2020/12/a-brief-update-on-owncast/</link><pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2020/12/a-brief-update-on-owncast/</guid><description>&lt;p>I &lt;a href="https://gabekangas.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/">made a post&lt;/a> when I pushed up my initial idea of &lt;a href="https://owncast.online">Owncast&lt;/a> to GitHub, but I haven&amp;rsquo;t posted any status updates to my own website since then. There&amp;rsquo;s been some significant traction lately, so I wanted to take a moment to write an update.&lt;/p>
+&lt;p>We&amp;rsquo;ve been making steady progress under the radar with a fantastic group of people who have discovered the project. We knew that once we completed our Owncast web admin feature that we&amp;rsquo;d let a few more people know about the status of things, since it&amp;rsquo;s an added level of polish and ease of use that might appeal to people. Little did I know how this would explode.&lt;/p>
+&lt;p>We ended up on the front page of Hacker News, the top of multiple subreddits, and have been the #1 trending project on all of GitHub for a couple days. My goal was to have something that was useful to people, and given the feedback from people who are actually setting up Owncast servers, I think we&amp;rsquo;re on the right track. Just like I hoped, people are super excited to go from zero to streaming in minutes, and they love the freedom and ownership over it. I have no idea how many new servers exist now, since anybody can download it and run it, but it&amp;rsquo;s exciting seeing the servers that choose to register with &lt;a href="https://directory.owncast.online">the directory&lt;/a> so we can visit some of the new streams.&lt;/p>
+&lt;p>While I can say all of this has been unexpected, the thing that I never would have guessed is a community has started to spring up. I&amp;rsquo;ll visit people&amp;rsquo;s streams and other people who run Owncast servers or has worked on it will be in there chatting. Last night &lt;a href="https://stream.kylebronsdon.com/">Kyle Bronsdon&lt;/a> did a 4hr stream using Owncast for the first time and so many familiar names dropped in and were enjoying the music. The same goes with the &lt;a href="https://live.w0rmh0le.net/">nebunez&lt;/a> daily stream and when &lt;a href="https://stream.cincodenada.com/">Joel&lt;/a> is streaming himself working through Advent of Code. In the most literal and organic sense, it&amp;rsquo;s a decentralized community, but it&amp;rsquo;s not the technology binding them together. It&amp;rsquo;s just people who are enjoying being a part of something fun with other people. It&amp;rsquo;s hard to explain how cool that is, and I&amp;rsquo;m immensely thankful to everyone who has been a part of it.&lt;/p>
+&lt;p>But it&amp;rsquo;s still early days! With all the added attention many more feature requests and pieces of feedback have come in. Every person who shares their thoughts helps influence the direction of the project, and I&amp;rsquo;ve made a few roadmap changes because of it.&lt;/p>
+&lt;p>Thank you again to everyone, especially the &lt;a href="https://owncast.online/#contributors">contributors&lt;/a> and people using the software to do cool things. I&amp;rsquo;m very much looking forward to making Owncast something great with all of you.&lt;/p>
+&lt;img src="https://gabekangas.com/blog/images/owncast-trending.png"/></description></item><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Personal update</title><link>https://gabekangas.com/blog/2020/09/personal-update/</link><pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2020/09/personal-update/</guid><description>&lt;p>I had promised a more encompassing update about what I&amp;rsquo;ve been up to. This is that update.&lt;/p>
+&lt;p>&lt;a href="https://gabekangas.com/blog/2020/03/when-work-becomes-life-a-pandemic-story">I had previously written about my initial discomforts around working from home during the early days of COVID lockdown&lt;/a>. It wasn&amp;rsquo;t long after that when I realized that the indefinite work-from-home for a role I was increasingly no longer compatible with needed to end.&lt;/p>
+&lt;p>My plan was simple: Take a couple months off, work on personal projects, let the world wake back up, and when people start going back to the office I&amp;rsquo;ll be ready to find my next opportunity and join them.&lt;/p>
+&lt;p>We collectively discovered soon thereafter that none of us are going back to an office anytime soon.&lt;/p>
+&lt;p>I was fortunate enough to be put in touch with a fantastic San Francisco-based mobile agency offering me a two month contract helping a healthcare company work on some additional features in their Android app. This was the perfect opportunity. Something I had no ownership over, so I wouldn&amp;rsquo;t get invested in it. It was Android work, something I hadn&amp;rsquo;t been doing much professionally. And it was short, so I wouldn&amp;rsquo;t be giving up the opportunity to find something more permanent.&lt;/p>
+&lt;p>About those side projects.&lt;/p>
+&lt;p>While I did post about some of the &lt;a href="https://gabekangas.com/blog/2020/05/some-recent-projects-for-my-dj-mix-hobby/">DJ Projects&lt;/a> and gave &lt;a href="https://gabekangas.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/">an intro to Owncast&lt;/a> previously, It&amp;rsquo;s been Owncast that&amp;rsquo;s been taking up most of my time.&lt;/p></description></item><item><title>Apple Has Shut Down The Bat Player</title><link>https://gabekangas.com/blog/2020/08/apple-has-shut-down-the-bat-player/</link><pubDate>Fri, 07 Aug 2020 09:41:48 -0700</pubDate><guid>https://gabekangas.com/blog/2020/08/apple-has-shut-down-the-bat-player/</guid><description>&lt;p>Today &lt;a href="https://apps.apple.com/us/app/the-bat-player-radio/id1050517930">The Bat Player on AppleTV&lt;/a> was shut down. I wanted to document a bit about the history of the application, and why it&amp;rsquo;s being rejected from the Apple AppStore.&lt;/p>
+&lt;p>I started The Bat Player in 2014. I wanted a better Internet Radio experience on the TV. I dreamt of artist info, album details and photos. At the time most Internet Radio apps &lt;a href="https://gabekangas.com/blog/2014/12/developing-for-roku/">just showed text of the currently playing track&lt;/a> and I wanted more.&lt;/p>
+&lt;p>I originally built The Bat Player for Roku, because that was the only set top box that had an SDK that I could build something on. And in July of 2015, &lt;a href="https://gabekangas.com/blog/2015/07/launching-the-bat-player-on-the-roku-store-and-its-aftermath/">The Bat Player launched for Roku&lt;/a>. But what I really wanted was to build for AppleTV. I really liked developing on Apple products but unfortunately at the time people weren&amp;rsquo;t permitted to build things for the AppleTV. Luckily that changed and I went all-in on tvOS as soon as I could.&lt;/p>
+&lt;p>The first AppleTV build of The Bat Player was submitted to Apple on Oct 20, 2015. Right when the new AppleTV with tvOS apps were allowed.&lt;/p>
+&lt;h4 id="the-2020-update-of-the-bat-player">
+The 2020 update of The Bat Player
+&lt;a class="heading-link" href="#the-2020-update-of-the-bat-player">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>The Bat Player uses a backend service I built called &amp;ldquo;The Bat Server&amp;rdquo; who takes a station and returns back rich metadata about the song, album, artist, etc. It&amp;rsquo;s what powers the Now Playing screen of the app as well as handling search, and the directory. It&amp;rsquo;s a Nodejs service that&amp;rsquo;s been quietly humming along giving The Bat Player it&amp;rsquo;s unique features. Fast forward to 2020 and my hosting provider said it&amp;rsquo;s no longer going to support long-running services and instead are focusing on JAMStack and &amp;ldquo;serverless&amp;rdquo; infrastructures. I thought &lt;em>&amp;ldquo;Cool, The Bat Server is a great example of something that would work well as discrete API endpoint functions&amp;rdquo;&lt;/em> and I went down the road of reworking the backend to fit the &amp;ldquo;&lt;a href="https://vercel.com/docs/v2/serverless-functions/introduction">serverless&lt;/a>&amp;rdquo; paradigm. It required a few client changes to make different requests than it used to, but not anything huge. A simple update to the client would resolve that.&lt;/p>
+&lt;p>But it&amp;rsquo;s been a bit since I&amp;rsquo;ve made an update to The Bat Player, and it was time to give it some visual refresh, update some of the client architecture behind it, and make it even easier to use. So I simplified a lot of the code, using new features in iOS and Swift that didn&amp;rsquo;t exist before. I completely rewrote almost all of the UI in the app. I also added a new feature where if a station didn&amp;rsquo;t have an image, previously I&amp;rsquo;d do a Google Image Search in order to try to find the station image, now I generate a unique logo just for that station using a combination of images, fonts and colors. I&amp;rsquo;m really thankful to &lt;a href="https://github.com/gingervitis">Ginger&lt;/a> who designed the different images used to compile these dynamic station logos. They look super cool and I think people were really going to like them.&lt;/p>
+&lt;p>So with both backend and frontend updates ready I submitted version 1.3.0 of The Bat Player to Apple on July 16th, knowing that on August 7th the old backend would get turned off.&lt;/p>
+&lt;h4 id="the-rejection">
+The rejection
+&lt;a class="heading-link" href="#the-rejection">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;blockquote>
+&lt;p>Your app contains content or features that may violate the rights of one or more third parties. Specifically, your app provides potentially unauthorized access to third-party audio or video streaming, catalogs, and discovery services.&lt;/p>
+&lt;p>Your app and its contents should not infringe upon the rights of another party. In the event your app infringes another party’s rights, you are responsible for any liability to Apple because of a claim.&lt;/p>
+&lt;/blockquote>
+&lt;p>They said I am out of compliance with App Store Review Guideline 5.2.3. We went back and forth over messages until they scheduled a phone call. It was clear on this call they were treating The Bat Player, an internet radio client playing public internet radio stations, the same as if I was submitting an app that was stealing proprietary TV content. I think they&amp;rsquo;re so knee deep in the TV world right now that they can&amp;rsquo;t see it any different, they even kept calling internet radio stations &amp;ldquo;channels&amp;rdquo;, approaching it as I&amp;rsquo;m stealing somebody&amp;rsquo;s private media stream.&lt;/p>
+&lt;p>They said in order to proceed &lt;strong>I need to provide legal documentation from every station&lt;/strong> stating I do indeed have rights to their content. I tried to explain that the point of Internet Radio is not to have propriety applications for each station, and instead &lt;strong>stations rely on apps like The Bat Player to play their audio streams&lt;/strong>, that&amp;rsquo;s the point of it. I used iTunes, Quicktime and Winamp as examples of applications that play Internet Radio. I pointed to the many applications that already exist on the AppStore that play this same content. I tried to state how Internet Radio clients are more like web browsers, where they exist only to consume and render the content that lives online for users. A web browser doesn&amp;rsquo;t need to show that it has permission to view every web site that exists. The reviewer only said &amp;ldquo;I can&amp;rsquo;t speak to other apps&amp;rdquo;. I said how I tie into a publicly accessible database of stations that exist for discovery purposes, and I would need to provide over 25,000 pieces of legal documentation. The reviewer on the phone simply said &lt;em>&amp;ldquo;I&amp;rsquo;m sure most of these channels are being run by the same company, so &lt;strong>you can get many taken care of by contacting their parent organizations&lt;/strong>.&amp;quot;&lt;/em> It showed that not only did they not understand how internet radio is often a hobby by somebody running something from their basement, &lt;strong>it showed that they couldn&amp;rsquo;t even fathom that the open internet, where individuals do things because they love it, and where content lives independently from applications that consume it.&lt;/strong> They&amp;rsquo;re thinking simply &amp;ldquo;if people want to watch CBS then they download the CBS app, you can&amp;rsquo;t be putting CBS in your app. That&amp;rsquo;s stealing.&amp;rdquo;&lt;/p>
+&lt;p>Once you get rejected and you&amp;rsquo;re run out of options with the reviewer you have to &lt;a href="https://www.cnbc.com/2019/06/21/how-apples-app-review-process-for-the-app-store-works.html">contact the App Review Appeals Board&lt;/a>. And I sent the following final appeal:&lt;/p>
+&lt;blockquote>
+&lt;p>Hello,&lt;/p>
+&lt;p>The Bat Player is an internet radio client, built to play publicly accessible internet radio streams. It is not scraping, hijacking, or stealing any content. It is more akin to a web browser that consumes web pages than something aggregating and playing proprietary video feeds, for example.&lt;/p>
+&lt;p>I take advantage of a publicly accessible directory of internet radio stations called &amp;ldquo;radio-browser&amp;rdquo; who states in their FAQ:&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;ldquo;It is completely free. Free as in Beer/chocolate&amp;rdquo;
+&lt;a href="http://www.radio-browser.info/gui/#!/faq">http://www.radio-browser.info/gui/#!/faq&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;p>Internet radio is made to be played with different clients. It&amp;rsquo;s not like TV providers where each station has their own app and is only designed to exclusively be played in that app. Internet radio is to be played in iTunes, Quicktime, Winamp, or any of the below applications that are already on the AppStore who are using the radio-browser&amp;rsquo;s dataset API and playing the stations:&lt;/p>
+&lt;ul>
+&lt;li>Cute Radio: &lt;a href="https://apps.apple.com/de/app/cuterdio-internet-radio-app/id1489513385">https://apps.apple.com/de/app/cuterdio-internet-radio-app/id1489513385&lt;/a>&lt;/li>
+&lt;li>Triode Radio: &lt;a href="https://apps.apple.com/us/app/triode/id1446513724">https://apps.apple.com/us/app/triode/id1446513724&lt;/a>&lt;/li>
+&lt;li>InstaRadio: &lt;a href="https://apps.apple.com/us/app/instaradio-radio-player/id538537206">https://apps.apple.com/us/app/instaradio-radio-player/id538537206&lt;/a>&lt;/li>
+&lt;li>Radio Volume Booster: &lt;a href="https://apps.apple.com/us/app/id887768699">https://apps.apple.com/us/app/id887768699&lt;/a>&lt;/li>
+&lt;li>Frog Radio: &lt;a href="https://apps.apple.com/us/app/frogradio/id1442306286">https://apps.apple.com/us/app/frogradio/id1442306286&lt;/a>&lt;/li>
+&lt;li>Tune Hunter: &lt;a href="https://apps.apple.com/at/app/tune-hunter/id1440690657">https://apps.apple.com/at/app/tune-hunter/id1440690657&lt;/a>&lt;/li>
+&lt;li>432 Player Radio: &lt;a href="https://apps.apple.com/us/app/432-player-radio/id1479883396">https://apps.apple.com/us/app/432-player-radio/id1479883396&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>I urge you to re-evaluate, as The Bat Player being pulled from the AppStore is a detriment to the open world of internet radio as well as to the tvOS ecosystem, something I, and The Bat Player, have been a part of since the launch of the tvOS SDK.&lt;/p>
+&lt;/blockquote>
+&lt;p>Today is the day the backend shut down and the application is no longer functioning. Apple isn&amp;rsquo;t replying. I could rebuild the old backend somewhere else and point the DNS records to it so the current client will hold on a little longer, but when you&amp;rsquo;re in a place where you&amp;rsquo;re no longer able to update or improve your application, that&amp;rsquo;s generally the end of the road. While the application hasn&amp;rsquo;t yet been pulled from the App Store, they&amp;rsquo;ve made it clear it&amp;rsquo;s no longer allowed to be there and it&amp;rsquo;s only a matter of time.&lt;/p>
+&lt;p>On this last day of The Bat Player it sits on the tvOS AppStore with hundreds of active users. I hope they&amp;rsquo;ve enjoyed the time spent with the app, and that it helped them discover some new music via the on-screen data it surfaced. I&amp;rsquo;m sorry it can&amp;rsquo;t continue and they never got the updates.&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/174542936" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>&lt;/iframe></description></item><item><title>Owncast: A project to take control over your own live streaming</title><link>https://gabekangas.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/</link><pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/</guid><description>&lt;h3 id="backstory">
+Backstory.
+&lt;a class="heading-link" href="#backstory">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>In 2020 the world changed when everyone become stuck in their homes, looking for creative outlets to share their art, skills and themselves from inside their bedroom.&lt;/p>
+&lt;p>This created an explosion of live streaming on Facebook Live, YouTube, Instagram, and Twitch. These services provided everything they needed, an easy way to live stream to the world, and a chat for users to be a part of their community.&lt;/p>
+&lt;p>But in a world where many were previously finding ways to rely on the big internet service companies less, the 2020 COVID-19 pandemic made everyone run right back to them.&lt;/p>
+&lt;p>And as soon as people started streaming their DJ sets, concerts, movie watching parties, and themselves just sitting around listening to music &lt;strong>the big companies came to &lt;a href="https://www.youtube.com/watch?v=cX6Xccx17gM">mute their audio, disconnect their streams, remove their recordings and ban these users all together.&lt;/a>&lt;/strong> &lt;a href="https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html">Even if they owned the content&lt;/a>. These huge corporate entities legally have to shut anybody down at the even slightest hint of a copyright issue, or they put their own company at risk. Fair use and common sense be damned.&lt;/p>
+&lt;p>That&amp;rsquo;s when I wanted a better option for people. Something you could run yourself and get all the functionality of these services, where you could live stream to an audience and and allow them to take part in the chat, just like they&amp;rsquo;ve been used to on all the other services. But instead of handing control over to somebody else, you run it. &lt;strong>You won&amp;rsquo;t get shut down, and you own it all, just like it should be.&lt;/strong>&lt;/p>
+&lt;p>I figured you can install Wordpress and self-host your blog, or install Megento and self-host your e-commerce site. You can install Icecast and have your own internet radio station. Spin up an instance of Mastodon and you have your own social media site that you control. You can even install Nextcloud and have your own personal productivity service replacing Dropbox and Google Docs. There&amp;rsquo;s an open-source alternative to all the big services that you can run for almost everything, but I couldn&amp;rsquo;t think of what the live video streaming equivalent was. &lt;strong>There should be a independent, standalone &lt;em>Twitch in a Box&lt;/em>.&lt;/strong>&lt;/p>
+&lt;p>So I set out to look at this and answer the question: &lt;strong>Can I build a self-hosted, open source solution that allows an individual to replace the live stream experience of the big social sites?&lt;/strong>&lt;/p>
+&lt;h3 id="current-state">
+Current state
+&lt;a class="heading-link" href="#current-state">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>&lt;strong>This is a work in progress.&lt;/strong> The web UI is being worked on and functionality is still being tested and iterated on. Feel free to test if you have some use for it and give feedback, but it&amp;rsquo;s not ready for production.&lt;/p>
+&lt;p>That being said, I have something that works. I call it &lt;a href="http://owncast.online/">Owncast&lt;/a>. There&amp;rsquo;s a demo server up at &lt;a href="https://goth.land">goth.land&lt;/a> that I&amp;rsquo;ve been streaming random stuff to. Sometimes I&amp;rsquo;ll get on and stream something live, and sometimes I&amp;rsquo;ll put some pre-recorded video up like a concert, and sometimes I&amp;rsquo;ll just put a song on and show the current time so I can test the stream in relation to live. Ginger has volunteered to work on the included web page that has the player and chat UI because she&amp;rsquo;s a pro at web layout and design. So that&amp;rsquo;s all a work in progress.&lt;/p>
+&lt;p>This is running on a $5/mo Linode server with other stuff running on it. The video itself is being distributed from AWS S3 and it works well. Equally well is allowing it to serve the files directly, but I wanted to test if adding an an additional layer muddied things up.&lt;/p>
+&lt;h4 id="what-it-can-do-currently">
+What it can do currently
+&lt;a class="heading-link" href="#what-it-can-do-currently">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>It takes in a RTMP stream from a user and generates a HLS stream that&amp;rsquo;s embedded in a supplied web page.&lt;/li>
+&lt;li>You can read and write to the chat in real-time from this page.&lt;/li>
+&lt;li>Can serve video directly from itself.&lt;/li>
+&lt;li>Can serve video via an AWS S3 bucket.&lt;/li>
+&lt;li>Can serve video via &lt;a href="https://ipfs.io">IPFS&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h3 id="requirements">
+Requirements
+&lt;a class="heading-link" href="#requirements">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>An individual can take the existing software they&amp;rsquo;re using and instead of pointing it at a 3rd party, simply point it at their own service.&lt;/li>
+&lt;li>It should be a single binary with all the built-in features. You shouldn&amp;rsquo;t have to run another web server or fight a bunch of dependencies.&lt;/li>
+&lt;li>You should have options on where the actual video is distributed from to allow for flexibilty with bandwidth usage and performance.&lt;/li>
+&lt;li>There should be complete control over the web page to the person running the stream. Plain HTML that is editable, or don&amp;rsquo;t use the included web page at all and just link to the video stream directly from elsewhere.&lt;/li>
+&lt;li>There should be no accounts, database servers, or excessive state that needs to persist anywhere.&lt;/li>
+&lt;/ul>
+&lt;h3 id="things-of-note">
+Things of note
+&lt;a class="heading-link" href="#things-of-note">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>ffmpeg is the best in class as a video transcoder, so there&amp;rsquo;s no reason to not use it. So I am.&lt;/li>
+&lt;li>Writing in Go allows me to build a single binary that people can download as a release for their platform without any need for dependency management or installing additional things via npm, gems, etc. It&amp;rsquo;s a great fit for a cross-platform &lt;em>&amp;ldquo;download and run&amp;rdquo;&lt;/em> mentality.&lt;/li>
+&lt;li>People are used to using &lt;a href="https://obsproject.com/">OBS&lt;/a> as the standard for streaming their content. This sends a stream via RTMP, so building in a RTMP server allows people to just point OBS at their new server without any other changes.&lt;/li>
+&lt;li>I&amp;rsquo;ve really enjoyed the &lt;a href="https://www.dnalounge.com/webcast/video.html">DNA Lounge web chat&lt;/a> they built for their live streams where you just type in your name and start chatting. No accounts, no authorization (for better or worse). So for now that&amp;rsquo;s the approach I want to take. It feels like it&amp;rsquo;s from a simpler time, and I like that.&lt;/li>
+&lt;/ul>
+&lt;h3 id="concerns-and-thoughts">
+Concerns and thoughts
+&lt;a class="heading-link" href="#concerns-and-thoughts">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Video is super bandwidth heavy. It remains to be seen how heavy and what the financial cost for offloading the video to S3 is. But if you have a host with a high transfer cap, then you&amp;rsquo;re fine and don&amp;rsquo;t need something like S3.&lt;/li>
+&lt;li>Transcoding video is super CPU heavy. But at a single bitrate, on a cheap, low-powered server, it seems to be fine. It remains to be seen how it&amp;rsquo;ll work when adding support for adaptive bitrates.&lt;/li>
+&lt;li>Offering a public chat opens up a whole lot of concerns regarding spam, harassment, etc. But those are all solved problems. Moderation can be added.&lt;/li>
+&lt;/ul>
+&lt;h3 id="specific-solutions">
+Specific solutions
+&lt;a class="heading-link" href="#specific-solutions">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>I wanted built-in support for offloading the actual video to other services. S3 was an obvious one. The video origin is the server that&amp;rsquo;s running the software, but the user actually pulls it down from S3 as to limit the amount of bandwidth being used on the local server. S3 is just where I started, but I plan on testing other S3 compatible services, as there are cheaper options out there than AWS like Wasabi, Backblaze and Linode. I felt starting with the most popular option made sense.&lt;/p>
+&lt;p>I also added experimental support for &lt;a href="https://ipfs.io">IPFS&lt;/a>, a distributed way of transferring files around. I thought if the origin server adds the video to the IPFS network then the player, through an IPFS gateway, can download the file, alleviating the need to continue to need to go back to the origin server, just like the above S3 support. Except in this case IPFS is free, and it&amp;rsquo;s distributed. But it can also be very slow. But it works, when it&amp;rsquo;s not slow. That&amp;rsquo;s why I call this &amp;ldquo;experimental support&amp;rdquo;. I really love the idea of it, but more time and research needs to see if it&amp;rsquo;s possible. But it&amp;rsquo;s supported in Owncast and people can try it out.&lt;/p>
+&lt;h3 id="a-note-about-cost">
+A note about cost
+&lt;a class="heading-link" href="#a-note-about-cost">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>Keep in mind that while streaming to the big social companies is always free, &lt;strong>you pay for it with your identity and your data, as well as the identity and data of every person that tunes in.&lt;/strong> When you self-host anything you&amp;rsquo;ll have to pay with your money instead. But running a self-hosted live stream server can be done for as cheap as $5/mo, and &lt;strong>that&amp;rsquo;s a much better deal than selling your soul to Facebook, Google or Amazon&lt;/strong>.&lt;/p>
+&lt;h3 id="whats-next">
+What&amp;rsquo;s next?
+&lt;a class="heading-link" href="#whats-next">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;p>Since a testable version of functionality exists, I want to keep testing it and finding any gaps. I particularly want to find any limitations with computing or bandwidth to determine what cases it&amp;rsquo;s just not feasible to run your own streaming server, or if there are more requirements than I&amp;rsquo;m aware of. A part of this is also doing a lot of streaming and distributing the video via S3 and looking at the costs. I want to be able to give people a realistic price estimate if they want to hand off the video to a 3rd party in order to save their own bandwidth.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The web UI will also get updated so it&amp;rsquo;s actually something you want to look at and use.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I need to add support for generating multiple bitrates so adaptive switching can be possible. But that will add additional computing load, so more testing to see if that breaks things is needed.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I&amp;rsquo;m far from a Go expert, so as time goes on I&amp;rsquo;ll be making better decisions and refactoring some of the proof of concept experiments into real code.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="why-did-i-write-this-post">
+Why did I write this post?
+&lt;a class="heading-link" href="#why-did-i-write-this-post">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>For two reasons. One, so when I&amp;rsquo;m talking about this project I can point people to a little more detail about it. And secondly, maybe somebody will read it and be interested in taking part in some capacity. It lives on &lt;a href="https://github.com/gabek/owncast">Github&lt;/a>, so feel free to check things out over there if you have interest in the subject, the project, writing some Go, or learning more about HLS video.&lt;/p></description></item><item><title>Some recent projects for my DJ mix hobby</title><link>https://gabekangas.com/blog/2020/05/some-recent-projects-for-my-dj-mix-hobby/</link><pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2020/05/some-recent-projects-for-my-dj-mix-hobby/</guid><description>&lt;p>While the lockdowns have been going on, and I haven&amp;rsquo;t been working (I&amp;rsquo;ll probably blog about that soon), I&amp;rsquo;ve been keeping busy with other projects.&lt;/p>
+&lt;p>I&amp;rsquo;ve picked up a new hobby of &lt;a href="https://gabekangas.com/mixes/">doing some DJ mixes&lt;/a>, streaming them on internet radio, and recording them for sharing with friends. This has led me to building some tooling around all of this stuff that I think, for a small population, might find useful.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/gabek/supbox">Supbox&lt;/a>: A tool to get the currently playing track from &lt;a href="https://rekordbox.com/en/">Rekordbox v6&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/gabek/json-scrobbler">json-scrobbler&lt;/a>: Monitor a JSON file with track data in it, and scrobble the track to &lt;a href="https://www.last.fm/">Last.FM&lt;/a> when it changes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/gabek/markcast">Markcast&lt;/a>: Turn a directory of MP3 files into Markdown files, using the ID3 information.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="some-info-about-each">
+Some info about each
+&lt;a class="heading-link" href="#some-info-about-each">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;h4 id="supboxhttpsgithubcomgabeksupbox">
+&lt;a href="https://github.com/gabek/supbox">Supbox&lt;/a>
+&lt;a class="heading-link" href="#supboxhttpsgithubcomgabeksupbox">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I&amp;rsquo;ve done a couple live mixes on &lt;a href="https://gabekangas.com/project/the-bat-station/">The Bat Station&lt;/a> and I like the idea of being able to share the metadata of the currently playing track. With the DJ software I use, Pioneer&amp;rsquo;s &lt;a href="https://rekordbox.com/en/">Rekordbox&lt;/a>, there&amp;rsquo;s no way to do that. So I built a tool that can detect tracks and write the metadata to files so other things can do things with it. Specifically I built it in for use with Rogue Ameba&amp;rsquo;s &lt;a href="https://rogueamoeba.com/audiohijack/">Audio Hijack&lt;/a>, the tool I use for streaming to The Bat Station. But I also added support for &lt;a href="https://obsproject.com/">OBS&lt;/a> because it&amp;rsquo;s so huge with live video streaming these days due to the lockdown. It can also just write to a generic JSON file so any other tool can take that data and run with it.&lt;/p>
+&lt;h4 id="json-scrobblerhttpsgithubcomgabekjson-scrobbler">
+&lt;a href="https://github.com/gabek/json-scrobbler">json-scrobbler&lt;/a>
+&lt;a class="heading-link" href="#json-scrobblerhttpsgithubcomgabekjson-scrobbler">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Speaking of another tool taking that JSON file and running with it, this tool simply monitors a JSON file of track information and then scrobbles the track to &lt;a href="https://www.last.fm/">Last.FM&lt;/a> so you can share what you&amp;rsquo;re listening to and keep aggregate listening stats. I made it to work as a companion to Supbox so I can scrobble while I play music in Rekordbox.&lt;/p>
+&lt;h4 id="markcasthttpsgithubcomgabekmarkcast">
+&lt;a href="https://github.com/gabek/markcast">Markcast&lt;/a>
+&lt;a class="heading-link" href="#markcasthttpsgithubcomgabekmarkcast">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I built this to simplify distributing recordings I make. Ultimately in the form of blog posts and Podcasts. I use a &lt;a href="https://www.staticgen.com/">Static Site Generator&lt;/a> (specifically &lt;a href="https://gohugo.io/">Hugo&lt;/a>) to generate this web site. It takes a bunch of Markdown files and builds a web site out of it. It also renders a RSS feed. So I thought I&amp;rsquo;d use that as a jumping off point to add a &lt;a href="https://gabekangas.com/mixes/">section of my site for mixes&lt;/a> I&amp;rsquo;m doing while in lockdown, as well as generate a &lt;a href="https://gabekangas.com/mixes/index.xml">RSS feed&lt;/a> that people can use to subscribe to this as a Podcast.&lt;/p>
+&lt;p>So it goes through each MP3 file, reads the ID3 information, and creates Markdown files that include a blurb of text extracted from the &lt;code>commend&lt;/code> tag, the image, and sets the &lt;code>genre&lt;/code> as a tag in the post. It also embeds a link to the audio in an &lt;code>audio&lt;/code> html tag so you can just play it directly.&lt;/p>
+&lt;p>Also, as a bonus if you&amp;rsquo;re a Rekordbox user, if you save and record your sets using that software, Markcast will use the accompanying &lt;em>cue&lt;/em> file and add a playlist and approximate time to the post you generate.&lt;/p>
+&lt;p>&lt;strong>&lt;a href="https://gabekangas.com/mixes/">Check out some examples&lt;/a>&lt;/strong> by clicking on one of the mix titles.&lt;/p>
+&lt;center>
+&lt;img src="https://gabekangas.com/blog/images/2020-05-13-a-couple-dj-projects.jpg" width=60%>
+&lt;/center></description></item><item><title>When work becomes life: A Pandemic story</title><link>https://gabekangas.com/blog/2020/03/when-work-becomes-life-a-pandemic-story/</link><pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2020/03/when-work-becomes-life-a-pandemic-story/</guid><description>&lt;p>There&amp;rsquo;s no lack of thinkpieces around the lockdowns and global work from home changes taking place. But I wanted to discuss a different angle that people don&amp;rsquo;t seem to be discussing, at least publicly.&lt;/p>
+&lt;p>Right now the internet is flooded with screenshots of Zoom video conferences, everyone smiling, talking about their cute background images and how comfortable it is to be home. They&amp;rsquo;re talking about how they&amp;rsquo;re working more efficient than ever, how they can just roll out of bed and immediately start working. Others are saying that it&amp;rsquo;s like nothing changed. Everyone quietly implying that &lt;strong>there&amp;rsquo;s nothing more to life than work and as long as you can be productive things are great&lt;/strong>.&lt;/p>
+&lt;p>Work means different things to different people. For some it&amp;rsquo;s the most important thing in their lives. For others it&amp;rsquo;s just a thing they have to do to pay the rent. For most people it&amp;rsquo;s somewhere in between. But for a small few, they might be going though a rough patch with their job, and &lt;strong>everything but their job has been taken away from them&lt;/strong>.&lt;/p>
+&lt;p>I&amp;rsquo;m one of those few. Work hasn&amp;rsquo;t been great for a while. But it&amp;rsquo;s ok in general, and I get through the day knowing of all the exciting things that I have to look forward to. The concerts of some of my favorite bands coming up, going out to dinner with my girlfriend, my first trip to Europe in a couple months, going out to dance to some techno this weekend. But all of these things have been taken away from me and all that&amp;rsquo;s left is my job and a bunch of faces on Zoom saying how great things are.&lt;/p>
+&lt;p>I&amp;rsquo;m glad it seems most people love their job, and I&amp;rsquo;m glad things are seemingly going so well for them. I&amp;rsquo;m glad work is enough for them and they don&amp;rsquo;t appear to need other things to look forward to. But I&amp;rsquo;m guessing things aren&amp;rsquo;t what it seems and more people are taking this harder than they let on. Those faces next to yours in that conference call who are saying we can just keep on keepin' on may just be saying what everyone wants to hear. &lt;strong>The reality is everyone has had so much taken from them, and all that remains is Slack and Zoom&lt;/strong>.&lt;/p>
+&lt;p>I&amp;rsquo;m well aware that having a job right now at all is something to be thankful for, and I am indeed thankful. Businesses are closing and people don&amp;rsquo;t know what the future holds for them. Things are bad for a lot of people, and I&amp;rsquo;m trying to put my money where my mouth is by donating to places that will help support the businesses and people I care about. But that&amp;rsquo;s a topic that&amp;rsquo;s thankfully getting plenty of discussion, so I&amp;rsquo;m finding myself thinking about the people like me who are &lt;em>&amp;ldquo;supposed&amp;rdquo;&lt;/em> to be ok.&lt;/p>
+&lt;p>So next time you login to Zoom and say it&amp;rsquo;s great that it&amp;rsquo;s business as usual, know that some people are dealing with this lockdown a bit harder than you are. They probably won&amp;rsquo;t say anything, but &lt;strong>it&amp;rsquo;s likely one of those faces is wondering how they&amp;rsquo;re going to get through the day, the week, and the months ahead&lt;/strong>.&lt;/p>
+&lt;p>I hope you&amp;rsquo;re all ok.&lt;/p></description></item><item><title>Goodbye Longtail Music</title><link>https://gabekangas.com/blog/2019/12/goodbye-longtail-music/</link><pubDate>Wed, 04 Dec 2019 00:21:06 +0000</pubDate><guid>https://gabekangas.com/blog/2019/12/goodbye-longtail-music/</guid><description>&lt;p>A few weeks ago I shut down Longtail Music, my internet radio discovery platform. I wanted to give a bit of a postmortem to talk about what I sent out to do, what it did, and why I think things never worked out.&lt;/p>
+&lt;p>I originally built Longtail Music as a spinoff from my time with &lt;a href="https://apps.apple.com/us/app/the-bat-player-radio/id1050517930">The Bat Player&lt;/a>, an internet radio client for the TV. I thought if The Bat Player was a client for people who already love internet radio and know what they want to listen to, then &lt;strong>I want to build something on the web for people to discover internet radio for the first time and discover a station they would love&lt;/strong>.&lt;/p>
+&lt;h4 id="first-as-a-refresher-heres-what-longtail-music-was">
+First, as a refresher, here&amp;rsquo;s what Longtail Music was.
+&lt;a class="heading-link" href="#first-as-a-refresher-heres-what-longtail-music-was">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;ol>
+&lt;li>A &lt;strong>discovery engine&lt;/strong> for people to find an internet radio station they would enjoy.&lt;/li>
+&lt;li>An &lt;strong>internet radio client&lt;/strong> that displayed details about the artist including images and album information. A smaller version of the player was also embeddable on external web sites.&lt;/li>
+&lt;li>&lt;strong>A crowd funding platform&lt;/strong> to allow stations to collect funds to help keep the station online.&lt;/li>
+&lt;li>Provided links for each track in your history so you can &lt;strong>listen on Spotify, Apple Music, YouTube, etc&lt;/strong>.&lt;/li>
+&lt;li>&lt;strong>A CMS for stations&lt;/strong> to post messages, update show schedules, announce special events, and contact fans.&lt;/li>
+&lt;li>&lt;strong>A promotions service&lt;/strong> for featuring the stations on social networks.&lt;/li>
+&lt;li>&lt;strong>An analytics platform&lt;/strong> showing station owners the listening statistics and the most popular tracks.&lt;/li>
+&lt;li>A social platform for listeners to &lt;strong>interact with the station&lt;/strong>.&lt;/li>
+&lt;li>A user re-engagement drip campaign that will email users if they haven&amp;rsquo;t tuned into a station for a while.&lt;/li>
+&lt;/ol>
+&lt;p>Let&amp;rsquo;s go over some of these points in more detail and talk about what it was I was trying to provide for these stations.&lt;/p>
+&lt;h4 id="help-them-stay-in-business-i-wanted-to-give-stations-money--for-free">
+Help them stay in business: I wanted to give stations money. For free.
+&lt;a class="heading-link" href="#help-them-stay-in-business-i-wanted-to-give-stations-money--for-free">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Since stations need money to stay online I wanted to help on that front. A part of Longtail was having a place that encouraged listeners to support the station via donations. &lt;strong>Donations were featured on the station&amp;rsquo;s page&lt;/strong> and listeners could keep track of how much they&amp;rsquo;ve donated over time. Much like Patreon, OpenCollective, or other crowdfunding platforms, I wanted to build a mutually beneficial ecosystem where it&amp;rsquo;s super easy to donate to a station, and in turn the station gets to keep running and playing music for the listener. I thought stations would really like this, since stations are asking for money &lt;em>ALL OF THE TIME&lt;/em>. They ignored it completely.&lt;/p>
+&lt;h4 id="get-more-listeners-i-wanted-to-provide-promotion-of-stations--for-free">
+Get more listeners: I wanted to provide promotion of stations. For free.
+&lt;a class="heading-link" href="#get-more-listeners-i-wanted-to-provide-promotion-of-stations--for-free">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>The whole point is to have people discover new music via internet radio stations, so acquiring users is important. My goal was to spend some highly targeted dollars on advertising for stations on the platform in order to acquire new listeners. Find people who like rap and send them to the rap stations, get country people to the country stations. It&amp;rsquo;s a self-identifying demographic and as far as targeting goes this seemed straightforward. No catch, I just wanted more people to listen to their stations by routing them through Longtail Music. But I wasn&amp;rsquo;t willing to do this unless a handful of stations were at least minimally active on the platform.&lt;/p>
+&lt;h4 id="a-modern-and-more-interactive-listening-experience-i-wanted-to-build-something-that-the-facebook-generation-felt-at-home-with">
+A modern and more interactive listening experience: I wanted to build something that the &amp;ldquo;Facebook Generation&amp;rdquo; felt at home with.
+&lt;a class="heading-link" href="#a-modern-and-more-interactive-listening-experience-i-wanted-to-build-something-that-the-facebook-generation-felt-at-home-with">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>&lt;strong>&lt;a href="http://www.181.fm/">Most internet radio stations have web sites that look like they were built 15 years ago&lt;/a>&lt;/strong>. Some of them were. If you want new listeners then not only do the first impressions matter, but you have to keep them coming back. &lt;strong>People are used to newsfeeds, social posts and continued engagement&lt;/strong>. Some of my favorite internet radio stations have live DJ sets, and with a single click of a button on Longtail a station can notify fans of the station via email that a live set is about to begin and it features that station on the home page so everyone knows a special event is occurring. Stations never used this this feature.&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>That&amp;rsquo;s a lot of functionality&lt;/strong>, and lots to build. But just as many things were somewhat out of my control. In order to run successfully, a handful of things had to work out.&lt;/p>
+&lt;h4 id="the-stations-have-to-be-good">
+The stations have to be good.
+&lt;a class="heading-link" href="#the-stations-have-to-be-good">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>This is obvious, but it&amp;rsquo;s also not a given. &lt;strong>There are so many internet radio stations out there, and very few of them are worthy of featuring in front of people&lt;/strong>.&lt;/p>
+&lt;p>Most internet radio stations fall into the category of &lt;em>&amp;ldquo;Variety and misc&amp;rdquo;&lt;/em>. An unappealing random grab bag of tracks. It shows no personality, no target demographic, and &lt;strong>no way for a potential listener to really dig in and know what is being offered&lt;/strong>. Even the tag lines of these stations are all generic &lt;em>&amp;ldquo;From old to new, hard to soft, we have the best that music has to offer&amp;rdquo;&lt;/em> or bragging about not sticking within a single genre. So when I started Longtail Music I had the task ahead of me of trying to find stations that had a real personality and a clear goal. A station that said things like &lt;em>&amp;ldquo;Promoting Soca and Calypso music to the world&amp;rdquo;&lt;/em> was something that would catch my eye since it was unique.&lt;/p>
+&lt;h4 id="the-stations-had-to-realize-im-just-trying-to-help">
+The stations had to realize I&amp;rsquo;m just trying to help.
+&lt;a class="heading-link" href="#the-stations-had-to-realize-im-just-trying-to-help">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I&amp;rsquo;d email these stations individually, and that is more difficult than it sounds as it would sometimes take a lot of digging to find out how to contact a station owner. If I got a response at all it would usually be along the lines of them assuming I&amp;rsquo;m scamming them, looking to sell them something, or are out to get them in some way. I emailed hundreds of station owners and most of the responses were things like &amp;ldquo;I&amp;rsquo;ve been doing this for 15 years and I don&amp;rsquo;t need you&amp;rdquo; or something equally negative. Some stations even had concerns being listed next to another station on a web site because they thought they&amp;rsquo;d &amp;ldquo;lose listeners&amp;rdquo; and saw other stations as &amp;ldquo;competition&amp;rdquo; and didn&amp;rsquo;t want to take part.&lt;/p>
+&lt;h4 id="the-stations-had-to-be-willing-to-minimally-use-the-platform">
+The stations had to be willing to minimally use the platform.
+&lt;a class="heading-link" href="#the-stations-had-to-be-willing-to-minimally-use-the-platform">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>For each station I onboarded I would manually station info, audio streams and input it into the Longtail platform so the station owners didn&amp;rsquo;t have to do anything to start using it. I would ask if they ever changed their audio stream to make sure they change it on Longtail. This didn&amp;rsquo;t happen. Many stations would get a new audio stream, not tell me, and not update it on Longtail, making their station completely unavailable. So if I notice this happening I&amp;rsquo;d go digging for the new one, update it for them, and fix it. &lt;strong>This showed that the minimum effort of even making sure people can listen to their station was not being made&lt;/strong>.&lt;/p>
+&lt;h4 id="the-stations-on-the-platform-have-to-stay-online">
+The stations on the platform have to stay online.
+&lt;a class="heading-link" href="#the-stations-on-the-platform-have-to-stay-online">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Internet radio stations do not make money. Each station owner operates at a loss and if they&amp;rsquo;re lucky they&amp;rsquo;ll have some donations to help each month. But realistically the number of listeners most stations have can&amp;rsquo;t make enough money even if everyone donated. Because of this stations disappear, often. There&amp;rsquo;s only so much money people will spend on a hobby, and they just give up. &lt;strong>Out of pocket expenses, few listeners and increasing hassle with licensing leads to stations just being turned off&lt;/strong>.&lt;/p>
+&lt;h4 id="i-needed-to-get-potential-listeners-to-the-site-and-discover-these-stations">
+I needed to get potential listeners to the site and discover these stations.
+&lt;a class="heading-link" href="#i-needed-to-get-potential-listeners-to-the-site-and-discover-these-stations">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Even if the stations were on board and engaged that&amp;rsquo;s only half the equation.&lt;/p>
+&lt;hr>
+&lt;p>I&amp;rsquo;ve been detailing a lot about the stations and what I wanted to provide for them, but I built Longtail Music for the listeners. The goal was to get people to listen to more internet radio and discover new music by giving them the following.&lt;/p>
+&lt;h4 id="a-simple-way-to-discover-an-internet-radio-station-to-enjoy">
+A simple way to discover an internet radio station to enjoy.
+&lt;a class="heading-link" href="#a-simple-way-to-discover-an-internet-radio-station-to-enjoy">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>By clicking on genres you&amp;rsquo;re into, or connecting your Facebook or Spotify accounts Longtail surfaced you a list of stations that were compatible with things you already listen to.&lt;/p>
+&lt;h4 id="the-ability-to-share-your-thoughts-about-songs-and-the-station">
+The ability to share your thoughts about songs and the station.
+&lt;a class="heading-link" href="#the-ability-to-share-your-thoughts-about-songs-and-the-station">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>You could like and dislike songs, sharing with others what you thought about what was currently playing on the station. You could also leave messages for other listeners and for the DJs. These likes, dislikes and messages would then get emailed to station owners at the end of the week so they knew what people thought of the content on the station.&lt;/p>
+&lt;h4 id="showing-you-werent-alone-you-saw-other-people-in-real-time-tune-in-and-react-to-songs">
+Showing you weren&amp;rsquo;t alone, you saw other people, in real-time, tune in and react to songs.
+&lt;a class="heading-link" href="#showing-you-werent-alone-you-saw-other-people-in-real-time-tune-in-and-react-to-songs">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>As people tuned into the station, liked, disliked, or commented on songs, you would see it in real time. This created a communial listening experience. It wasn&amp;rsquo;t just you listening by yourself, the world was enjoying that song with you.&lt;/p>
+&lt;h4 id="a-listening-history-so-you-can-go-back-to-that-song-you-really-enjoyed-and-find-it-on-your-streaming-service-of-choice">
+A listening history so you can go back to that song you really enjoyed, and find it on your streaming service of choice.
+&lt;a class="heading-link" href="#a-listening-history-so-you-can-go-back-to-that-song-you-really-enjoyed-and-find-it-on-your-streaming-service-of-choice">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>You could look at your history to find that song you heard earlier, and quickly jump to it in Spotify or other services, to listen to it again or add it to your personal playlists.&lt;/p>
+&lt;hr>
+&lt;h3 id="so-what-went-wrong">
+So what went wrong?
+&lt;a class="heading-link" href="#so-what-went-wrong">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;h4 id="not-enough-station-engagement">
+Not enough station engagement.
+&lt;a class="heading-link" href="#not-enough-station-engagement">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>This has been mentioned a couple times, but &lt;strong>building something for somebody who doesn&amp;rsquo;t want it isn&amp;rsquo;t going to get you anywhere&lt;/strong>.&lt;/p>
+&lt;h4 id="not-enough-listeners">
+Not enough listeners.
+&lt;a class="heading-link" href="#not-enough-listeners">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>This is pretty common with anything new, you just don&amp;rsquo;t have users yet. But for me I wasn&amp;rsquo;t willing to put money into user acquisition until I felt confident that the stations would engage with them once they got there, and this never happened. And with the promotion that did happen, my guess is people think &amp;ldquo;Spotify is good enough&amp;rdquo; and really aren&amp;rsquo;t looking for another way to discover new music, so they&amp;rsquo;re not jumping to press play on some random web site.&lt;/p>
+&lt;h4 id="zero-stations-actively-utilized-the-donations-feature">
+Zero stations actively utilized the donations feature.
+&lt;a class="heading-link" href="#zero-stations-actively-utilized-the-donations-feature">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I didn&amp;rsquo;t mean they didn&amp;rsquo;t enable the feature, as it was on by default, but stations weren&amp;rsquo;t telling listeners to donate via Longtail, or making posts saying they were accepting donations. Therefore users didn&amp;rsquo;t donate.&lt;/p>
+&lt;h4 id="onboarding-each-station-was-a-chore">
+Onboarding each station was a chore.
+&lt;a class="heading-link" href="#onboarding-each-station-was-a-chore">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>It took &lt;em>way&lt;/em> too much effort to find, communicate with, and convince each station to take part. I felt like a sales person who wasn&amp;rsquo;t making money. I even used a sales pipeline tool to keep track of who I emailed and what the status of each conversation was. &lt;strong>It&amp;rsquo;s possible I spent just as much time emailing as I did with the development of the product&lt;/strong>. But I felt strongly about creating a relationship with each quality station, and that I was willing to put effort into it, even though it didn&amp;rsquo;t pay off.&lt;/p>
+&lt;hr>
+&lt;h3 id="what-worked">
+What worked?
+&lt;a class="heading-link" href="#what-worked">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;h4 id="the-idea-was-sound">
+The idea was sound.
+&lt;a class="heading-link" href="#the-idea-was-sound">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>A few stations were active on Longtail Music, and seeing them post their schedule, send weekly updates to listeners, and keep their information active really showed me that the idea of the platform, when executed, was a really good one.&lt;/p>
+&lt;h4 id="putting-a-fresh-coat-of-paint-on-internet-radio-does-make-internet-radio-more-accessible">
+Putting a fresh coat of paint on internet radio does make internet radio more accessible.
+&lt;a class="heading-link" href="#putting-a-fresh-coat-of-paint-on-internet-radio-does-make-internet-radio-more-accessible">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Making people who feel at home on Facebook feel comfortable tuning into internet radio does modernize something that hasn&amp;rsquo;t changed a lot for years.&lt;/p>
+&lt;h4 id="i-hired-a-designer-and-the-end-product-came-out-pretty-nice">
+I hired a designer and the end product came out pretty nice.
+&lt;a class="heading-link" href="#i-hired-a-designer-and-the-end-product-came-out-pretty-nice">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I made the choice upfront to have somebody design the site for me, and that was a good idea, though it slowed me down to have somebody else involved. And while I had never built in React before, I built a pretty complex, multifaceted social platform with billing features. It would have been easier if I built an iOS app or something, since that&amp;rsquo;s my focus, the React app ran great for years. I focused on performance, speed, and ease of use, and it worked.&lt;/p>
+&lt;hr>
+&lt;h3 id="what-i-learned">
+What I learned
+&lt;a class="heading-link" href="#what-i-learned">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;h4 id="some-people-dont-want-your-help--you-cant-make-people-care">
+Some people don&amp;rsquo;t want your help &amp;amp; you can&amp;rsquo;t make people care.
+&lt;a class="heading-link" href="#some-people-dont-want-your-help--you-cant-make-people-care">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Even if you&amp;rsquo;re just trying to do something helpful, for free, that doesn&amp;rsquo;t mean that people want what you have. A lot of these station owners have been doing it for many years and don&amp;rsquo;t want anybody else involved. Even if they need money, even if they want more listeners, even if their web page is crap. &lt;strong>It&amp;rsquo;s their thing and they don&amp;rsquo;t want you or anybody else involved&lt;/strong>.&lt;/p>
+&lt;p>I wanted to forge partnerships with people who care deeply about music, internet radio and sharing the worlds of both. But making partnerships is hard, and you can&amp;rsquo;t force somebody to care as much as you about your thing. I cared about their stations, and I wanted to see them all thrive, but nobody cared that I cared.&lt;/p>
+&lt;h4 id="being-a-platform-for-other-peoples-content-is-a-difficult-road">
+Being a platform for other people&amp;rsquo;s content is a difficult road.
+&lt;a class="heading-link" href="#being-a-platform-for-other-peoples-content-is-a-difficult-road">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Sometimes I think it would have been easier to create 100 of my own internet radio stations from scratch, operate them, and then use those stations on Longtail Music. But I wanted to be a part of something bigger, and help people who really love music. But anytime you&amp;rsquo;re trying to surface the work and content of others you&amp;rsquo;re at the mercy of other people. Luckily I didn&amp;rsquo;t have to pay to have this content on Longtail (unlike running a music streaming service like Rdio or a TV streaming service), so it didn&amp;rsquo;t become a financial burden, but it&amp;rsquo;s still a challenge when you don&amp;rsquo;t control everything. You rely on the people generating that content to be involved.&lt;/p>
+&lt;h4 id="building-a-product-for-the-worst-case-scenario-buys-you-time-and-lowers-expectations">
+Building a product for the worst case scenario buys you time and lowers expectations.
+&lt;a class="heading-link" href="#building-a-product-for-the-worst-case-scenario-buys-you-time-and-lowers-expectations">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I built Longtail Music knowing on day one there would be zero people and very little action on the platform. I called it a &lt;strong>site on autopilot&lt;/strong>. So I made sure that every little thing gets surfaced in a stream and keeps the content fresh. It was constantly showing the recent songs played by each station, and as each person tuned into a station it would show off that the station got a new listener. Even at its most quiet the site had a feed of content that was always fresh, interesting and showed you what has been going on while you were away. You could even discover new music just by browsing the home page and seeing stations that you might be interested in or cover art that catches you attention. There were previews of recent songs, definitions of genres you might not be familiar with, and a way to discover stations via your Facebook and Spotify accounts. I didn&amp;rsquo;t build it to look good after hundreds of people started using it, I built it to attract somebody when nothing was going on and didn&amp;rsquo;t require activity, and that was a good call.&lt;/p>
+&lt;p>In a similar vein, even though I talk about the lack of engagement by stations, &lt;strong>I built Longtail Music to require as little usage by station owners as possible&lt;/strong>. The platform would feature a station when it plays a song for the first time and keep a record of artists that are often played on the station so station owners don&amp;rsquo;t have to do anything for it to be obvious what type of content they&amp;rsquo;re playing. It allowed the page for a station to always be up to date and featuring things without any human being involved.&lt;/p>
+&lt;h4 id="dont-waste-time-building-a-user-accounts-system-unless-you-need-to">
+Don&amp;rsquo;t waste time building a user accounts system unless you need to.
+&lt;a class="heading-link" href="#dont-waste-time-building-a-user-accounts-system-unless-you-need-to">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Unless the value of the product relies on accounts to exist, it&amp;rsquo;s a waste of time. Longtail Music had user accounts where you could view your listening history, donation history, mark songs as favorites, like/dislike, etc. &lt;strong>None of this was necessary&lt;/strong>. You could do most everything without a user account (on purpose), so I shouldn&amp;rsquo;t have spent time building them in the first place. That&amp;rsquo;s not where the value of the product was. It would have been a nice v2 addition if there were enough listeners and stations were active enough where they were generating content that should be pushed to individual users.&lt;/p>
+&lt;h4 id="in-general-the-scope-of-the-product-was-too-big">
+In general the scope of the product was too big.
+&lt;a class="heading-link" href="#in-general-the-scope-of-the-product-was-too-big">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I built it all, and it had everything I wanted, so it&amp;rsquo;s not like the large scope had any real downsides other than it took longer to build. But, like the user accounts, I probably shouldn&amp;rsquo;t have started with the donations platform or any of the special features for station owners. All of the dashboards and special station-owner features were probably never even looked at. While seeing graphs about who&amp;rsquo;s tuning in and when and what songs are popular are very cool, it&amp;rsquo;s not terribly useful early on, and &lt;strong>really not useful if the station owner isn&amp;rsquo;t even logging in&lt;/strong>.&lt;/p>
+&lt;h4 id="dont-spend-time-on-all-the-dumb-social-stuff">
+Don&amp;rsquo;t spend time on all the dumb &amp;ldquo;social stuff&amp;rdquo;.
+&lt;a class="heading-link" href="#dont-spend-time-on-all-the-dumb-social-stuff">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I spent a lot of time working on integration with Twitter and Facebook. Both from the automated posting standpoint, and using Facebook and Spotify data to match you up with stations via your social listening history. I also spent a bunch of time on server-rendered pages for every part of the site so OpenGraph tags would render for anybody who linked to it. &lt;strong>None of this was required or helpful&lt;/strong>.&lt;/p>
+&lt;h4 id="all-the-real-time-interactive-user-stuff-wasnt-very-useful-with-so-few-users">
+All the real-time interactive user stuff wasn&amp;rsquo;t very useful with so few users.
+&lt;a class="heading-link" href="#all-the-real-time-interactive-user-stuff-wasnt-very-useful-with-so-few-users">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>While it was super cool to see, in real-time, users around you react to songs and tune into stations, it wasn&amp;rsquo;t very useful, and it took a lot of work to build.&lt;/p>
+&lt;hr>
+&lt;h3 id="whats-next">
+What&amp;rsquo;s next?
+&lt;a class="heading-link" href="#whats-next">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>Nothing new, actually. I&amp;rsquo;m currently working on an update for &lt;a href="https://apps.apple.com/us/app/the-bat-player-radio/id1050517930">The Bat Player&lt;/a> for AppleTV and I look forward to getting that out in 2020. It&amp;rsquo;s been a long time since I&amp;rsquo;ve worked on it, and it needs some updates.&lt;/p>
+&lt;p>Unlike social web sites where you require some critical mass before you can call yourself a success, a useful application is a success for each person who installs it and uses it.&lt;/p>
+&lt;p>So I&amp;rsquo;m going &amp;ldquo;back to my roots&amp;rdquo;, if you will, and making sure the client for existing internet radio lovers is in good shape.&lt;/p>
+&lt;p>As far as the future, I haven&amp;rsquo;t given up on the idea of introducing more people to internet radio and making it more accessible and modern. I just don&amp;rsquo;t know how to do it. I&amp;rsquo;ll keep thinking. In the mean time I&amp;rsquo;ll put on some good tunes and listen to internet radio somewhere else.&lt;/p>
+&lt;p>PS: If you&amp;rsquo;re at all curious about what the station owner experience with Longtail was like I uploaded the &lt;a href="https://gabekangas.com/blog/LongtailMusicAdminGuide.pdf">Station Admin guide&lt;/a>.&lt;/p>
+&lt;iframe src="https://player.vimeo.com/video/214576527" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>&lt;/iframe></description></item><item><title>It's time a for change: I'm trying Linux on the desktop</title><link>https://gabekangas.com/blog/2019/05/its-time-a-for-change-im-trying-linux-on-the-desktop/</link><pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2019/05/its-time-a-for-change-im-trying-linux-on-the-desktop/</guid><description>&lt;p>I&amp;rsquo;ve felt lousy about the internet, software, computers and technology lately. Recently I&amp;rsquo;ve abandoned a project of mine and that made me feel pretty bad. It made me think about my relationship with my personal computer and the things I use it for. I realized once I removed macOS and iOS software development from things I use my computer for I&amp;rsquo;m not really tied to a Mac. And though I love macOS, Macintosh computers, and the entire Apple ecosystem, I just needed to look at something else for a while and rekindle that passion I have for my computer.&lt;/p>
+&lt;p>So I purchased a brand new computer, a Lenovo Thinkpad X1 Carbon. Before I ever was a Mac user I had an IBM Thinkpad and I have such great memories of it. Plus when I polled people on The Fediverse a lot of people suggested that there&amp;rsquo;s good compatibility with Linux and the X1 hardware. So I went to Central Computers in San Francisco, a real, physical computer store, and came out with a new laptop.&lt;/p>
+&lt;h4 id="picking-a-linux-distribution">
+Picking a Linux distribution
+&lt;a class="heading-link" href="#picking-a-linux-distribution">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>The first step was picking a Linux distro that I&amp;rsquo;d be happy with. I was originally suggested to check out &lt;a href="https://system76.com/pop">Pop!_OS&lt;/a> so I wrote the ISO to a USB drive and installed it. I didn&amp;rsquo;t really know much about it before I installed it, but there was no reason not to try it. But after playing with it a bit I found something about the window management just to be a bit weird. I couldn&amp;rsquo;t really see what apps were open, and had to view submenus in order to get the state of the apps without a dock or something. No big deal. Next up, after doing a bit of reading, was &lt;a href="https://linuxmint.com/">Linux Mint&lt;/a> Cinnamon edition. It seemed polished enough for a nice desktop, but also has some standard elements that I&amp;rsquo;d expect. It took less than 5 minutes to download the ISO, write it to the USB drive and be booted up into it. I can&amp;rsquo;t explain how cool it is to be testing out different distributions so quickly.&lt;/p>
+&lt;h4 id="upfront-impressions-hardware--os">
+Upfront impressions: Hardware + OS
+&lt;a class="heading-link" href="#upfront-impressions-hardware--os">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>With the OS installed I could poke around and check it out. I noticed right away how much nicer it is to type on this Thinkpad keyboard than that horrible butterfly switch keyboard on the Apple Macbook Pro.&lt;/p>
+&lt;p>And while the keyboard is pretty great, one thing isn&amp;rsquo;t: Keyboard shortcuts. For some reason even something as simple as copy/paste shortcuts only work some places. I can command+c in a web browser to copy text, but I can&amp;rsquo;t command+v in the terminal to paste it. But I can command+v in other apps. There seems to be no rhyme or reason where shortcuts work and where they don&amp;rsquo;t.&lt;/p>
+&lt;p>So many icons are blurry. This machine has a high DPI screen, so I understand that&amp;rsquo;s probably the problem, but why haven&amp;rsquo;t the apps been updated to support modern screens?&lt;/p>
+&lt;p>After about a week of using this setup I looked into what I could do to get inertial (or kenetic) scrolling to work. You know how if you fling the trackpad quickly it&amp;rsquo;ll scroll quickly and decelerate over time. It turns out it&amp;rsquo;s kind of possible, but you have to change the mouse driver. So I replaced &lt;a href="https://www.freedesktop.org/wiki/Software/libinput/">libinput&lt;/a> with the &lt;a href="https://wayland.freedesktop.org/libinput/doc/latest/faqs.html#kinetic-scrolling-does-not-work">Synaptics driver&lt;/a>, and that helped. But it&amp;rsquo;s still &amp;ldquo;off&amp;rdquo;, in that kind of hard to describe way.&lt;/p>
+&lt;p>But aside from that trackpad driver I didn&amp;rsquo;t have to install any custom drivers, perform any hand editing of config files, or boot into a console to tweak some settings. The actual Linux distros these days seem to be extremely solid out of the box. The desktop environment and window managers have been polished and work great.&lt;/p>
+&lt;h4 id="installing-software">
+Installing software
+&lt;a class="heading-link" href="#installing-software">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>So with Linux Mint installed, and me being happy enough with the standard elements of the OS, it was time to install the apps I will need to start gaining functionality.&lt;/p>
+&lt;p>There are handfuls of ways to install software in Linux and you never know what one you should look at first.&lt;/p>
+&lt;p>Linux Mint has this &amp;ldquo;Software Manager&amp;rdquo; that I think is probably just a GUI frontend to apt, or something. It&amp;rsquo;s a handy way to search for and install applications. Some things, though, you&amp;rsquo;ll want to, or have to, install via the command line. That&amp;rsquo;s even the case in macOS as Homebrew allows you to easily install a ton of unix software.&lt;/p>
+&lt;p>There&amp;rsquo;s also some thing now called &lt;a href="https://snapcraft.io/store">&amp;ldquo;snap&amp;rdquo;&lt;/a> where you can install all-in-one app images of some sort that deal with dependencies, and that seems to work pretty well once you find it on the snap ecosystem. It shows that the experience of installing applications in Linux has been a focus over the years, as there are a number of different ways now, all trying to be easier than the next. Unfortunately they spent all the time on the installer UIs and not on the software itself.&lt;/p>
+&lt;h4 id="the-state-of-linux-software">
+The State of Linux Software
+&lt;a class="heading-link" href="#the-state-of-linux-software">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>So if the actual Linux distribution and software experiences are great, then this whole thing sounds like a success, right? Well, let&amp;rsquo;s talk about the actual applications.&lt;/p>
+&lt;p>To be completely honest, it looks like Linux desktop applications have not been touched much since I last used Linux as a desktop OS over 10 years ago. There doesn&amp;rsquo;t seem to be any really polished applications, and ones that were around back then are still the ones people use now, and they&amp;rsquo;re not any better than they were a decade ago.&lt;/p>
+&lt;p>I can only assume that the same thing I complain about on macOS desktops, that people have just given up and only use the web, is happening with Linux. Or maybe Linux users just decided there&amp;rsquo;s no reason to leave the terminal? Is the reason why Thunderbird is still the best option for a mail client because everyone just uses stupid Gmail in their browser?&lt;/p>
+&lt;p>And sure there are some exceptions, there are technically more apps than there used to be. But just like on the Mac, most of them are cross-platform Electron/Javascript apps. Visual Studio Code is on Linux, so is Signal messenger, so is Whalebird for Mastodon and Keybase. There&amp;rsquo;s a new calendar app called MineTime that I found. But all of those are just web apps in an Electron wrapper.&lt;/p>
+&lt;p>And while some applications are &amp;ldquo;bad&amp;rdquo;, some are completely unusable. Take for instance the application QOwnNotes, it&amp;rsquo;s completely unusable because it just does its own thing as far as handling the screen resolution for some reason. Spotify also does that, but at least with Spotify it&amp;rsquo;s not a productivity app where you spend time in it getting work done, you just press play and minimize. A note taking app where you can&amp;rsquo;t read the notes is a good example of all the bad software for Linux on the desktop.&lt;/p>
+&lt;img src="https://gabekangas.com/blog/images/smalltextapp.png">
+&lt;h4 id="using-linux-daily">
+Using Linux daily
+&lt;a class="heading-link" href="#using-linux-daily">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>It&amp;rsquo;s hard to really describe it. But using Linux on the desktop, and Linux desktop apps, kind of feel like using a computer through a layer of mud. Just moving the mouse cursor around, and pointing and clicking feels odd. Everything is a little messy.&lt;/p>
+&lt;p>It&amp;rsquo;s hard to put words to a lot of this. But even typing this blog post I&amp;rsquo;ll be typing and then the cursor will just jump to a random part of the document because I &lt;em>guess&lt;/em> I accidentally touched the trackpad while typing or something? This kind of thing happens all the time and it&amp;rsquo;s so frustrating. If I try and highlight a block of text sometimes I end up deleting it, or dragging it somewhere else because of all these wierd rogue inputs. You have to be super, super deliberate when using the trackpad because it feels like it&amp;rsquo;s always out to trip you up. I imagine using Linux with an external mouse and keyboard is a much, much more pleasant experience. It feels like another example of how Linux stagnated over ten years ago, where Linux on a laptop was probably less popular and everyone was using beefy desktop computers with external devices.&lt;/p>
+&lt;p>Applications have no consistency to them whatsoever. Some have menu bars, some have menu buttons, some have no menus. So if you&amp;rsquo;re looking for the &amp;ldquo;Preferences&amp;rdquo; window within an app you have to go digging. Here&amp;rsquo;s an example of a few different apps. The browser has a three horizontal line &amp;ldquo;hamburger menu&amp;rdquo;, Spotify has a dropdown associated with your profile image, Thunderbird has a menu bar, MimeTime has a three vertical line menu button, Tootle has a custom toolbar (and completely different minimize, maximize and close buttons), and Keybase has your profile image. The cognitive overhead in using these apps is a little much.&lt;/p>
+&lt;img src="https://gabekangas.com/blog/images/wtfmenus.png">
+&lt;p>Because I spend so much time in the macOS terminal much of using Desktop Linux feels comfortable. I use my same dotfiles, so my bash prompt looks the same, and all the same tools are there in the terminal to use. I still don&amp;rsquo;t know why I can&amp;rsquo;t paste using a keyboard shortcut there, though.&lt;/p>
+&lt;h4 id="things-i-miss">
+Things I miss
+&lt;a class="heading-link" href="#things-i-miss">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Many of these are all obvious, since there&amp;rsquo;s a certain amount of Apple Integration Magic that you can&amp;rsquo;t replicate once you leave that ecosystem, but it doesn&amp;rsquo;t change the fact that there are a handful of things that I found to miss right away.&lt;/p>
+&lt;p>&lt;strong>There&amp;rsquo;s no global spellcheck.&lt;/strong>&lt;/p>
+&lt;p>I&amp;rsquo;m guessing this is due to none of the desktop applications playing by the same rules and it being a wild west of controls and text handling, so the idea of having any kind of global spell check is probably out of the question.&lt;/p>
+&lt;p>&lt;strong>Replying to text messages and iMessages from the desktop.&lt;/strong>&lt;/p>
+&lt;p>Given that I don&amp;rsquo;t really enjoy spending time on my phone, and I&amp;rsquo;m always at a computer anyway, the ability to respond to messages that come through my phone via my desktop computer was immediately missed as I started to have to reply to messages via my phone instead of a real keyboard.&lt;/p>
+&lt;p>&lt;strong>Cross-device copy and paste&lt;/strong>&lt;/p>
+&lt;p>iOS and macOS have a shared clipboard. I use this a ton. One thing I do a lot is copying a password on my desktop and then pasting it in an app on my phone. It&amp;rsquo;s way faster than opening 1Password on my phone, unlocking it, searching for the login, and copying it. And now that I have to use my phone to reply to text messages I really wish I could search for things on the desktop and paste them into a message response.&lt;/p>
+&lt;p>&lt;strong>Auto unlocking with my Apple Watch&lt;/strong>&lt;/p>
+&lt;p>I&amp;rsquo;m one of those rare people who really enjoys their Apple watch, and it&amp;rsquo;s like magic when I walk up to my computer and it unlocks without me typing in a password or even scanning my fingerprint.&lt;/p>
+&lt;h4 id="apps-im-using">
+Apps I&amp;rsquo;m using
+&lt;a class="heading-link" href="#apps-im-using">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I have a handful of apps I&amp;rsquo;m used to on macOS every day, and I needed to find equivalents. Here&amp;rsquo;s what I&amp;rsquo;ve come up with so far:&lt;/p>
+&lt;p>&lt;strong>Apps that exist on macOS and Linux&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Brave browser&lt;/li>
+&lt;li>Spotify&lt;/li>
+&lt;li>1Password (Only as a browser extension, though)&lt;/li>
+&lt;li>Signal Messenger&lt;/li>
+&lt;li>Dropbox&lt;/li>
+&lt;li>Visual Studio Code&lt;/li>
+&lt;li>Signal&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Replacements for daily use apps&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Mail.app -&amp;gt; Mozilla Thunderbird&lt;/li>
+&lt;li>&lt;a href="https://reinventedsoftware.com/keepit/">KeepIt Notes&lt;/a> (Syncs notes via iCloud) -&amp;gt; Maybe go back to Evernote? I&amp;rsquo;d rather not.&lt;/li>
+&lt;li>Mastodon client -&amp;gt; &lt;a href="https://whalebird.org/en/desktop/contents">Whalebird&lt;/a> (Electron app)&lt;/li>
+&lt;li>Calendar.app -&amp;gt; &lt;a href="https://minetime.ai">Minetime&lt;/a> (Electron app)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Apps with no replacements&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>iMessage&lt;/li>
+&lt;/ul>
+&lt;h4 id="takeaways-and-future">
+Takeaways and future
+&lt;a class="heading-link" href="#takeaways-and-future">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I &lt;strong>really&lt;/strong> want this to work, but man, this kind of sucks. I guess if I were a person who spent all day in a web browser using Google Docs, or only wanted to use the terminal then Linux would be mostly usable. But I love native desktop apps, and the ones for Linux are not a pleasure to use. Stack on top of that the horrible trackpad experience and me accidentally deleting things, typing over things, moving things around, and generally being a mess anytime I try and click things it makes me just not want to use the machine at all.&lt;/p>
+&lt;p>I know I won&amp;rsquo;t get much constructive feedback, but if any of my complaints and concerns are something you&amp;rsquo;ve experienced and been able to work out for yourself, please let me know. I really want to continue using Linux as a daily driver desktop OS at home, but I don&amp;rsquo;t know how I can continue to do so outside of a short term experiment with the fundamental issues I&amp;rsquo;m experiencing.&lt;/p>
+&lt;p>As always, &lt;a href="https://mastodon.social/@gabek">find me on the Fediverse&lt;/a> and let&amp;rsquo;s chat about it.&lt;/p></description></item><item><title>I'm discontinuing work on Mastochist for Mastodon</title><link>https://gabekangas.com/blog/2019/04/im-discontinuing-work-on-mastochist-for-mastodon/</link><pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2019/04/im-discontinuing-work-on-mastochist-for-mastodon/</guid><description>&lt;img src='https://gabekangas.com/blog/images/mastochist.png' width="30%">
+&lt;p>&lt;strong>I&amp;rsquo;m no longer going to continue work on my Mastodon client, Mastochist.&lt;/strong> And even though it doesn&amp;rsquo;t really impact anybody but myself, I felt I owed people a detailed explanation and apology since people have heard me talk about the work I&amp;rsquo;ve put in it for quite a while.&lt;/p>
+&lt;p>Mostly I owe an apology to &lt;a href="https://mastodon.social/@carami">Cara&lt;/a> who I hired to design the look of the app, and she became my sounding board as I built out features. She did a fantastic job and was a huge help. You should hire her next time you need something designed.&lt;/p>
+&lt;p>So after months and months of being heads down, working on something I thought was pretty cool, I&amp;rsquo;m going to stop working on it and not release it. Why?&lt;/p>
+&lt;p>The reasons are ultimately a mix of product reasons, and personal reasons, with even a little political reasoning thrown in for good measure. Let me break down all the things that come to mind when I think of building this client for Mastodon.&lt;/p>
+&lt;hr>
+&lt;h4 id="i-thought-id-be-really-into-the-fediverse-by-now-just-like-i-was-with-twitter-in-its-early-days">
+I thought I&amp;rsquo;d be really into the Fediverse by now, just like I was with Twitter in its early days.
+&lt;a class="heading-link" href="#i-thought-id-be-really-into-the-fediverse-by-now-just-like-i-was-with-twitter-in-its-early-days">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Selfishly, I built this client for myself because I wanted something great. And comparatively Mastochist is pretty great, but my relationship with the Fediverse didn&amp;rsquo;t grow as I expected it to. Maybe I was overly optimistic.&lt;/p>
+&lt;p>In the early days of Twitter I met so many friends. We discovered each other online, met in person via Tweetups, and it made for life-long friendships.&lt;/p>
+&lt;p>I don&amp;rsquo;t talk to many people on the Fediverse. I still don&amp;rsquo;t feel at home there, and I&amp;rsquo;m certainly not the person who should be making choices for a client used by people who do. There are probably better people for that. I&amp;rsquo;m not a pansexual furry enby posting &amp;ldquo;lewds&amp;rdquo;. I&amp;rsquo;m just a guy with a Mac striking out when I see if anybody is posting about topics that I like. I&amp;rsquo;ll often think about music I don&amp;rsquo;t understand like Beyonce or Lil Rapstar or whatever and realize I don&amp;rsquo;t enjoy it because it wasn&amp;rsquo;t made for me. And maybe that&amp;rsquo;s the Fediverse, maybe it wasn&amp;rsquo;t made for me, and that&amp;rsquo;s ok.&lt;/p>
+&lt;p>But I will say there&amp;rsquo;s a small handful of people that I follow that I didn&amp;rsquo;t know before I joined Mastodon, and I think they&amp;rsquo;re really cool.&lt;/p>
+&lt;h4 id="i-use-software-development-as-a-crutch">
+I use software development as a crutch.
+&lt;a class="heading-link" href="#i-use-software-development-as-a-crutch">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>The past year hasn&amp;rsquo;t been awesome for me, and I took that lack of control in one part of my life and put it into software development instead. Something you may not know if you don&amp;rsquo;t spend a lot of time telling a computer what to do: It&amp;rsquo;s very gratifying. It always listens. Things work exactly the way you tell them to. And if they don&amp;rsquo;t work, it&amp;rsquo;s your fault and you can spend time fixing it. The world is 100% controllable inside a computer, always.&lt;/p>
+&lt;p>In 2018 I shipped a bunch of software on a bunch of platforms. But before that I was writing music. I stopped writing music because it was easier to write software and I thought maybe I could make a larger impact. I should get back to music because it&amp;rsquo;s harder for me to do so.&lt;/p>
+&lt;h4 id="i-dont-think-as-highly-about-mastodon-as-i-once-did-but-i-still-am-completely-behind-the-fediverse">
+I don&amp;rsquo;t think as highly about Mastodon as I once did, but I still am completely behind the Fediverse.
+&lt;a class="heading-link" href="#i-dont-think-as-highly-about-mastodon-as-i-once-did-but-i-still-am-completely-behind-the-fediverse">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I jumped into writing this client before I had a real feel for the Fediverse as a whole and I wanted to focus on Mastodon. Since then I&amp;rsquo;ve grown disillusioned with Mastodon and its leadership. I&amp;rsquo;ve since pulled my financial backing from its Patreon and I no longer feel invested in that particular project&amp;rsquo;s success.&lt;/p>
+&lt;p>So you might be asking &lt;em>&amp;ldquo;Why don&amp;rsquo;t you just release something less Mastodon-specific?&amp;quot;&lt;/em> and that&amp;rsquo;s a fantastic question. There are a handful of great alternative Fediverse servers out there that&amp;rsquo;s compatible with ActivityPub, but there&amp;rsquo;s a problem: Mastodon. Given Mastodon is the biggest game in town other servers are trying to be (and you could argue need to be) API compatible. And this is not a bad thing, in fact, it&amp;rsquo;s great. The problem lies with Mastodon itself and the fact that it has a funded, full-time developer who makes all the decisions for the project single handedly. So if he, one night in a fever dream, decides to add some crazy feature to Mastodon then the other clients &lt;strong>and&lt;/strong> servers have to either adopt that or get left out. So we have one person calling the shots on client API compatibility, so apps like Mastochist can talk to servers, and ActivityPub implementations so all of the Fediverse can talk to each other. I once brought this up in a post on the Fediverse, and instead of a mature conversation coming out of it, the person in question replied with &amp;ldquo;pee pee poo poo&amp;rdquo; and then sent all of his fanboys after me. So ultimately I don&amp;rsquo;t know what&amp;rsquo;s going to happen with all of that, but I see a future of pain if I were to release and maintain a Fediverse client into the future as a side project.&lt;/p>
+&lt;h4 id="im-a-shitty-capitalist">
+I&amp;rsquo;m a shitty capitalist.
+&lt;a class="heading-link" href="#im-a-shitty-capitalist">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I&amp;rsquo;ve never charged for independent software I&amp;rsquo;ve written, and I doubt I&amp;rsquo;d start now. That means I&amp;rsquo;d get burnt out, as all the drama listed above would require some serious money to keep up with that crap.&lt;/p>
+&lt;h4 id="were-only-months-away-from-a-hundred-lousy-marzipan-apps-anyway">
+We&amp;rsquo;re only months away from a hundred lousy Marzipan apps anyway.
+&lt;a class="heading-link" href="#were-only-months-away-from-a-hundred-lousy-marzipan-apps-anyway">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>Let&amp;rsquo;s be honest here, the world of Mac software is about to change soon. I thought my passion for the platform would allow me to build something that showed how much I care for macOS, but nobody really cares but me given that people are already perfectly happy using the web on their desktops during the rare moments they&amp;rsquo;re not just using their phones for everything, anyway.&lt;/p>
+&lt;h4 id="i-dont-think-its-good-enough">
+I don&amp;rsquo;t think it&amp;rsquo;s good enough.
+&lt;a class="heading-link" href="#i-dont-think-its-good-enough">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>That&amp;rsquo;s probably the smallest issue, because I could just make it better and the problem would be solved. But ultimately, even though I completely believe it&amp;rsquo;s better than every client available out there right now, and I use Mastochist exclusively every day, releasing something that&amp;rsquo;s just a better version of something you can just do on the web&amp;hellip; what&amp;rsquo;s the point? In the big picture of it all it doesn&amp;rsquo;t really change anything. Most people are happy with the web and I should probably stand down in my fight against the web taking over because I&amp;rsquo;m losing that battle.&lt;/p>
+&lt;p>I had a lot of really great power-user features that I looked forward to building, but I had to earn that by building something really great as a version 1.0, and that just didn&amp;rsquo;t happen. Better than the rest still doesn&amp;rsquo;t mean good enough.&lt;/p>
+&lt;h4 id="so-why-dont-i-just-open-source-it">
+So why don&amp;rsquo;t I just open source it?
+&lt;a class="heading-link" href="#so-why-dont-i-just-open-source-it">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>That idea always sounds great, and it is a great idea. But it takes just as much effort to release something usable as open source as it does writing it in the first place. Ultimately nobody really would want to do anything more than critique the code and make frivolous pull requests for typos in comments. It&amp;rsquo;s not like releasing it as an open source project would get a bunch of people to rally behind it and release it. I tried to find people who would be interested in working with me on the project early on, and nobody was interested, so that would be no different now.&lt;/p>
+&lt;h4 id="so-what-now">
+So what now?
+&lt;a class="heading-link" href="#so-what-now">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h4>
+&lt;p>I don&amp;rsquo;t know. I built with AppKit for the first time and came out of it with a better understanding of Apple frameworks I&amp;rsquo;ve never had an opportunity to use before. But whoopdie fucking do, right? Nobody was on their death bed lamenting the fact they didn&amp;rsquo;t get an opportunity to spend more time with NSGridView.&lt;/p>
+&lt;p>As for me on the Fediverse, I&amp;rsquo;m not going anywhere. I&amp;rsquo;m not going back to Twitter or Facebook, and I look forward to what the future of federated social holds for all of us. I&amp;rsquo;ll probably even continue to use Mastochist until it stops working, because I hate the others and I&amp;rsquo;d probably post way less if I didn&amp;rsquo;t have it. But it&amp;rsquo;s time to move forward and discover that part of me that doesn&amp;rsquo;t lie within my code editor.&lt;/p>
+&lt;img src="https://gabekangas.com/blog/images/farewell-mastochist.png"></description></item></channel></rss>
