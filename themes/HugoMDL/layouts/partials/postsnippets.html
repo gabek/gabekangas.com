@@ -1,3 +1,0 @@
-{{- range $index, $element := first .Site.Params.frontpageposts (sort (union (where .Site.Pages "Section" "mixes") (where .Site.Pages "Section" "blog") ) ".Date" "desc")}}
-    {{- .Render "card-12" }}
-{{- end }}

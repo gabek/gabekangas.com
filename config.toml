@@ -1,59 +1,67 @@
 baseurl = "https://gabekangas.com"
 languageCode = "en_US"
 title = "Gabe Kangas"
-theme = "HugoMDL"
+theme = "hugo-coder"
 
 [markup.goldmark.renderer]
 unsafe= true
 
-[outputs]
-  page = ["HTML", "Gopher"]
-  section = ["HTML", "Gopher", "RSS"]
-  home = ["HTML", "Gopher", "RSS"]
-
 [taxonomies]
   category = "categories"
   tag = "tags"
-  artist = "artist"
+  author = "authors"
 
-[mediaTypes]
-[mediaTypes."text/gopher"]
-suffixes = ["txt"]
-
-[outputFormats]
-  [outputFormats.Gopher]
-    baseName = "post"
-    isPlainText = true
-    isHTML = false
-    mediaType = "text/gopher"
-    path = "gopher"
-    suffix = "txt"
+[outputs]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  home = ["HTML", "RSS"]
 
 [permalinks]
     blog = "/blog/:year/:month/:title/"
     pages = "/:title/"
 
 [params]
-  author = "Gabe Kangas"
-  avatar = "/images/avatar.png"
-  background = "/images/background.png"
+  colorScheme = "dark"
   description = "Gabe's home page." #meta description
-  image = "/images/avatar.png" #for frontpage profile card
-  mainSections = ["blog", "mixes"]
-  mdlPrimary = "gray"
-  mdlSecondary = "gray"
-  cardtitlecolor = "green"
-  cardbackground = "green"
   website = "gabekangas.com"
   email = "gabek@real-ity.com"
-#   twitter = "https://twitter.com/firstname_lastname"
   github = "https://github.com/gabek/"
   linkedin = "https://www.linkedin.com/in/gabek/"
-#   facebook = "https://facebook.com/firstname_lastname/"
-  copyrightyear = "2020"
-  frontpageposts = 10 #number of post cards to display on frontpage
+  copyrightyear = "2021"
+  info = "Building products you should use and listening to music you should probably hear."
+  avatarURL = "images/8bitgabe.png"
+  footerContent = "I simplified my website. It's better this way."
+  hideColorSchemeToggle = true
+  hideCredits = true
+  hideCopyright = true
+  maxSeeAlsoItems = 5
 
-# Fully customizable header menu
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github"
+  weight = 1
+  url = "https://github.com/gabek"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin"
+  weight = 4
+  url = "https://www.linkedin.com/in/gabek/"
+
+[[params.social]]
+  name = "mastodon"
+  icon = "fa fa-mastodon"
+  weight = 4
+  url = "https://mastodon.social/@gabek"
+
+[[params.social]]
+  name = "RSS"
+  icon = "fa fa-rss"
+  weight = 6
+  url = "https://gabekangas.com/index.xml"
+  rel = "alternate"
+  type = "application/rss+xml"
+
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -63,23 +71,14 @@ suffixes = ["txt"]
   url = "/blog/"
   weight = -180
 [[menu.main]]
-  name = "Projects"
-  url = "/project/"
+  name = "Owncast"
+  url = "https://owncast.online"
+  weight = -160
+[[menu.main]]
+  name = "GitHub"
+  url = "https://github.com/gabek"
   weight = -160
 [[menu.main]]
   name = "About"
   url = "/about/"
   weight = "-140"
-
-[related]
-threshold = 90
-includeNewer = false
-toLower = true
-
-[[related.indices]]
-name = "tags"
-weight = 100
-[[related.indices]]
-name  = "date"
-weight = 10
-pattern = "2006"

@@ -1,4 +1,0 @@
-{{ .Title }}
-{{ .Date.Format "Jan 2, 2006" }}
-
-{{ partial "gopher/plaintextify.html" .Content }}

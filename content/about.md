@@ -8,21 +8,13 @@ categories:
   - 'about'
 tags:
   - 'bio'
-blurb: 'Building products you should probably use and listening to music you should probably hear.'
-recentposts: 0
-recentprojects: 0
-photo: '/images/avatar.png'
-cardheaderimage: '/images/default.jpg' #optional: default solid color if unset
-cardbackground: '#263238' #optional: card background color; only shows when no image specified
 ---
 
 Gabe Kangas is a founder, full-stack client engineer and developer of products across multiple platforms with a history in media technology companies.
 
-Currently at a consumer OTT television streaming service, he works on Roku, Amazon Fire, AppleTV and iPhone clients to enable users to consume television, both live and recorded, from anywhere.
+Gabe is currently focused on [Owncast](https://owncast.online), a self-hosted, open source live streaming and chat server allowing people to build their own live streaming sites without handing control over to the large social media companies.
 
-Previously he was at Rdio, a leading music streaming service who got acquired by Pandora, where he worked on the iOS application, live radio integration, and automotive hardware initiatives.
-
-Prior to Rdio he led the mobile products at TastemakerX, a social music discovery platform, who got acquired by Rdio.
+Previously he was at Philo, a cusumer OTT television service and Rdio, a leading music streaming service who got acquired by Pandora.  He's worked on many iOS, Android and tv applications (tvOS, Android TV, Roku).
 
 Gabe’s first big connected media endeavor was PandoraFM, a service that would allow users to keep track of their Pandora music listening via LastFM who at the time was called one of the "Best of the Web" in PC World magazine.
 
