@@ -3,538 +3,803 @@
 These are my blog posts going back as far as I have them.
 
 
-=> gemini://gabekangas.com/blog/2020/12/a-brief-update-on-owncast/index.gmi A brief update on Owncast
+
+=> gemini://gemini.real-ity.com/blog/2020/12/a-brief-update-on-owncast/index.gmi A brief update on Owncast
+
 
 => https://gabekangas.com/blog/ Blogs
 
-=> gemini://gabekangas.com/blog/2020/09/personal-update/index.gmi Personal update
 
-=> gemini://gabekangas.com/blog/2020/08/apple-has-shut-down-the-bat-player/index.gmi Apple Has Shut Down The Bat Player
+=> gemini://gemini.real-ity.com/blog/2020/08/apple-has-shut-down-the-bat-player/index.gmi Apple Has Shut Down The Bat Player
 
-=> gemini://gabekangas.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/index.gmi Owncast: A project to take control over your own live streaming
 
-=> gemini://gabekangas.com/blog/2020/05/some-recent-projects-for-my-dj-mix-hobby/index.gmi Some recent projects for my DJ mix hobby
+=> gemini://gemini.real-ity.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/index.gmi Owncast: A project to take control over your own live streaming
 
-=> gemini://gabekangas.com/blog/2020/03/when-work-becomes-life-a-pandemic-story/index.gmi When work becomes life: A Pandemic story
 
-=> gemini://gabekangas.com/blog/2019/12/goodbye-longtail-music/index.gmi Goodbye Longtail Music
+=> gemini://gemini.real-ity.com/blog/2020/05/some-recent-projects-for-my-dj-mix-hobby/index.gmi Some recent projects for my DJ mix hobby
 
-=> gemini://gabekangas.com/blog/2019/05/its-time-a-for-change-im-trying-linux-on-the-desktop/index.gmi It's time a for change: I'm trying Linux on the desktop
 
-=> gemini://gabekangas.com/blog/2019/04/im-discontinuing-work-on-mastochist-for-mastodon/index.gmi I'm discontinuing work on Mastochist for Mastodon
+=> gemini://gemini.real-ity.com/blog/2020/03/when-work-becomes-life-a-pandemic-story/index.gmi When work becomes life: A Pandemic story
 
-=> gemini://gabekangas.com/blog/2019/03/a-journey-through-my-music-tastes/index.gmi A journey through my music tastes
 
-=> gemini://gabekangas.com/blog/2019/02/working-with-others-on-personal-projects/index.gmi Working with others on personal projects
+=> gemini://gemini.real-ity.com/blog/2019/12/goodbye-longtail-music/index.gmi Goodbye Longtail Music
 
-=> gemini://gabekangas.com/blog/2019/02/can-we-encourage-facebook-employees-to-go-elsewhere/index.gmi Can we encourage Facebook employees to go elsewhere?
 
-=> gemini://gabekangas.com/blog/2019/01/new-web-site-for-2019/index.gmi New web site for 2019
+=> gemini://gemini.real-ity.com/blog/2019/05/its-time-a-for-change-im-trying-linux-on-the-desktop/index.gmi It's time a for change: I'm trying Linux on the desktop
 
-=> gemini://gabekangas.com/blog/2018/12/my-2018-in-review/index.gmi My 2018 in review
 
-=> gemini://gabekangas.com/blog/2018/07/your-internet-sucks./index.gmi Your internet sucks.
+=> gemini://gemini.real-ity.com/blog/2019/04/im-discontinuing-work-on-mastochist-for-mastodon/index.gmi I'm discontinuing work on Mastochist for Mastodon
 
-=> gemini://gabekangas.com/blog/2018/02/why-your-tech-stack-matters-its-not-why-you-think/index.gmi Why your tech stack matters (It's not why you think)
 
-=> gemini://gabekangas.com/blog/2017/04/introducing-longtail-music/index.gmi Introducing Longtail Music
+=> gemini://gemini.real-ity.com/blog/2019/03/a-journey-through-my-music-tastes/index.gmi A journey through my music tastes
 
-=> gemini://gabekangas.com/blog/2016/07/why-i-love-developing-for-the-apple-tv/index.gmi Why I love developing for the Apple TV
 
-=> gemini://gabekangas.com/blog/2015/11/goodbye-rdio/index.gmi Goodbye, Rdio
+=> gemini://gemini.real-ity.com/blog/2019/02/working-with-others-on-personal-projects/index.gmi Working with others on personal projects
 
-=> gemini://gabekangas.com/blog/2015/07/launching-the-bat-player-on-the-roku-store-and-its-aftermath/index.gmi Launching The Bat Player on the Roku Store and its aftermath
 
-=> gemini://gabekangas.com/blog/2014/12/developing-for-roku/index.gmi Developing for Roku
+=> gemini://gemini.real-ity.com/blog/2019/02/can-we-encourage-facebook-employees-to-go-elsewhere/index.gmi Can we encourage Facebook employees to go elsewhere?
 
-=> gemini://gabekangas.com/blog/2014/06/seeing-my-first-drum-corps-show-in-10-years/index.gmi Seeing my first Drum Corps show in 10 years
 
-=> gemini://gabekangas.com/blog/2013/12/building-tastemakerx-for-ios/index.gmi Building TastemakerX for iOS
+=> gemini://gemini.real-ity.com/blog/2019/01/new-web-site-for-2019/index.gmi New web site for 2019
 
-=> gemini://gabekangas.com/blog/2013/02/my-thoughts-and-experiences-on-the-pebble-smart-watch/index.gmi My thoughts and experiences on the Pebble Smart Watch
 
-=> gemini://gabekangas.com/blog/2013/01/stuff-id-like-to-do-in-2013/index.gmi Stuff I'd like to do in 2013
+=> gemini://gemini.real-ity.com/blog/2018/12/my-2018-in-review/index.gmi My 2018 in review
 
-=> gemini://gabekangas.com/blog/2012/12/gabes-2012-year-in-review/index.gmi Gabe's 2012 Year in Review
 
-=> gemini://gabekangas.com/blog/2012/09/respect-for-gender-goes-both-ways.-a-rant-from-a-modern-male./index.gmi Respect for gender goes both ways. A rant from a modern male.
+=> gemini://gemini.real-ity.com/blog/2018/07/your-internet-sucks./index.gmi Your internet sucks.
 
-=> gemini://gabekangas.com/blog/2012/07/ive-lived-in-san-francisco-for-a-while/index.gmi I've lived in San Francisco for a while
 
-=> gemini://gabekangas.com/blog/2012/01/another-adventure-begins.-goodbye-omaha./index.gmi Another adventure begins.  Goodbye Omaha.
+=> gemini://gemini.real-ity.com/blog/2018/02/why-your-tech-stack-matters-its-not-why-you-think/index.gmi Why your tech stack matters (It's not why you think)
 
-=> gemini://gabekangas.com/blog/2011/10/embarrassment-is-embarrassing./index.gmi Embarrassment is embarrassing.
 
-=> gemini://gabekangas.com/blog/2011/05/boulder-startup-week-2011/index.gmi Boulder Startup Week 2011
+=> gemini://gemini.real-ity.com/blog/2017/04/introducing-longtail-music/index.gmi Introducing Longtail Music
 
-=> gemini://gabekangas.com/blog/2010/12/2010-year-in-review/index.gmi 2010 Year in Review
 
-=> gemini://gabekangas.com/blog/2010/12/radvent-dec-5-#radvent-tunage/index.gmi Radvent Dec 5 - #Radvent tunage
+=> gemini://gemini.real-ity.com/blog/2016/07/why-i-love-developing-for-the-apple-tv/index.gmi Why I love developing for the Apple TV
 
-=> gemini://gabekangas.com/blog/2010/12/radvent-dec-3-sexy-notes-to-yourself/index.gmi Radvent Dec 3 - Sexy notes to yourself
 
-=> gemini://gabekangas.com/blog/2010/12/radvent-dec-2-organize/index.gmi Radvent Dec 2 - Organize
+=> gemini://gemini.real-ity.com/blog/2015/11/goodbye-rdio/index.gmi Goodbye, Rdio
 
-=> gemini://gabekangas.com/blog/2010/12/radvent-dec-1/index.gmi Radvent Dec 1
 
-=> gemini://gabekangas.com/blog/2010/11/barcamp-omaha-2010-was-rad-and-the-jam-was-fun/index.gmi Barcamp Omaha 2010 was rad (and the jam was fun)
+=> gemini://gemini.real-ity.com/blog/2015/07/launching-the-bat-player-on-the-roku-store-and-its-aftermath/index.gmi Launching The Bat Player on the Roku Store and its aftermath
 
-=> gemini://gabekangas.com/blog/2010/11/barcamp-2010-the-musical/index.gmi Barcamp 2010: The Musical
 
-=> gemini://gabekangas.com/blog/2010/10/lost-and-found-a-video-experiment-started-in-2006/index.gmi Lost and Found: A video experiment started in 2006
+=> gemini://gemini.real-ity.com/blog/2014/12/developing-for-roku/index.gmi Developing for Roku
 
-=> gemini://gabekangas.com/blog/2010/10/weekly-song-recommendation-mark-mallman-mother-made-me-do-it/index.gmi Weekly Song Recommendation: Mark Mallman - Mother Made Me Do It
 
-=> gemini://gabekangas.com/blog/2010/09/#thecabin-mobile-for-iphone/index.gmi #TheCabin Mobile for iPhone
+=> gemini://gemini.real-ity.com/blog/2014/06/seeing-my-first-drum-corps-show-in-10-years/index.gmi Seeing my first Drum Corps show in 10 years
 
-=> gemini://gabekangas.com/blog/2010/07/equilibrium-had-it-right/index.gmi Equilibrium had it right
 
-=> gemini://gabekangas.com/blog/2010/05/techstars-for-a-day-startup-culture-and-my-comparisons-to-omaha/index.gmi TechStars for a Day, startup culture, and my comparisons to Omaha
+=> gemini://gemini.real-ity.com/blog/2013/12/building-tastemakerx-for-ios/index.gmi Building TastemakerX for iOS
 
-=> gemini://gabekangas.com/blog/2010/04/i-was-asked-what-ive-been-doing.-so-here-you-go/index.gmi I was asked what I've been doing.  So here you go!
 
-=> gemini://gabekangas.com/blog/2010/03/i-survived-south-by-southwest-interactive-2010/index.gmi I survived South by Southwest Interactive 2010
+=> gemini://gemini.real-ity.com/blog/2013/02/my-thoughts-and-experiences-on-the-pebble-smart-watch/index.gmi My thoughts and experiences on the Pebble Smart Watch
 
-=> gemini://gabekangas.com/blog/2010/03/gabe-takes-on-south-by-southwest-interactive-2010/index.gmi Gabe takes on South by Southwest Interactive 2010
 
-=> gemini://gabekangas.com/blog/2010/01/ive-been-quiet-ive-been-busy/index.gmi I've been quiet!  I've been busy!
+=> gemini://gemini.real-ity.com/blog/2013/01/stuff-id-like-to-do-in-2013/index.gmi Stuff I'd like to do in 2013
 
-=> gemini://gabekangas.com/blog/2009/11/the-windows-7-launch-party/index.gmi The Windows 7 Launch Party
 
-=> gemini://gabekangas.com/blog/2009/11/gabes-tools-of-the-trade/index.gmi Gabe's tools of the trade
+=> gemini://gemini.real-ity.com/blog/2012/12/gabes-2012-year-in-review/index.gmi Gabe's 2012 Year in Review
 
-=> gemini://gabekangas.com/blog/2009/11/choices-decisions-and-fear-part-2./index.gmi Choices, decisions and fear: Part 2.
 
-=> gemini://gabekangas.com/blog/2009/10/my-thoughts-on-the-mophie-juicepack/index.gmi My thoughts on the Mophie Juicepack
+=> gemini://gemini.real-ity.com/blog/2012/09/respect-for-gender-goes-both-ways.-a-rant-from-a-modern-male./index.gmi Respect for gender goes both ways. A rant from a modern male.
 
-=> gemini://gabekangas.com/blog/2009/10/reflecting-on-my-ten-year-high-school-reunion/index.gmi Reflecting on my ten year High School reunion
 
-=> gemini://gabekangas.com/blog/2009/09/ten-year-class-reunion/index.gmi Ten year class reunion
+=> gemini://gemini.real-ity.com/blog/2012/07/ive-lived-in-san-francisco-for-a-while/index.gmi I've lived in San Francisco for a while
 
-=> gemini://gabekangas.com/blog/2009/09/gabe-kangas-association-for-awesome-is-proud-to-sponsor-omaha-bar-camp-2009/index.gmi Gabe Kangas Association for Awesome is proud to sponsor Omaha Bar Camp 2009
 
-=> gemini://gabekangas.com/blog/2009/09/the-freedom-of-choice.-the-fear-of-making-the-wrong-ones./index.gmi The freedom of choice.  The fear of making the wrong ones.
+=> gemini://gemini.real-ity.com/blog/2012/01/another-adventure-begins.-goodbye-omaha./index.gmi Another adventure begins.  Goodbye Omaha.
 
-=> gemini://gabekangas.com/blog/2009/09/happy-labor-day/index.gmi Happy Labor Day!
 
-=> gemini://gabekangas.com/blog/2009/09/nin-for-the-last-time.-for-real-this-time.-chicago./index.gmi NIN for the last time.  For real this time.  Chicago.
+=> gemini://gemini.real-ity.com/blog/2011/10/embarrassment-is-embarrassing./index.gmi Embarrassment is embarrassing.
 
-=> gemini://gabekangas.com/blog/2009/08/the-social-experiment-#1-peter-cales/index.gmi The social experiment: #1 Peter Cales
 
-=> gemini://gabekangas.com/blog/2009/08/admiral-ackbar-joins-twitter/index.gmi Admiral Ackbar joins Twitter
+=> gemini://gemini.real-ity.com/blog/2011/05/boulder-startup-week-2011/index.gmi Boulder Startup Week 2011
 
-=> gemini://gabekangas.com/blog/2009/08/a-new-social-experiment/index.gmi A new social experiment
 
-=> gemini://gabekangas.com/blog/2009/08/interactions-with-people-and-communities-while-not-having-an-important-common-bond./index.gmi Interactions with people and communities, while not having an important common bond.
+=> gemini://gemini.real-ity.com/blog/2010/12/2010-year-in-review/index.gmi 2010 Year in Review
 
-=> gemini://gabekangas.com/blog/2009/08/ice-ice-baby.-too-cold./index.gmi Ice, Ice, Baby.  Too cold.
 
-=> gemini://gabekangas.com/blog/2009/07/seattle-trip-recap/index.gmi Seattle trip recap
+=> gemini://gemini.real-ity.com/blog/2010/12/radvent-dec-5-#radvent-tunage/index.gmi Radvent Dec 5 - #Radvent tunage
 
-=> gemini://gabekangas.com/blog/2009/07/my-interview-about-retweet-thursday/index.gmi My interview about Retweet Thursday
 
-=> gemini://gabekangas.com/blog/2009/07/making-a-leap/index.gmi Making a leap
+=> gemini://gemini.real-ity.com/blog/2010/12/radvent-dec-3-sexy-notes-to-yourself/index.gmi Radvent Dec 3 - Sexy notes to yourself
 
-=> gemini://gabekangas.com/blog/2009/07/mourning-the-loss-of-an-office/index.gmi Mourning the loss of an office
 
-=> gemini://gabekangas.com/blog/2009/07/the-military-creeps-me-out/index.gmi The military creeps me out
+=> gemini://gemini.real-ity.com/blog/2010/12/radvent-dec-2-organize/index.gmi Radvent Dec 2 - Organize
 
-=> gemini://gabekangas.com/blog/2009/06/closest-friends-of-gabe-#tweetdinner/index.gmi Closest friends of Gabe #tweetdinner
 
-=> gemini://gabekangas.com/blog/2009/05/a-goodbye-to-an-old-friend/index.gmi A goodbye to an old friend
+=> gemini://gemini.real-ity.com/blog/2010/12/radvent-dec-1/index.gmi Radvent Dec 1
 
-=> gemini://gabekangas.com/blog/2009/05/where-friendship-and-responsibility-collides-in-a-community/index.gmi Where friendship and responsibility collides in a community
 
-=> gemini://gabekangas.com/blog/2009/05/how-to-communicate-by-gary-vaynerchuk/index.gmi How to communicate, by Gary Vaynerchuk
+=> gemini://gemini.real-ity.com/blog/2010/11/barcamp-omaha-2010-was-rad-and-the-jam-was-fun/index.gmi Barcamp Omaha 2010 was rad (and the jam was fun)
 
-=> gemini://gabekangas.com/blog/2009/05/my-big-post-on-bigomaha/index.gmi My BIG post on BIGOmaha
 
-=> gemini://gabekangas.com/blog/2009/05/breaking-news-big-omaha-proves-how-awesome-gabe-is/index.gmi Breaking news: Big Omaha proves how awesome Gabe is
+=> gemini://gemini.real-ity.com/blog/2010/11/barcamp-2010-the-musical/index.gmi Barcamp 2010: The Musical
 
-=> gemini://gabekangas.com/blog/2009/05/quick-big-omaha-video/index.gmi Quick Big Omaha video
 
-=> gemini://gabekangas.com/blog/2009/05/six-months-of-being-an-omahan-#bigomaha/index.gmi Six months of being an Omahan ( #bigomaha )
+=> gemini://gemini.real-ity.com/blog/2010/10/lost-and-found-a-video-experiment-started-in-2006/index.gmi Lost and Found: A video experiment started in 2006
 
-=> gemini://gabekangas.com/blog/2009/05/search-engine-queries-are-funny/index.gmi Search engine queries are funny
 
-=> gemini://gabekangas.com/blog/2009/05/a-quick-catch-up-post/index.gmi A quick catch-up post
+=> gemini://gemini.real-ity.com/blog/2010/10/weekly-song-recommendation-mark-mallman-mother-made-me-do-it/index.gmi Weekly Song Recommendation: Mark Mallman - Mother Made Me Do It
 
-=> gemini://gabekangas.com/blog/2009/04/be-at-big-omaha-may-7th-and-8th.-seriously./index.gmi Be at Big Omaha May 7th and 8th.  Seriously.
 
-=> gemini://gabekangas.com/blog/2009/04/next-step...-there-is-no-next-step.-yet./index.gmi Next step... there is no next step.  Yet.
+=> gemini://gemini.real-ity.com/blog/2010/09/#thecabin-mobile-for-iphone/index.gmi #TheCabin Mobile for iPhone
 
-=> gemini://gabekangas.com/blog/2009/04/tweetup-#4/index.gmi Tweetup #4
 
-=> gemini://gabekangas.com/blog/2009/04/welcome-to-the-new-face-of-gabe/index.gmi Welcome to the new face of Gabe
+=> gemini://gemini.real-ity.com/blog/2010/07/equilibrium-had-it-right/index.gmi Equilibrium had it right
 
-=> gemini://gabekangas.com/blog/2009/04/congratulations-erin/index.gmi Congratulations Erin!
 
-=> gemini://gabekangas.com/blog/2009/03/happy-friday-everyone/index.gmi Happy Friday, everyone
+=> gemini://gemini.real-ity.com/blog/2010/05/techstars-for-a-day-startup-culture-and-my-comparisons-to-omaha/index.gmi TechStars for a Day, startup culture, and my comparisons to Omaha
 
-=> gemini://gabekangas.com/blog/2009/03/tweply-and-sms/index.gmi Tweply and SMS
 
-=> gemini://gabekangas.com/blog/2009/03/alright-ill-blog.-leave-me-alone-about-it./index.gmi Alright, I'll blog.  Leave me alone about it.
+=> gemini://gemini.real-ity.com/blog/2010/04/i-was-asked-what-ive-been-doing.-so-here-you-go/index.gmi I was asked what I've been doing.  So here you go!
 
-=> gemini://gabekangas.com/blog/2009/02/iphone-apps/index.gmi iPhone Apps
 
-=> gemini://gabekangas.com/blog/2009/02/and-now-i-own-an-iphone/index.gmi And now I own an iPhone
+=> gemini://gemini.real-ity.com/blog/2010/03/i-survived-south-by-southwest-interactive-2010/index.gmi I survived South by Southwest Interactive 2010
 
-=> gemini://gabekangas.com/blog/2009/02/february-updates/index.gmi February updates
 
-=> gemini://gabekangas.com/blog/2009/02/tweply-since-nobody-talked-me-out-of-it/index.gmi Tweply - since nobody talked me out of it
+=> gemini://gemini.real-ity.com/blog/2010/03/gabe-takes-on-south-by-southwest-interactive-2010/index.gmi Gabe takes on South by Southwest Interactive 2010
 
-=> gemini://gabekangas.com/blog/2009/02/im-going-to-make-a-thing-for-twitter/index.gmi I'm going to make a thing for twitter
 
-=> gemini://gabekangas.com/blog/2009/01/irregardless-its-time-to-cowboy-up/index.gmi Irregardless, it's time to cowboy up
+=> gemini://gemini.real-ity.com/blog/2010/01/ive-been-quiet-ive-been-busy/index.gmi I've been quiet!  I've been busy!
 
-=> gemini://gabekangas.com/blog/2009/01/25-things-about-me/index.gmi 25 things about me
 
-=> gemini://gabekangas.com/blog/2009/01/hello-from-chicago/index.gmi Hello from Chicago
+=> gemini://gemini.real-ity.com/blog/2009/11/the-windows-7-launch-party/index.gmi The Windows 7 Launch Party
 
-=> gemini://gabekangas.com/blog/2009/01/happy-2009-everyone/index.gmi Happy 2009 everyone
 
-=> gemini://gabekangas.com/blog/2008/12/followup-on-ingestion-tactics/index.gmi Followup on ingestion tactics
+=> gemini://gemini.real-ity.com/blog/2009/11/gabes-tools-of-the-trade/index.gmi Gabe's tools of the trade
 
-=> gemini://gabekangas.com/blog/2008/12/pickles/index.gmi Pickles
 
-=> gemini://gabekangas.com/blog/2008/12/todays-links/index.gmi Today's links
+=> gemini://gemini.real-ity.com/blog/2009/11/choices-decisions-and-fear-part-2./index.gmi Choices, decisions and fear: Part 2.
 
-=> gemini://gabekangas.com/blog/2008/11/i-should-update-more-often.-heres-one./index.gmi I should update more often.  Here's one.
 
-=> gemini://gabekangas.com/blog/2008/11/omaha-meetup.com-email-i-just-got/index.gmi Omaha meetup.com email I just got
+=> gemini://gemini.real-ity.com/blog/2009/10/my-thoughts-on-the-mophie-juicepack/index.gmi My thoughts on the Mophie Juicepack
 
-=> gemini://gabekangas.com/blog/2008/11/i-like-omaha/index.gmi I like Omaha
 
-=> gemini://gabekangas.com/blog/2008/11/i-live-in-omaha/index.gmi I live in Omaha
+=> gemini://gemini.real-ity.com/blog/2009/10/reflecting-on-my-ten-year-high-school-reunion/index.gmi Reflecting on my ten year High School reunion
 
-=> gemini://gabekangas.com/blog/2008/10/my-last-day-at-the-chicago-office/index.gmi My last day at the Chicago office
 
-=> gemini://gabekangas.com/blog/2008/10/7-days-to-go/photo-montage/index.gmi 7 days to go/Photo montage
+=> gemini://gemini.real-ity.com/blog/2009/09/ten-year-class-reunion/index.gmi Ten year class reunion
 
-=> gemini://gabekangas.com/blog/2008/10/chronicling-my-time-in-chicago-#3/index.gmi Chronicling my time in Chicago #3
 
-=> gemini://gabekangas.com/blog/2008/10/good-morning-omaha/index.gmi Good morning, Omaha
+=> gemini://gemini.real-ity.com/blog/2009/09/gabe-kangas-association-for-awesome-is-proud-to-sponsor-omaha-bar-camp-2009/index.gmi Gabe Kangas Association for Awesome is proud to sponsor Omaha Bar Camp 2009
 
-=> gemini://gabekangas.com/blog/2008/10/quick-cal/index.gmi Quick Cal
 
-=> gemini://gabekangas.com/blog/2008/10/apartment-hunting-not-fun/index.gmi Apartment hunting == not fun
+=> gemini://gemini.real-ity.com/blog/2009/09/the-freedom-of-choice.-the-fear-of-making-the-wrong-ones./index.gmi The freedom of choice.  The fear of making the wrong ones.
 
-=> gemini://gabekangas.com/blog/2008/10/hello-from-omaha/index.gmi Hello from Omaha!
 
-=> gemini://gabekangas.com/blog/2008/10/im-in-omaha/index.gmi I'm in Omaha
+=> gemini://gemini.real-ity.com/blog/2009/09/happy-labor-day/index.gmi Happy Labor Day!
 
-=> gemini://gabekangas.com/blog/2008/10/anyone-shop-online-for-clothes-aparently-its-more-difficult-than-i-thought./index.gmi Anyone shop online for clothes?  Aparently it's more difficult than I thought.
 
-=> gemini://gabekangas.com/blog/2008/10/chronicling-my-time-in-chicago-#2/index.gmi Chronicling my time in Chicago #2
+=> gemini://gemini.real-ity.com/blog/2009/09/nin-for-the-last-time.-for-real-this-time.-chicago./index.gmi NIN for the last time.  For real this time.  Chicago.
 
-=> gemini://gabekangas.com/blog/2008/09/im-moving-to-jesusland/index.gmi I'm moving to Jesusland :(
 
-=> gemini://gabekangas.com/blog/2008/09/chronicling-my-time-in-chicagoland-#1/index.gmi Chronicling my time in Chicagoland #1
+=> gemini://gemini.real-ity.com/blog/2009/08/the-social-experiment-#1-peter-cales/index.gmi The social experiment: #1 Peter Cales
 
-=> gemini://gabekangas.com/blog/2008/09/hello-omaha-part-2/index.gmi Hello Omaha part 2
 
-=> gemini://gabekangas.com/blog/2008/09/just-a-little-frustrated/index.gmi Just a little frustrated
+=> gemini://gemini.real-ity.com/blog/2009/08/admiral-ackbar-joins-twitter/index.gmi Admiral Ackbar joins Twitter
 
-=> gemini://gabekangas.com/blog/2008/09/music-recommendations/index.gmi Music recommendations
 
-=> gemini://gabekangas.com/blog/2008/09/gabes-gym-story/index.gmi Gabe's Gym Story
+=> gemini://gemini.real-ity.com/blog/2009/08/a-new-social-experiment/index.gmi A new social experiment
 
-=> gemini://gabekangas.com/blog/2008/08/you-are-being-judged/index.gmi You are being judged
 
-=> gemini://gabekangas.com/blog/2008/08/i-owe-you-all-an-update/index.gmi I owe you all an update
+=> gemini://gemini.real-ity.com/blog/2009/08/interactions-with-people-and-communities-while-not-having-an-important-common-bond./index.gmi Interactions with people and communities, while not having an important common bond.
 
-=> gemini://gabekangas.com/blog/2008/08/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2008/08/todays-links/index.gmi Today's links
+=> gemini://gemini.real-ity.com/blog/2009/08/ice-ice-baby.-too-cold./index.gmi Ice, Ice, Baby.  Too cold.
 
-=> gemini://gabekangas.com/blog/2008/08/hellooooo-omaha/index.gmi Hellooooo Omaha
 
-=> gemini://gabekangas.com/blog/2008/07/todays-links/index.gmi Today's links
+=> gemini://gemini.real-ity.com/blog/2009/07/seattle-trip-recap/index.gmi Seattle trip recap
 
-=> gemini://gabekangas.com/blog/2008/07/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2008/07/hello-inkernet/index.gmi Hello Inkernet
+=> gemini://gemini.real-ity.com/blog/2009/07/my-interview-about-retweet-thursday/index.gmi My interview about Retweet Thursday
 
-=> gemini://gabekangas.com/blog/2008/07/cutefacebook/index.gmi Cute@Facebook
 
-=> gemini://gabekangas.com/blog/2008/07/todays-links/index.gmi Today's links
+=> gemini://gemini.real-ity.com/blog/2009/07/making-a-leap/index.gmi Making a leap
 
-=> gemini://gabekangas.com/blog/2008/07/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2008/06/happy-friday-internet/index.gmi Happy Friday, Internet!
+=> gemini://gemini.real-ity.com/blog/2009/07/mourning-the-loss-of-an-office/index.gmi Mourning the loss of an office
 
-=> gemini://gabekangas.com/blog/2008/06/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2008/06/place-sharp-tube.-insert-through-flesh./index.gmi Place sharp tube.  Insert through flesh.
+=> gemini://gemini.real-ity.com/blog/2009/07/the-military-creeps-me-out/index.gmi The military creeps me out
 
-=> gemini://gabekangas.com/blog/2008/06/lets-have-a-talk.-have-a-seat./index.gmi Let's have a talk.  Have a seat.
 
-=> gemini://gabekangas.com/blog/2008/06/todays-links/index.gmi Today's links
+=> gemini://gemini.real-ity.com/blog/2009/06/closest-friends-of-gabe-#tweetdinner/index.gmi Closest friends of Gabe #tweetdinner
 
-=> gemini://gabekangas.com/blog/2008/06/we-may-be-extraterrestrials-after-all/index.gmi We may be extraterrestrials after all
 
-=> gemini://gabekangas.com/blog/2008/06/todays-links/index.gmi Today's links
+=> gemini://gemini.real-ity.com/blog/2009/05/a-goodbye-to-an-old-friend/index.gmi A goodbye to an old friend
 
-=> gemini://gabekangas.com/blog/2008/05/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2008/05/im-not-doing-well/index.gmi I'm not doing well
+=> gemini://gemini.real-ity.com/blog/2009/05/where-friendship-and-responsibility-collides-in-a-community/index.gmi Where friendship and responsibility collides in a community
 
-=> gemini://gabekangas.com/blog/2008/05/goodbye-bme/index.gmi Goodbye BME
 
-=> gemini://gabekangas.com/blog/2008/05/im-someones-bitch/index.gmi I'm someone's bitch
+=> gemini://gemini.real-ity.com/blog/2009/05/how-to-communicate-by-gary-vaynerchuk/index.gmi How to communicate, by Gary Vaynerchuk
 
-=> gemini://gabekangas.com/blog/2008/05/hello-this-is-gabe-blogging.../index.gmi Hello this is Gabe blogging...
 
-=> gemini://gabekangas.com/blog/2008/05/testing-sending-to-my.../index.gmi Testing sending to my...
+=> gemini://gemini.real-ity.com/blog/2009/05/my-big-post-on-bigomaha/index.gmi My BIG post on BIGOmaha
 
-=> gemini://gabekangas.com/blog/2008/04/the-amount-of-time-ive-listened-to-music/index.gmi The amount of time i've listened to music
 
-=> gemini://gabekangas.com/blog/2008/04/todays-links/index.gmi Today's links
+=> gemini://gemini.real-ity.com/blog/2009/05/breaking-news-big-omaha-proves-how-awesome-gabe-is/index.gmi Breaking news: Big Omaha proves how awesome Gabe is
 
-=> gemini://gabekangas.com/blog/2008/04/new-nine-inch-nails-track-with-words/index.gmi New Nine Inch Nails Track (with words)
 
-=> gemini://gabekangas.com/blog/2008/04/saturday-night-mannequin-nightclub/index.gmi Saturday Night @ Mannequin Nightclub
+=> gemini://gemini.real-ity.com/blog/2009/05/quick-big-omaha-video/index.gmi Quick Big Omaha video
 
-=> gemini://gabekangas.com/blog/2008/04/odd-irc-dream/index.gmi Odd IRC dream
 
-=> gemini://gabekangas.com/blog/2008/04/my-life-in-tweets/index.gmi My life in Tweets
+=> gemini://gemini.real-ity.com/blog/2009/05/six-months-of-being-an-omahan-#bigomaha/index.gmi Six months of being an Omahan ( #bigomaha )
 
-=> gemini://gabekangas.com/blog/2008/04/gabes-smart-shuffle.-one-playlist-to-rule-them-all./index.gmi Gabe's Smart Shuffle.  One playlist to rule them all.
 
-=> gemini://gabekangas.com/blog/2008/04/todays-links/index.gmi Today's links
+=> gemini://gemini.real-ity.com/blog/2009/05/search-engine-queries-are-funny/index.gmi Search engine queries are funny
 
-=> gemini://gabekangas.com/blog/2008/03/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2008/03/damnit.-im-one-of-them/index.gmi Damnit.  I'm one of *them*
+=> gemini://gemini.real-ity.com/blog/2009/05/a-quick-catch-up-post/index.gmi A quick catch-up post
 
-=> gemini://gabekangas.com/blog/2008/03/i-got-new-glasses/index.gmi I got new glasses
 
-=> gemini://gabekangas.com/blog/2008/02/help-me-pick-out-new-prescription-glasses/index.gmi Help me pick out new prescription glasses
+=> gemini://gemini.real-ity.com/blog/2009/04/be-at-big-omaha-may-7th-and-8th.-seriously./index.gmi Be at Big Omaha May 7th and 8th.  Seriously.
 
-=> gemini://gabekangas.com/blog/2008/02/test-blog-post/index.gmi Test blog post
 
-=> gemini://gabekangas.com/blog/2008/02/bad-music-video/index.gmi Bad music (video)
+=> gemini://gemini.real-ity.com/blog/2009/04/next-step...-there-is-no-next-step.-yet./index.gmi Next step... there is no next step.  Yet.
 
-=> gemini://gabekangas.com/blog/2008/02/odd/index.gmi Odd
 
-=> gemini://gabekangas.com/blog/2008/02/my-new-tattoo/index.gmi My new tattoo
+=> gemini://gemini.real-ity.com/blog/2009/04/tweetup-#4/index.gmi Tweetup #4
 
-=> gemini://gabekangas.com/blog/2008/02/pandorafm-defaced-yesterday/index.gmi PandoraFM defaced yesterday
 
-=> gemini://gabekangas.com/blog/2008/02/the-new-pornographers-bleeding-heart-show/index.gmi The New Pornographers - Bleeding Heart Show
+=> gemini://gemini.real-ity.com/blog/2009/04/welcome-to-the-new-face-of-gabe/index.gmi Welcome to the new face of Gabe
 
-=> gemini://gabekangas.com/blog/2008/01/i-threw-up-at-cloverfield/index.gmi I threw up at Cloverfield
 
-=> gemini://gabekangas.com/blog/2008/01/what-i-dont-want-in-a-girl/index.gmi What I don't want in a girl
+=> gemini://gemini.real-ity.com/blog/2009/04/congratulations-erin/index.gmi Congratulations Erin!
 
-=> gemini://gabekangas.com/blog/2007/12/gabes-2007-review-of-stuff/index.gmi Gabe's 2007 Review of Stuff
 
-=> gemini://gabekangas.com/blog/2007/12/worst.-holiday.-season.-ever./index.gmi Worst.  Holiday.  Season.  Ever.
+=> gemini://gemini.real-ity.com/blog/2009/03/happy-friday-everyone/index.gmi Happy Friday, everyone
 
-=> gemini://gabekangas.com/blog/2007/12/hello-weekend/index.gmi Hello weekend
 
-=> gemini://gabekangas.com/blog/2007/11/i-love-os-x-10.5-leopard/index.gmi I love OS X 10.5 Leopard
+=> gemini://gemini.real-ity.com/blog/2009/03/tweply-and-sms/index.gmi Tweply and SMS
 
-=> gemini://gabekangas.com/blog/2007/11/who-i-should-vote-for/index.gmi Who I should vote for
 
-=> gemini://gabekangas.com/blog/2007/11/from-me.-to-you.-my-blog./index.gmi From me.  To you.  My blog.
+=> gemini://gemini.real-ity.com/blog/2009/03/alright-ill-blog.-leave-me-alone-about-it./index.gmi Alright, I'll blog.  Leave me alone about it.
 
-=> gemini://gabekangas.com/blog/2007/11/wild-dream-last-night/index.gmi Wild dream last night
 
-=> gemini://gabekangas.com/blog/2007/10/hello-from-marquette-michigan/index.gmi Hello from Marquette, Michigan
+=> gemini://gemini.real-ity.com/blog/2009/02/iphone-apps/index.gmi iPhone Apps
 
-=> gemini://gabekangas.com/blog/2007/10/good-news/index.gmi Good news!
 
-=> gemini://gabekangas.com/blog/2007/10/lost-my-keys/index.gmi Lost my keys
+=> gemini://gemini.real-ity.com/blog/2009/02/and-now-i-own-an-iphone/index.gmi And now I own an iPhone
 
-=> gemini://gabekangas.com/blog/2007/10/nine-inch-nails-is-no-longer-with-a-record-label/index.gmi Nine Inch Nails is no longer with a record label
 
-=> gemini://gabekangas.com/blog/2007/10/trumblr/index.gmi Trumblr
+=> gemini://gemini.real-ity.com/blog/2009/02/february-updates/index.gmi February updates
 
-=> gemini://gabekangas.com/blog/2007/10/the-peanut-butter-solution/index.gmi The Peanut Butter Solution
 
-=> gemini://gabekangas.com/blog/2007/10/my-poor-poor-car/index.gmi My poor, poor car
+=> gemini://gemini.real-ity.com/blog/2009/02/tweply-since-nobody-talked-me-out-of-it/index.gmi Tweply - since nobody talked me out of it
 
-=> gemini://gabekangas.com/blog/2007/10/my-car.-wtf/index.gmi My car.  WTF?
 
-=> gemini://gabekangas.com/blog/2007/09/im-cooking/index.gmi I'm cooking!
+=> gemini://gemini.real-ity.com/blog/2009/02/im-going-to-make-a-thing-for-twitter/index.gmi I'm going to make a thing for twitter
 
-=> gemini://gabekangas.com/blog/2007/09/my-blog-has-been-broke-sorry.-and-other-stuff./index.gmi My blog has been broke, sorry.  And other stuff.
 
-=> gemini://gabekangas.com/blog/2007/09/updated-screenshot/index.gmi Updated screenshot
+=> gemini://gemini.real-ity.com/blog/2009/01/irregardless-its-time-to-cowboy-up/index.gmi Irregardless, it's time to cowboy up
 
-=> gemini://gabekangas.com/blog/2007/09/head-cold/index.gmi Head Cold
 
-=> gemini://gabekangas.com/blog/2007/09/staying-home/index.gmi Staying home
+=> gemini://gemini.real-ity.com/blog/2009/01/25-things-about-me/index.gmi 25 things about me
 
-=> gemini://gabekangas.com/blog/2007/09/feel-lousy/index.gmi Feel lousy
 
-=> gemini://gabekangas.com/blog/2007/09/trent-reznor-gives-rip-off-avoidance-download-share-advice-to-fans/index.gmi Trent Reznor gives Rip-off Avoidance, Download & Share advice to fans
+=> gemini://gemini.real-ity.com/blog/2009/01/hello-from-chicago/index.gmi Hello from Chicago
 
-=> gemini://gabekangas.com/blog/2007/09/ahh-the-weekend/index.gmi Ahh, the weekend
 
-=> gemini://gabekangas.com/blog/2007/09/what-a-day/index.gmi What a day
+=> gemini://gemini.real-ity.com/blog/2009/01/happy-2009-everyone/index.gmi Happy 2009 everyone
 
-=> gemini://gabekangas.com/blog/2007/09/one-of-those-days/index.gmi One of those days
 
-=> gemini://gabekangas.com/blog/2007/09/my-company-on-facebook-part-2/index.gmi My company on Facebook part 2
+=> gemini://gemini.real-ity.com/blog/2008/12/followup-on-ingestion-tactics/index.gmi Followup on ingestion tactics
 
-=> gemini://gabekangas.com/blog/2007/09/good-day-i-hope/index.gmi Good day (I hope)
 
-=> gemini://gabekangas.com/blog/2007/08/car-situation/index.gmi Car situation
+=> gemini://gemini.real-ity.com/blog/2008/12/pickles/index.gmi Pickles
 
-=> gemini://gabekangas.com/blog/2007/08/my-company-on-facebook/index.gmi My company on facebook
 
-=> gemini://gabekangas.com/blog/2007/08/crap-with-my-car/index.gmi Crap with my car
+=> gemini://gemini.real-ity.com/blog/2008/12/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2007/08/os-xs-textedit-icon/index.gmi OS X's TextEdit icon
 
-=> gemini://gabekangas.com/blog/2007/08/the-best-survey-ever/index.gmi The Best Survey Ever
+=> gemini://gemini.real-ity.com/blog/2008/11/i-should-update-more-often.-heres-one./index.gmi I should update more often.  Here's one.
 
-=> gemini://gabekangas.com/blog/2007/08/over-2991000-other-tracks-have-been-submitted-to-last.fm-profiles-through-pandorafm./index.gmi Over 2,991,000 other tracks have been submitted to Last.FM profiles through PandoraFM.
 
-=> gemini://gabekangas.com/blog/2007/08/odd-dreams/index.gmi Odd dreams
+=> gemini://gemini.real-ity.com/blog/2008/11/omaha-meetup.com-email-i-just-got/index.gmi Omaha meetup.com email I just got
 
-=> gemini://gabekangas.com/blog/2007/08/library-of-stuff/index.gmi Library of stuff
 
-=> gemini://gabekangas.com/blog/2007/08/happy-weekend/index.gmi Happy Weekend
+=> gemini://gemini.real-ity.com/blog/2008/11/i-like-omaha/index.gmi I like Omaha
 
-=> gemini://gabekangas.com/blog/2007/08/why-havent-i-posted/index.gmi Why haven't I posted?
 
-=> gemini://gabekangas.com/blog/2007/08/updates-from-lollapalooza/index.gmi Updates from Lollapalooza
+=> gemini://gemini.real-ity.com/blog/2008/11/i-live-in-omaha/index.gmi I live in Omaha
 
-=> gemini://gabekangas.com/blog/2007/07/should-i-create-a-work-category/index.gmi Should I create a work category?
 
-=> gemini://gabekangas.com/blog/2007/07/cool-my-phone-thing-works/index.gmi Cool my phone thing works
+=> gemini://gemini.real-ity.com/blog/2008/10/my-last-day-at-the-chicago-office/index.gmi My last day at the Chicago office
 
-=> gemini://gabekangas.com/blog/2007/07/phone-nerd/index.gmi Phone nerd
 
-=> gemini://gabekangas.com/blog/2007/07/important-by-default/index.gmi Important by default
+=> gemini://gemini.real-ity.com/blog/2008/10/7-days-to-go/photo-montage/index.gmi 7 days to go/Photo montage
 
-=> gemini://gabekangas.com/blog/2007/07/worst.-manager.-ever./index.gmi Worst.  Manager.  Ever.
 
-=> gemini://gabekangas.com/blog/2007/07/work-photo/index.gmi Work photo
+=> gemini://gemini.real-ity.com/blog/2008/10/chronicling-my-time-in-chicago-#3/index.gmi Chronicling my time in Chicago #3
 
-=> gemini://gabekangas.com/blog/2007/07/how-not-to-sexually-harass-your-coworkers./index.gmi How not to sexually harass your coworkers.
 
-=> gemini://gabekangas.com/blog/2007/07/aim-high/index.gmi AIM high
+=> gemini://gemini.real-ity.com/blog/2008/10/good-morning-omaha/index.gmi Good morning, Omaha
 
-=> gemini://gabekangas.com/blog/2007/07/what-a-weekend/index.gmi What a weekend
 
-=> gemini://gabekangas.com/blog/2007/07/obligatory-simpsons-avatar/index.gmi Obligatory Simpsons Avatar
+=> gemini://gemini.real-ity.com/blog/2008/10/quick-cal/index.gmi Quick Cal
 
-=> gemini://gabekangas.com/blog/2007/07/rasputina-last-night/index.gmi Rasputina last night
 
-=> gemini://gabekangas.com/blog/2007/07/happy-day-off-/-general-personal-update/index.gmi Happy Day Off / General personal update
+=> gemini://gemini.real-ity.com/blog/2008/10/apartment-hunting-not-fun/index.gmi Apartment hunting == not fun
 
-=> gemini://gabekangas.com/blog/2007/07/new-piercing/index.gmi New piercing
 
-=> gemini://gabekangas.com/blog/2007/06/the-world-of-stupid-man-the-comic-book/index.gmi The World of Stupid Man, the Comic Book
+=> gemini://gemini.real-ity.com/blog/2008/10/hello-from-omaha/index.gmi Hello from Omaha!
 
-=> gemini://gabekangas.com/blog/2007/06/a-request-to-put-some-life-into-pandorafm/index.gmi A request to put some life into PandoraFM
 
-=> gemini://gabekangas.com/blog/2007/06/how-to-get-divorced-using-a-mac/index.gmi How to get divorced using a mac
+=> gemini://gemini.real-ity.com/blog/2008/10/im-in-omaha/index.gmi I'm in Omaha
 
-=> gemini://gabekangas.com/blog/2007/06/an-update-now-that-things-are-done/index.gmi An update now that things are done
 
-=> gemini://gabekangas.com/blog/2007/06/congrats-to-me/index.gmi Congrats to me!
+=> gemini://gemini.real-ity.com/blog/2008/10/anyone-shop-online-for-clothes-aparently-its-more-difficult-than-i-thought./index.gmi Anyone shop online for clothes?  Aparently it's more difficult than I thought.
 
-=> gemini://gabekangas.com/blog/2007/06/a-new-beginning/index.gmi A new beginning
 
-=> gemini://gabekangas.com/blog/2007/06/perpetual-hosting/index.gmi Perpetual Hosting
+=> gemini://gemini.real-ity.com/blog/2008/10/chronicling-my-time-in-chicago-#2/index.gmi Chronicling my time in Chicago #2
 
-=> gemini://gabekangas.com/blog/2007/06/sick/index.gmi Sick
 
-=> gemini://gabekangas.com/blog/2007/06/status-on-my-album-or-whatever/index.gmi Status on my album, or whatever
+=> gemini://gemini.real-ity.com/blog/2008/09/im-moving-to-jesusland/index.gmi I'm moving to Jesusland :(
 
-=> gemini://gabekangas.com/blog/2007/06/happy-monday/index.gmi Happy Monday
 
-=> gemini://gabekangas.com/blog/2007/06/looking-at-art/index.gmi Looking at art
+=> gemini://gemini.real-ity.com/blog/2008/09/chronicling-my-time-in-chicagoland-#1/index.gmi Chronicling my time in Chicagoland #1
 
-=> gemini://gabekangas.com/blog/2007/06/happy-friday-friends/index.gmi Happy Friday, Friends
 
-=> gemini://gabekangas.com/blog/2007/05/overruled/index.gmi Overruled
+=> gemini://gemini.real-ity.com/blog/2008/09/hello-omaha-part-2/index.gmi Hello Omaha part 2
 
-=> gemini://gabekangas.com/blog/2007/05/what-do-you-do-a-post-on-jaiku./index.gmi What do you do?  A post on Jaiku.
 
-=> gemini://gabekangas.com/blog/2007/05/welcome-back-my-friends-to-the-show-that-never-ends./index.gmi Welcome back my friends, to the show that never ends.
+=> gemini://gemini.real-ity.com/blog/2008/09/just-a-little-frustrated/index.gmi Just a little frustrated
 
-=> gemini://gabekangas.com/blog/2007/05/an-update/index.gmi An update
 
-=> gemini://gabekangas.com/blog/2007/05/mmmm-steak/index.gmi mmmm steak
+=> gemini://gemini.real-ity.com/blog/2008/09/music-recommendations/index.gmi Music recommendations
 
-=> gemini://gabekangas.com/blog/2007/05/protected-entries/index.gmi Protected entries
 
-=> gemini://gabekangas.com/blog/2007/05/the-verbage/index.gmi The Verbage
+=> gemini://gemini.real-ity.com/blog/2008/09/gabes-gym-story/index.gmi Gabe's Gym Story
 
-=> gemini://gabekangas.com/blog/2007/05/so-sue-me-and-i-moved-into-my-new-apartment/index.gmi So sue me and I moved into my new apartment
 
-=> gemini://gabekangas.com/blog/2007/04/new-rules/index.gmi New Rules
+=> gemini://gemini.real-ity.com/blog/2008/08/you-are-being-judged/index.gmi You are being judged
 
-=> gemini://gabekangas.com/blog/2007/04/got-served-with-my-papers/index.gmi Got served with my papers
 
-=> gemini://gabekangas.com/blog/2007/04/and-now-things-really-get-messy.-im-losing-my-car./index.gmi And now things really get messy.  I'm losing my car.
+=> gemini://gemini.real-ity.com/blog/2008/08/i-owe-you-all-an-update/index.gmi I owe you all an update
 
-=> gemini://gabekangas.com/blog/2007/04/and-things-got-worse/index.gmi And things got worse
 
-=> gemini://gabekangas.com/blog/2007/04/cell-bill/index.gmi Cell bill
+=> gemini://gemini.real-ity.com/blog/2008/08/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2007/04/end-of-a-weekend/index.gmi End of a weekend
 
-=> gemini://gabekangas.com/blog/2007/04/friday-the-13th./index.gmi Friday the 13th.
+=> gemini://gemini.real-ity.com/blog/2008/08/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2007/04/some-updates/index.gmi Some updates
 
-=> gemini://gabekangas.com/blog/2007/04/started-packing-my-music-equipment/index.gmi Started packing my music equipment
+=> gemini://gemini.real-ity.com/blog/2008/08/hellooooo-omaha/index.gmi Hellooooo Omaha
 
-=> gemini://gabekangas.com/blog/2007/04/low/index.gmi Low
 
-=> gemini://gabekangas.com/blog/2007/04/day-5./index.gmi Day 5.
+=> gemini://gemini.real-ity.com/blog/2008/07/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2007/04/and-so-it-is./index.gmi And so it is.
 
-=> gemini://gabekangas.com/blog/2007/03/seriously-damnit./index.gmi Seriously?  Damnit.
+=> gemini://gemini.real-ity.com/blog/2008/07/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2007/03/a-query/index.gmi A query
 
-=> gemini://gabekangas.com/blog/2007/03/ruby-on-rails-.net-and-other-frameworks-in-life/index.gmi Ruby on Rails, .NET and other Frameworks in life
+=> gemini://gemini.real-ity.com/blog/2008/07/hello-inkernet/index.gmi Hello Inkernet
 
-=> gemini://gabekangas.com/blog/2007/03/so-yeah-life-sucks./index.gmi So yeah, life sucks.
 
-=> gemini://gabekangas.com/blog/2007/03/the-useless-and-useful/index.gmi The useless and useful
+=> gemini://gemini.real-ity.com/blog/2008/07/cutefacebook/index.gmi Cute@Facebook
 
-=> gemini://gabekangas.com/blog/2007/03/man-its-sxsw-time-already-how-time-flies.-ill-sure-not-be-busy./index.gmi Man, it's SXSW time already?  How time flies.  I'll sure not be busy.
 
-=> gemini://gabekangas.com/blog/2007/03/my-new-slogan/index.gmi My new slogan
+=> gemini://gemini.real-ity.com/blog/2008/07/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2007/02/wtf/index.gmi wtf
 
-=> gemini://gabekangas.com/blog/2007/02/so-i-cancelled-cable/index.gmi So I cancelled cable
+=> gemini://gemini.real-ity.com/blog/2008/07/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2007/02/headache-clinic/index.gmi headache clinic?
 
-=> gemini://gabekangas.com/blog/2007/02/things-and-stuff-a-real-post-in-the-spirit-of-a-blog/index.gmi Things and stuff, a real post in the spirit of a "blog"
+=> gemini://gemini.real-ity.com/blog/2008/06/happy-friday-internet/index.gmi Happy Friday, Internet!
 
-=> gemini://gabekangas.com/blog/2007/01/couple-random-photos/index.gmi Couple random photos
 
-=> gemini://gabekangas.com/blog/2007/01/go-bears/index.gmi Go Bears!
+=> gemini://gemini.real-ity.com/blog/2008/06/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2007/01/so-im-working-on-music/index.gmi So i'm working on music
 
-=> gemini://gabekangas.com/blog/2007/01/updating-my-site-content/index.gmi Updating my site content
+=> gemini://gemini.real-ity.com/blog/2008/06/place-sharp-tube.-insert-through-flesh./index.gmi Place sharp tube.  Insert through flesh.
 
-=> gemini://gabekangas.com/blog/2007/01/pandorafm-mentioned-in-pc-world-magazine/index.gmi PandoraFM mentioned in PC World Magazine
 
-=> gemini://gabekangas.com/blog/2006/12/im-going-to-school./index.gmi I'm going to school.
+=> gemini://gemini.real-ity.com/blog/2008/06/lets-have-a-talk.-have-a-seat./index.gmi Let's have a talk.  Have a seat.
 
-=> gemini://gabekangas.com/blog/2006/12/end-of-year-wrapup-2006./index.gmi End of Year Wrapup 2006.
 
-=> gemini://gabekangas.com/blog/2006/12/happy-days-off/index.gmi Happy Days Off
+=> gemini://gemini.real-ity.com/blog/2008/06/todays-links/index.gmi Today's links
 
-=> gemini://gabekangas.com/blog/2006/12/over-1000000-tracks-played-through-pandorafm/index.gmi Over 1,000,000 tracks played through PandoraFM
 
-=> gemini://gabekangas.com/blog/2006/12/new-project-cabintunez.-the-ultimate-mp3-collection./index.gmi New project: CabinTunez.  The ultimate mp3 collection.
+=> gemini://gemini.real-ity.com/blog/2008/06/we-may-be-extraterrestrials-after-all/index.gmi We may be extraterrestrials after all
 
-=> gemini://gabekangas.com/blog/2006/11/martin-at-last.fm/index.gmi Martin at Last.FM
 
-=> gemini://gabekangas.com/blog/2006/10/server-status/index.gmi Server Status
+=> gemini://gemini.real-ity.com/blog/2008/06/todays-links/index.gmi Today's links
+
+
+=> gemini://gemini.real-ity.com/blog/2008/05/todays-links/index.gmi Today's links
+
+
+=> gemini://gemini.real-ity.com/blog/2008/05/im-not-doing-well/index.gmi I'm not doing well
+
+
+=> gemini://gemini.real-ity.com/blog/2008/05/goodbye-bme/index.gmi Goodbye BME
+
+
+=> gemini://gemini.real-ity.com/blog/2008/05/im-someones-bitch/index.gmi I'm someone's bitch
+
+
+=> gemini://gemini.real-ity.com/blog/2008/05/hello-this-is-gabe-blogging.../index.gmi Hello this is Gabe blogging...
+
+
+=> gemini://gemini.real-ity.com/blog/2008/05/testing-sending-to-my.../index.gmi Testing sending to my...
+
+
+=> gemini://gemini.real-ity.com/blog/2008/04/the-amount-of-time-ive-listened-to-music/index.gmi The amount of time i've listened to music
+
+
+=> gemini://gemini.real-ity.com/blog/2008/04/todays-links/index.gmi Today's links
+
+
+=> gemini://gemini.real-ity.com/blog/2008/04/new-nine-inch-nails-track-with-words/index.gmi New Nine Inch Nails Track (with words)
+
+
+=> gemini://gemini.real-ity.com/blog/2008/04/saturday-night-mannequin-nightclub/index.gmi Saturday Night @ Mannequin Nightclub
+
+
+=> gemini://gemini.real-ity.com/blog/2008/04/odd-irc-dream/index.gmi Odd IRC dream
+
+
+=> gemini://gemini.real-ity.com/blog/2008/04/my-life-in-tweets/index.gmi My life in Tweets
+
+
+=> gemini://gemini.real-ity.com/blog/2008/04/gabes-smart-shuffle.-one-playlist-to-rule-them-all./index.gmi Gabe's Smart Shuffle.  One playlist to rule them all.
+
+
+=> gemini://gemini.real-ity.com/blog/2008/04/todays-links/index.gmi Today's links
+
+
+=> gemini://gemini.real-ity.com/blog/2008/03/todays-links/index.gmi Today's links
+
+
+=> gemini://gemini.real-ity.com/blog/2008/03/damnit.-im-one-of-them/index.gmi Damnit.  I'm one of *them*
+
+
+=> gemini://gemini.real-ity.com/blog/2008/03/i-got-new-glasses/index.gmi I got new glasses
+
+
+=> gemini://gemini.real-ity.com/blog/2008/02/help-me-pick-out-new-prescription-glasses/index.gmi Help me pick out new prescription glasses
+
+
+=> gemini://gemini.real-ity.com/blog/2008/02/test-blog-post/index.gmi Test blog post
+
+
+=> gemini://gemini.real-ity.com/blog/2008/02/bad-music-video/index.gmi Bad music (video)
+
+
+=> gemini://gemini.real-ity.com/blog/2008/02/odd/index.gmi Odd
+
+
+=> gemini://gemini.real-ity.com/blog/2008/02/my-new-tattoo/index.gmi My new tattoo
+
+
+=> gemini://gemini.real-ity.com/blog/2008/02/pandorafm-defaced-yesterday/index.gmi PandoraFM defaced yesterday
+
+
+=> gemini://gemini.real-ity.com/blog/2008/02/the-new-pornographers-bleeding-heart-show/index.gmi The New Pornographers - Bleeding Heart Show
+
+
+=> gemini://gemini.real-ity.com/blog/2008/01/i-threw-up-at-cloverfield/index.gmi I threw up at Cloverfield
+
+
+=> gemini://gemini.real-ity.com/blog/2008/01/what-i-dont-want-in-a-girl/index.gmi What I don't want in a girl
+
+
+=> gemini://gemini.real-ity.com/blog/2007/12/gabes-2007-review-of-stuff/index.gmi Gabe's 2007 Review of Stuff
+
+
+=> gemini://gemini.real-ity.com/blog/2007/12/worst.-holiday.-season.-ever./index.gmi Worst.  Holiday.  Season.  Ever.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/12/hello-weekend/index.gmi Hello weekend
+
+
+=> gemini://gemini.real-ity.com/blog/2007/11/i-love-os-x-10.5-leopard/index.gmi I love OS X 10.5 Leopard
+
+
+=> gemini://gemini.real-ity.com/blog/2007/11/who-i-should-vote-for/index.gmi Who I should vote for
+
+
+=> gemini://gemini.real-ity.com/blog/2007/11/from-me.-to-you.-my-blog./index.gmi From me.  To you.  My blog.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/11/wild-dream-last-night/index.gmi Wild dream last night
+
+
+=> gemini://gemini.real-ity.com/blog/2007/10/hello-from-marquette-michigan/index.gmi Hello from Marquette, Michigan
+
+
+=> gemini://gemini.real-ity.com/blog/2007/10/good-news/index.gmi Good news!
+
+
+=> gemini://gemini.real-ity.com/blog/2007/10/lost-my-keys/index.gmi Lost my keys
+
+
+=> gemini://gemini.real-ity.com/blog/2007/10/nine-inch-nails-is-no-longer-with-a-record-label/index.gmi Nine Inch Nails is no longer with a record label
+
+
+=> gemini://gemini.real-ity.com/blog/2007/10/trumblr/index.gmi Trumblr
+
+
+=> gemini://gemini.real-ity.com/blog/2007/10/the-peanut-butter-solution/index.gmi The Peanut Butter Solution
+
+
+=> gemini://gemini.real-ity.com/blog/2007/10/my-poor-poor-car/index.gmi My poor, poor car
+
+
+=> gemini://gemini.real-ity.com/blog/2007/10/my-car.-wtf/index.gmi My car.  WTF?
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/im-cooking/index.gmi I'm cooking!
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/my-blog-has-been-broke-sorry.-and-other-stuff./index.gmi My blog has been broke, sorry.  And other stuff.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/updated-screenshot/index.gmi Updated screenshot
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/head-cold/index.gmi Head Cold
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/staying-home/index.gmi Staying home
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/feel-lousy/index.gmi Feel lousy
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/trent-reznor-gives-rip-off-avoidance-download-share-advice-to-fans/index.gmi Trent Reznor gives Rip-off Avoidance, Download & Share advice to fans
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/ahh-the-weekend/index.gmi Ahh, the weekend
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/what-a-day/index.gmi What a day
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/one-of-those-days/index.gmi One of those days
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/my-company-on-facebook-part-2/index.gmi My company on Facebook part 2
+
+
+=> gemini://gemini.real-ity.com/blog/2007/09/good-day-i-hope/index.gmi Good day (I hope)
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/car-situation/index.gmi Car situation
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/my-company-on-facebook/index.gmi My company on facebook
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/crap-with-my-car/index.gmi Crap with my car
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/os-xs-textedit-icon/index.gmi OS X's TextEdit icon
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/the-best-survey-ever/index.gmi The Best Survey Ever
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/over-2991000-other-tracks-have-been-submitted-to-last.fm-profiles-through-pandorafm./index.gmi Over 2,991,000 other tracks have been submitted to Last.FM profiles through PandoraFM.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/odd-dreams/index.gmi Odd dreams
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/library-of-stuff/index.gmi Library of stuff
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/happy-weekend/index.gmi Happy Weekend
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/why-havent-i-posted/index.gmi Why haven't I posted?
+
+
+=> gemini://gemini.real-ity.com/blog/2007/08/updates-from-lollapalooza/index.gmi Updates from Lollapalooza
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/should-i-create-a-work-category/index.gmi Should I create a work category?
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/cool-my-phone-thing-works/index.gmi Cool my phone thing works
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/phone-nerd/index.gmi Phone nerd
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/important-by-default/index.gmi Important by default
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/worst.-manager.-ever./index.gmi Worst.  Manager.  Ever.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/work-photo/index.gmi Work photo
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/how-not-to-sexually-harass-your-coworkers./index.gmi How not to sexually harass your coworkers.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/aim-high/index.gmi AIM high
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/what-a-weekend/index.gmi What a weekend
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/obligatory-simpsons-avatar/index.gmi Obligatory Simpsons Avatar
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/rasputina-last-night/index.gmi Rasputina last night
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/happy-day-off-/-general-personal-update/index.gmi Happy Day Off / General personal update
+
+
+=> gemini://gemini.real-ity.com/blog/2007/07/new-piercing/index.gmi New piercing
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/the-world-of-stupid-man-the-comic-book/index.gmi The World of Stupid Man, the Comic Book
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/a-request-to-put-some-life-into-pandorafm/index.gmi A request to put some life into PandoraFM
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/how-to-get-divorced-using-a-mac/index.gmi How to get divorced using a mac
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/an-update-now-that-things-are-done/index.gmi An update now that things are done
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/congrats-to-me/index.gmi Congrats to me!
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/a-new-beginning/index.gmi A new beginning
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/perpetual-hosting/index.gmi Perpetual Hosting
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/sick/index.gmi Sick
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/status-on-my-album-or-whatever/index.gmi Status on my album, or whatever
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/happy-monday/index.gmi Happy Monday
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/looking-at-art/index.gmi Looking at art
+
+
+=> gemini://gemini.real-ity.com/blog/2007/06/happy-friday-friends/index.gmi Happy Friday, Friends
+
+
+=> gemini://gemini.real-ity.com/blog/2007/05/overruled/index.gmi Overruled
+
+
+=> gemini://gemini.real-ity.com/blog/2007/05/what-do-you-do-a-post-on-jaiku./index.gmi What do you do?  A post on Jaiku.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/05/welcome-back-my-friends-to-the-show-that-never-ends./index.gmi Welcome back my friends, to the show that never ends.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/05/an-update/index.gmi An update
+
+
+=> gemini://gemini.real-ity.com/blog/2007/05/mmmm-steak/index.gmi mmmm steak
+
+
+=> gemini://gemini.real-ity.com/blog/2007/05/protected-entries/index.gmi Protected entries
+
+
+=> gemini://gemini.real-ity.com/blog/2007/05/the-verbage/index.gmi The Verbage
+
+
+=> gemini://gemini.real-ity.com/blog/2007/05/so-sue-me-and-i-moved-into-my-new-apartment/index.gmi So sue me and I moved into my new apartment
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/new-rules/index.gmi New Rules
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/got-served-with-my-papers/index.gmi Got served with my papers
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/and-now-things-really-get-messy.-im-losing-my-car./index.gmi And now things really get messy.  I'm losing my car.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/and-things-got-worse/index.gmi And things got worse
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/cell-bill/index.gmi Cell bill
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/end-of-a-weekend/index.gmi End of a weekend
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/friday-the-13th./index.gmi Friday the 13th.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/some-updates/index.gmi Some updates
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/started-packing-my-music-equipment/index.gmi Started packing my music equipment
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/low/index.gmi Low
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/day-5./index.gmi Day 5.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/04/and-so-it-is./index.gmi And so it is.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/03/seriously-damnit./index.gmi Seriously?  Damnit.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/03/a-query/index.gmi A query
+
+
+=> gemini://gemini.real-ity.com/blog/2007/03/ruby-on-rails-.net-and-other-frameworks-in-life/index.gmi Ruby on Rails, .NET and other Frameworks in life
+
+
+=> gemini://gemini.real-ity.com/blog/2007/03/so-yeah-life-sucks./index.gmi So yeah, life sucks.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/03/the-useless-and-useful/index.gmi The useless and useful
+
+
+=> gemini://gemini.real-ity.com/blog/2007/03/man-its-sxsw-time-already-how-time-flies.-ill-sure-not-be-busy./index.gmi Man, it's SXSW time already?  How time flies.  I'll sure not be busy.
+
+
+=> gemini://gemini.real-ity.com/blog/2007/03/my-new-slogan/index.gmi My new slogan
+
+
+=> gemini://gemini.real-ity.com/blog/2007/02/wtf/index.gmi wtf
+
+
+=> gemini://gemini.real-ity.com/blog/2007/02/so-i-cancelled-cable/index.gmi So I cancelled cable
+
+
+=> gemini://gemini.real-ity.com/blog/2007/02/headache-clinic/index.gmi headache clinic?
+
+
+=> gemini://gemini.real-ity.com/blog/2007/02/things-and-stuff-a-real-post-in-the-spirit-of-a-blog/index.gmi Things and stuff, a real post in the spirit of a "blog"
+
+
+=> gemini://gemini.real-ity.com/blog/2007/01/couple-random-photos/index.gmi Couple random photos
+
+
+=> gemini://gemini.real-ity.com/blog/2007/01/go-bears/index.gmi Go Bears!
+
+
+=> gemini://gemini.real-ity.com/blog/2007/01/so-im-working-on-music/index.gmi So i'm working on music
+
+
+=> gemini://gemini.real-ity.com/blog/2007/01/updating-my-site-content/index.gmi Updating my site content
+
+
+=> gemini://gemini.real-ity.com/blog/2007/01/pandorafm-mentioned-in-pc-world-magazine/index.gmi PandoraFM mentioned in PC World Magazine
+
+
+=> gemini://gemini.real-ity.com/blog/2006/12/im-going-to-school./index.gmi I'm going to school.
+
+
+=> gemini://gemini.real-ity.com/blog/2006/12/end-of-year-wrapup-2006./index.gmi End of Year Wrapup 2006.
+
+
+=> gemini://gemini.real-ity.com/blog/2006/12/happy-days-off/index.gmi Happy Days Off
+
+
+=> gemini://gemini.real-ity.com/blog/2006/12/over-1000000-tracks-played-through-pandorafm/index.gmi Over 1,000,000 tracks played through PandoraFM
+
+
+=> gemini://gemini.real-ity.com/blog/2006/12/new-project-cabintunez.-the-ultimate-mp3-collection./index.gmi New project: CabinTunez.  The ultimate mp3 collection.
+
+
+=> gemini://gemini.real-ity.com/blog/2006/11/martin-at-last.fm/index.gmi Martin at Last.FM
+
+
+=> gemini://gemini.real-ity.com/blog/2006/10/server-status/index.gmi Server Status
