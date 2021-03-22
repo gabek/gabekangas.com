@@ -3,6 +3,7 @@ title: 'Personal update'
 description: 'When everything is taken away except for your job, you better really, really love your job.'
 date: '2020-09-16'
 type: 'post'
+draft: true
 categories:
   - 'blog'
   - 'work'
