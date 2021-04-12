@@ -1,4 +1,3 @@
 # Feel lousy
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>I feel lousy.  I napped through a large chunk of yesterday.  I woke up early today since I slept enough, and couldn't fall back asleep.  I don't see myself going to work tomorrow.  Probably see myself going to a doctor instead.</p></body></html>
+I feel lousy.  I napped through a large chunk of yesterday.  I woke up early today since I slept enough, and couldn\'t fall back asleep.  I don\'t see myself going to work tomorrow.  Probably see myself going to a doctor instead.

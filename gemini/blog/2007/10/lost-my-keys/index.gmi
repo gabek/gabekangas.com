@@ -1,4 +1,3 @@
 # Lost my keys
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>Lost my car and apartment keys.  I have no idea where they could be.  I've been out in the cold rain waiting for another train to bring me back into the city.  Maybe they're at my office, but I don't think they are.  I'm screwed.</p></body></html>
+Lost my car and apartment keys. I have no idea where they could be.  I\'ve been out in the cold rain waiting for another train to bring me back into the city. Maybe they\'re at my office, but I don\'t think they are. I\'m screwed.

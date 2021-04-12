@@ -1,9 +1,9 @@
 # Hellooooo Omaha
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>So like I said in a previous post, the time to complain about my job and the direction of my role is over. it's time to start doing something to better my situation.</p>
-<p>So that time started last night when I applied for an open position in the Load balancer/unix scripting/sendmail/qmail team in Omaha, NE. Unix! I miss you!</p>
-<p>Does it sound like a great match to what I'm good at? Absolutely? Do I want to move to Omaha? Not really. But it certainly won't hurt to discuss the opening.</p>
-<p>But you never know. It sounds right up my alley, all things i'm good at kind of rolled up into one position. We'll see what happens...</p>
-</body></html>
+So like I said in a previous post, the time to complain about my job and the direction of my role is over. it\'s time to start doing something to better my situation.
+
+So that time started last night when I applied for an open position in the Load balancer/unix scripting/sendmail/qmail team in Omaha, NE. Unix!  I miss you!
+
+Does it sound like a great match to what I\'m good at? Absolutely? Do I want to move to Omaha? Not really. But it certainly won\'t hurt to discuss the opening.
+
+But you never know. It sounds right up my alley, all things i\'m good at kind of rolled up into one position. We\'ll see what happens\...

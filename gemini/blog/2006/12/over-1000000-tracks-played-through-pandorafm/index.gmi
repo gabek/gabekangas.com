@@ -1,10 +1,7 @@
 # Over 1,000,000 tracks played through PandoraFM
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>On July 1st of this year I started a counter on how many songs are being played through the PandoraFM interface.  I haven't really been paying attention to it lately, in any aspect.  I just let it run.  I haven't been changing, fixing.. doing anything to it.  I'm actually quite proud of that, it's running well for a ton of people and i'm not having to make daily fixes.  I guess all that time I spent on version 3 paid off in the end.
-Anyway, I checked out the "Social" tab today, and saw:</p>
-<p><em>Over 1,052,000 other tracks have been submitted to Last.FM profiles through PandoraFM. * Thanks for being a part of it!</em></p>
-<p>Wow!  Big number!  It's smaller than a lot of other numbers in the world, but that's my number!  Thanks everyone!
-Gabe is currently listening to Imogen Heap - Hide &amp; Seek (DJ Russ Harris Extended Mix) on PandoraFM</p>
-</body></html>
+On July 1st of this year I started a counter on how many songs are being played through the PandoraFM interface. I haven\'t really been paying attention to it lately, in any aspect. I just let it run. I haven\'t been changing, fixing.. doing anything to it. I\'m actually quite proud of that, it\'s running well for a ton of people and i\'m not having to make daily fixes. I guess all that time I spent on version 3 paid off in the end. Anyway, I checked out the \"Social\" tab today, and saw:
+
+Over 1,052,000 other tracks have been submitted to Last.FM profiles through PandoraFM. \ Thanks for being a part of it!*
+
+Wow! Big number! It\'s smaller than a lot of other numbers in the world, but that\'s my number! Thanks everyone! Gabe is currently listening to Imogen Heap - Hide & Seek (DJ Russ Harris Extended Mix) on PandoraFM

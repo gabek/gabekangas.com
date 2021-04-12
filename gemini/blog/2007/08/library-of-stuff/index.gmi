@@ -1,4 +1,7 @@
 # Library of stuff
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>Check out my <a href="http://www.real-ity.com/library/">Movie, Music and Book library</a>. I'm starting to catalog that stuff using Delicious Library.</p></body></html>
+Check out my
+
+=> http://www.real-ity.com/library/ Movie, Music and Book library
+
+. I\'m starting to catalog that stuff using Delicious Library.

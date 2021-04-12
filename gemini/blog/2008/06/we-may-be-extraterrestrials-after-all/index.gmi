@@ -1,10 +1,9 @@
 # We may be extraterrestrials after all
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Told you so.</p>
-<blockquote cite="http://digg.com/space/We_may_be_extraterrestrials_after_all"><p>
-  News of the day. You are an alien.<br>
-  [From <a href="http://digg.com/space/We_may_be_extraterrestrials_after_all"><cite>We may be extraterrestrials after all</cite></a>]
-</p></blockquote>
-</body></html>
+Told you so.
+
+> News of the day. You are an alien.\ > \[From
+
+=> http://digg.com/space/We_may_be_extraterrestrials_after_all <cite>{=html}We may be extraterrestrials after > all</cite>{=html}
+
+\]

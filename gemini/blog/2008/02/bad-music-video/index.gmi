@@ -1,8 +1,7 @@
 # Bad music (video)
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Seriously. Do people really listen to music like this? This is awful. What does "Talking out of the side of your neck" even mean?</p>
-<p>Plus they use a really bad stereotype of marching band members dancing and spinning and using a mace. I hate that crap.</p>
-<p><embed src="http://lads.myspace.com/videos/vplayer.swf" flashvars="m=26378601&amp;v=2&amp;type=video" type="application/x-shockwave-flash" width="480" height="386"></embed></p>
-</body></html>
+Seriously. Do people really listen to music like this? This is awful.  What does \"Talking out of the side of your neck\" even mean?
+
+Plus they use a really bad stereotype of marching band members dancing and spinning and using a mace. I hate that crap.
+
+<embed src="http://lads.myspace.com/videos/vplayer.swf" flashvars="m=26378601&amp;v=2&amp;type=video" type="application/x-shockwave-flash" width="480" height="386">{=html}</embed>{=html}

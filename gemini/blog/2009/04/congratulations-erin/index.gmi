@@ -1,5 +1,7 @@
 # Congratulations Erin!
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>Just wanted to say congratulations to Miss <a href="http://tinyxl.com">Erin Standley</a>!  She just won the Cut &amp; Paste Chicago design competition!  Now she's off to New York in June to compete again.  She's quite the badass.
-Way to kick ass, Erin!</p></body></html>
+Just wanted to say congratulations to Miss
+
+=> http://tinyxl.com Erin Standley
+
+!  She just won the Cut & Paste Chicago design competition!  Now she\'s off to New York in June to compete again.  She\'s quite the badass. Way to kick ass, Erin!

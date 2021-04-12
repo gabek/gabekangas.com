@@ -1,21 +1,53 @@
 # Perpetual Hosting
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Here's an interesting topic, and one that i've put a lot of thought into.  I'm not going to live forever.  I sure hope not, anyway.  In fact, I may not live until tomorrow.  There's more things that'll kill then will keep things alive.  I may just run into one of them.  If that were to happen, what happens to my stuff?  Does my life online die, like I never existed?  Do I hope one of my friends from #TheCabin jumps in and archives all they can and puts up some kind of lame shrine like for <a href="http://diceman.home.att.net/jason.htm">this guy?</a>
-Dave Winer and Nick Bradbury make this comment.  Maybe it's something we should pass along.</p>
-<p>Nick Bradbury posts:
-<em><a href="http://nick.typepad.com/blog/2007/06/perpetual_hosti.html">Perpetual Hosting</a>:
-</em></p>
-<p>Dave Winer writes about "perpetual hosting" in <a href="http://news.bbc.co.uk/1/hi/technology/6748103.stm">this BBC article</a>:</p>
-<blockquote>
-<p>"I'd...like to be able to pay a web company, such as Amazon or Google, a one-time flat fee to host my content in perpetuity."</p>
-</blockquote>
-<p>This is something I've thought a lot about, too.  I'd like this blog to outlive me so that when my kids have grown up, they'll be able to read my old posts to find out more about me.  Maybe they'd enjoy some of my <a href="http://nick.typepad.com/blog/2007/02/holy_rush.html">goofy</a> <a href="http://nick.typepad.com/blog/2006/10/crazy_poopin_bi.html">stories</a>.  Or perhaps they'd appreciate forward-looking technical posts like <a href="http://nick.typepad.com/blog/2004/10/ramblings_on_go.html">this one</a>.  And I'm sure they'd like to read <a href="http://nick.typepad.com/blog/2007/02/my_hannah.html">about</a> <a href="http://nick.typepad.com/blog/2006/10/hit_and_run.html">themselves</a>.  </p>
-<p>Right now, though, I have no guarantee that this can happen.  How can I be sure that what I write today can still be read by my children many years from now?</p>
-<div class="feedflare">
-<p><a href="http://feeds.feedburner.com/~f/NickBradbury?a=Hq3BXSni"><img src="http://feeds.feedburner.com/~f/NickBradbury?i=Hq3BXSni" border="0"></a></p>
-</div>
-<p><img src="http://feeds.feedburner.com/~r/NickBradbury/~4/124915000" height="1" width="1">
-<br></p>
-</body></html>
+Here\'s an interesting topic, and one that i\'ve put a lot of thought into. I\'m not going to live forever. I sure hope not, anyway. In fact, I may not live until tomorrow. There\'s more things that\'ll kill then will keep things alive. I may just run into one of them. If that were to happen, what happens to my stuff? Does my life online die, like I never existed? Do I hope one of my friends from \#TheCabin jumps in and archives all they can and puts up some kind of lame shrine like for
+
+=> http://diceman.home.att.net/jason.htm this guy?
+
+ Dave Winer and Nick Bradbury make this comment. Maybe it\'s something we should pass along.
+
+Nick Bradbury posts:
+
+=> http://nick.typepad.com/blog/2007/06/perpetual_hosti.html Perpetual Hosting
+
+:
+
+Dave Winer writes about \"perpetual hosting\" in
+
+=> http://news.bbc.co.uk/1/hi/technology/6748103.stm this BBC article
+
+:
+
+> \"I\'d\...like to be able to pay a web company, such as Amazon or > Google, a one-time flat fee to host my content in perpetuity.\"
+
+This is something I\'ve thought a lot about, too.  I\'d like this blog to outlive me so that when my kids have grown up, they\'ll be able to read my old posts to find out more about me.  Maybe they\'d enjoy some of my
+
+=> http://nick.typepad.com/blog/2007/02/holy_rush.html goofy
+
+
+
+=> http://nick.typepad.com/blog/2006/10/crazy_poopin_bi.html stories
+
+.  Or perhaps they\'d appreciate forward-looking technical posts like
+
+=> http://nick.typepad.com/blog/2004/10/ramblings_on_go.html this one
+
+.  And I\'m sure they\'d like to read
+
+=> http://nick.typepad.com/blog/2007/02/my_hannah.html about
+
+
+
+=> http://nick.typepad.com/blog/2006/10/hit_and_run.html themselves
+
+. 
+
+Right now, though, I have no guarantee that this can happen.  How can I be sure that what I write today can still be read by my children many years from now?
+
+```{=html} <div class="feedflare"> ```
+
+=> http://feeds.feedburner.com/~f/NickBradbury?i=Hq3BXSni ![
+
+](http://feeds.feedburner.com/~f/NickBradbury?a=Hq3BXSni)
+
+```{=html} </div> ``` ![](http://feeds.feedburner.com/~r/NickBradbury/~4/124915000){width="1" height="1"}\

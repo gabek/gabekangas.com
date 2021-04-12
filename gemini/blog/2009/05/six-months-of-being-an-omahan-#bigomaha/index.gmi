@@ -1,34 +1,143 @@
 # Six months of being an Omahan ( #bigomaha )
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>So this week marks six months of living in Omaha.
-I can't help but look back to a <a href="/gabes-digital-life-1/2008/08/hellooooo-omaha">simple blog post I made on August 1st, 2008</a>.  I wrote  "Do I want to move to Omaha?  Not really."  Now flash forward to May 2009 where my journey in Omaha has so little to do with the reason I came here in the first place.</p>
-<p>It's mostly about the people for me.  From the second I stepped foot on Omaha's soil it's been a non-stop experience of meeting the greatest people ever.</p>
-<ul>
-<li>I land in October, to visit.  I immediately get a text message from <a href="http://www.narcissica.com/">Jess</a>, "Welcome to Omaha."  From that moment I never felt more welcome somewhere.</li>
-<li>A couple days later <a href="http://www.myspace.com/sccrgrl2002">Jillian </a>helps me find a place to live in Dundee.</li>
-<li>
-<a href="http://smellypuppy.com/">Boutcher </a>introduces me to everyone at the office and invites me to a party thrown by <a href="http://www.phildietz.com">Phil</a>.</li>
-<li>I meet <a href="http://twitter.com/geekyfemme">Kat </a>for coffee and I'm glad to know someone who wants to talk geekery with me.  She introduces me to drag queens.</li>
-<li>I meet Cassie who shows me how the city likes to have fun and in turn I get to show her how Chicago does when we visit my friends there.</li>
-<li>At my first Tweetup I introduce myself to the infamous <a href="http://twitter.com/k_to_the_t">KT</a>, who has since become a very close friend and a source of inspiration both socially and professionally.</li>
-<li>
-<a href="http://www.facebook.com/profile.php?id=63209123&amp;ref=mf">Andrea </a>becomes my partner in crime any time either of us want to go out, or there's a show.</li>
-<li>I meet <a href="http://www.dustyd.net/">Dusty</a> <a href="http://www.siliconprairienews.com/">and</a> <a href="http://www.slobotski.com/">Jeff </a>who show me that I can be a part of something in Omaha that would never be possible in Chicago.</li>
-<li>Becoming friends with <a href="http://twitter.com/incognito1027">Christin </a>makes me realize that I can share things and be important to someone else's life just like so many have become important to mine.</li>
-<li>I learn when I go out with <a href="http://www.facebook.com/profile.php?id=63202841&amp;ref=mf">Terah</a>, <a href="http://twitter.com/obrewan">Bree</a>, and <a href="http://twitter.com/valerienoelle">Valerie </a>there's going to be some awesome tunes played on the jukebox.  We'll sing "Tom Sawyer" multiple times.</li>
-<li>I become a real part of a neighborhood.  Knowing if I go to "my bar", <a href="http://www.myspace.com/49rlounge">The 49r</a>, I'll see people I recognize.</li>
-<li>
-<a href="http://www.kandy.net/">Krin </a>sucks because she moved to Chicago.  Wish she could have stuck around longer.</li>
-<li>In no other world would <a href="http://www.facebook.com/profile.php?id=1545495035&amp;ref=mf">Schaft</a>, otherwise just "the bartender",  be a friend of mine outside of a pint of Boulevard.</li>
-<li>I can walk to "my coffee shop" and see that <a href="http://www.princesslasertron.com/">Megan </a>is just down the street.  I can go say hi and <a href="http://twitter.com/lasertron/status/1689301321">share some ice cream and conversation</a>.</li>
-<li>
-<a href="http://twitter.com/bspersonal">Brian</a> shows me how fun and awkward it could be for a few guys who have no clue what they're doing to <a href="http://photos-e.ak.fbcdn.net/photos-ak-snc1/v2601/128/113/690609344/n690609344_1441636_7322896.jpg"> throw themselves into the public promotions game</a>.</li>
-<li>
-<a href="http://twitter.com/daveloyall">Dave </a>and <a href="http://twitter.com/secos">Matt </a>help me debug issues with my web site on IRC.  The difference here is I know I'll see them in a couple days and I'll buy them a beer to thank them.</li>
-<li><a href="http://www.bigomaha.com">BigOmaha</a></li>
-</ul>
-<p>There's so many other people, places, and experiences that I'm missing.  But this isn't meant to be some kind of all encompassing list of everyone that I know.  Just a snapshot of some really important people that have made the six months probably the best six months of my life.</p>
-<p>Thanks, Omaha.</p>
-</body></html>
+So this week marks six months of living in Omaha. I can\'t help but look back to a
+
+=> /gabes-digital-life-1/2008/08/hellooooo-omaha simple blog post I made on August 1st, 2008
+
+. I wrote \"Do I want to move to Omaha? Not really.\" Now flash forward to May 2009 where my journey in Omaha has so little to do with the reason I came here in the first place.
+
+It\'s mostly about the people for me. From the second I stepped foot on Omaha\'s soil it\'s been a non-stop experience of meeting the greatest people ever.
+
+-   I land in October, to visit. I immediately get a text message from
+   
+
+=> http://www.narcissica.com/ Jess
+
+, \"Welcome to Omaha.\" From that moment I never felt more welcome somewhere.
+-   A couple days later
+
+=> http://www.myspace.com/sccrgrl2002 Jillian
+
+
+    helps me find a place to live in Dundee.
+-  
+
+=> http://smellypuppy.com/ Boutcher
+
+ introduces me to everyone at the
+    office and invites me to a party thrown by
+
+=> http://www.phildietz.com Phil
+
+.
+-   I meet
+
+=> http://twitter.com/geekyfemme Kat
+
+ for coffee and I\'m glad
+    to know someone who wants to talk geekery with me. She introduces me to drag queens.
+-   I meet Cassie who shows me how the city likes to have fun and in
+    turn I get to show her how Chicago does when we visit my friends there.
+-   At my first Tweetup I introduce myself to the infamous
+   
+
+=> http://twitter.com/k_to_the_t KT
+
+, who has since become a very close friend and a source of inspiration both socially and professionally.
+-  
+
+=> http://www.facebook.com/profile.php?id=63209123&ref=mf Andrea
+
+
+    becomes my partner in crime any time either of us want to go out, or there\'s a show.
+-   I meet
+
+=> http://www.dustyd.net/ Dusty
+
+
+   
+
+=> http://www.siliconprairienews.com/ and
+
+
+
+=> http://www.slobotski.com/ Jeff
+
+ who show me that I can be a part of something in Omaha that would never be possible in Chicago.
+-   Becoming friends with
+
+=> http://twitter.com/incognito1027 Christin
+
+
+    makes me realize that I can share things and be important to someone else\'s life just like so many have become important to mine.
+-   I learn when I go out with
+   
+
+=> http://www.facebook.com/profile.php?id=63202841&ref=mf Terah
+
+,
+
+=> http://twitter.com/obrewan Bree
+
+, and
+
+=> http://twitter.com/valerienoelle Valerie
+
+ there\'s going to be some awesome tunes played on the jukebox. We\'ll sing \"Tom Sawyer\" multiple times.
+-   I become a real part of a neighborhood. Knowing if I go to \"my
+    bar\",
+
+=> http://www.myspace.com/49rlounge The 49r
+
+, I\'ll see people I recognize.
+-  
+
+=> http://www.kandy.net/ Krin
+
+ sucks because she moved to Chicago.
+    Wish she could have stuck around longer.
+-   In no other world would
+   
+
+=> http://www.facebook.com/profile.php?id=1545495035&ref=mf Schaft
+
+, otherwise just \"the bartender\", be a friend of mine outside of a pint of Boulevard.
+-   I can walk to \"my coffee shop\" and see that
+   
+
+=> http://www.princesslasertron.com/ Megan
+
+ is just down the street.  I can go say hi and
+
+=> http://twitter.com/lasertron/status/1689301321 share some ice cream and conversation
+
+.
+-  
+
+=> http://twitter.com/bspersonal Brian
+
+ shows me how fun and awkward
+    it could be for a few guys who have no clue what they\'re doing to
+
+=> http://photos-e.ak.fbcdn.net/photos-ak-snc1/v2601/128/113/690609344/n690609344_1441636_7322896.jpg throw themselves into the public promotions game
+
+.
+-  
+
+=> http://twitter.com/daveloyall Dave
+
+ and
+   
+
+=> http://twitter.com/secos Matt
+
+ help me debug issues with my web site on IRC. The difference here is I know I\'ll see them in a couple days and I\'ll buy them a beer to thank them.
+-  
+
+=> http://www.bigomaha.com BigOmaha
+
+
+
+There\'s so many other people, places, and experiences that I\'m missing. But this isn\'t meant to be some kind of all encompassing list of everyone that I know. Just a snapshot of some really important people that have made the six months probably the best six months of my life.
+
+Thanks, Omaha.

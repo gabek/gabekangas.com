@@ -1,7 +1,5 @@
 # New project: CabinTunez.  The ultimate mp3 collection.
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Been working with Bob the past few days on a new Cabin project.  I started the framework a while back but never did much with it.  Unfortunately, this is all private, so I can't really share it.  But I can give you a screenshot and make you wish you had access to CabinTunez, the ultimate mp3 collection.</p>
-<p><a href="http://www.real-ity.com/blog/wp-content/uploads/2006/12/tunez.png" onclick="window.open('http://www.real-ity.com/blog/wp-content/uploads/2006/12/tunez.png','popup','width=974,height=657,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.real-ity.com/blog/wp-content/uploads/2006/12/tunez-tm1.jpg" height="100" width="148" border="1" hspace="4" vspace="4" alt="Tunez"></a></p>
-</body></html>
+Been working with Bob the past few days on a new Cabin project. I started the framework a while back but never did much with it.  Unfortunately, this is all private, so I can\'t really share it. But I can give you a screenshot and make you wish you had access to CabinTunez, the ultimate mp3 collection.
+
+=> http://www.real-ity.com/blog/wp-content/uploads/2006/12/tunez-tm1.jpg ![Tunez{width="148" height="100"}](http://www.real-ity.com/blog/wp-content/uploads/2006/12/tunez.png)

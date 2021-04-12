@@ -1,4 +1,3 @@
 # I'm in Omaha
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>Quick post.  But i'm here, alive, and working.  How about that.</p></body></html>
+Quick post.  But i\'m here, alive, and working.  How about that.

@@ -1,8 +1,9 @@
 # Obligatory Simpsons Avatar
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>I wouldn't be a member of the 2.0 Digerati if I didn't post my personal Simpsons avatar, now would I?
-<a href="http://www.real-ity.com/blog/wp-content/uploads/2007/07/gabe-simpsons.png" onclick="window.open('http://www.real-ity.com/blog/wp-content/uploads/2007/07/gabe-simpsons.png','popup','width=157,height=418,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.real-ity.com/blog/wp-content/uploads/2007/07/gabe-simpsons-tm.jpg" height="100" width="37" border="1" hspace="4" vspace="4" alt="Gabe-Simpsons"></a></p>
-<p>Yeah, it doesn't really look like me.  It's really as close I could get, though.</p>
-</body></html>
+I wouldn\'t be a member of the 2.0 Digerati if I didn\'t post my personal Simpsons avatar, now would I? 
+
+=> http://www.real-ity.com/blog/wp-content/uploads/2007/07/gabe-simpsons-tm.jpg ![Gabe-Simpsons
+
+{width="37" height="100"}](http://www.real-ity.com/blog/wp-content/uploads/2007/07/gabe-simpsons.png)
+
+Yeah, it doesn\'t really look like me. It\'s really as close I could get, though.

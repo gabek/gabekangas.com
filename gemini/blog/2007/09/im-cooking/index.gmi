@@ -1,7 +1,5 @@
 # I'm cooking!
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Phear. My first time cooking anything more than a grilled cheese sandwich. Chili is on it's way.</p>
-<p><img src="http://www.real-ity.com/blog/wp-content/uploads/2007/09/IMG_8905.jpg" width="480" height="305"> <img src="http://www.real-ity.com/blog/wp-content/uploads/2007/09/IMG_8906.jpg" width="480" height="360"></p>
-</body></html>
+Phear. My first time cooking anything more than a grilled cheese sandwich. Chili is on it\'s way.
+
+!=> http://www.real-ity.com/blog/wp-content/uploads/2007/09/IMG_8906.jpg ](http://www.real-ity.com/blog/wp-content/uploads/2007/09/IMG_8905.jpg){width="480" height="305"} ![{width="480" height="360"}

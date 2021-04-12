@@ -1,9 +1,7 @@
 # Server Status
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>So I got email really working.  It wasn't working before.  In fact most emails were bouncing.  So if you emailed me, and it bounced... please send again.
-Got my web log back up, obviously.  Tonight i'll have to reinstall the photo album database.  I just realized I have the old version installed that wasn't database driven.  Wonder if I can import it.  Still a ton lost, but maybe it's something?</p>
-<p>But yeah, email me again if needed.</p>
-<p>And happy birthday to ^madcow.</p>
-</body></html>
+So I got email really working. It wasn\'t working before. In fact most emails were bouncing. So if you emailed me, and it bounced\... please send again. Got my web log back up, obviously. Tonight i\'ll have to reinstall the photo album database. I just realized I have the old version installed that wasn\'t database driven. Wonder if I can import it. Still a ton lost, but maybe it\'s something?
+
+But yeah, email me again if needed.
+
+And happy birthday to \^madcow.

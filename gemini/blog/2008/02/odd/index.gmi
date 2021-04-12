@@ -1,7 +1,5 @@
 # Odd
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p><img name="l_782d055cf09b7dfc2dbe01579967c998.gif" height="150" width="200" src="http://a761.ac-images.myspacecdn.com/images01/50/l_782d055cf09b7dfc2dbe01579967c998.gif" style="" id="l_782d055cf09b7dfc2dbe01579967c998.gif"></p>
-<p><span style="color: #919191; font-family: 'Lucida Grande';"><span class="nicksandstuff" style="color: #97908D !important; font-weight: bold;">&lt;grneyes&gt;</span> thats slightly scary..and nauseating</span></p>
-</body></html>
+![](http://a761.ac-images.myspacecdn.com/images01/50/l_782d055cf09b7dfc2dbe01579967c998.gif){#l_782d055cf09b7dfc2dbe01579967c998.gif width="200" height="150"}
+
+<span style="color: #919191; font-family: &#39;Lucida Grande&#39;;">{=html}<span class="nicksandstuff" style="color: #97908D !important; font-weight: bold;">{=html}\<grneyes\></span>{=html} thats slightly scary..and nauseating</span>{=html}

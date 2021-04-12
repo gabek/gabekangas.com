@@ -61,6 +61,9 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2015/11/goodbye-rdio/index.gmi Goodbye, Rdio
 
 
+=> gemini://gemini.real-ity.com/blog/2015/11/goodbye-rdio/index.gmi Goodbye, Rdio
+
+
 => gemini://gemini.real-ity.com/blog/2015/07/launching-the-bat-player-on-the-roku-store-and-its-aftermath/index.gmi Launching The Bat Player on the Roku Store and its aftermath
 
 
@@ -803,3 +806,6 @@ These are my blog posts going back as far as I have them.
 
 
 => gemini://gemini.real-ity.com/blog/2006/10/server-status/index.gmi Server Status
+
+
+=> gemini://gemini.real-ity.com/blog/1/01/index.gmi 

@@ -1,7 +1,5 @@
 # My new tattoo
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>I hadn't posted this yet, but it's my new tattoo. Done by Matt at Insight Studios in Chicago.</p>
-<p><img src="http://www.real-ity.com/blog/wp-content/uploads/2008/02/200802090934.jpg" width="250" height="188"></p>
-</body></html>
+I hadn\'t posted this yet, but it\'s my new tattoo. Done by Matt at Insight Studios in Chicago.
+
+![](http://www.real-ity.com/blog/wp-content/uploads/2008/02/200802090934.jpg){width="250" height="188"}

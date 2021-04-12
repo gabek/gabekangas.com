@@ -1,4 +1,3 @@
 # Ruby on Rails, .NET and other Frameworks in life
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p>People say that working within restrictive frameworks give them freedom.  Is it true?</p></body></html>
+People say that working within restrictive frameworks give them freedom.  Is it true?

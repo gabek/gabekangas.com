@@ -1,9 +1,13 @@
 # Rasputina last night
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p><a href="http://www.real-ity.com/blog/wp-content/uploads/2007/07/200707090748.jpg" onclick="window.open('http://www.real-ity.com/blog/wp-content/uploads/2007/07/200707090748.jpg','popup','width=200,height=200,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.real-ity.com/blog/wp-content/uploads/2007/07/200707090748-tm.jpg" height="100" width="100" border="1" hspace="4" vspace="4" alt="200707090748"></a></p>
-<p>Saw Rasputina at The Abby last night.  Was a good show.  The set list was better the first time I saw them, but we had a good time anyway.  They rocked out and everyone enjoyed it.  I'm tired today, though.  Out late, up early, and i'll be out late tonight too because of work.</p>
-<p>Next stop, <a href="http://pitchforkmusicfestival.com/">The Pitchfork Music Festival</a> to see The New Pornographers and Of Montreal this Sunday.</p>
-<p><a href="http://www.real-ity.com/blog/wp-content/uploads/2007/07/200707090756.jpg" onclick="window.open('http://www.real-ity.com/blog/wp-content/uploads/2007/07/200707090756.jpg','popup','width=1000,height=230,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.real-ity.com/blog/wp-content/uploads/2007/07/200707090756-tm.jpg" height="100" width="434" border="1" hspace="4" vspace="4" alt="200707090756"></a></p>
-</body></html>
+=> http://www.real-ity.com/blog/wp-content/uploads/2007/07/200707090748-tm.jpg ![200707090748{width="100" height="100"}](http://www.real-ity.com/blog/wp-content/uploads/2007/07/200707090748.jpg)
+
+Saw Rasputina at The Abby last night. Was a good show. The set list was better the first time I saw them, but we had a good time anyway. They rocked out and everyone enjoyed it. I\'m tired today, though. Out late, up early, and i\'ll be out late tonight too because of work.
+
+Next stop,
+
+=> http://pitchforkmusicfestival.com/ The Pitchfork Music Festival
+
+ to see The New Pornographers and Of Montreal this Sunday.
+
+=> http://www.real-ity.com/blog/wp-content/uploads/2007/07/200707090756-tm.jpg ![200707090756{width="434" height="100"}](http://www.real-ity.com/blog/wp-content/uploads/2007/07/200707090756.jpg)

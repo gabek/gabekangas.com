@@ -1,4 +1,3 @@
 # Head Cold
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body><p><span style="font-style: italic;">I hate that "getting a head cold" taste in the mouth and throatal area. Tastes like boogers and defeat.</span><a href="http://twitter.com/hotdogsladies/statuses/274637342" title="Merlin Mann"><span style="font-style: italic;">-Merlin Mann</span></a></p></body></html>
+<span style="font-style: italic;">{=html}I hate that \"getting a head cold\" taste in the mouth and throatal area. Tastes like boogers and defeat.</span>{=html}=> http://twitter.com/hotdogsladies/statuses/274637342 "Merlin Mann" <span style="font-style: italic;">{=html}-Merlin Mann</span>{=html}

@@ -1,9 +1,7 @@
 # Important by default
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Don't you hate when people make themselves look important by holding everything back from everyone else?
-That's how things are at work now.  My "manager" right now is the only person from my team involved in a huge production issue, and he won't let me be involved.  I was hired here to work on issues like this, but he wants to look important by being known as the only person that can do things, and being the only person who did do things.</p>
-<p>For large scale issues it should be all hands on deck, everyone working on things.  But when you pipe in he tells you how wrong you are and to quiet down.  Seriously, he does that.</p>
-<p><a href="http://www.real-ity.com/blog/?p=352">See my March 28th post on this same topic</a>.  It's only gotten worse.  And it will continue to as long as he's here.</p>
-</body></html>
+Don\'t you hate when people make themselves look important by holding everything back from everyone else? That\'s how things are at work now.  My \"manager\" right now is the only person from my team involved in a huge production issue, and he won\'t let me be involved. I was hired here to work on issues like this, but he wants to look important by being known as the only person that can do things, and being the only person who did do things.
+
+For large scale issues it should be all hands on deck, everyone working on things. But when you pipe in he tells you how wrong you are and to quiet down. Seriously, he does that.
+
+=> http://www.real-ity.com/blog/?p=352 See my March 28th post on this same topic. It\'s only gotten worse.  And it will continue to as long as he\'s here.
