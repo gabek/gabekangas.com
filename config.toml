@@ -41,18 +41,21 @@ unsafe= true
   icon = "fa fa-github"
   weight = 1
   url = "https://github.com/gabek"
+  rel = "me"
 
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin"
   weight = 4
   url = "https://www.linkedin.com/in/gabek/"
+  rel = "me"
 
 [[params.social]]
   name = "mastodon"
   icon = "fa fa-mastodon"
   weight = 4
   url = "https://mastodon.social/@gabek"
+  rel = "me"
 
 [[params.social]]
   name = "RSS"
