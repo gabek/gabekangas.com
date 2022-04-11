@@ -54,7 +54,7 @@ unsafe= true
   name = "mastodon"
   icon = "fa fa-mastodon"
   weight = 4
-  url = "https://mastodon.social/@gabek"
+  url = "https://fosstodon.org/@gabek"
   rel = "me"
 
 [[params.social]]

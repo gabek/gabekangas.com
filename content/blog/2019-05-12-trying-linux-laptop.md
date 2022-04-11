@@ -131,4 +131,4 @@ I **really** want this to work, but man, this kind of sucks.  I guess if I were 
 
 I know I won't get much constructive feedback, but if any of my complaints and concerns are something you've experienced and been able to work out for yourself, please let me know.  I really want to continue using Linux as a daily driver desktop OS at home, but I don't know how I can continue to do so outside of a short term experiment with the fundamental issues I'm experiencing.
 
-As always, [find me on the Fediverse](https://mastodon.social/@gabek) and let's chat about it.
+As always, [find me on the Fediverse](https://fosstodon.org/@gabek) and let's chat about it.
