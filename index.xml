@@ -1,4 +1,53 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>An exciting update about Owncast</title><link>https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/</link><pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/</guid><description>&lt;p>Today in our periodic team sync-up call I announced to the Owncast team that we have been awarded a grant by the &lt;a href="https://nlnet.nl/">NLnet Foundation&lt;/a> to support work around federation and ActivityPub.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Being a part of a team</title><link>https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/</guid><description>&lt;p>Growing up I was never a sports person, so I didn&amp;rsquo;t spend a lot of time on what you&amp;rsquo;d call &amp;ldquo;typical&amp;rdquo; teams. But I was heavily into the performing arts all throughout my youth. This included different organized groups such as choirs, theater performances, and both competitive and non-competitive bands of all kinds, including the stereotypical high school garage band. This continued on even after high school, where I took part in a couple competitive Drum &amp;amp; Bugle corps. I remember real gratification being a part of something special with people who are on the same page as you, working on a common
+goal.&lt;/p>
+&lt;p>But as everyone does, I grew up, took part in fewer activities, and focused on work.&lt;/p>
+&lt;h2 id="corporate-teams">
+Corporate Teams
+&lt;a class="heading-link" href="#corporate-teams">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I think most people understand what work is and how it takes place. You show up at an office, and you get assigned coworkers. These coworkers are called your team. Maybe you&amp;rsquo;re on the engineering team, or the marketing team, or a leadership team of some sort. I never really though much of it. &amp;ldquo;These are my teammates!&amp;rdquo; I thought as I move through my career, one company after another, doing different things at different places.&lt;/p>
+&lt;p>I never took a step back to really analyze what being a part of these teams looked like. But the pandemic changed things. So let me share it with you. As I have background in engineering teams, let&amp;rsquo;s use that as an example of what that looks like:&lt;/p>
+&lt;ol>
+&lt;li>A group of engineers are split into &amp;ldquo;cross-functional&amp;rdquo; groups of people to work on things.&lt;/li>
+&lt;li>You show up to meetings consisting of &amp;ldquo;stakeholders&amp;rdquo; of this group, with people like a designer, a product manager, and a project manager.&lt;/li>
+&lt;li>The product manager tells you how something is supposed to work.&lt;/li>
+&lt;li>The designer tells you how it&amp;rsquo;s supposed to look.&lt;/li>
+&lt;li>The project manager tells you the scheduling around the work.&lt;/li>
+&lt;li>You go do the work, giving periodic updates, eventually letting them know when it&amp;rsquo;s done.&lt;/li>
+&lt;li>Repeat.&lt;/li>
+&lt;/ol>
+&lt;p>The reality of the situation was far easier to mask before the pandemic. I would show up every day and and be around people. I&amp;rsquo;d be in the kitchen chatting while making coffee, we&amp;rsquo;d go to lunch. I&amp;rsquo;d do my work sitting next to these people. I&amp;rsquo;d look over and make a comment about something I just did. Being around people makes you, in some way, feel like you&amp;rsquo;re part of a team. The reality is actually quite different.&lt;/p>
+&lt;ol>
+&lt;li>The closest thing you have to a real &amp;ldquo;team&amp;rdquo;, your engineering peers, are immediately split up to make sure as much parallel work is happening at once.&lt;/li>
+&lt;li>You never work &amp;ldquo;with&amp;rdquo; them.&lt;/li>
+&lt;li>You never actually work &amp;ldquo;with&amp;rdquo; anybody.&lt;/li>
+&lt;li>You&amp;rsquo;re on a team of one.&lt;/li>
+&lt;/ol>
+&lt;p>It&amp;rsquo;s like if an NBA team split up to compete in 1-1 games of horse or something. Sure, you can get together and discuss strategy in your daily standup, but you&amp;rsquo;re alone.&lt;/p>
+&lt;h2 id="open-source">
+Open Source
+&lt;a class="heading-link" href="#open-source">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>As I moved through my adult, career-driven journey I always looked at open source projects with a sense of awe. There were these people, working together because they had a passion for it, not for the money like at a day job. I had this vision in my mind of wise cabals that work together to make a real difference for their users and combine to be greater than the sum of their parts.&lt;/p>
+&lt;p>I&amp;rsquo;ve dreamt for years what it would be like to be a part of an open source community that operated this way. In my head it was a lot like that high school garage band. You are working &lt;em>together&lt;/em> because you &lt;em>love&lt;/em> it.&lt;/p>
+&lt;p>I&amp;rsquo;ve had some &lt;a href="https://gabekangas.com/blog/2019/02/working-with-others-on-personal-projects/">misses in the past where things didn&amp;rsquo;t click&lt;/a>, and while that was disappointing, I never let the dream die.&lt;/p>
+&lt;p>Owncast changed things. I made friends, and we worked together on a common goal, and I was &lt;a href="https://gabekangas.com/blog/2020/12/a-brief-update-on-owncast/">&lt;em>so happy&lt;/em>&lt;/a>. I saw this as a real team. And better yet, I had made real friends, something that that becomes more difficult, especially for men, as they get older.&lt;/p>
+&lt;p>But it was short lived. Maybe I&amp;rsquo;m a bad project maintainer, or maybe I&amp;rsquo;m a bad person. Maybe people don&amp;rsquo;t like being around me, but those who I thought I was in that team with disappeared. I saw myself as the drummer in a kick ass band, but what I didn&amp;rsquo;t realize was I was an artist playing a drum solo hoping other people would eventually get on stage so we could start the song.&lt;/p>
+&lt;p>Realistically, I&amp;rsquo;m not alone here. If you look at any open source project you&amp;rsquo;re probably going to see one person working on it, with a few contributors here and there. But for me I mistook casual contributors as friends, and that&amp;rsquo;s heartbreaking when you realize you were wrong.&lt;/p>
+&lt;h2 id="conclusion">
+Conclusion
+&lt;a class="heading-link" href="#conclusion">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I can&amp;rsquo;t help but think at this point: As an adult, &lt;strong>have I ever been on a team&lt;/strong>? Maybe you haven&amp;rsquo;t been either.&lt;/p>
+&lt;p>I might be slightly different, as the stereotype of the &lt;em>introverted software engineer&lt;/em> is a real thing. They&amp;rsquo;re not driven by the energy in the room or the relationship of the person next to them, they just want to be left alone to get their work done.&lt;/p>
+&lt;p>But I never cared about any of these stupid companies I worked for, I cared about the room of people. Once there was no room of people, and all that was left was the &lt;em>divide and conquer&lt;/em> approach of corporate management I realized I couldn&amp;rsquo;t rely on work for a sense of connection.&lt;/p>
+&lt;p>But at least I had my Owncast crew. Until they were gone too.&lt;/p></description></item><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>An exciting update about Owncast</title><link>https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/</link><pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/</guid><description>&lt;p>Today in our periodic team sync-up call I announced to the Owncast team that we have been awarded a grant by the &lt;a href="https://nlnet.nl/">NLnet Foundation&lt;/a> to support work around federation and ActivityPub.&lt;/p>
 &lt;p>This is super exciting, as NLnet have proven to be a steward of openness, standards and open source. Having approval from NLnet and allowing Owncast to join that community of &lt;a href="https://nlnet.nl/project/current.html">fantastic projects&lt;/a> really makes me believe that Owncast is going the right direction and caring about the right things.&lt;/p>
 &lt;p>&lt;a href="https://nlnet.nl/project/Owncast/">Our project page on NLNet&amp;rsquo;s site is still empty&lt;/a>, but it&amp;rsquo;s there!&lt;/p>
 &lt;p>While it&amp;rsquo;s still early days, and we&amp;rsquo;re getting our goals, approach and roadmap worked out, the major tent pole items I&amp;rsquo;m looking to address with this work is the following:&lt;/p>
@@ -9,7 +58,7 @@
 &lt;/ul>
 &lt;p>Things might change as the project is kicked off and more is learned, but this gives us the building blocks to take advantage of federation when future features get added to Owncast such as recordings being rendered inline, or scheduled events showing up in the right places so people know when to tune in to a live stream. If you have any ideas how Owncast content can live hand-in-hand with other federated services, please reach out!&lt;/p>
 &lt;p>A big thank you to everyone who has supported Owncast, has setup an Owncast instance, or hung out watching an Owncast-powered live stream. Your feedback, support and content continues to push the project forward and allow us to make moves like this knowing that if we do a good job, real people will benefit from it.&lt;/p>
-&lt;p>If you have any comments, questions or suggestions feel free to drop by our &lt;a href="https://owncast.rocket.chat">community chat&lt;/a>.&lt;/p></description></item><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>A personal update about career and the future</title><link>https://gabekangas.com/blog/2021/04/a-personal-update-about-career-and-the-future/</link><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2021/04/a-personal-update-about-career-and-the-future/</guid><description>&lt;p>Before COVID hit I was about three years into working at a pretty cool company as an iOS engineer. I joined the company before the product launched and had a great time. But like things do, sometimes you grow apart when the company gets bigger and priorities change. So at the point everyone started working from home full time it became increasingly more difficult and I decided to leave the company. My plan was the lockdown would only last a few months, and once people started going back to their offices I&amp;rsquo;d get a new role somewhere.&lt;/p>
+&lt;p>If you have any comments, questions or suggestions feel free to drop by our &lt;a href="https://owncast.rocket.chat">community chat&lt;/a>.&lt;/p></description></item><item><title>A personal update about career and the future</title><link>https://gabekangas.com/blog/2021/04/a-personal-update-about-career-and-the-future/</link><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2021/04/a-personal-update-about-career-and-the-future/</guid><description>&lt;p>Before COVID hit I was about three years into working at a pretty cool company as an iOS engineer. I joined the company before the product launched and had a great time. But like things do, sometimes you grow apart when the company gets bigger and priorities change. So at the point everyone started working from home full time it became increasingly more difficult and I decided to leave the company. My plan was the lockdown would only last a few months, and once people started going back to their offices I&amp;rsquo;d get a new role somewhere.&lt;/p>
 &lt;p>&lt;strong>We all know that didn&amp;rsquo;t happen.&lt;/strong>&lt;/p>
 &lt;p>Luckily I&amp;rsquo;ve had some opportunities to do some short term gigs in the past year with a great agency who have been very kind to me. But I&amp;rsquo;ve found this completely disconnected and isolated approach to work as a short-term contractor to be very difficult for me. Starting new jobs or projects is always a confusing time and you rely on the people around you to get up to speed. I&amp;rsquo;ve had nobody around me for a year, and I&amp;rsquo;ve never met a single person I&amp;rsquo;ve been helping with projects outside of Zoom calls. This detached way of working on a project is incompatible with how I work. I need to be a part of a team working on a shared goal, not to be a left alone in my tiny apartment adrift for a year.&lt;/p>
 &lt;p>Right now I find myself ending a project again soon. And this time I&amp;rsquo;m thinking maybe it&amp;rsquo;s best to get a full time job, as a part of a team, somewhere. It still won&amp;rsquo;t be easy working from home, but maybe being a part of a team would be a little bit better than being a contractor right now.&lt;/p>
@@ -475,108 +524,4 @@ What&amp;rsquo;s next?
 &lt;p>So I&amp;rsquo;m going &amp;ldquo;back to my roots&amp;rdquo;, if you will, and making sure the client for existing internet radio lovers is in good shape.&lt;/p>
 &lt;p>As far as the future, I haven&amp;rsquo;t given up on the idea of introducing more people to internet radio and making it more accessible and modern. I just don&amp;rsquo;t know how to do it. I&amp;rsquo;ll keep thinking. In the mean time I&amp;rsquo;ll put on some good tunes and listen to internet radio somewhere else.&lt;/p>
 &lt;p>PS: If you&amp;rsquo;re at all curious about what the station owner experience with Longtail was like I uploaded the &lt;a href="https://gabekangas.com/blog/LongtailMusicAdminGuide.pdf">Station Admin guide&lt;/a>.&lt;/p>
-&lt;iframe src="https://player.vimeo.com/video/214576527" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>&lt;/iframe></description></item><item><title>It's time a for change: I'm trying Linux on the desktop</title><link>https://gabekangas.com/blog/2019/05/its-time-a-for-change-im-trying-linux-on-the-desktop/</link><pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2019/05/its-time-a-for-change-im-trying-linux-on-the-desktop/</guid><description>&lt;p>I&amp;rsquo;ve felt lousy about the internet, software, computers and technology lately. Recently I&amp;rsquo;ve abandoned a project of mine and that made me feel pretty bad. It made me think about my relationship with my personal computer and the things I use it for. I realized once I removed macOS and iOS software development from things I use my computer for I&amp;rsquo;m not really tied to a Mac. And though I love macOS, Macintosh computers, and the entire Apple ecosystem, I just needed to look at something else for a while and rekindle that passion I have for my computer.&lt;/p>
-&lt;p>So I purchased a brand new computer, a Lenovo Thinkpad X1 Carbon. Before I ever was a Mac user I had an IBM Thinkpad and I have such great memories of it. Plus when I polled people on The Fediverse a lot of people suggested that there&amp;rsquo;s good compatibility with Linux and the X1 hardware. So I went to Central Computers in San Francisco, a real, physical computer store, and came out with a new laptop.&lt;/p>
-&lt;h4 id="picking-a-linux-distribution">
-Picking a Linux distribution
-&lt;a class="heading-link" href="#picking-a-linux-distribution">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>The first step was picking a Linux distro that I&amp;rsquo;d be happy with. I was originally suggested to check out &lt;a href="https://system76.com/pop">Pop!_OS&lt;/a> so I wrote the ISO to a USB drive and installed it. I didn&amp;rsquo;t really know much about it before I installed it, but there was no reason not to try it. But after playing with it a bit I found something about the window management just to be a bit weird. I couldn&amp;rsquo;t really see what apps were open, and had to view submenus in order to get the state of the apps without a dock or something. No big deal. Next up, after doing a bit of reading, was &lt;a href="https://linuxmint.com/">Linux Mint&lt;/a> Cinnamon edition. It seemed polished enough for a nice desktop, but also has some standard elements that I&amp;rsquo;d expect. It took less than 5 minutes to download the ISO, write it to the USB drive and be booted up into it. I can&amp;rsquo;t explain how cool it is to be testing out different distributions so quickly.&lt;/p>
-&lt;h4 id="upfront-impressions-hardware--os">
-Upfront impressions: Hardware + OS
-&lt;a class="heading-link" href="#upfront-impressions-hardware--os">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>With the OS installed I could poke around and check it out. I noticed right away how much nicer it is to type on this Thinkpad keyboard than that horrible butterfly switch keyboard on the Apple Macbook Pro.&lt;/p>
-&lt;p>And while the keyboard is pretty great, one thing isn&amp;rsquo;t: Keyboard shortcuts. For some reason even something as simple as copy/paste shortcuts only work some places. I can command+c in a web browser to copy text, but I can&amp;rsquo;t command+v in the terminal to paste it. But I can command+v in other apps. There seems to be no rhyme or reason where shortcuts work and where they don&amp;rsquo;t.&lt;/p>
-&lt;p>So many icons are blurry. This machine has a high DPI screen, so I understand that&amp;rsquo;s probably the problem, but why haven&amp;rsquo;t the apps been updated to support modern screens?&lt;/p>
-&lt;p>After about a week of using this setup I looked into what I could do to get inertial (or kenetic) scrolling to work. You know how if you fling the trackpad quickly it&amp;rsquo;ll scroll quickly and decelerate over time. It turns out it&amp;rsquo;s kind of possible, but you have to change the mouse driver. So I replaced &lt;a href="https://www.freedesktop.org/wiki/Software/libinput/">libinput&lt;/a> with the &lt;a href="https://wayland.freedesktop.org/libinput/doc/latest/faqs.html#kinetic-scrolling-does-not-work">Synaptics driver&lt;/a>, and that helped. But it&amp;rsquo;s still &amp;ldquo;off&amp;rdquo;, in that kind of hard to describe way.&lt;/p>
-&lt;p>But aside from that trackpad driver I didn&amp;rsquo;t have to install any custom drivers, perform any hand editing of config files, or boot into a console to tweak some settings. The actual Linux distros these days seem to be extremely solid out of the box. The desktop environment and window managers have been polished and work great.&lt;/p>
-&lt;h4 id="installing-software">
-Installing software
-&lt;a class="heading-link" href="#installing-software">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>So with Linux Mint installed, and me being happy enough with the standard elements of the OS, it was time to install the apps I will need to start gaining functionality.&lt;/p>
-&lt;p>There are handfuls of ways to install software in Linux and you never know what one you should look at first.&lt;/p>
-&lt;p>Linux Mint has this &amp;ldquo;Software Manager&amp;rdquo; that I think is probably just a GUI frontend to apt, or something. It&amp;rsquo;s a handy way to search for and install applications. Some things, though, you&amp;rsquo;ll want to, or have to, install via the command line. That&amp;rsquo;s even the case in macOS as Homebrew allows you to easily install a ton of unix software.&lt;/p>
-&lt;p>There&amp;rsquo;s also some thing now called &lt;a href="https://snapcraft.io/store">&amp;ldquo;snap&amp;rdquo;&lt;/a> where you can install all-in-one app images of some sort that deal with dependencies, and that seems to work pretty well once you find it on the snap ecosystem. It shows that the experience of installing applications in Linux has been a focus over the years, as there are a number of different ways now, all trying to be easier than the next. Unfortunately they spent all the time on the installer UIs and not on the software itself.&lt;/p>
-&lt;h4 id="the-state-of-linux-software">
-The State of Linux Software
-&lt;a class="heading-link" href="#the-state-of-linux-software">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>So if the actual Linux distribution and software experiences are great, then this whole thing sounds like a success, right? Well, let&amp;rsquo;s talk about the actual applications.&lt;/p>
-&lt;p>To be completely honest, it looks like Linux desktop applications have not been touched much since I last used Linux as a desktop OS over 10 years ago. There doesn&amp;rsquo;t seem to be any really polished applications, and ones that were around back then are still the ones people use now, and they&amp;rsquo;re not any better than they were a decade ago.&lt;/p>
-&lt;p>I can only assume that the same thing I complain about on macOS desktops, that people have just given up and only use the web, is happening with Linux. Or maybe Linux users just decided there&amp;rsquo;s no reason to leave the terminal? Is the reason why Thunderbird is still the best option for a mail client because everyone just uses stupid Gmail in their browser?&lt;/p>
-&lt;p>And sure there are some exceptions, there are technically more apps than there used to be. But just like on the Mac, most of them are cross-platform Electron/Javascript apps. Visual Studio Code is on Linux, so is Signal messenger, so is Whalebird for Mastodon and Keybase. There&amp;rsquo;s a new calendar app called MineTime that I found. But all of those are just web apps in an Electron wrapper.&lt;/p>
-&lt;p>And while some applications are &amp;ldquo;bad&amp;rdquo;, some are completely unusable. Take for instance the application QOwnNotes, it&amp;rsquo;s completely unusable because it just does its own thing as far as handling the screen resolution for some reason. Spotify also does that, but at least with Spotify it&amp;rsquo;s not a productivity app where you spend time in it getting work done, you just press play and minimize. A note taking app where you can&amp;rsquo;t read the notes is a good example of all the bad software for Linux on the desktop.&lt;/p>
-&lt;img src="https://gabekangas.com/blog/images/smalltextapp.png">
-&lt;h4 id="using-linux-daily">
-Using Linux daily
-&lt;a class="heading-link" href="#using-linux-daily">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>It&amp;rsquo;s hard to really describe it. But using Linux on the desktop, and Linux desktop apps, kind of feel like using a computer through a layer of mud. Just moving the mouse cursor around, and pointing and clicking feels odd. Everything is a little messy.&lt;/p>
-&lt;p>It&amp;rsquo;s hard to put words to a lot of this. But even typing this blog post I&amp;rsquo;ll be typing and then the cursor will just jump to a random part of the document because I &lt;em>guess&lt;/em> I accidentally touched the trackpad while typing or something? This kind of thing happens all the time and it&amp;rsquo;s so frustrating. If I try and highlight a block of text sometimes I end up deleting it, or dragging it somewhere else because of all these wierd rogue inputs. You have to be super, super deliberate when using the trackpad because it feels like it&amp;rsquo;s always out to trip you up. I imagine using Linux with an external mouse and keyboard is a much, much more pleasant experience. It feels like another example of how Linux stagnated over ten years ago, where Linux on a laptop was probably less popular and everyone was using beefy desktop computers with external devices.&lt;/p>
-&lt;p>Applications have no consistency to them whatsoever. Some have menu bars, some have menu buttons, some have no menus. So if you&amp;rsquo;re looking for the &amp;ldquo;Preferences&amp;rdquo; window within an app you have to go digging. Here&amp;rsquo;s an example of a few different apps. The browser has a three horizontal line &amp;ldquo;hamburger menu&amp;rdquo;, Spotify has a dropdown associated with your profile image, Thunderbird has a menu bar, MimeTime has a three vertical line menu button, Tootle has a custom toolbar (and completely different minimize, maximize and close buttons), and Keybase has your profile image. The cognitive overhead in using these apps is a little much.&lt;/p>
-&lt;img src="https://gabekangas.com/blog/images/wtfmenus.png">
-&lt;p>Because I spend so much time in the macOS terminal much of using Desktop Linux feels comfortable. I use my same dotfiles, so my bash prompt looks the same, and all the same tools are there in the terminal to use. I still don&amp;rsquo;t know why I can&amp;rsquo;t paste using a keyboard shortcut there, though.&lt;/p>
-&lt;h4 id="things-i-miss">
-Things I miss
-&lt;a class="heading-link" href="#things-i-miss">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>Many of these are all obvious, since there&amp;rsquo;s a certain amount of Apple Integration Magic that you can&amp;rsquo;t replicate once you leave that ecosystem, but it doesn&amp;rsquo;t change the fact that there are a handful of things that I found to miss right away.&lt;/p>
-&lt;p>&lt;strong>There&amp;rsquo;s no global spellcheck.&lt;/strong>&lt;/p>
-&lt;p>I&amp;rsquo;m guessing this is due to none of the desktop applications playing by the same rules and it being a wild west of controls and text handling, so the idea of having any kind of global spell check is probably out of the question.&lt;/p>
-&lt;p>&lt;strong>Replying to text messages and iMessages from the desktop.&lt;/strong>&lt;/p>
-&lt;p>Given that I don&amp;rsquo;t really enjoy spending time on my phone, and I&amp;rsquo;m always at a computer anyway, the ability to respond to messages that come through my phone via my desktop computer was immediately missed as I started to have to reply to messages via my phone instead of a real keyboard.&lt;/p>
-&lt;p>&lt;strong>Cross-device copy and paste&lt;/strong>&lt;/p>
-&lt;p>iOS and macOS have a shared clipboard. I use this a ton. One thing I do a lot is copying a password on my desktop and then pasting it in an app on my phone. It&amp;rsquo;s way faster than opening 1Password on my phone, unlocking it, searching for the login, and copying it. And now that I have to use my phone to reply to text messages I really wish I could search for things on the desktop and paste them into a message response.&lt;/p>
-&lt;p>&lt;strong>Auto unlocking with my Apple Watch&lt;/strong>&lt;/p>
-&lt;p>I&amp;rsquo;m one of those rare people who really enjoys their Apple watch, and it&amp;rsquo;s like magic when I walk up to my computer and it unlocks without me typing in a password or even scanning my fingerprint.&lt;/p>
-&lt;h4 id="apps-im-using">
-Apps I&amp;rsquo;m using
-&lt;a class="heading-link" href="#apps-im-using">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>I have a handful of apps I&amp;rsquo;m used to on macOS every day, and I needed to find equivalents. Here&amp;rsquo;s what I&amp;rsquo;ve come up with so far:&lt;/p>
-&lt;p>&lt;strong>Apps that exist on macOS and Linux&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Brave browser&lt;/li>
-&lt;li>Spotify&lt;/li>
-&lt;li>1Password (Only as a browser extension, though)&lt;/li>
-&lt;li>Signal Messenger&lt;/li>
-&lt;li>Dropbox&lt;/li>
-&lt;li>Visual Studio Code&lt;/li>
-&lt;li>Signal&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Replacements for daily use apps&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Mail.app -&amp;gt; Mozilla Thunderbird&lt;/li>
-&lt;li>&lt;a href="https://reinventedsoftware.com/keepit/">KeepIt Notes&lt;/a> (Syncs notes via iCloud) -&amp;gt; Maybe go back to Evernote? I&amp;rsquo;d rather not.&lt;/li>
-&lt;li>Mastodon client -&amp;gt; &lt;a href="https://whalebird.org/en/desktop/contents">Whalebird&lt;/a> (Electron app)&lt;/li>
-&lt;li>Calendar.app -&amp;gt; &lt;a href="https://minetime.ai">Minetime&lt;/a> (Electron app)&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Apps with no replacements&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>iMessage&lt;/li>
-&lt;/ul>
-&lt;h4 id="takeaways-and-future">
-Takeaways and future
-&lt;a class="heading-link" href="#takeaways-and-future">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>I &lt;strong>really&lt;/strong> want this to work, but man, this kind of sucks. I guess if I were a person who spent all day in a web browser using Google Docs, or only wanted to use the terminal then Linux would be mostly usable. But I love native desktop apps, and the ones for Linux are not a pleasure to use. Stack on top of that the horrible trackpad experience and me accidentally deleting things, typing over things, moving things around, and generally being a mess anytime I try and click things it makes me just not want to use the machine at all.&lt;/p>
-&lt;p>I know I won&amp;rsquo;t get much constructive feedback, but if any of my complaints and concerns are something you&amp;rsquo;ve experienced and been able to work out for yourself, please let me know. I really want to continue using Linux as a daily driver desktop OS at home, but I don&amp;rsquo;t know how I can continue to do so outside of a short term experiment with the fundamental issues I&amp;rsquo;m experiencing.&lt;/p>
-&lt;p>As always, &lt;a href="https://fosstodon.org/@gabek">find me on the Fediverse&lt;/a> and let&amp;rsquo;s chat about it.&lt;/p></description></item></channel></rss>
+&lt;iframe src="https://player.vimeo.com/video/214576527" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>&lt;/iframe></description></item></channel></rss>

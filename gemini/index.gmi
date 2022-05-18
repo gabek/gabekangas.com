@@ -4,10 +4,13 @@ These are my blog posts going back as far as I have them.
 
 
 
-=> gemini://gemini.real-ity.com/blog/2021/06/an-exciting-update-about-owncast/index.gmi An exciting update about Owncast
+=> gemini://gemini.real-ity.com/blog/2022/05/being-a-part-of-a-team/index.gmi Being a part of a team
 
 
 => https://gabekangas.com/blog/ Blogs
+
+
+=> gemini://gemini.real-ity.com/blog/2021/06/an-exciting-update-about-owncast/index.gmi An exciting update about Owncast
 
 
 => gemini://gemini.real-ity.com/blog/2021/04/a-personal-update-about-career-and-the-future/index.gmi A personal update about career and the future
