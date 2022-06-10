@@ -1,4 +1,156 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Being a part of a team</title><link>https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/</guid><description>&lt;p>Growing up I was never a sports person, so I didn&amp;rsquo;t spend a lot of time on what you&amp;rsquo;d call &amp;ldquo;typical&amp;rdquo; teams. But I was heavily into the performing arts all throughout my youth. This included different organized groups such as choirs, theater performances, and both competitive and non-competitive bands of all kinds, including the stereotypical high school garage band. This continued on even after high school, where I took part in a couple competitive Drum &amp;amp; Bugle corps. I remember real gratification being a part of something special with people who are on the same page as you, working on a common
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Ship software, not code</title><link>https://gabekangas.com/blog/2022/06/ship-software-not-code/</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/06/ship-software-not-code/</guid><description>&lt;p>&lt;strong>Note from the editor. That&amp;rsquo;s me, Gabe. I&amp;rsquo;m the editor.&lt;/strong> I&amp;rsquo;ve had this blog post in draft status for a while, originally creating the outline for a possible conference talk. I didn&amp;rsquo;t write it to
+be negative about any particular software, language, or approach. However, in the past day I&amp;rsquo;ve done some software installing and found myself experiencing much of what I wrote below. However, it&amp;rsquo;s still only a coincidence and I didn&amp;rsquo;t write this to be on the offensive against any one project.&lt;/p>
+&lt;hr>
+&lt;h2 id="software-and-code">
+Software and code
+&lt;a class="heading-link" href="#software-and-code">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>&lt;strong>Same thing, right?&lt;/strong> Well, no. You write code, and then you turn it into a software product people can run. I want to discuss how they are very different things, and the differences make a significant impact in how we approach empowering users with new tools and technologies. Especially in a time where giving people legitimate alternatives to centralized, big tech services is more important than ever.&lt;/p>
+&lt;h2 id="so-what-is-software">
+So what is software?
+&lt;a class="heading-link" href="#so-what-is-software">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Take a moment to visualize what software is. &lt;strong>What does it look like?&lt;/strong> Some may think that&amp;rsquo;s a stupid question to ask about something so abstract, but it’s not at all abstract to me. When you say “software” this is what comes to mind.&lt;/p>
+&lt;center>
+&lt;a href="https://gabekangas.com/blog/images/shelf-of-software.jpg">
+&lt;img src="https://gabekangas.com/blog/images/shelf-of-software.jpg" width="50%">
+&lt;/a>
+&lt;/center>
+&lt;p>I think about walking into any big box store in the late 90s/early 2000s and going to their electronics department to see things like Microsoft Word, Doom, Print Shop, or Lotus 123 on the shelf. You could grab a box, bring it home, put it in your computer, and off you go. You were killing monsters, spreadsheeting, or printing out a banner before you knew it.&lt;/p>
+&lt;p>What does this have to do with the topic of this post? Let&amp;rsquo;s start by picking a box of software off that shelf and ask yourself:&lt;/p>
+&lt;ol>
+&lt;li>What programming language was the software written in?&lt;/li>
+&lt;li>What tools were required to build it?&lt;/li>
+&lt;li>How were the dependencies managed in the development of this software?&lt;/li>
+&lt;li>How is data persistence handled?&lt;/li>
+&lt;/ol>
+&lt;p>Let me make this easy for you, the answer for all of the above is &lt;strong>“who cares?”&lt;/strong>.&lt;/p>
+&lt;h3 id="what-about-modern-software">
+What about modern software?
+&lt;a class="heading-link" href="#what-about-modern-software">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>&lt;strong>Let’s ask those same questions for a modern piece of commercial software.&lt;/strong> While it&amp;rsquo;s not as common these days to walk into a store and bring a box home, you still buy it from a different kind of store and install it on your device.&lt;/p>
+&lt;center>
+&lt;a href=https://gabekangas.com/blog/images/android-productivity-apps.png">
+&lt;img src="https://gabekangas.com/blog/images/android-productivity-apps.png" width="50%">
+&lt;/a>
+&lt;/center>
+&lt;p>The answers to the questions are the same. &lt;strong>Nobody looking to run this software knows or cares how the software was built.&lt;/strong>&lt;/p>
+&lt;p>Let’s look at a third example. This time some non-commercial, likely open source software. Say you wanted to host a little photo gallery to share pictures of your vacation with your friends. While it’s not boxed software, and it’s not something from a centralized App Store, it’s still fair to assume that we can just download it and run it. It’s just software, after all.&lt;/p>
+&lt;center>
+&lt;a href="https://gabekangas.com/blog/images/install-instructions.png">
+&lt;img src="https://gabekangas.com/blog/images/install-instructions.png" width="50%">
+&lt;/a>
+&lt;/center>
+&lt;p>Obviously something is different here. You&amp;rsquo;re being given code. And because of this not only do you know the answers to the original above questions, &lt;strong>you have to know the answers in order to begin the process of running anything.&lt;/strong>&lt;/p>
+&lt;h2 id="obvious-disclaimer">
+Obvious disclaimer
+&lt;a class="heading-link" href="#obvious-disclaimer">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>While I don&amp;rsquo;t feel like I&amp;rsquo;m overly exaggerating in this post, I do want to make it clear that I don&amp;rsquo;t think &lt;em>everything&lt;/em> is as easy
+as one command or one click.&lt;/p>
+&lt;ol>
+&lt;li>Obviously as requirements increase then users of software have to be aware of and meet those requirements.
+&lt;em>However&lt;/em>, if one person wants to run one piece of software on one computer then yes&amp;hellip; it should be relatively low effort to allow them to do so.&lt;/li>
+&lt;li>Some projects make this stuff a priority and package their Javascript or Python in a way where people can use it, but they are in the minority.&lt;/li>
+&lt;li>If you only write software for yourself, to run personally or in a software-as-a-service scenario (a more and more common occurance), then do whatever you want.&lt;/li>
+&lt;li>Lastly, I&amp;rsquo;m not saying that I&amp;rsquo;m perfect, but I do try to think about these things. And I&amp;rsquo;d like you to think about them with me.&lt;/li>
+&lt;/ol>
+&lt;h2 id="how-did-we-get-here">
+How did we get here?
+&lt;a class="heading-link" href="#how-did-we-get-here">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I wouldn’t normally blame the language for the output, but the language choice and tooling surrounding each language has created a cultural change around shipping software.&lt;/p>
+&lt;p>As the open source movement exploaded, and languages like PHP, Javascript, Python and Ruby became popular, fewer and fewer people were writing software that was natively runnable. Similarly you have languages like Java where you were required to have an entire virtual machine installed to run the software.&lt;/p>
+&lt;p>As &amp;ldquo;shipping source&amp;rdquo; became more common, the next step was inevitable. Developers simply pointed potential users to a repository of raw source code and said “good luck”.&lt;/p>
+&lt;p>And while I&amp;rsquo;m being harsh here about choices we developers have made, I don&amp;rsquo;t place all the blame there. The developers using these languages haven&amp;rsquo;t been shipping software in a self-contained way because these tools simply don’t have a first-class way of doing so. However it is our fault when we collectively choose a tool because of the developer experience without thinking about the final shipped experience. It doesn&amp;rsquo;t seem like many Javascript developers are thinking &lt;em>&amp;ldquo;maybe I shouldn&amp;rsquo;t require my end user to know what npm is or force them to install node before they can play the game I made.&amp;quot;&lt;/em>&lt;/p>
+&lt;h3 id="and-then-the-databases">
+And then the databases
+&lt;a class="heading-link" href="#and-then-the-databases">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>To make it all worse, we started treating database servers as a default dependency for almost any kind of software. Even for the most simple of data persistence cases. This means not only does a user have to understand how to get your software up and running, they have to understand how to spin up an entire database server just because you, as a developer, prefer to use PostgreSQL or MySQL. And don&amp;rsquo;t get me started when things require a relational database server AND Redis just to get running.&lt;/p>
+&lt;h2 id="the-docker-workaround">
+The Docker Workaround
+&lt;a class="heading-link" href="#the-docker-workaround">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>As managing source code became more complex and developers wanted a way for potential users to not have to deal with it, many projects simply defaulted to shipping pre-configured container images as their only installation method.&lt;/p>
+&lt;p>But I think we can all agree that if your software is so complex to install, with so many dependencies, that you’ve given up, and started shipping entire copies of a computer with it pre-installed, something is wrong.&lt;/p>
+&lt;h2 id="why-does-this-matter">
+Why does this matter?
+&lt;a class="heading-link" href="#why-does-this-matter">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>The responsibilities and knowledge required to be a software developer, such as managing runtimes, installing dependencies, and running raw source code, have been duplicated and handed to the user to also be made their problem.&lt;/p>
+&lt;h3 id="who-cares">
+Who cares?
+&lt;a class="heading-link" href="#who-cares">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;blockquote>
+&lt;p>People who run open source, or non-commercial software are deeply knowledgeable about package managers, tool chains and programming languages, and I shouldn’t be so worked up about how software is shipped to them, right?&lt;/p>
+&lt;/blockquote>
+&lt;p>Well there lies the problem. &lt;strong>We need to build solutions for anybody who wants it.&lt;/strong> The world is falling apart right now due to the centralization and control of big tech. We need small tech to empower individuals and fight back. In order for that to happen everybody needs access to the tools we&amp;rsquo;re building. This means more single-user software that you can download and run without heaps of dependencies, just like the boxed software we talked above. Just like the software you can find on your phone&amp;rsquo;s app store. Software is meant to be run.&lt;/p>
+&lt;p>If you build a free and open source Yelp alternative for people it doesn&amp;rsquo;t matter how good it is if people get stuck fixing Ruby Version Manager conflicts. If you build an awesome game, but your users only have python2 and you wrote it for python3, that&amp;rsquo;s one fewer person to enjoy your game. If you build a self-hosted Eventbrite but the community leader doesn&amp;rsquo;t know what Postgresql is, then what was the point of building it?&lt;/p>
+&lt;p>Besides, even if the software was &amp;ldquo;&lt;em>just for techies&lt;/em>&amp;rdquo;, don&amp;rsquo;t they deserve a nice experience setting up your software, too?&lt;/p>
+&lt;h2 id="so-lets-fix-this">
+So let’s fix this
+&lt;a class="heading-link" href="#so-lets-fix-this">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;h3 id="ship-binaries">
+Ship binaries
+&lt;a class="heading-link" href="#ship-binaries">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>The good news is I think we’re getting on the right track. Languages that focus on shipping compiled, runnable binaries are on the rise. Go and Rust being two examples that are visibly changing the culture of shipping software to users. &lt;strong>This needs to continue.&lt;/strong>&lt;/p>
+&lt;p>I’m not saying don’t use Ruby, or don’t use Python. But what I am saying is if you’re writing something with the goal of other people running your software, you need to ship software they can run. And some languages are simply going to be better than others at having first-class ways to accomplish that.&lt;/p>
+&lt;h3 id="databases">
+Databases
+&lt;a class="heading-link" href="#databases">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>Let’s stop using external database servers as the default. Start with an embedded database like SQLite. If your software has the requirements then you can also offer a migration path to a larger database server. But a local, embedded database is fine for many more things than you think.&lt;/p>
+&lt;h3 id="hosted-one-click-installs">
+Hosted one-click installs
+&lt;a class="heading-link" href="#hosted-one-click-installs">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>It&amp;rsquo;s a bit off topic, but it&amp;rsquo;s still completely relevant in making sure that more people can install your software. Sure, this involves &amp;ldquo;the man&amp;rdquo;, but it&amp;rsquo;s a decent compromise. It&amp;rsquo;s free for you to make sure your software is available on the marketplaces of major hosting providers and it allows people who don&amp;rsquo;t have the physical resources to run your software using monetary resources instead.&lt;/p>
+&lt;h2 id="in-conclusion">
+In conclusion
+&lt;a class="heading-link" href="#in-conclusion">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Write code with the intention of shipping it as software. Code is not software.&lt;/p>
+&lt;ol>
+&lt;li>Let’s empower more people by getting more runnable software into their hands.&lt;/li>
+&lt;li>When building, pick tools that let you do that.&lt;/li>
+&lt;li>Chill it with the database requirements.&lt;/li>
+&lt;li>Git and Docker aren’t installation methods.&lt;/li>
+&lt;li>Any piece of software that requires the user to care, or even know, the details behind the scenes have failed the user.&lt;/li>
+&lt;li>If you do exclusively software-as-a-service stuff and nobody needs to run your code but you, then do whatever you want.&lt;/li>
+&lt;/ol></description></item><item><title>Being a part of a team</title><link>https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/</guid><description>&lt;p>Growing up I was never a sports person, so I didn&amp;rsquo;t spend a lot of time on what you&amp;rsquo;d call &amp;ldquo;typical&amp;rdquo; teams. But I was heavily into the performing arts all throughout my youth. This included different organized groups such as choirs, theater performances, and both competitive and non-competitive bands of all kinds, including the stereotypical high school garage band. This continued on even after high school, where I took part in a couple competitive Drum &amp;amp; Bugle corps. I remember real gratification being a part of something special with people who are on the same page as you, working on a common
 goal.&lt;/p>
 &lt;p>But as everyone does, I grew up, took part in fewer activities, and focused on work.&lt;/p>
 &lt;h2 id="corporate-teams">
@@ -47,7 +199,7 @@ Conclusion
 &lt;p>I can&amp;rsquo;t help but think at this point: As an adult, &lt;strong>have I ever been on a team&lt;/strong>? Maybe you haven&amp;rsquo;t been either.&lt;/p>
 &lt;p>I might be slightly different, as the stereotype of the &lt;em>introverted software engineer&lt;/em> is a real thing. They&amp;rsquo;re not driven by the energy in the room or the relationship of the person next to them, they just want to be left alone to get their work done.&lt;/p>
 &lt;p>But I never cared about any of these stupid companies I worked for, I cared about the room of people. Once there was no room of people, and all that was left was the &lt;em>divide and conquer&lt;/em> approach of corporate management I realized I couldn&amp;rsquo;t rely on work for a sense of connection.&lt;/p>
-&lt;p>But at least I had my Owncast crew. Until they were gone too.&lt;/p></description></item><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>An exciting update about Owncast</title><link>https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/</link><pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/</guid><description>&lt;p>Today in our periodic team sync-up call I announced to the Owncast team that we have been awarded a grant by the &lt;a href="https://nlnet.nl/">NLnet Foundation&lt;/a> to support work around federation and ActivityPub.&lt;/p>
+&lt;p>But at least I had my Owncast crew. Until they were gone too.&lt;/p></description></item><item><title>An exciting update about Owncast</title><link>https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/</link><pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/</guid><description>&lt;p>Today in our periodic team sync-up call I announced to the Owncast team that we have been awarded a grant by the &lt;a href="https://nlnet.nl/">NLnet Foundation&lt;/a> to support work around federation and ActivityPub.&lt;/p>
 &lt;p>This is super exciting, as NLnet have proven to be a steward of openness, standards and open source. Having approval from NLnet and allowing Owncast to join that community of &lt;a href="https://nlnet.nl/project/current.html">fantastic projects&lt;/a> really makes me believe that Owncast is going the right direction and caring about the right things.&lt;/p>
 &lt;p>&lt;a href="https://nlnet.nl/project/Owncast/">Our project page on NLNet&amp;rsquo;s site is still empty&lt;/a>, but it&amp;rsquo;s there!&lt;/p>
 &lt;p>While it&amp;rsquo;s still early days, and we&amp;rsquo;re getting our goals, approach and roadmap worked out, the major tent pole items I&amp;rsquo;m looking to address with this work is the following:&lt;/p>
@@ -282,246 +434,4 @@ Some info about each
 &lt;p>I&amp;rsquo;m glad it seems most people love their job, and I&amp;rsquo;m glad things are seemingly going so well for them. I&amp;rsquo;m glad work is enough for them and they don&amp;rsquo;t appear to need other things to look forward to. But I&amp;rsquo;m guessing things aren&amp;rsquo;t what it seems and more people are taking this harder than they let on. Those faces next to yours in that conference call who are saying we can just keep on keepin&amp;rsquo; on may just be saying what everyone wants to hear. &lt;strong>The reality is everyone has had so much taken from them, and all that remains is Slack and Zoom&lt;/strong>.&lt;/p>
 &lt;p>I&amp;rsquo;m well aware that having a job right now at all is something to be thankful for, and I am indeed thankful. Businesses are closing and people don&amp;rsquo;t know what the future holds for them. Things are bad for a lot of people, and I&amp;rsquo;m trying to put my money where my mouth is by donating to places that will help support the businesses and people I care about. But that&amp;rsquo;s a topic that&amp;rsquo;s thankfully getting plenty of discussion, so I&amp;rsquo;m finding myself thinking about the people like me who are &lt;em>&amp;ldquo;supposed&amp;rdquo;&lt;/em> to be ok.&lt;/p>
 &lt;p>So next time you login to Zoom and say it&amp;rsquo;s great that it&amp;rsquo;s business as usual, know that some people are dealing with this lockdown a bit harder than you are. They probably won&amp;rsquo;t say anything, but &lt;strong>it&amp;rsquo;s likely one of those faces is wondering how they&amp;rsquo;re going to get through the day, the week, and the months ahead&lt;/strong>.&lt;/p>
-&lt;p>I hope you&amp;rsquo;re all ok.&lt;/p></description></item><item><title>Goodbye Longtail Music</title><link>https://gabekangas.com/blog/2019/12/goodbye-longtail-music/</link><pubDate>Wed, 04 Dec 2019 00:21:06 +0000</pubDate><guid>https://gabekangas.com/blog/2019/12/goodbye-longtail-music/</guid><description>&lt;p>A few weeks ago I shut down Longtail Music, my internet radio discovery platform. I wanted to give a bit of a postmortem to talk about what I sent out to do, what it did, and why I think things never worked out.&lt;/p>
-&lt;p>I originally built Longtail Music as a spinoff from my time with &lt;a href="https://apps.apple.com/us/app/the-bat-player-radio/id1050517930">The Bat Player&lt;/a>, an internet radio client for the TV. I thought if The Bat Player was a client for people who already love internet radio and know what they want to listen to, then &lt;strong>I want to build something on the web for people to discover internet radio for the first time and discover a station they would love&lt;/strong>.&lt;/p>
-&lt;h4 id="first-as-a-refresher-heres-what-longtail-music-was">
-First, as a refresher, here&amp;rsquo;s what Longtail Music was.
-&lt;a class="heading-link" href="#first-as-a-refresher-heres-what-longtail-music-was">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;ol>
-&lt;li>A &lt;strong>discovery engine&lt;/strong> for people to find an internet radio station they would enjoy.&lt;/li>
-&lt;li>An &lt;strong>internet radio client&lt;/strong> that displayed details about the artist including images and album information. A smaller version of the player was also embeddable on external web sites.&lt;/li>
-&lt;li>&lt;strong>A crowd funding platform&lt;/strong> to allow stations to collect funds to help keep the station online.&lt;/li>
-&lt;li>Provided links for each track in your history so you can &lt;strong>listen on Spotify, Apple Music, YouTube, etc&lt;/strong>.&lt;/li>
-&lt;li>&lt;strong>A CMS for stations&lt;/strong> to post messages, update show schedules, announce special events, and contact fans.&lt;/li>
-&lt;li>&lt;strong>A promotions service&lt;/strong> for featuring the stations on social networks.&lt;/li>
-&lt;li>&lt;strong>An analytics platform&lt;/strong> showing station owners the listening statistics and the most popular tracks.&lt;/li>
-&lt;li>A social platform for listeners to &lt;strong>interact with the station&lt;/strong>.&lt;/li>
-&lt;li>A user re-engagement drip campaign that will email users if they haven&amp;rsquo;t tuned into a station for a while.&lt;/li>
-&lt;/ol>
-&lt;p>Let&amp;rsquo;s go over some of these points in more detail and talk about what it was I was trying to provide for these stations.&lt;/p>
-&lt;h4 id="help-them-stay-in-business-i-wanted-to-give-stations-money--for-free">
-Help them stay in business: I wanted to give stations money. For free.
-&lt;a class="heading-link" href="#help-them-stay-in-business-i-wanted-to-give-stations-money--for-free">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>Since stations need money to stay online I wanted to help on that front. A part of Longtail was having a place that encouraged listeners to support the station via donations. &lt;strong>Donations were featured on the station&amp;rsquo;s page&lt;/strong> and listeners could keep track of how much they&amp;rsquo;ve donated over time. Much like Patreon, OpenCollective, or other crowdfunding platforms, I wanted to build a mutually beneficial ecosystem where it&amp;rsquo;s super easy to donate to a station, and in turn the station gets to keep running and playing music for the listener. I thought stations would really like this, since stations are asking for money &lt;em>ALL OF THE TIME&lt;/em>. They ignored it completely.&lt;/p>
-&lt;h4 id="get-more-listeners-i-wanted-to-provide-promotion-of-stations--for-free">
-Get more listeners: I wanted to provide promotion of stations. For free.
-&lt;a class="heading-link" href="#get-more-listeners-i-wanted-to-provide-promotion-of-stations--for-free">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>The whole point is to have people discover new music via internet radio stations, so acquiring users is important. My goal was to spend some highly targeted dollars on advertising for stations on the platform in order to acquire new listeners. Find people who like rap and send them to the rap stations, get country people to the country stations. It&amp;rsquo;s a self-identifying demographic and as far as targeting goes this seemed straightforward. No catch, I just wanted more people to listen to their stations by routing them through Longtail Music. But I wasn&amp;rsquo;t willing to do this unless a handful of stations were at least minimally active on the platform.&lt;/p>
-&lt;h4 id="a-modern-and-more-interactive-listening-experience-i-wanted-to-build-something-that-the-facebook-generation-felt-at-home-with">
-A modern and more interactive listening experience: I wanted to build something that the &amp;ldquo;Facebook Generation&amp;rdquo; felt at home with.
-&lt;a class="heading-link" href="#a-modern-and-more-interactive-listening-experience-i-wanted-to-build-something-that-the-facebook-generation-felt-at-home-with">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>&lt;strong>&lt;a href="http://www.181.fm/">Most internet radio stations have web sites that look like they were built 15 years ago&lt;/a>&lt;/strong>. Some of them were. If you want new listeners then not only do the first impressions matter, but you have to keep them coming back. &lt;strong>People are used to newsfeeds, social posts and continued engagement&lt;/strong>. Some of my favorite internet radio stations have live DJ sets, and with a single click of a button on Longtail a station can notify fans of the station via email that a live set is about to begin and it features that station on the home page so everyone knows a special event is occurring. Stations never used this this feature.&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>That&amp;rsquo;s a lot of functionality&lt;/strong>, and lots to build. But just as many things were somewhat out of my control. In order to run successfully, a handful of things had to work out.&lt;/p>
-&lt;h4 id="the-stations-have-to-be-good">
-The stations have to be good.
-&lt;a class="heading-link" href="#the-stations-have-to-be-good">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>This is obvious, but it&amp;rsquo;s also not a given. &lt;strong>There are so many internet radio stations out there, and very few of them are worthy of featuring in front of people&lt;/strong>.&lt;/p>
-&lt;p>Most internet radio stations fall into the category of &lt;em>&amp;ldquo;Variety and misc&amp;rdquo;&lt;/em>. An unappealing random grab bag of tracks. It shows no personality, no target demographic, and &lt;strong>no way for a potential listener to really dig in and know what is being offered&lt;/strong>. Even the tag lines of these stations are all generic &lt;em>&amp;ldquo;From old to new, hard to soft, we have the best that music has to offer&amp;rdquo;&lt;/em> or bragging about not sticking within a single genre. So when I started Longtail Music I had the task ahead of me of trying to find stations that had a real personality and a clear goal. A station that said things like &lt;em>&amp;ldquo;Promoting Soca and Calypso music to the world&amp;rdquo;&lt;/em> was something that would catch my eye since it was unique.&lt;/p>
-&lt;h4 id="the-stations-had-to-realize-im-just-trying-to-help">
-The stations had to realize I&amp;rsquo;m just trying to help.
-&lt;a class="heading-link" href="#the-stations-had-to-realize-im-just-trying-to-help">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>I&amp;rsquo;d email these stations individually, and that is more difficult than it sounds as it would sometimes take a lot of digging to find out how to contact a station owner. If I got a response at all it would usually be along the lines of them assuming I&amp;rsquo;m scamming them, looking to sell them something, or are out to get them in some way. I emailed hundreds of station owners and most of the responses were things like &amp;ldquo;I&amp;rsquo;ve been doing this for 15 years and I don&amp;rsquo;t need you&amp;rdquo; or something equally negative. Some stations even had concerns being listed next to another station on a web site because they thought they&amp;rsquo;d &amp;ldquo;lose listeners&amp;rdquo; and saw other stations as &amp;ldquo;competition&amp;rdquo; and didn&amp;rsquo;t want to take part.&lt;/p>
-&lt;h4 id="the-stations-had-to-be-willing-to-minimally-use-the-platform">
-The stations had to be willing to minimally use the platform.
-&lt;a class="heading-link" href="#the-stations-had-to-be-willing-to-minimally-use-the-platform">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>For each station I onboarded I would manually station info, audio streams and input it into the Longtail platform so the station owners didn&amp;rsquo;t have to do anything to start using it. I would ask if they ever changed their audio stream to make sure they change it on Longtail. This didn&amp;rsquo;t happen. Many stations would get a new audio stream, not tell me, and not update it on Longtail, making their station completely unavailable. So if I notice this happening I&amp;rsquo;d go digging for the new one, update it for them, and fix it. &lt;strong>This showed that the minimum effort of even making sure people can listen to their station was not being made&lt;/strong>.&lt;/p>
-&lt;h4 id="the-stations-on-the-platform-have-to-stay-online">
-The stations on the platform have to stay online.
-&lt;a class="heading-link" href="#the-stations-on-the-platform-have-to-stay-online">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>Internet radio stations do not make money. Each station owner operates at a loss and if they&amp;rsquo;re lucky they&amp;rsquo;ll have some donations to help each month. But realistically the number of listeners most stations have can&amp;rsquo;t make enough money even if everyone donated. Because of this stations disappear, often. There&amp;rsquo;s only so much money people will spend on a hobby, and they just give up. &lt;strong>Out of pocket expenses, few listeners and increasing hassle with licensing leads to stations just being turned off&lt;/strong>.&lt;/p>
-&lt;h4 id="i-needed-to-get-potential-listeners-to-the-site-and-discover-these-stations">
-I needed to get potential listeners to the site and discover these stations.
-&lt;a class="heading-link" href="#i-needed-to-get-potential-listeners-to-the-site-and-discover-these-stations">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>Even if the stations were on board and engaged that&amp;rsquo;s only half the equation.&lt;/p>
-&lt;hr>
-&lt;p>I&amp;rsquo;ve been detailing a lot about the stations and what I wanted to provide for them, but I built Longtail Music for the listeners. The goal was to get people to listen to more internet radio and discover new music by giving them the following.&lt;/p>
-&lt;h4 id="a-simple-way-to-discover-an-internet-radio-station-to-enjoy">
-A simple way to discover an internet radio station to enjoy.
-&lt;a class="heading-link" href="#a-simple-way-to-discover-an-internet-radio-station-to-enjoy">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>By clicking on genres you&amp;rsquo;re into, or connecting your Facebook or Spotify accounts Longtail surfaced you a list of stations that were compatible with things you already listen to.&lt;/p>
-&lt;h4 id="the-ability-to-share-your-thoughts-about-songs-and-the-station">
-The ability to share your thoughts about songs and the station.
-&lt;a class="heading-link" href="#the-ability-to-share-your-thoughts-about-songs-and-the-station">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>You could like and dislike songs, sharing with others what you thought about what was currently playing on the station. You could also leave messages for other listeners and for the DJs. These likes, dislikes and messages would then get emailed to station owners at the end of the week so they knew what people thought of the content on the station.&lt;/p>
-&lt;h4 id="showing-you-werent-alone-you-saw-other-people-in-real-time-tune-in-and-react-to-songs">
-Showing you weren&amp;rsquo;t alone, you saw other people, in real-time, tune in and react to songs.
-&lt;a class="heading-link" href="#showing-you-werent-alone-you-saw-other-people-in-real-time-tune-in-and-react-to-songs">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>As people tuned into the station, liked, disliked, or commented on songs, you would see it in real time. This created a communial listening experience. It wasn&amp;rsquo;t just you listening by yourself, the world was enjoying that song with you.&lt;/p>
-&lt;h4 id="a-listening-history-so-you-can-go-back-to-that-song-you-really-enjoyed-and-find-it-on-your-streaming-service-of-choice">
-A listening history so you can go back to that song you really enjoyed, and find it on your streaming service of choice.
-&lt;a class="heading-link" href="#a-listening-history-so-you-can-go-back-to-that-song-you-really-enjoyed-and-find-it-on-your-streaming-service-of-choice">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>You could look at your history to find that song you heard earlier, and quickly jump to it in Spotify or other services, to listen to it again or add it to your personal playlists.&lt;/p>
-&lt;hr>
-&lt;h3 id="so-what-went-wrong">
-So what went wrong?
-&lt;a class="heading-link" href="#so-what-went-wrong">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;h4 id="not-enough-station-engagement">
-Not enough station engagement.
-&lt;a class="heading-link" href="#not-enough-station-engagement">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>This has been mentioned a couple times, but &lt;strong>building something for somebody who doesn&amp;rsquo;t want it isn&amp;rsquo;t going to get you anywhere&lt;/strong>.&lt;/p>
-&lt;h4 id="not-enough-listeners">
-Not enough listeners.
-&lt;a class="heading-link" href="#not-enough-listeners">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>This is pretty common with anything new, you just don&amp;rsquo;t have users yet. But for me I wasn&amp;rsquo;t willing to put money into user acquisition until I felt confident that the stations would engage with them once they got there, and this never happened. And with the promotion that did happen, my guess is people think &amp;ldquo;Spotify is good enough&amp;rdquo; and really aren&amp;rsquo;t looking for another way to discover new music, so they&amp;rsquo;re not jumping to press play on some random web site.&lt;/p>
-&lt;h4 id="zero-stations-actively-utilized-the-donations-feature">
-Zero stations actively utilized the donations feature.
-&lt;a class="heading-link" href="#zero-stations-actively-utilized-the-donations-feature">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>I didn&amp;rsquo;t mean they didn&amp;rsquo;t enable the feature, as it was on by default, but stations weren&amp;rsquo;t telling listeners to donate via Longtail, or making posts saying they were accepting donations. Therefore users didn&amp;rsquo;t donate.&lt;/p>
-&lt;h4 id="onboarding-each-station-was-a-chore">
-Onboarding each station was a chore.
-&lt;a class="heading-link" href="#onboarding-each-station-was-a-chore">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>It took &lt;em>way&lt;/em> too much effort to find, communicate with, and convince each station to take part. I felt like a sales person who wasn&amp;rsquo;t making money. I even used a sales pipeline tool to keep track of who I emailed and what the status of each conversation was. &lt;strong>It&amp;rsquo;s possible I spent just as much time emailing as I did with the development of the product&lt;/strong>. But I felt strongly about creating a relationship with each quality station, and that I was willing to put effort into it, even though it didn&amp;rsquo;t pay off.&lt;/p>
-&lt;hr>
-&lt;h3 id="what-worked">
-What worked?
-&lt;a class="heading-link" href="#what-worked">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;h4 id="the-idea-was-sound">
-The idea was sound.
-&lt;a class="heading-link" href="#the-idea-was-sound">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>A few stations were active on Longtail Music, and seeing them post their schedule, send weekly updates to listeners, and keep their information active really showed me that the idea of the platform, when executed, was a really good one.&lt;/p>
-&lt;h4 id="putting-a-fresh-coat-of-paint-on-internet-radio-does-make-internet-radio-more-accessible">
-Putting a fresh coat of paint on internet radio does make internet radio more accessible.
-&lt;a class="heading-link" href="#putting-a-fresh-coat-of-paint-on-internet-radio-does-make-internet-radio-more-accessible">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>Making people who feel at home on Facebook feel comfortable tuning into internet radio does modernize something that hasn&amp;rsquo;t changed a lot for years.&lt;/p>
-&lt;h4 id="i-hired-a-designer-and-the-end-product-came-out-pretty-nice">
-I hired a designer and the end product came out pretty nice.
-&lt;a class="heading-link" href="#i-hired-a-designer-and-the-end-product-came-out-pretty-nice">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>I made the choice upfront to have somebody design the site for me, and that was a good idea, though it slowed me down to have somebody else involved. And while I had never built in React before, I built a pretty complex, multifaceted social platform with billing features. It would have been easier if I built an iOS app or something, since that&amp;rsquo;s my focus, the React app ran great for years. I focused on performance, speed, and ease of use, and it worked.&lt;/p>
-&lt;hr>
-&lt;h3 id="what-i-learned">
-What I learned
-&lt;a class="heading-link" href="#what-i-learned">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;h4 id="some-people-dont-want-your-help--you-cant-make-people-care">
-Some people don&amp;rsquo;t want your help &amp;amp; you can&amp;rsquo;t make people care.
-&lt;a class="heading-link" href="#some-people-dont-want-your-help--you-cant-make-people-care">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>Even if you&amp;rsquo;re just trying to do something helpful, for free, that doesn&amp;rsquo;t mean that people want what you have. A lot of these station owners have been doing it for many years and don&amp;rsquo;t want anybody else involved. Even if they need money, even if they want more listeners, even if their web page is crap. &lt;strong>It&amp;rsquo;s their thing and they don&amp;rsquo;t want you or anybody else involved&lt;/strong>.&lt;/p>
-&lt;p>I wanted to forge partnerships with people who care deeply about music, internet radio and sharing the worlds of both. But making partnerships is hard, and you can&amp;rsquo;t force somebody to care as much as you about your thing. I cared about their stations, and I wanted to see them all thrive, but nobody cared that I cared.&lt;/p>
-&lt;h4 id="being-a-platform-for-other-peoples-content-is-a-difficult-road">
-Being a platform for other people&amp;rsquo;s content is a difficult road.
-&lt;a class="heading-link" href="#being-a-platform-for-other-peoples-content-is-a-difficult-road">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>Sometimes I think it would have been easier to create 100 of my own internet radio stations from scratch, operate them, and then use those stations on Longtail Music. But I wanted to be a part of something bigger, and help people who really love music. But anytime you&amp;rsquo;re trying to surface the work and content of others you&amp;rsquo;re at the mercy of other people. Luckily I didn&amp;rsquo;t have to pay to have this content on Longtail (unlike running a music streaming service like Rdio or a TV streaming service), so it didn&amp;rsquo;t become a financial burden, but it&amp;rsquo;s still a challenge when you don&amp;rsquo;t control everything. You rely on the people generating that content to be involved.&lt;/p>
-&lt;h4 id="building-a-product-for-the-worst-case-scenario-buys-you-time-and-lowers-expectations">
-Building a product for the worst case scenario buys you time and lowers expectations.
-&lt;a class="heading-link" href="#building-a-product-for-the-worst-case-scenario-buys-you-time-and-lowers-expectations">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>I built Longtail Music knowing on day one there would be zero people and very little action on the platform. I called it a &lt;strong>site on autopilot&lt;/strong>. So I made sure that every little thing gets surfaced in a stream and keeps the content fresh. It was constantly showing the recent songs played by each station, and as each person tuned into a station it would show off that the station got a new listener. Even at its most quiet the site had a feed of content that was always fresh, interesting and showed you what has been going on while you were away. You could even discover new music just by browsing the home page and seeing stations that you might be interested in or cover art that catches you attention. There were previews of recent songs, definitions of genres you might not be familiar with, and a way to discover stations via your Facebook and Spotify accounts. I didn&amp;rsquo;t build it to look good after hundreds of people started using it, I built it to attract somebody when nothing was going on and didn&amp;rsquo;t require activity, and that was a good call.&lt;/p>
-&lt;p>In a similar vein, even though I talk about the lack of engagement by stations, &lt;strong>I built Longtail Music to require as little usage by station owners as possible&lt;/strong>. The platform would feature a station when it plays a song for the first time and keep a record of artists that are often played on the station so station owners don&amp;rsquo;t have to do anything for it to be obvious what type of content they&amp;rsquo;re playing. It allowed the page for a station to always be up to date and featuring things without any human being involved.&lt;/p>
-&lt;h4 id="dont-waste-time-building-a-user-accounts-system-unless-you-need-to">
-Don&amp;rsquo;t waste time building a user accounts system unless you need to.
-&lt;a class="heading-link" href="#dont-waste-time-building-a-user-accounts-system-unless-you-need-to">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>Unless the value of the product relies on accounts to exist, it&amp;rsquo;s a waste of time. Longtail Music had user accounts where you could view your listening history, donation history, mark songs as favorites, like/dislike, etc. &lt;strong>None of this was necessary&lt;/strong>. You could do most everything without a user account (on purpose), so I shouldn&amp;rsquo;t have spent time building them in the first place. That&amp;rsquo;s not where the value of the product was. It would have been a nice v2 addition if there were enough listeners and stations were active enough where they were generating content that should be pushed to individual users.&lt;/p>
-&lt;h4 id="in-general-the-scope-of-the-product-was-too-big">
-In general the scope of the product was too big.
-&lt;a class="heading-link" href="#in-general-the-scope-of-the-product-was-too-big">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>I built it all, and it had everything I wanted, so it&amp;rsquo;s not like the large scope had any real downsides other than it took longer to build. But, like the user accounts, I probably shouldn&amp;rsquo;t have started with the donations platform or any of the special features for station owners. All of the dashboards and special station-owner features were probably never even looked at. While seeing graphs about who&amp;rsquo;s tuning in and when and what songs are popular are very cool, it&amp;rsquo;s not terribly useful early on, and &lt;strong>really not useful if the station owner isn&amp;rsquo;t even logging in&lt;/strong>.&lt;/p>
-&lt;h4 id="dont-spend-time-on-all-the-dumb-social-stuff">
-Don&amp;rsquo;t spend time on all the dumb &amp;ldquo;social stuff&amp;rdquo;.
-&lt;a class="heading-link" href="#dont-spend-time-on-all-the-dumb-social-stuff">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>I spent a lot of time working on integration with Twitter and Facebook. Both from the automated posting standpoint, and using Facebook and Spotify data to match you up with stations via your social listening history. I also spent a bunch of time on server-rendered pages for every part of the site so OpenGraph tags would render for anybody who linked to it. &lt;strong>None of this was required or helpful&lt;/strong>.&lt;/p>
-&lt;h4 id="all-the-real-time-interactive-user-stuff-wasnt-very-useful-with-so-few-users">
-All the real-time interactive user stuff wasn&amp;rsquo;t very useful with so few users.
-&lt;a class="heading-link" href="#all-the-real-time-interactive-user-stuff-wasnt-very-useful-with-so-few-users">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>While it was super cool to see, in real-time, users around you react to songs and tune into stations, it wasn&amp;rsquo;t very useful, and it took a lot of work to build.&lt;/p>
-&lt;hr>
-&lt;h3 id="whats-next">
-What&amp;rsquo;s next?
-&lt;a class="heading-link" href="#whats-next">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>Nothing new, actually. I&amp;rsquo;m currently working on an update for &lt;a href="https://apps.apple.com/us/app/the-bat-player-radio/id1050517930">The Bat Player&lt;/a> for AppleTV and I look forward to getting that out in 2020. It&amp;rsquo;s been a long time since I&amp;rsquo;ve worked on it, and it needs some updates.&lt;/p>
-&lt;p>Unlike social web sites where you require some critical mass before you can call yourself a success, a useful application is a success for each person who installs it and uses it.&lt;/p>
-&lt;p>So I&amp;rsquo;m going &amp;ldquo;back to my roots&amp;rdquo;, if you will, and making sure the client for existing internet radio lovers is in good shape.&lt;/p>
-&lt;p>As far as the future, I haven&amp;rsquo;t given up on the idea of introducing more people to internet radio and making it more accessible and modern. I just don&amp;rsquo;t know how to do it. I&amp;rsquo;ll keep thinking. In the mean time I&amp;rsquo;ll put on some good tunes and listen to internet radio somewhere else.&lt;/p>
-&lt;p>PS: If you&amp;rsquo;re at all curious about what the station owner experience with Longtail was like I uploaded the &lt;a href="https://gabekangas.com/blog/LongtailMusicAdminGuide.pdf">Station Admin guide&lt;/a>.&lt;/p>
-&lt;iframe src="https://player.vimeo.com/video/214576527" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>&lt;/iframe></description></item></channel></rss>
+&lt;p>I hope you&amp;rsquo;re all ok.&lt;/p></description></item></channel></rss>
