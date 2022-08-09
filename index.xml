@@ -1,4 +1,154 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Ship software, not code</title><link>https://gabekangas.com/blog/2022/06/ship-software-not-code/</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/06/ship-software-not-code/</guid><description>&lt;p>&lt;strong>Note from the editor. That&amp;rsquo;s me, Gabe. I&amp;rsquo;m the editor.&lt;/strong> I&amp;rsquo;ve had this blog post in draft status for a while, originally creating the outline for a possible conference talk. I didn&amp;rsquo;t write it to
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Decentralized discovery</title><link>https://gabekangas.com/blog/2022/08/decentralized-discovery/</link><pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/08/decentralized-discovery/</guid><description>&lt;p>Often the first thing brought up when discussing decentralized content is the difficulty of discovery. Big Tech has all these data points combining the content on their platform with all the consumers so they can make educated guesses to route people to content that benefit the platform, data brokers, advertisers, governments, and lastly somewhere down the line the consumers. How can those who want to opt out of those networks compete in this game? I argue that we don&amp;rsquo;t. &lt;strong>We play a different game.&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;p>Below are some broad topics I want to discuss around discovery. It&amp;rsquo;s not about any specific project or technology, it&amp;rsquo;s just my thoughts. However, before I go further I want to make something unequivocally clear. I want everyone to internalize this deep within their soul.&lt;/p>
+&lt;div style='font-size: 4rem; text-align: center; line-height: 1.1'>The internet wants to be decentralized.&lt;/div>
+&lt;p>It&amp;rsquo;s the default. &lt;strong>We literally have to do nothing to have a decentralized internet&lt;/strong>. Every service a person brings online is a new entry in this beautiful network that is connected by standards and available without gatekeepers. Every new web site adds to the grand tapestry that is the World Wide Web, sharing knowledge, content and experiences. Every new XMPP server allows a community to communicate with each other, and to the greater internet. Every new Fediverse node grows an interconnected social network with different views, rules, communities and content.&lt;/p>
+&lt;p>On the flip side, &lt;strong>it takes an unbelievable amount of money, personnel and power to build a locked-in empire&lt;/strong>. Yet here we are, surrounded by locked-in empires.&lt;/p>
+&lt;p>We&amp;rsquo;ve resorted to thinking discovery is an algorithm telling us what to consume, or a protocol feeding us the next &lt;em>something&lt;/em>. &lt;strong>But do you like this way of consuming?&lt;/strong> Is it even accurate? Do you want more machines feeding you content, or are we just used to it?&lt;/p>
+&lt;p>To give my opinions some credence let&amp;rsquo;s quickly refer to a creator who uses a Big Tech platform for his livelihood. The &lt;a href="https://www.youtube.com/c/Nostalgianerd">Nostalgia Nerd&lt;/a> is a YouTuber with about half a million subscribers. He recently shared how his content isn&amp;rsquo;t getting to the people who care about it, and voiced his frustrations about content from smaller content creators not being able to reach those who would enjoy it.&lt;/p>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wK2LjQ7voN8?start=508" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>&lt;/iframe>
+&lt;p>So he made some requests:&lt;/p>
+&lt;ol>
+&lt;li>Don&amp;rsquo;t rely on the algorithm. Proactively visit content you want to watch and follow them elsewhere to keep up to date.&lt;/li>
+&lt;li>Go visit the 10 creators that he recommends.&lt;/li>
+&lt;/ol>
+&lt;p>And there lies the specifics of decentralized discovery.&lt;/p>
+&lt;hr>
+&lt;h2 id="topics-i-want-to-discuss">
+Topics I want to discuss
+&lt;a class="heading-link" href="#topics-i-want-to-discuss">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="#curation">Curation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#so-no-algorithms-or-automated-discovery-then">Algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#interfaces">Interfaces&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#ive-failed-at-building-decentralized-discovery-in-the-past">My previous attempts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#final-thoughts">And some final thoughts&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="curation">
+Curation
+&lt;a class="heading-link" href="#curation">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>What&amp;rsquo;s a proven way to discover content in a decentralized way? &lt;strong>Have people tell you about it.&lt;/strong>&lt;/p>
+&lt;p>In the above example, purely out of frustration, The Nostalgia Nerd briefly pivoted from being a content creator who relied on the algorithm to a curator working around the algorithm.&lt;/p>
+&lt;p>We&amp;rsquo;re natural curators. You tell your friends your favorite song, your favorite movie, your favorite writers. For others it&amp;rsquo;s far more formal. You have a newsletter with suggested links and topics, or a playlist with your favorite songs. Some people even make a living curating topics, news, recommendations or entertainment. This has been around forever, and as much as we pretend we&amp;rsquo;ve given ourselves up to the machine, human-powered curation is bigger than ever.&lt;/p>
+&lt;h3 id="curation-examples">
+Curation Examples
+&lt;a class="heading-link" href="#curation-examples">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>&lt;strong>Letterboxd&lt;/strong>&lt;/p>
+&lt;p>I personally use &lt;a href="https://letterboxd.com/gabekangas/">Letterboxd&lt;/a> to discover movies and read reviews from everyday people. I don&amp;rsquo;t use an algorithm there, I instead browse through the &amp;ldquo;Best 50 dystopian sci-fi&amp;rdquo; list and pick one I haven&amp;rsquo;t seen yet.&lt;/p>
+&lt;p>&lt;strong>Twitch Raids&lt;/strong>&lt;/p>
+&lt;p>On Twitch you can &amp;ldquo;Raid&amp;rdquo; another live stream by sending all your viewers over to them. The streamer picks one live stream that they want their viewers to experience.&lt;/p>
+&lt;p>&lt;strong>Content Journalism&lt;/strong>&lt;/p>
+&lt;p>Blogs, newsletters, videos. For example, I always look forward to &lt;a href="https://www.snoozebutton.com/">Marc Ruxin&amp;rsquo;s end of year movie list&lt;/a> to see what films he&amp;rsquo;s suggested because I&amp;rsquo;ve always found his recommendations to be spot on with my tastes.&lt;/p>
+&lt;p>&lt;strong>Old Skewl Stuff&lt;/strong>&lt;/p>
+&lt;p>Remember Blogrolls? Webrings? Or pages on your site that listed &amp;ldquo;Friends&amp;rdquo;? I&amp;rsquo;m not saying we need to go back to those days, but those things, though they seem quaint now, served a real purpose. Maybe we can learn something from the past.&lt;/p>
+&lt;p>&lt;strong>Social Media Accounts&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://fedinews.com/2022/02/feditips-a-great-way-to-discover-new-content/">FediVideo&lt;/a> curates video content on the Fediverse that people should check out. They do a fantastic job in helping people discover new content from across the Fediverse on different sites, servers and platforms.&lt;/p>
+&lt;p>&lt;strong>Playlisting&lt;/strong>&lt;/p>
+&lt;p>While I&amp;rsquo;m not going to tell you Spotify is a bastion of openness, it does lead to a modern example of curation. Spotify playlisting has become an industry. And while I wish they weren&amp;rsquo;t so &amp;ldquo;pay to play&amp;rdquo;, that&amp;rsquo;s kind of the beauty of it. There&amp;rsquo;s a place for commercial playlisting in the music industry, that&amp;rsquo;s nothing new. But right next to that commercial playlist is another one run by some indie music fan who wants to share their current favorites. This means you have options. You can look at both. You can compare and contrast.&lt;/p>
+&lt;h3 id="bonuses-of-curation">
+Bonuses of Curation
+&lt;a class="heading-link" href="#bonuses-of-curation">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Different curators means different opinions. If you don&amp;rsquo;t think your viewpoint is represented, or an algorithm is biased, then you can take part in people&amp;rsquo;s discovery process using your thoughts and feelings instead.&lt;/li>
+&lt;li>The content doesn&amp;rsquo;t have to be limited by technology. Build a site highlighting awesome photographers. Some are on Pixelfed, some use 500px, some on Facebook. Compare that to Instagram where they can only recommend Instagram accounts.&lt;/li>
+&lt;li>You can start super small without any new tech required. Create a wordpress blog, open a Fediverse account, or just start emailing your friends.&lt;/li>
+&lt;/ul>
+&lt;h2 id="so-no-algorithms-or-automated-discovery-then">
+So no algorithms or automated discovery then?
+&lt;a class="heading-link" href="#so-no-algorithms-or-automated-discovery-then">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>While a part of me wants to go all Dune and &lt;a href="https://dune.fandom.com/wiki/Butlerian_Jihad">ban the thinking machines&lt;/a>, we all benefit from algorithms. However, as it stands there&amp;rsquo;s only one user-facing recommendation algorithm per Big Tech platform and it&amp;rsquo;s built, owned and operated by the same people who have different motives than the consumers and creators of the content. So it&amp;rsquo;s not that we shouldn&amp;rsquo;t trust &lt;em>all&lt;/em> algorithms, but it&amp;rsquo;s true that we can&amp;rsquo;t trust &lt;em>those&lt;/em> algorithms.&lt;/p>
+&lt;p>So maybe there&amp;rsquo;s a place for us to build our own?&lt;/p>
+&lt;h3 id="algorithms-require-lots-of-accurate-data">
+Algorithms require lots of (accurate) data
+&lt;a class="heading-link" href="#algorithms-require-lots-of-accurate-data">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>Having different types of algorithms built by different people has been a dream for a long time, but it&amp;rsquo;s been impossible with our data being locked up in the halls of Big Tech services. The good news is if we decentralize our services, then we have the option to open up our data.&lt;/p>
+&lt;p>However, even if we did open up all of our respective data, it gets difficult. Say we wanted to replicate the YouTube-style recommendation algorithm but using open data across multiple services. At the very least you&amp;rsquo;d be wanting to use view count to determine how &amp;ldquo;popular&amp;rdquo; a video is so you can recommend it to others. But with the nature of open data, how could you trust that count? Why wouldn&amp;rsquo;t somebody want to fake their view count in order to get bumped up in the algorithm?&lt;/p>
+&lt;p>If we&amp;rsquo;re talking decentralized and open, then you can&amp;rsquo;t trust it, and there&amp;rsquo;s no way around that. No signing, no encryption, no authentication can build trust for completely open data when people &lt;strong>benefit from faking it&lt;/strong>.&lt;/p>
+&lt;p>And while this has always been true, sometimes it doesn&amp;rsquo;t matter so much. Anybody could build a Fediverse node that lies about the number of followers they have. Sure, that&amp;rsquo;d be lame, but it wouldn&amp;rsquo;t really hurt anybody. However, if you use that number for active decision making, such as suggesting accounts to follow, then &lt;strong>it would be a big problem.&lt;/strong>&lt;/p>
+&lt;h3 id="but-some-algorithms-could-work">
+But some algorithms could work
+&lt;a class="heading-link" href="#but-some-algorithms-could-work">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>Take for example a decentralized discovery platform you use every day: The search engine. You put in some key words, and some algorithm, powered by completely open data, gives you suggestions that you can click on and navigate to.&lt;/p>
+&lt;p>Clearly the biggest search engines are not positive examples when it comes to the exact implementations. But high level, this is how it&amp;rsquo;s supposed to work. And it could work for us too, with enough data and demand.&lt;/p>
+&lt;h3 id="interfaces">
+Interfaces
+&lt;a class="heading-link" href="#interfaces">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>Different types of content benefit from different interfaces. I&amp;rsquo;ve always been a fan of leveraging standards to allow people to opt into the interface that works best for them. Podcasts, for example, can be consumed with any Podcasting application because of RSS. You can pick and choose what feature set, platform and price works best for you. You also can change interfaces and applications over time, or use different ones in different scenarios.&lt;/p>
+&lt;p>Using video as an example, let&amp;rsquo;s check out a couple ways content have been surfaced for discovery.&lt;/p>
+&lt;p>&lt;a href="https://yarmo.eu/">Yarmo&lt;/a> built his own interface for surfacing Owncast streams he likes and called it &lt;a href="https://ownroll.yarmo.live/">&lt;em>Ownroll&lt;/em>&lt;/a>. This interface makes a lot of sense when talking about video streams.&lt;/p>
+&lt;img src="https://gabekangas.com/blog/images/yarmo-ownroll.png"/>
+&lt;p>PeerTube has a &lt;a href="https://search.joinpeertube.org/">search engine called Sepia&lt;/a> for discovering videos.&lt;/p>
+&lt;p>Owncast has a &lt;a href="https://directory.owncast.online">directory&lt;/a> for streamers who choose to be public.&lt;/p>
+&lt;p>Personally one way I enjoy discovering Owncast streams is I open an application on my AppleTV and it shows me a bunch of streams that are currently live. I navigate to one, and select it, and I watch the stream. This is because &lt;a href="https://owncast.online/docs/watching-on-tvs/#browsing-the-owncast-directory-on-your-tv">the Owncast directory offers up a standards-compliant way to access this data&lt;/a>.&lt;/p>
+&lt;img src="https://gabekangas.com/blog/images/owncast-streams-appletv.png"/>
+&lt;p>It&amp;rsquo;s very casual and I can lean back and look at my TV and &amp;ldquo;see what&amp;rsquo;s on&amp;rdquo;, just like people say about cable TV. This doesn&amp;rsquo;t &lt;em>feel&lt;/em> like decentralized content discovery and consumption. It just feels like content. &lt;strong>Just like going into the YouTube app, or the Netflix app&lt;/strong>.&lt;/p>
+&lt;h2 id="ive-failed-at-building-decentralized-discovery-in-the-past">
+I&amp;rsquo;ve failed at building decentralized discovery in the past
+&lt;a class="heading-link" href="#ive-failed-at-building-decentralized-discovery-in-the-past">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>A handful of years ago I built an Internet Radio discovery platform called &lt;a href="https://gabekangas.com/blog/2017/04/introducing-longtail-music/">Longtail Music&lt;/a>. &lt;a href="https://gabekangas.com/blog/2019/12/goodbye-longtail-music/">It failed&lt;/a>.&lt;/p>
+&lt;p>Internet radio is a fantastic example of a decentralized service. While there are some networks of stations, in general most stations are owned and operated by an individual who is doing it for the love of it. It&amp;rsquo;s also based on a standard protocol, so people can consume the audio in so many different ways. &lt;strong>It&amp;rsquo;s really great.&lt;/strong>&lt;/p>
+&lt;p>I built something that would index all the music that these stations were playing, and then utilize potential listeners&amp;rsquo; music tastes either manually, or through streaming services, to determine stations they might like. Pretty straightforward, and I felt like everyone wins. The station owners get new listeners, and the listeners get introduced to a new, free, and very human way to consume music.&lt;/p>
+&lt;p>I reached out to stations that I thought were doing a great job and said I was building a modern place to highlight quality internet radio and asked if they wanted to be featured. &lt;strong>Most said &amp;ldquo;no&amp;rdquo;&lt;/strong>. The reasons were mostly that they incorrectly thought I was trying to sell them something, and I was unable to convince them otherwise. Others thought I was a scammer trying to &amp;ldquo;steal&amp;rdquo; their content, or they thought linking to their content from other pages would &amp;ldquo;steal their listeners&amp;rdquo;. Mostly it was a general mindset that these people have been independently creating internet radio content for over a decade and assumed I was trying to screw them over somehow because nobody does anything for free.&lt;/p>
+&lt;p>This mindset was &lt;em>extremely&lt;/em> common from people who owned internet radio stations. &lt;strong>The independence was fierce&lt;/strong>. I eventually found this to be an unwinnable battle. If you&amp;rsquo;re trying to do something for somebody, in this case trying to find listeners for an internet radio station, but they don&amp;rsquo;t want you involved, then ultimately I built something that just wasn&amp;rsquo;t wanted and gave up.&lt;/p>
+&lt;h3 id="compare-this-to-video-streaming">
+Compare this to video streaming
+&lt;a class="heading-link" href="#compare-this-to-video-streaming">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>Internet Radio, admittedly, is from a different era. And I say this in a positive way. It&amp;rsquo;s decentralized, independent, free, open, and wonderful.&lt;/p>
+&lt;p>Compare this to live video streaming, for example. Here the default isn&amp;rsquo;t free, open, independent, decentralized or wonderful. It&amp;rsquo;s Twitch and YouTube and Big Tech and walled gardens. And the name of the game for all of these platforms is to get as many viewers as possible by any means possible. Some people who have opted to use something like Owncast to stream independently certainly don&amp;rsquo;t seem to have that overly aggressive mindset with regards to viewers, but I think most streamers would agree that it would be nice to have viewers and would love you to share their stream to your friends, or your site, or whatever.&lt;/p>
+&lt;p>So it&amp;rsquo;s different. I&amp;rsquo;m not going to use my experience with Longtail Music to say &lt;em>&amp;ldquo;creators don&amp;rsquo;t want to be shared with others&amp;rdquo;&lt;/em>, because I don&amp;rsquo;t believe that to be true.&lt;/p>
+&lt;h2 id="final-thoughts">
+Final Thoughts
+&lt;a class="heading-link" href="#final-thoughts">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I think we&amp;rsquo;re spoiled by algorithms, but it will be hard to trust completely open data in order to build our own. I personally believe we could use a human touch, but we don&amp;rsquo;t have enough people wanting to be curators to fill in the gaps. Maybe the tides will change and we&amp;rsquo;ll stop relying on centralized discovery so much and there will be a variety of options from different people.&lt;/p>
+&lt;p>I did a lot of writing and I didn&amp;rsquo;t give a single, specific solution, and for that I apologize. If you were hoping for a protocol, a piece of tech, or a single standard that we can build upon you&amp;rsquo;re pretty disappointed. So to make up for that I&amp;rsquo;ll throw you my pie in the sky idea that I&amp;rsquo;d think about building if I wasn&amp;rsquo;t working on Owncast. Keep in mind this is just high level brainstorming.&lt;/p>
+&lt;ul>
+&lt;li>New ActivityPub powered project that accepts activities from all the decentralized services that speak ActivityPub.&lt;/li>
+&lt;li>Unlike projects that are equally about creation &lt;em>and&lt;/em> consumption, this would be &lt;strong>consumption-only&lt;/strong>.&lt;/li>
+&lt;li>It would follow ActivityPub actors from any service and accept activities from them.&lt;/li>
+&lt;li>Things like: stream went live, video was published, blog post was posted, song was uploaded, event was scheduled, etc.&lt;/li>
+&lt;li>Admins can create curated lists and sections and override the inevitable faked data.&lt;/li>
+&lt;li>I imagine it kind of like a mixture between search results, old-school Yahoo (when it was a directory), and Tumblr, but without a timeline. Just a directory of stuff broken down by types and metadata.&lt;/li>
+&lt;li>Just enough rendering of content to know what the content is and assist in discovery.&lt;/li>
+&lt;li>Unlike software that do what they can to keep you within your &amp;ldquo;home server&amp;rdquo;, this would encourage you to go to the source of the content so you can discover more of it. People deserve the &amp;ldquo;click&amp;rdquo; to their actual server, not just embeds.&lt;/li>
+&lt;li>It&amp;rsquo;s not meant to be the place you go to consume all the content you follow. So no home timelines, no algorithmic filtering.&lt;/li>
+&lt;li>This project would have no direct affiliation with other projects as to have equal focus handling content from all types of services and encourage standards, no preferential treatment. Content server agnostic.&lt;/li>
+&lt;/ul>
+&lt;p>So there you go, an idea. Take it and run with it and I&amp;rsquo;ll make sure Owncast sends you all the data you need via ActivityPub.&lt;/p>
+&lt;p>But clearly we need more people involved for any of this to matter. It can&amp;rsquo;t be &amp;ldquo;Owncast builds an Owncast directory, PeerTube builds a PeerTube search engine, PodcastIndex builds a Podcast search engine ok good enough&amp;rdquo;. From my perspective the Owncast directory is there to show examples of Owncast streams, not as &lt;em>the&lt;/em> solution for live stream discovery.&lt;/p>
+&lt;p>The good news is believe it or not we&amp;rsquo;re in the best possible scenario. We have a diverse collection of people, technologies and ideas at our fingertips. Big Tech only has what it has: a small-minded bubble that doesn&amp;rsquo;t have people in its best interests. We can do better because we can do anything when we build it ourselves.&lt;/p></description></item><item><title>Ship software, not code</title><link>https://gabekangas.com/blog/2022/06/ship-software-not-code/</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/06/ship-software-not-code/</guid><description>&lt;p>&lt;strong>Note from the editor. That&amp;rsquo;s me, Gabe. I&amp;rsquo;m the editor.&lt;/strong> I&amp;rsquo;ve had this blog post in draft status for a while, originally creating the outline for a possible conference talk. I didn&amp;rsquo;t write it to
 be negative about any particular software, language, or approach. However, in the past day I&amp;rsquo;ve done some software installing and found myself experiencing much of what I wrote below. However, it&amp;rsquo;s still only a coincidence and I didn&amp;rsquo;t write this to be on the offensive against any one project.&lt;/p>
 &lt;hr>
 &lt;h2 id="software-and-code">
@@ -427,11 +577,4 @@ Some info about each
 &lt;p>&lt;strong>&lt;a href="https://gabekangas.com/mixes/">Check out some examples&lt;/a>&lt;/strong> by clicking on one of the mix titles.&lt;/p>
 &lt;center>
 &lt;img src="https://gabekangas.com/blog/images/2020-05-13-a-couple-dj-projects.jpg" width=60%>
-&lt;/center></description></item><item><title>When work becomes life: A Pandemic story</title><link>https://gabekangas.com/blog/2020/03/when-work-becomes-life-a-pandemic-story/</link><pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2020/03/when-work-becomes-life-a-pandemic-story/</guid><description>&lt;p>There&amp;rsquo;s no lack of thinkpieces around the lockdowns and global work from home changes taking place. But I wanted to discuss a different angle that people don&amp;rsquo;t seem to be discussing, at least publicly.&lt;/p>
-&lt;p>Right now the internet is flooded with screenshots of Zoom video conferences, everyone smiling, talking about their cute background images and how comfortable it is to be home. They&amp;rsquo;re talking about how they&amp;rsquo;re working more efficient than ever, how they can just roll out of bed and immediately start working. Others are saying that it&amp;rsquo;s like nothing changed. Everyone quietly implying that &lt;strong>there&amp;rsquo;s nothing more to life than work and as long as you can be productive things are great&lt;/strong>.&lt;/p>
-&lt;p>Work means different things to different people. For some it&amp;rsquo;s the most important thing in their lives. For others it&amp;rsquo;s just a thing they have to do to pay the rent. For most people it&amp;rsquo;s somewhere in between. But for a small few, they might be going though a rough patch with their job, and &lt;strong>everything but their job has been taken away from them&lt;/strong>.&lt;/p>
-&lt;p>I&amp;rsquo;m one of those few. Work hasn&amp;rsquo;t been great for a while. But it&amp;rsquo;s ok in general, and I get through the day knowing of all the exciting things that I have to look forward to. The concerts of some of my favorite bands coming up, going out to dinner with my girlfriend, my first trip to Europe in a couple months, going out to dance to some techno this weekend. But all of these things have been taken away from me and all that&amp;rsquo;s left is my job and a bunch of faces on Zoom saying how great things are.&lt;/p>
-&lt;p>I&amp;rsquo;m glad it seems most people love their job, and I&amp;rsquo;m glad things are seemingly going so well for them. I&amp;rsquo;m glad work is enough for them and they don&amp;rsquo;t appear to need other things to look forward to. But I&amp;rsquo;m guessing things aren&amp;rsquo;t what it seems and more people are taking this harder than they let on. Those faces next to yours in that conference call who are saying we can just keep on keepin&amp;rsquo; on may just be saying what everyone wants to hear. &lt;strong>The reality is everyone has had so much taken from them, and all that remains is Slack and Zoom&lt;/strong>.&lt;/p>
-&lt;p>I&amp;rsquo;m well aware that having a job right now at all is something to be thankful for, and I am indeed thankful. Businesses are closing and people don&amp;rsquo;t know what the future holds for them. Things are bad for a lot of people, and I&amp;rsquo;m trying to put my money where my mouth is by donating to places that will help support the businesses and people I care about. But that&amp;rsquo;s a topic that&amp;rsquo;s thankfully getting plenty of discussion, so I&amp;rsquo;m finding myself thinking about the people like me who are &lt;em>&amp;ldquo;supposed&amp;rdquo;&lt;/em> to be ok.&lt;/p>
-&lt;p>So next time you login to Zoom and say it&amp;rsquo;s great that it&amp;rsquo;s business as usual, know that some people are dealing with this lockdown a bit harder than you are. They probably won&amp;rsquo;t say anything, but &lt;strong>it&amp;rsquo;s likely one of those faces is wondering how they&amp;rsquo;re going to get through the day, the week, and the months ahead&lt;/strong>.&lt;/p>
-&lt;p>I hope you&amp;rsquo;re all ok.&lt;/p></description></item></channel></rss>
+&lt;/center></description></item></channel></rss>
