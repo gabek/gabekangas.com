@@ -1,20 +1,20 @@
 ---
-title: 'About Gabe'
-description: 'All About Gabe'
-type: 'about'
-layout: 'single'
+title: "About Gabe"
+description: "All About Gabe"
+type: "about"
+layout: "single"
 categories:
-  - 'bio'
-  - 'about'
+  - "bio"
+  - "about"
 tags:
-  - 'bio'
+  - "bio"
 ---
 
 Gabe Kangas is a founder, full-stack client engineer and developer of products across multiple platforms with a history in media technology companies.
 
 Gabe is currently focused on [Owncast](https://owncast.online), a self-hosted, open source live streaming and chat server allowing people to build their own live streaming sites without handing control over to the large social media companies.
 
-Previously he was at Philo, a cusumer OTT television service and Rdio, a leading music streaming service who got acquired by Pandora.  He's worked on many iOS, Android and tv applications (tvOS, Android TV, Roku).
+Previously he was at Philo, a consumer OTT television service and Rdio, a leading music streaming service who got acquired by Pandora. He's worked on many iOS, Android and tv applications (tvOS, Android TV, Roku).
 
 Gabe’s first big connected media endeavor was PandoraFM, a service that would allow users to keep track of their Pandora music listening via LastFM who at the time was called one of the "Best of the Web" in PC World magazine.
 
