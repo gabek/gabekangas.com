@@ -31,4 +31,4 @@ Everyone has worked somewhere they're not 100% proud of, but with an organizatio
 
 If you worked somewhere that you knew at your core was not positive for humanity what are some things that people could say to you to make you feel like it's ok to move on and do something else?  How do you support them in stopping what they're doing without coming off as judging them?
 
-I don't know if this is just a thought experiment, or if it's something that's actually ethically possible to pursue.  But if you have ideas on how we can encourage Facebook employees to go do something else, let me know by [pinging me on the Fediverse](https://fosstodon.org/@gabek).
+I don't know if this is just a thought experiment, or if it's something that's actually ethically possible to pursue.  But if you have ideas on how we can encourage Facebook employees to go do something else, let me know by [pinging me on the Fediverse](https://social.gabekangas.com/gabek).
