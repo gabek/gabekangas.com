@@ -1,4 +1,48 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Common sense doesn't scale</title><link>https://gabekangas.com/blog/2022/12/common-sense-doesnt-scale/</link><pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/12/common-sense-doesnt-scale/</guid><description>&lt;p>Imagine you were hired as a babysitter by some parents for their child. They are usually pretty casual about things, but they mentioned the kid has to go to bed at 8pm.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Owncast v0.1.0 Retrospective - Redesign</title><link>https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-redesign/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-redesign/</guid><description>&lt;p>With Owncast v0.1.0 starting a bug fixing and a super early testing phase now, I thought I’d write some blog posts about what it’s been like to get this far in this rather large release. A lot of projects don’t go into depth about how the sausage is made, and Owncast is no exception. I’m generally an open book if you ask or are involved with contributing to the project, but I usually don’t go out of my way to share every little thing with people who aren’t involved.&lt;/p>
+&lt;p>For this first post I thought I’d start with a goal that I was very passionate about for this release, a redesign. And while I&amp;rsquo;m trying to be both respectful and honest it might seem like I&amp;rsquo;m being too much of one or another. Keep in mind that I appreciate every person who has been involved with Owncast in any capacity, and I respect their thoughts and any amount of energy they&amp;rsquo;ve put into the project.&lt;/p>
+&lt;p>Going forward I promise other topics will be more positive, and I&amp;rsquo;ll be writing about the other goals for this release in future posts.&lt;/p>
+&lt;h2 id="history-of-a-redesign">
+History of a redesign
+&lt;a class="heading-link" href="#history-of-a-redesign">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I heard from so many people for such a long time that they liked Owncast but it &lt;em>&amp;ldquo;needed polish&amp;rdquo;&lt;/em> or &lt;em>&amp;ldquo;it looked bad&amp;rdquo;&lt;/em> or &lt;em>&amp;ldquo;the design needs help&amp;rdquo;&lt;/em>. And while there were never constructive action items, suggestions, or offers to help, I knew they were right and I looked forward to the opportunity to improve it.&lt;/p>
+&lt;p>Like a lot of open source projects Owncast originally started small, with few features. As the project grew more things got added and the UI requirements became more complex. Few of the components or design elements shared styles, type, or colors because they were just slapped on as needs arose. &lt;strong>I felt now was the time to take a step back and start fresh with the Owncast web application frontend.&lt;/strong> I wanted to design from scratch and then build the UI from scratch. After that we can get back to building new features, hopefully with a design and architecture that serves the project well for years to come.&lt;/p>
+&lt;p>&lt;strong>I took this redesign seriously and I wanted to do it right.&lt;/strong> Since visual design isn&amp;rsquo;t one of my core strengths I decided to find somebody who could work with the project.&lt;/p>
+&lt;h2 id="finding-design-help">
+Finding design help
+&lt;a class="heading-link" href="#finding-design-help">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I&amp;rsquo;ve never been able to catch the attention of designers to help with Owncast. And given my lack of design skills I feel quite vulnerable that there’s a skill I don&amp;rsquo;t have, and not sure how to acquire, leading to being completely dependent on somebody other than myself. When it comes to Owncast I generally haven’t had success when relying on others, but without a designer in-house I knew to accomplish this big project I&amp;rsquo;d have to find a design agency.&lt;/p>
+&lt;p>It started as you’d expect, with me sharing everything I could about Owncast with the agency. It’s important that at this “product” level that they are 100% informed about what it is you’re building, why you’re building it, and who you’re building it for. I wrote documents about use cases and the different types of users. I provided lists of requirements and lists of things I didn’t want. I gave examples of work that I enjoyed and examples of things I didn’t like.&lt;/p>
+&lt;p>The reaction from an outsider to Owncast wasn&amp;rsquo;t unexpected. &lt;em>“Owncast is kind of like Twitch? &lt;strong>Let’s make it look like Twitch!&lt;/strong>”&lt;/em> And that’s a valid starting point, it’s not uncommon to use existing products as a way to start. But unfortunately &lt;strong>I was unable to force progress from there&lt;/strong>. The more I pushed to not look like Twitch the more they straight up copied Twitch’s colors, layout, iconography and more. I’d say &lt;em>“This wouldn’t work for a church”&lt;/em> or &lt;em>“A school would never want a 100% black page with swords”&lt;/em>. Months of back and forth took place without much progress, and with other large topics such as mobile layouts, modals and user flows still up in the air &lt;strong>I realized I knew this project wouldn&amp;rsquo;t be completed with this particular partnership&lt;/strong>.&lt;/p>
+&lt;p>I was disappointed, but I wasn’t ready to give up. This is when I, again, started hitting the Fediverse, forums, Linkedin, and other social platforms looking for somebody who could help with a new design of Owncast. I told everyone to share this request with their friends and colleagues. I needed help.&lt;/p>
+&lt;p>Lucky for me some people responded, and each time they did I was immensely excited. A person who wants to help, it always makes me &lt;strong>so happy&lt;/strong>.&lt;/p>
+&lt;h2 id="trying-to-accomplish-a-long-term-project-with-short-term-contributions">
+Trying to accomplish a long-term project with short-term contributions
+&lt;a class="heading-link" href="#trying-to-accomplish-a-long-term-project-with-short-term-contributions">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I&amp;rsquo;m thankful for each person who has ever showed up with hopes to help with Owncast, so I don&amp;rsquo;t want to come off as harsh or ungreatful. But I was unprepared for the challenges of trying to manage a long-term project such as the entire look and feel of the web application when people were unable to commit to seeing it through.&lt;/p>
+&lt;p>A project such as a redesign requires a long term commitment. It’s not like code contributions where you can jump in quick, fix a typo, and then never show up again. So what would happen is somebody would show interest, I&amp;rsquo;d get them up to speed on our requirements, they&amp;rsquo;d spend time working out what tools they wanted to use, start working on something, and then no longer be able to contribute for one reason or another. So I’d ask around again, and somebody new would graciously jump in but with the caveat that they &lt;strong>start the design over from scratch&lt;/strong> because they didn’t like what the previous person did. A couple times I agreed out of desperation for help, but each time they’d disappear and the cycle would restart. New person, new tools, new design, no progress. &lt;strong>New person, new tools, new design, no progress&lt;/strong>.&lt;/p>
+&lt;p>It&amp;rsquo;s not uncommon to want to work on the sexy stuff, I totally get that. While I had a list of &lt;em>&amp;ldquo;Needs Design&amp;rdquo;&lt;/em> tasks like authentication modals and error states it was primarily things like chat that people wanted to start over on each time, leading to a long list of things that couldn&amp;rsquo;t get any attention.&lt;/p>
+&lt;p>Eventually I had to make the call that there would be &lt;strong>no more complete restarts&lt;/strong> of design work because at some point I needed progress to be made. So going forward each person would &lt;strong>build upon the work of the person before them&lt;/strong>. And as expected people had no interest in working on error states and menus so &lt;strong>all design interest from anybody completely went away&lt;/strong>.&lt;/p>
+&lt;p>With over half of a year passed, with nothing more than little bits and pieces of incomplete or unusable design scattered here and there we simply took the old layout of Owncast and started rebuilding it. No new colors, no new layout. People will see this rebuild and think &amp;ldquo;What took so long? It looks the same.&amp;rdquo;&lt;/p>
+&lt;p>After all of this time, effort, and money, the redesign was a failure.&lt;/p>
+&lt;h2 id="what-could-have-been-done-differently">
+What could have been done differently?
+&lt;a class="heading-link" href="#what-could-have-been-done-differently">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>As the project maintainer this failure was completely my fault. I was operating purely on ambition, hoping the complimentary design skill set could be found one way or another and we&amp;rsquo;d end up building something that everyone was super proud of.&lt;/p>
+&lt;p>Maybe it was foolish to take upon a project where I didn’t have that skill set required to accomplish it myself. Maybe I need to double down on the approach that if I can’t do it myself, then Owncast shouldn’t try it. But that would be so sad. &lt;strong>I want to believe that I can work with others to accomplish a goal that’s bigger than something I could do on my own.&lt;/strong>&lt;/p>
+&lt;p>I think design and visually creative efforts will always be a challenge with Owncast and it&amp;rsquo;s not something I&amp;rsquo;ll be able to fix overnight. But I do hope that if I keep pushing hard enough I can appeal to people who care about visual design and want to see their efforts and vision reflected in the project.&lt;/p>
+&lt;p>But just in case I did buy a couple books on design that I&amp;rsquo;m making my way through.&lt;/p></description></item><item><title>Common sense doesn't scale</title><link>https://gabekangas.com/blog/2022/12/common-sense-doesnt-scale/</link><pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/12/common-sense-doesnt-scale/</guid><description>&lt;p>Imagine you were hired as a babysitter by some parents for their child. They are usually pretty casual about things, but they mentioned the kid has to go to bed at 8pm.&lt;/p>
 &lt;p>8pm comes around and the movie the kid is watching has 5 minutes left. And while I&amp;rsquo;ve never been a babysitter, and I know nothing about children, I would like to think that I, and probably most people, would let the kid watch that 5 minutes. Common sense says if they are a good kid who isn&amp;rsquo;t actively trying to break the rules it&amp;rsquo;s probably fine and doesn&amp;rsquo;t hurt anybody.&lt;/p>
 &lt;p>Now imagine you were hired as a babysitter by hundreds of parents, for thousands of children at once.&lt;/p>
 &lt;p>Some kids are actively trying to break the rules, some are going to bed right at 8, some are trying to start an entire new movie, and then there&amp;rsquo;s that one who has 5 minutes left. In this example you couldn&amp;rsquo;t possibly use common sense to figure out what to do for each kid. You would probably just plug all the TVs into a power strip and turn them all off at 8pm sharp. However, you kind of screwed over that one kid who just wanted to finish their movie. They weren&amp;rsquo;t trying to hurt anybody or actively cause problems, but got shut down anyway.&lt;/p>
@@ -429,116 +473,4 @@ The rejection
 &lt;/blockquote>
 &lt;p>Today is the day the backend shut down and the application is no longer functioning. Apple isn&amp;rsquo;t replying. I could rebuild the old backend somewhere else and point the DNS records to it so the current client will hold on a little longer, but when you&amp;rsquo;re in a place where you&amp;rsquo;re no longer able to update or improve your application, that&amp;rsquo;s generally the end of the road. While the application hasn&amp;rsquo;t yet been pulled from the App Store, they&amp;rsquo;ve made it clear it&amp;rsquo;s no longer allowed to be there and it&amp;rsquo;s only a matter of time.&lt;/p>
 &lt;p>On this last day of The Bat Player it sits on the tvOS AppStore with hundreds of active users. I hope they&amp;rsquo;ve enjoyed the time spent with the app, and that it helped them discover some new music via the on-screen data it surfaced. I&amp;rsquo;m sorry it can&amp;rsquo;t continue and they never got the updates.&lt;/p>
-&lt;iframe src="https://player.vimeo.com/video/174542936" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>&lt;/iframe></description></item><item><title>Owncast: A project to take control over your own live streaming</title><link>https://gabekangas.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/</link><pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2020/06/owncast-a-project-to-take-control-over-your-own-live-streaming/</guid><description>&lt;h3 id="backstory">
-Backstory.
-&lt;a class="heading-link" href="#backstory">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>In 2020 the world changed when everyone become stuck in their homes, looking for creative outlets to share their art, skills and themselves from inside their bedroom.&lt;/p>
-&lt;p>This created an explosion of live streaming on Facebook Live, YouTube, Instagram, and Twitch. These services provided everything they needed, an easy way to live stream to the world, and a chat for users to be a part of their community.&lt;/p>
-&lt;p>But in a world where many were previously finding ways to rely on the big internet service companies less, the 2020 COVID-19 pandemic made everyone run right back to them.&lt;/p>
-&lt;p>And as soon as people started streaming their DJ sets, concerts, movie watching parties, and themselves just sitting around listening to music &lt;strong>the big companies came to &lt;a href="https://www.youtube.com/watch?v=cX6Xccx17gM">mute their audio, disconnect their streams, remove their recordings and ban these users all together.&lt;/a>&lt;/strong> &lt;a href="https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html">Even if they owned the content&lt;/a>. These huge corporate entities legally have to shut anybody down at the even slightest hint of a copyright issue, or they put their own company at risk. Fair use and common sense be damned.&lt;/p>
-&lt;p>That&amp;rsquo;s when I wanted a better option for people. Something you could run yourself and get all the functionality of these services, where you could live stream to an audience and and allow them to take part in the chat, just like they&amp;rsquo;ve been used to on all the other services. But instead of handing control over to somebody else, you run it. &lt;strong>You won&amp;rsquo;t get shut down, and you own it all, just like it should be.&lt;/strong>&lt;/p>
-&lt;p>I figured you can install Wordpress and self-host your blog, or install Megento and self-host your e-commerce site. You can install Icecast and have your own internet radio station. Spin up an instance of Mastodon and you have your own social media site that you control. You can even install Nextcloud and have your own personal productivity service replacing Dropbox and Google Docs. There&amp;rsquo;s an open-source alternative to all the big services that you can run for almost everything, but I couldn&amp;rsquo;t think of what the live video streaming equivalent was. &lt;strong>There should be a independent, standalone &lt;em>Twitch in a Box&lt;/em>.&lt;/strong>&lt;/p>
-&lt;p>So I set out to look at this and answer the question: &lt;strong>Can I build a self-hosted, open source solution that allows an individual to replace the live stream experience of the big social sites?&lt;/strong>&lt;/p>
-&lt;h3 id="current-state">
-Current state
-&lt;a class="heading-link" href="#current-state">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>&lt;strong>This is a work in progress.&lt;/strong> The web UI is being worked on and functionality is still being tested and iterated on. Feel free to test if you have some use for it and give feedback, but it&amp;rsquo;s not ready for production.&lt;/p>
-&lt;p>That being said, I have something that works. I call it &lt;a href="http://owncast.online/">Owncast&lt;/a>. There&amp;rsquo;s a demo server up at &lt;a href="https://goth.land">goth.land&lt;/a> that I&amp;rsquo;ve been streaming random stuff to. Sometimes I&amp;rsquo;ll get on and stream something live, and sometimes I&amp;rsquo;ll put some pre-recorded video up like a concert, and sometimes I&amp;rsquo;ll just put a song on and show the current time so I can test the stream in relation to live. Ginger has volunteered to work on the included web page that has the player and chat UI because she&amp;rsquo;s a pro at web layout and design. So that&amp;rsquo;s all a work in progress.&lt;/p>
-&lt;p>This is running on a $5/mo Linode server with other stuff running on it. The video itself is being distributed from AWS S3 and it works well. Equally well is allowing it to serve the files directly, but I wanted to test if adding an an additional layer muddied things up.&lt;/p>
-&lt;h4 id="what-it-can-do-currently">
-What it can do currently
-&lt;a class="heading-link" href="#what-it-can-do-currently">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;ul>
-&lt;li>It takes in a RTMP stream from a user and generates a HLS stream that&amp;rsquo;s embedded in a supplied web page.&lt;/li>
-&lt;li>You can read and write to the chat in real-time from this page.&lt;/li>
-&lt;li>Can serve video directly from itself.&lt;/li>
-&lt;li>Can serve video via an AWS S3 bucket.&lt;/li>
-&lt;li>Can serve video via &lt;a href="https://ipfs.io">IPFS&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;h3 id="requirements">
-Requirements
-&lt;a class="heading-link" href="#requirements">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>An individual can take the existing software they&amp;rsquo;re using and instead of pointing it at a 3rd party, simply point it at their own service.&lt;/li>
-&lt;li>It should be a single binary with all the built-in features. You shouldn&amp;rsquo;t have to run another web server or fight a bunch of dependencies.&lt;/li>
-&lt;li>You should have options on where the actual video is distributed from to allow for flexibilty with bandwidth usage and performance.&lt;/li>
-&lt;li>There should be complete control over the web page to the person running the stream. Plain HTML that is editable, or don&amp;rsquo;t use the included web page at all and just link to the video stream directly from elsewhere.&lt;/li>
-&lt;li>There should be no accounts, database servers, or excessive state that needs to persist anywhere.&lt;/li>
-&lt;/ul>
-&lt;h3 id="things-of-note">
-Things of note
-&lt;a class="heading-link" href="#things-of-note">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>ffmpeg is the best in class as a video transcoder, so there&amp;rsquo;s no reason to not use it. So I am.&lt;/li>
-&lt;li>Writing in Go allows me to build a single binary that people can download as a release for their platform without any need for dependency management or installing additional things via npm, gems, etc. It&amp;rsquo;s a great fit for a cross-platform &lt;em>&amp;ldquo;download and run&amp;rdquo;&lt;/em> mentality.&lt;/li>
-&lt;li>People are used to using &lt;a href="https://obsproject.com/">OBS&lt;/a> as the standard for streaming their content. This sends a stream via RTMP, so building in a RTMP server allows people to just point OBS at their new server without any other changes.&lt;/li>
-&lt;li>I&amp;rsquo;ve really enjoyed the &lt;a href="https://www.dnalounge.com/webcast/video.html">DNA Lounge web chat&lt;/a> they built for their live streams where you just type in your name and start chatting. No accounts, no authorization (for better or worse). So for now that&amp;rsquo;s the approach I want to take. It feels like it&amp;rsquo;s from a simpler time, and I like that.&lt;/li>
-&lt;/ul>
-&lt;h3 id="concerns-and-thoughts">
-Concerns and thoughts
-&lt;a class="heading-link" href="#concerns-and-thoughts">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>Video is super bandwidth heavy. It remains to be seen how heavy and what the financial cost for offloading the video to S3 is. But if you have a host with a high transfer cap, then you&amp;rsquo;re fine and don&amp;rsquo;t need something like S3.&lt;/li>
-&lt;li>Transcoding video is super CPU heavy. But at a single bitrate, on a cheap, low-powered server, it seems to be fine. It remains to be seen how it&amp;rsquo;ll work when adding support for adaptive bitrates.&lt;/li>
-&lt;li>Offering a public chat opens up a whole lot of concerns regarding spam, harassment, etc. But those are all solved problems. Moderation can be added.&lt;/li>
-&lt;/ul>
-&lt;h3 id="specific-solutions">
-Specific solutions
-&lt;a class="heading-link" href="#specific-solutions">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>I wanted built-in support for offloading the actual video to other services. S3 was an obvious one. The video origin is the server that&amp;rsquo;s running the software, but the user actually pulls it down from S3 as to limit the amount of bandwidth being used on the local server. S3 is just where I started, but I plan on testing other S3 compatible services, as there are cheaper options out there than AWS like Wasabi, Backblaze and Linode. I felt starting with the most popular option made sense.&lt;/p>
-&lt;p>I also added experimental support for &lt;a href="https://ipfs.io">IPFS&lt;/a>, a distributed way of transferring files around. I thought if the origin server adds the video to the IPFS network then the player, through an IPFS gateway, can download the file, alleviating the need to continue to need to go back to the origin server, just like the above S3 support. Except in this case IPFS is free, and it&amp;rsquo;s distributed. But it can also be very slow. But it works, when it&amp;rsquo;s not slow. That&amp;rsquo;s why I call this &amp;ldquo;experimental support&amp;rdquo;. I really love the idea of it, but more time and research needs to see if it&amp;rsquo;s possible. But it&amp;rsquo;s supported in Owncast and people can try it out.&lt;/p>
-&lt;h3 id="a-note-about-cost">
-A note about cost
-&lt;a class="heading-link" href="#a-note-about-cost">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>Keep in mind that while streaming to the big social companies is always free, &lt;strong>you pay for it with your identity and your data, as well as the identity and data of every person that tunes in.&lt;/strong> When you self-host anything you&amp;rsquo;ll have to pay with your money instead. But running a self-hosted live stream server can be done for as cheap as $5/mo, and &lt;strong>that&amp;rsquo;s a much better deal than selling your soul to Facebook, Google or Amazon&lt;/strong>.&lt;/p>
-&lt;h3 id="whats-next">
-What&amp;rsquo;s next?
-&lt;a class="heading-link" href="#whats-next">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>Since a testable version of functionality exists, I want to keep testing it and finding any gaps. I particularly want to find any limitations with computing or bandwidth to determine what cases it&amp;rsquo;s just not feasible to run your own streaming server, or if there are more requirements than I&amp;rsquo;m aware of. A part of this is also doing a lot of streaming and distributing the video via S3 and looking at the costs. I want to be able to give people a realistic price estimate if they want to hand off the video to a 3rd party in order to save their own bandwidth.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>The web UI will also get updated so it&amp;rsquo;s actually something you want to look at and use.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>I need to add support for generating multiple bitrates so adaptive switching can be possible. But that will add additional computing load, so more testing to see if that breaks things is needed.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>I&amp;rsquo;m far from a Go expert, so as time goes on I&amp;rsquo;ll be making better decisions and refactoring some of the proof of concept experiments into real code.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="why-did-i-write-this-post">
-Why did I write this post?
-&lt;a class="heading-link" href="#why-did-i-write-this-post">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>For two reasons. One, so when I&amp;rsquo;m talking about this project I can point people to a little more detail about it. And secondly, maybe somebody will read it and be interested in taking part in some capacity. It lives on &lt;a href="https://github.com/gabek/owncast">Github&lt;/a>, so feel free to check things out over there if you have interest in the subject, the project, writing some Go, or learning more about HLS video.&lt;/p></description></item></channel></rss>
+&lt;iframe src="https://player.vimeo.com/video/174542936" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>&lt;/iframe></description></item></channel></rss>

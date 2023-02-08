@@ -7,6 +7,9 @@ These are my blog posts going back as far as I have them.
 => https://gabekangas.com/blog/ Blogs
 
 
+=> gemini://gemini.real-ity.com/blog/2023/02/owncast-v0.1.0-retrospective-redesign/index.gmi Owncast v0.1.0 Retrospective - Redesign
+
+
 => gemini://gemini.real-ity.com/blog/2022/12/common-sense-doesnt-scale/index.gmi Common sense doesn't scale
 
 
