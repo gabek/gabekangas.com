@@ -1,4 +1,105 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Owncast v0.1.0 Retrospective - Redesign</title><link>https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-redesign/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-redesign/</guid><description>&lt;p>With Owncast v0.1.0 starting a bug fixing and a super early testing phase now, I thought I’d write some blog posts about what it’s been like to get this far in this rather large release. A lot of projects don’t go into depth about how the sausage is made, and Owncast is no exception. I’m generally an open book if you ask or are involved with contributing to the project, but I usually don’t go out of my way to share every little thing with people who aren’t involved.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Owncast v0.1.0 Retrospective - Frontend Web Rewrite</title><link>https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-frontend-web-rewrite/</link><pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-frontend-web-rewrite/</guid><description>&lt;p>This post is a continuation of posts leading up to Owncast v0.1.0 that discusses some of the high level goals for the release. Read the first post about a &lt;a href="https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-redesign/">Owncast redesign&lt;/a> for part 1.&lt;/p>
+&lt;h2 id="hack-the-planet">
+Hack the planet!
+&lt;a class="heading-link" href="#hack-the-planet">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>One of the high level goals for Owncast since day one was hackibility. I wanted what was shipped to be a starting point for people looking to run their own custom live streams, not a locked in experience.&lt;/p>
+&lt;p>I was determined to write the web frontend in a way that required no pre-processing, no bundling, no JavaScript compilers. Raw JavaScript, HTML and CSS would be shipped so making changes to these files would be as straightforward as opening the files in a text editor and making your changes.&lt;/p>
+&lt;p>To pull this off it meant making a lot of very specific web technology choices, or maybe more specifically, a lack thereof. There could be no modern web development tooling, no bundling of source files, no TypeScript, no SASS, no CSS modules, no UI component libraries, no Webpack, no Babel. Just a bunch of raw web source.&lt;/p>
+&lt;p>And it worked. My goal of giving people a bunch of plain text files they could edit was successful and I thought it was kind of cool. It traded a good developer experience for a better customization experience, but I felt that was a fair trade off.&lt;/p>
+&lt;p>I thought all this would be a positive for contributors, too. There would be no development environment. You just download Owncast and you start making changes to the frontend files. That’s as minimal as you can get, and I thought people would enjoy that when looking to help the project.&lt;/p>
+&lt;p>A nice middle ground was using &lt;a href="https://preactjs.com/">Preact&lt;/a> + &lt;a href="https://preactjs.com/guide/v10/getting-started/#alternatives-to-jsx">HTM&lt;/a>. It allowed building frontend components in &lt;em>almost&lt;/em> the exact same syntax as React, but without all the overhead of React or JSX transpiling requirements. I thought it was a pretty sweet solution that allowed people with familiarity with React to still jump right in and feel at home.&lt;/p>
+&lt;h2 id="serious-downsides">
+Serious downsides
+&lt;a class="heading-link" href="#serious-downsides">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Even though all the pieces of the puzzle worked, it became clear of the downsides.&lt;/p>
+&lt;h3 id="frontend-contributors-were-scared-off">
+Frontend contributors were scared off
+&lt;a class="heading-link" href="#frontend-contributors-were-scared-off">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>&lt;em>Almost&lt;/em> React is not React, and people were scared away from contributing on the frontend for pretty much the entirety of the project because Preact can look slightly different than React. People know what they know and like what they like, and me saying “anybody will be able to pick it up” didn’t make people feel comfortable enough to actually contribute.&lt;/p>
+&lt;h3 id="everything-was-built-from-scratch">
+Everything was built from scratch
+&lt;a class="heading-link" href="#everything-was-built-from-scratch">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>Because I was unable to take advantage of 3rd party UI components everything needed to be built from scratch. And as somebody who’s favorite part of software development isn’t deciding what a button’s hover state should look like, this really started to bother me. I wanted to build features, but every addition had a huge UI lift.&lt;/p>
+&lt;p>An additional, substantial, downside, was the accessibility of all these home grown components wasn’t great and I was always being told how awful of a person I was because of it.&lt;/p>
+&lt;h3 id="nobody-actually-took-advantage-of-it">
+Nobody actually took advantage of it
+&lt;a class="heading-link" href="#nobody-actually-took-advantage-of-it">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>While people would tweak a color or font here and there, my goals of allowing people to completely control their page never really appealed to people like I thought it would. It was infinitely hackable, but nobody cared to hack it.&lt;/p>
+&lt;h2 id="a-change-in-direction">
+A change in direction
+&lt;a class="heading-link" href="#a-change-in-direction">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I started looking at all the features I wanted to build going into the future. Things like schedules, localization and recordings. But all I could think about was how I’d have to build, from scratch, calendars and scheduling components and reinvent the wheel to support translations. At this rate I’d never complete anything because I’d be spending all my time on UI and never complete features. There was nobody to help me, so I needed to figure out how to help myself make progress with the frontend. Changes had to be made.&lt;/p>
+&lt;p>I figured if people weren’t taking advantage of the raw source, and I had to give up so much in order to continue to ship it, I would make the call to completely change this approach.&lt;/p>
+&lt;p>I made sure to, multiple times, &lt;a href="https://owncast.online/news/20230201-preparing-for-v010/">warn people of this change&lt;/a>, and then I’d take a rather large step backwards. By completely rewriting the UI using a new tech stack it would allow a better development experience in exchange for no longer shipping those raw web source files that nobody cared about anyway.&lt;/p>
+&lt;h3 id="a-new-stack">
+A new stack
+&lt;a class="heading-link" href="#a-new-stack">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>&lt;a href="https://nextjs.org/">Nextjs&lt;/a>, &lt;a href="https://reactjs.org/">React&lt;/a>, &lt;a href="https://www.typescriptlang.org/">Typescript&lt;/a>, &lt;a href="https://github.com/css-modules/css-modules">CSS Modules&lt;/a>, &lt;a href="https://sass-lang.com/">Sass&lt;/a>, &lt;a href="https://storybook.js.org/">Storybook&lt;/a>. I almost immediately started enjoying the process of web development more when I had tooling that made it more tolerable. I was moving faster, I was taking advantage of other tools, and in every direction there were positives (except the part where the entire thing had to be rebuilt).&lt;/p>
+&lt;h3 id="contributors-came">
+Contributors came
+&lt;a class="heading-link" href="#contributors-came">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>And it was almost overnight once Owncast stopped saying “Any web developer would feel at home with our stack” to explicitly saying “We use &lt;strong>React&lt;/strong>”, the contributors started showing up and successfully contributing.&lt;/p>
+&lt;p>Really great people with insight, experience, and energy wanted to jump into the project and say “Hey, I know React. I know Typescript. I know Sass, let me help”. I can’t tell you how great that made me feel to finally get some help on the frontend after so long being frustrated with the situation.&lt;/p>
+&lt;p>A &lt;strong>huge&lt;/strong> thank you to everyone who&amp;rsquo;s been involved with the work going into this release. There was so much to do and each person who jumped in to help made a world of difference.&lt;/p>
+&lt;h3 id="progress">
+Progress
+&lt;a class="heading-link" href="#progress">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>All of a sudden this huge goal that I created of rebuilding the entire Owncast interface started getting chipped away. I’d look at the issues that were in progress and there were more than just my name attached to them.&lt;/p>
+&lt;p>I started to see things paying off. Now the page loads faster because I was able to tree shake unused code, and code split things into specific bundles. I was able to experiment faster by using 3rd party components. The accessibility support was better because people who build UI components for a living are better at it than I am and I wasn’t reinventing the wheel at every turn.&lt;/p>
+&lt;p>The project is able to use Storybook to build and test components now, allowing contributors to help the project without even running a test instance of Owncast. They can load up Storybook and make changes. These changes can be validated by build tooling and UI snapshot tests can highlight the changes that are made.&lt;/p>
+&lt;p>And I can get a level of structure and strictness that JavaScript alone doesn’t afford by using Typescript. I like types. Writing JavaScript alone feels like I’m wiring up a bomb with no instructions on where the wires go.&lt;/p>
+&lt;p>None of this was possible before. At least not in a straightforward way.&lt;/p>
+&lt;h2 id="what-did-i-learn">
+What did I learn?
+&lt;a class="heading-link" href="#what-did-i-learn">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I guess you could call the initial goals of infinite hackibility to be a sort of a premature optimization. I wanted people to have the ability to do something that I didn’t know if they wanted or not. And sometimes that’s ok when you don’t have to invest a lot, or give up so much to accomplish it, but in this case it wasn’t a fair trade off.&lt;/p>
+&lt;p>And while many people don’t agree, this is a concrete example of technology choices mattering. React is the biggest game in town, so using React appeals to more people. And even though a software developer can probably successfully work with any tech stack they try, not all of them want to try. No amount of me saying “It’ll be fine, just jump in” will convince them otherwise.&lt;/p>
+&lt;h2 id="in-conclusion">
+In conclusion
+&lt;a class="heading-link" href="#in-conclusion">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Do I think the React+TypeScript stack is so wonderful? Not really. In fact, it has a &lt;strong>ton&lt;/strong> of downsides. But did changing to it have significant upsides? &lt;strong>Absolutely&lt;/strong>.&lt;/p>
+&lt;p>The old saying is pick the technology that can stay out of the way and lets you focus on only the parts that make you distinct. Moving to a React stack has really done this for me, the project, and the contributors.&lt;/p>
+&lt;p>I now have an entire ecosystem of tooling that I can plug right in to make my life easier. Issues get caught at build time with TypeScript. UI issues get caught in visual snapshot tests. Things are more accessible because I can bring in components that were improved over years. I could go on and on.&lt;/p>
+&lt;h2 id="oh-yeah-and-the-project-is-open-for-contributions">
+Oh yeah, and the project is open for contributions
+&lt;a class="heading-link" href="#oh-yeah-and-the-project-is-open-for-contributions">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>And lastly, I&amp;rsquo;d be missing an opportunity if I didn&amp;rsquo;t call out that we&amp;rsquo;re always looking for contributors to help with the project both on our new frontend, and the Go backend. Take a look at the &lt;a href="https://owncast.online/help">Contributing Guide&lt;/a> and jump in!&lt;/p></description></item><item><title>Owncast v0.1.0 Retrospective - Redesign</title><link>https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-redesign/</link><pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-redesign/</guid><description>&lt;p>With Owncast v0.1.0 starting a bug fixing and a super early testing phase now, I thought I’d write some blog posts about what it’s been like to get this far in this rather large release. A lot of projects don’t go into depth about how the sausage is made, and Owncast is no exception. I’m generally an open book if you ask or are involved with contributing to the project, but I usually don’t go out of my way to share every little thing with people who aren’t involved.&lt;/p>
 &lt;p>For this first post I thought I’d start with a goal that I was very passionate about for this release, a redesign. And while I&amp;rsquo;m trying to be both respectful and honest it might seem like I&amp;rsquo;m being too much of one or another. Keep in mind that I appreciate every person who has been involved with Owncast in any capacity, and I respect their thoughts and any amount of energy they&amp;rsquo;ve put into the project.&lt;/p>
 &lt;p>Going forward I promise other topics will be more positive, and I&amp;rsquo;ll be writing about the other goals for this release in future posts.&lt;/p>
 &lt;h2 id="history-of-a-redesign">
@@ -425,52 +526,4 @@ Conclusion
 &lt;p>While I can say all of this has been unexpected, the thing that I never would have guessed is a community has started to spring up. I&amp;rsquo;ll visit people&amp;rsquo;s streams and other people who run Owncast servers or has worked on it will be in there chatting. Last night &lt;a href="https://stream.kylebronsdon.com/">Kyle Bronsdon&lt;/a> did a 4hr stream using Owncast for the first time and so many familiar names dropped in and were enjoying the music. The same goes with the &lt;a href="https://live.w0rmh0le.net/">nebunez&lt;/a> daily stream and when &lt;a href="https://stream.cincodenada.com/">Joel&lt;/a> is streaming himself working through Advent of Code. In the most literal and organic sense, it&amp;rsquo;s a decentralized community, but it&amp;rsquo;s not the technology binding them together. It&amp;rsquo;s just people who are enjoying being a part of something fun with other people. It&amp;rsquo;s hard to explain how cool that is, and I&amp;rsquo;m immensely thankful to everyone who has been a part of it.&lt;/p>
 &lt;p>But it&amp;rsquo;s still early days! With all the added attention many more feature requests and pieces of feedback have come in. Every person who shares their thoughts helps influence the direction of the project, and I&amp;rsquo;ve made a few roadmap changes because of it.&lt;/p>
 &lt;p>Thank you again to everyone, especially the &lt;a href="https://owncast.online/#contributors">contributors&lt;/a> and people using the software to do cool things. I&amp;rsquo;m very much looking forward to making Owncast something great with all of you.&lt;/p>
-&lt;img src="https://gabekangas.com/blog/images/owncast-trending.png"/></description></item><item><title>Apple Has Shut Down The Bat Player</title><link>https://gabekangas.com/blog/2020/08/apple-has-shut-down-the-bat-player/</link><pubDate>Fri, 07 Aug 2020 09:41:48 -0700</pubDate><guid>https://gabekangas.com/blog/2020/08/apple-has-shut-down-the-bat-player/</guid><description>&lt;p>Today &lt;a href="https://apps.apple.com/us/app/the-bat-player-radio/id1050517930">The Bat Player on AppleTV&lt;/a> was shut down. I wanted to document a bit about the history of the application, and why it&amp;rsquo;s being rejected from the Apple AppStore.&lt;/p>
-&lt;p>I started The Bat Player in 2014. I wanted a better Internet Radio experience on the TV. I dreamt of artist info, album details and photos. At the time most Internet Radio apps &lt;a href="https://gabekangas.com/blog/2014/12/developing-for-roku/">just showed text of the currently playing track&lt;/a> and I wanted more.&lt;/p>
-&lt;p>I originally built The Bat Player for Roku, because that was the only set top box that had an SDK that I could build something on. And in July of 2015, &lt;a href="https://gabekangas.com/blog/2015/07/launching-the-bat-player-on-the-roku-store-and-its-aftermath/">The Bat Player launched for Roku&lt;/a>. But what I really wanted was to build for AppleTV. I really liked developing on Apple products but unfortunately at the time people weren&amp;rsquo;t permitted to build things for the AppleTV. Luckily that changed and I went all-in on tvOS as soon as I could.&lt;/p>
-&lt;p>The first AppleTV build of The Bat Player was submitted to Apple on Oct 20, 2015. Right when the new AppleTV with tvOS apps were allowed.&lt;/p>
-&lt;h4 id="the-2020-update-of-the-bat-player">
-The 2020 update of The Bat Player
-&lt;a class="heading-link" href="#the-2020-update-of-the-bat-player">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;p>The Bat Player uses a backend service I built called &amp;ldquo;The Bat Server&amp;rdquo; who takes a station and returns back rich metadata about the song, album, artist, etc. It&amp;rsquo;s what powers the Now Playing screen of the app as well as handling search, and the directory. It&amp;rsquo;s a Nodejs service that&amp;rsquo;s been quietly humming along giving The Bat Player it&amp;rsquo;s unique features. Fast forward to 2020 and my hosting provider said it&amp;rsquo;s no longer going to support long-running services and instead are focusing on JAMStack and &amp;ldquo;serverless&amp;rdquo; infrastructures. I thought &lt;em>&amp;ldquo;Cool, The Bat Server is a great example of something that would work well as discrete API endpoint functions&amp;rdquo;&lt;/em> and I went down the road of reworking the backend to fit the &amp;ldquo;&lt;a href="https://vercel.com/docs/v2/serverless-functions/introduction">serverless&lt;/a>&amp;rdquo; paradigm. It required a few client changes to make different requests than it used to, but not anything huge. A simple update to the client would resolve that.&lt;/p>
-&lt;p>But it&amp;rsquo;s been a bit since I&amp;rsquo;ve made an update to The Bat Player, and it was time to give it some visual refresh, update some of the client architecture behind it, and make it even easier to use. So I simplified a lot of the code, using new features in iOS and Swift that didn&amp;rsquo;t exist before. I completely rewrote almost all of the UI in the app. I also added a new feature where if a station didn&amp;rsquo;t have an image, previously I&amp;rsquo;d do a Google Image Search in order to try to find the station image, now I generate a unique logo just for that station using a combination of images, fonts and colors. I&amp;rsquo;m really thankful to &lt;a href="https://github.com/gingervitis">Ginger&lt;/a> who designed the different images used to compile these dynamic station logos. They look super cool and I think people were really going to like them.&lt;/p>
-&lt;p>So with both backend and frontend updates ready I submitted version 1.3.0 of The Bat Player to Apple on July 16th, knowing that on August 7th the old backend would get turned off.&lt;/p>
-&lt;h4 id="the-rejection">
-The rejection
-&lt;a class="heading-link" href="#the-rejection">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h4>
-&lt;blockquote>
-&lt;p>Your app contains content or features that may violate the rights of one or more third parties. Specifically, your app provides potentially unauthorized access to third-party audio or video streaming, catalogs, and discovery services.&lt;/p>
-&lt;p>Your app and its contents should not infringe upon the rights of another party. In the event your app infringes another party’s rights, you are responsible for any liability to Apple because of a claim.&lt;/p>
-&lt;/blockquote>
-&lt;p>They said I am out of compliance with App Store Review Guideline 5.2.3. We went back and forth over messages until they scheduled a phone call. It was clear on this call they were treating The Bat Player, an internet radio client playing public internet radio stations, the same as if I was submitting an app that was stealing proprietary TV content. I think they&amp;rsquo;re so knee deep in the TV world right now that they can&amp;rsquo;t see it any different, they even kept calling internet radio stations &amp;ldquo;channels&amp;rdquo;, approaching it as I&amp;rsquo;m stealing somebody&amp;rsquo;s private media stream.&lt;/p>
-&lt;p>They said in order to proceed &lt;strong>I need to provide legal documentation from every station&lt;/strong> stating I do indeed have rights to their content. I tried to explain that the point of Internet Radio is not to have propriety applications for each station, and instead &lt;strong>stations rely on apps like The Bat Player to play their audio streams&lt;/strong>, that&amp;rsquo;s the point of it. I used iTunes, Quicktime and Winamp as examples of applications that play Internet Radio. I pointed to the many applications that already exist on the AppStore that play this same content. I tried to state how Internet Radio clients are more like web browsers, where they exist only to consume and render the content that lives online for users. A web browser doesn&amp;rsquo;t need to show that it has permission to view every web site that exists. The reviewer only said &amp;ldquo;I can&amp;rsquo;t speak to other apps&amp;rdquo;. I said how I tie into a publicly accessible database of stations that exist for discovery purposes, and I would need to provide over 25,000 pieces of legal documentation. The reviewer on the phone simply said &lt;em>&amp;ldquo;I&amp;rsquo;m sure most of these channels are being run by the same company, so &lt;strong>you can get many taken care of by contacting their parent organizations&lt;/strong>.&amp;quot;&lt;/em> It showed that not only did they not understand how internet radio is often a hobby by somebody running something from their basement, &lt;strong>it showed that they couldn&amp;rsquo;t even fathom that the open internet, where individuals do things because they love it, and where content lives independently from applications that consume it.&lt;/strong> They&amp;rsquo;re thinking simply &amp;ldquo;if people want to watch CBS then they download the CBS app, you can&amp;rsquo;t be putting CBS in your app. That&amp;rsquo;s stealing.&amp;rdquo;&lt;/p>
-&lt;p>Once you get rejected and you&amp;rsquo;re run out of options with the reviewer you have to &lt;a href="https://www.cnbc.com/2019/06/21/how-apples-app-review-process-for-the-app-store-works.html">contact the App Review Appeals Board&lt;/a>. And I sent the following final appeal:&lt;/p>
-&lt;blockquote>
-&lt;p>Hello,&lt;/p>
-&lt;p>The Bat Player is an internet radio client, built to play publicly accessible internet radio streams. It is not scraping, hijacking, or stealing any content. It is more akin to a web browser that consumes web pages than something aggregating and playing proprietary video feeds, for example.&lt;/p>
-&lt;p>I take advantage of a publicly accessible directory of internet radio stations called &amp;ldquo;radio-browser&amp;rdquo; who states in their FAQ:&lt;/p>
-&lt;blockquote>
-&lt;p>&amp;ldquo;It is completely free. Free as in Beer/chocolate&amp;rdquo;
-&lt;a href="http://www.radio-browser.info/gui/#!/faq">http://www.radio-browser.info/gui/#!/faq&lt;/a>&lt;/p>
-&lt;/blockquote>
-&lt;p>Internet radio is made to be played with different clients. It&amp;rsquo;s not like TV providers where each station has their own app and is only designed to exclusively be played in that app. Internet radio is to be played in iTunes, Quicktime, Winamp, or any of the below applications that are already on the AppStore who are using the radio-browser&amp;rsquo;s dataset API and playing the stations:&lt;/p>
-&lt;ul>
-&lt;li>Cute Radio: &lt;a href="https://apps.apple.com/de/app/cuterdio-internet-radio-app/id1489513385">https://apps.apple.com/de/app/cuterdio-internet-radio-app/id1489513385&lt;/a>&lt;/li>
-&lt;li>Triode Radio: &lt;a href="https://apps.apple.com/us/app/triode/id1446513724">https://apps.apple.com/us/app/triode/id1446513724&lt;/a>&lt;/li>
-&lt;li>InstaRadio: &lt;a href="https://apps.apple.com/us/app/instaradio-radio-player/id538537206">https://apps.apple.com/us/app/instaradio-radio-player/id538537206&lt;/a>&lt;/li>
-&lt;li>Radio Volume Booster: &lt;a href="https://apps.apple.com/us/app/id887768699">https://apps.apple.com/us/app/id887768699&lt;/a>&lt;/li>
-&lt;li>Frog Radio: &lt;a href="https://apps.apple.com/us/app/frogradio/id1442306286">https://apps.apple.com/us/app/frogradio/id1442306286&lt;/a>&lt;/li>
-&lt;li>Tune Hunter: &lt;a href="https://apps.apple.com/at/app/tune-hunter/id1440690657">https://apps.apple.com/at/app/tune-hunter/id1440690657&lt;/a>&lt;/li>
-&lt;li>432 Player Radio: &lt;a href="https://apps.apple.com/us/app/432-player-radio/id1479883396">https://apps.apple.com/us/app/432-player-radio/id1479883396&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>I urge you to re-evaluate, as The Bat Player being pulled from the AppStore is a detriment to the open world of internet radio as well as to the tvOS ecosystem, something I, and The Bat Player, have been a part of since the launch of the tvOS SDK.&lt;/p>
-&lt;/blockquote>
-&lt;p>Today is the day the backend shut down and the application is no longer functioning. Apple isn&amp;rsquo;t replying. I could rebuild the old backend somewhere else and point the DNS records to it so the current client will hold on a little longer, but when you&amp;rsquo;re in a place where you&amp;rsquo;re no longer able to update or improve your application, that&amp;rsquo;s generally the end of the road. While the application hasn&amp;rsquo;t yet been pulled from the App Store, they&amp;rsquo;ve made it clear it&amp;rsquo;s no longer allowed to be there and it&amp;rsquo;s only a matter of time.&lt;/p>
-&lt;p>On this last day of The Bat Player it sits on the tvOS AppStore with hundreds of active users. I hope they&amp;rsquo;ve enjoyed the time spent with the app, and that it helped them discover some new music via the on-screen data it surfaced. I&amp;rsquo;m sorry it can&amp;rsquo;t continue and they never got the updates.&lt;/p>
-&lt;iframe src="https://player.vimeo.com/video/174542936" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen>&lt;/iframe></description></item></channel></rss>
+&lt;img src="https://gabekangas.com/blog/images/owncast-trending.png"/></description></item></channel></rss>
