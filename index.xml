@@ -1,4 +1,77 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Upcoming Owncast features</title><link>https://gabekangas.com/blog/2023/04/upcoming-owncast-features/</link><pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2023/04/upcoming-owncast-features/</guid><description>&lt;p>While I try to keep a &lt;a href="https://owncast.online/roadmap">public roadmap&lt;/a>, and keep a reasonable plan for Owncast, I rarely have an opportunity to gush to anybody (other than my therapist, and he doesn&amp;rsquo;t get it) about features I’m looking forward to building. So I thought I’d write a quick blog post to share some of my personal thoughts on my vision of future Owncast features from a high level.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Thank you for making Owncast a success in 2023</title><link>https://gabekangas.com/blog/2024/01/thank-you-for-making-owncast-a-success-in-2023/</link><pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2024/01/thank-you-for-making-owncast-a-success-in-2023/</guid><description>&lt;p>I missed the first week of the year, but I still wanted to write a bit about Owncast and share my appreciation what this past year has brought for Owncast.&lt;/p>
+&lt;p>As every year before it, Owncast has had the opportunity to be used to solve more people&amp;rsquo;s live streaming needs, be viewed by more people, and have more conversations around decentralization, Big Tech alternatives, The Fediverse, and all the wonderful things that come along with being a part of Owncast.&lt;/p>
+&lt;h2 id="development">
+Development
+&lt;a class="heading-link" href="#development">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>From the development standpoint, by far, the biggest effort this year was the &lt;a href="https://gabekangas.com/blog/2023/02/owncast-v0.1.0-retrospective-frontend-web-rewrite/">rewrite of the Owncast user interface&lt;/a>. This was also, by far, the largest effort by numbers of contributors. Switching to React and TypeScript was a huge win for the project. It opened the doors for frontend contributors for the first time, and I&amp;rsquo;m thankful every day I made that decision. I&amp;rsquo;m very proud of all all the work everyone had put into that effort, and it continues to pay off as we continue to more easily work on the frontend, fixing bugs and adding features.&lt;/p>
+&lt;p>There&amp;rsquo;s a &lt;a href="https://owncast.online/roadmap">roadmap&lt;/a> of upcoming plans that I&amp;rsquo;m really looking forward to getting to. There&amp;rsquo;s a lot of behind the scenes stuff taking place before the really fun and fancy user-facing features come to light, but I think it&amp;rsquo;ll all be worth it.&lt;/p>
+&lt;h2 id="ubuntu-summit">
+Ubuntu Summit
+&lt;a class="heading-link" href="#ubuntu-summit">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>One of the highlights personally was being given the opportunity to travel to Riga, Latvia to &lt;a href="https://www.youtube.com/watch?t=515&amp;amp;v=sZMEuKI4Lpo&amp;amp;feature=youtu.be">speak at Ubuntu Summit&lt;/a> about Owncast. It was a fantastic experience, and I&amp;rsquo;m very thankful to Cononical for the chance to share Owncast with more people. In general the attendees of the conference really seemed to be impressed with the direction of the project and the value it&amp;rsquo;s providing to users.&lt;/p>
+&lt;h2 id="often-people-cant-find-a-way-to-talk-about-owncast">
+Often people can&amp;rsquo;t find a way to talk about Owncast
+&lt;a class="heading-link" href="#often-people-cant-find-a-way-to-talk-about-owncast">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>One problem that has continued to be difficult this year, and will continue to, is people&amp;rsquo;s expectations of Owncast, and how to interpret it.&lt;/p>
+&lt;p>People, in general, are used to talking about &lt;em>services&lt;/em>. Like Facebook, or Instagram, or Twitch, or Mastodon, or Pixelfed, or Spotify. Things people sign up to and uses. These things are really easy to talk about. And Owncast will never be that. It&amp;rsquo;s not meant to be that. Owncast isn&amp;rsquo;t a service. It&amp;rsquo;s &lt;em>software&lt;/em>. Like computing used to be. You wanted your computer to do something? You downloaded the software, you installed it, and now your computer does that thing. People don&amp;rsquo;t do that anymore, so people find it confusing. People want to go to a website and have somebody else run the software for them.&lt;/p>
+&lt;p>So I often get questions like &amp;ldquo;How many users does Owncast have?&amp;rdquo; And I don&amp;rsquo;t know what that question means. What&amp;rsquo;s a user? Do you mean how many downloads? Do you mean how many servers are online? I have no idea, servers are private. Do you mean how many viewers are watching streams? I have no idea. Streams are private.&lt;/p>
+&lt;p>It also means most success stories are behind the scenes, and that sometimes leads to people comparing it to services like PeerTube and thinking Owncast is failing, or isn&amp;rsquo;t any good, or is useless, or whatever it is they think. That can&amp;rsquo;t be further from the truth.&lt;/p>
+&lt;p>So you can see how people get frustrated and just blow off Owncast completely because they can&amp;rsquo;t get excited about something they can&amp;rsquo;t quantify. They can look at Pixelfed and say exactly &amp;ldquo;Look how many users they have!&amp;rdquo; or &amp;ldquo;Look how successful these accounts are!&amp;rdquo; and they&amp;rsquo;ll &lt;em>never&lt;/em> be able to do that with Owncast. And that&amp;rsquo;s okay. I just keep doing my own thing, and I try to explain when I can that it&amp;rsquo;s comparing Apples and Oranges.&lt;/p>
+&lt;h2 id="thank-you-to-the-silent-successes">
+Thank you to the silent successes
+&lt;a class="heading-link" href="#thank-you-to-the-silent-successes">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>That being said, thank you to the many people and companies who are quietly relying on on Owncast to power their live video infrastructure. The churches, the porn sites, the conferences, the music venues, the wedding halls, and so many more that we&amp;rsquo;ll never hear spoken about. They&amp;rsquo;ll never be on the Fediverse or the directory. They&amp;rsquo;re not looking for viewers or attention. You&amp;rsquo;ll never know who they are. They&amp;rsquo;re just doing their thing successfully with Owncast. It is a complete honor to help them in some way, just like so many pieces of software have helped me over the years.&lt;/p>
+&lt;h2 id="to-those-streaming-publicly-with-owncast">
+To those streaming publicly with Owncast
+&lt;a class="heading-link" href="#to-those-streaming-publicly-with-owncast">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Thank you to those who keep running Owncast streams regardless if the majority of their viewers are there, or just a small minority. I&amp;rsquo;ve seen hundreds of Owncast-powered streams disappear after a week of waning enthusiasm because viewers didn&amp;rsquo;t magically show up. So when I see a live stream using Owncast publicly stream week after week, month after month, year after year, don&amp;rsquo;t think I don&amp;rsquo;t notice. It means everything. These are the people building the version of the internet I want to be a part of. They&amp;rsquo;re building their own thing, regardless what other people think. I don&amp;rsquo;t have the words to express how much that means to me.&lt;/p>
+&lt;h2 id="thank-you-to-the-vocal-advocates">
+Thank you to the vocal advocates
+&lt;a class="heading-link" href="#thank-you-to-the-vocal-advocates">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Those who care about the project, the vision, and the direction regardless if they&amp;rsquo;re actively streaming or not. I see all of you. It means the absolute world to me every time you say something nice about Owncast. It goes into a little bucket of motivation that I can pull from when I&amp;rsquo;m feeling down, frustrated, lonely, or that people don&amp;rsquo;t care. Thank you. I&amp;rsquo;ve been incredibly lucky to have people be so kind towards to me and the project, I can&amp;rsquo;t imagine others have it so good.&lt;/p>
+&lt;h2 id="donors-have-really-helped-this-year">
+Donors have really helped this year
+&lt;a class="heading-link" href="#donors-have-really-helped-this-year">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>The financial support this year have been a lifesaver. At one point in the year I needed to acquire the services of a law firm to help with some paperwork. Mostly around clarification around the directory, what Owncast is, what it isn&amp;rsquo;t, what we provide, what we have control over, etc etc. The kind of thing I can provide next time I get a DMCA takedown (this is not uncommon). Without the donations I would have had to pay for that out of pocket, and it would have been a huge financial burden. So thank you to everyone who has donated, and continues to donate. It&amp;rsquo;s these kind of big expenses that come up that I&amp;rsquo;m able to handle because of your support, and I&amp;rsquo;m incredibly thankful for that.&lt;/p>
+&lt;h2 id="community-outreach">
+Community outreach
+&lt;a class="heading-link" href="#community-outreach">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Near the end of 2023 there began some really great initiatives around building more of a true community around Owncast. Since, in general, most Owncast-powered live streams are pretty isolated. People need to stream, so they install Owncast, and then they stream, they don&amp;rsquo;t exactly hang out and talk about Owncast with others. So it&amp;rsquo;s been a challenge to build a community around Owncast. But &lt;a href="https://owncast.mxks.dj/">MXKS&lt;/a> offered to &lt;a href="https://owncast.online/newsletter/">start a monthly Owncast newsletter&lt;/a> as a first step into reaching out to those who are interested in being a bit more connected into the world of Owncast and the streamers who use it. There has been an issue already, and people seem to like the idea. I&amp;rsquo;m looking forward to seeing where it goes. Please do sign up if you&amp;rsquo;re interested.&lt;/p>
+&lt;p>Feel free to drop into the &lt;a href="https://owncast.rocket.chat/channel/owncast-community">community chat&lt;/a> if you&amp;rsquo;d like to discuss the future of this initiative. Everything is on the table to make it easier for people to connect with each other, share their experiences, and help each other out. But it&amp;rsquo;s not up to me!&lt;/p>
+&lt;h2 id="2024">
+2024
+&lt;a class="heading-link" href="#2024">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I&amp;rsquo;m looking forward to 2024. There&amp;rsquo;s some really exciting things on the roadmap, and the behind he scenes stuff are equally going to improve working on the project. I hope to continue to balance features that improve the life of all streamers, regardless what their focus is, but also get to some specific things for the &amp;ldquo;interactive/twitch-style&amp;rdquo; streamer.&lt;/p>
+&lt;p>Not everything goes fast with this project. I&amp;rsquo;m super appreciative that we get handfuls of contributions these days, but drive by contributions are usually not a good fit for working on really large, long-term feature work. But thankfully everyone has always been patient with me, and everyone is really thankful when they get released.&lt;/p>
+&lt;p>That being said, if you&amp;rsquo;re interested in being a longer-term contributor to Owncast, and working on some of these exciting features that are coming up, I&amp;rsquo;d love to chat!&lt;/p>
+&lt;p>Here&amp;rsquo;s to another year of creative, independent, decentralized live streaming. I hope I, and Owncast, can continue to play some part in it with you.&lt;/p></description></item><item><title>Upcoming Owncast features</title><link>https://gabekangas.com/blog/2023/04/upcoming-owncast-features/</link><pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2023/04/upcoming-owncast-features/</guid><description>&lt;p>While I try to keep a &lt;a href="https://owncast.online/roadmap">public roadmap&lt;/a>, and keep a reasonable plan for Owncast, I rarely have an opportunity to gush to anybody (other than my therapist, and he doesn&amp;rsquo;t get it) about features I’m looking forward to building. So I thought I’d write a quick blog post to share some of my personal thoughts on my vision of future Owncast features from a high level.&lt;/p>
 &lt;h2 id="the-frontend-rewrite">
 The frontend rewrite
 &lt;a class="heading-link" href="#the-frontend-rewrite">
@@ -566,10 +639,4 @@ Conclusion
 &lt;/ul>
 &lt;p>Things might change as the project is kicked off and more is learned, but this gives us the building blocks to take advantage of federation when future features get added to Owncast such as recordings being rendered inline, or scheduled events showing up in the right places so people know when to tune in to a live stream. If you have any ideas how Owncast content can live hand-in-hand with other federated services, please reach out!&lt;/p>
 &lt;p>A big thank you to everyone who has supported Owncast, has setup an Owncast instance, or hung out watching an Owncast-powered live stream. Your feedback, support and content continues to push the project forward and allow us to make moves like this knowing that if we do a good job, real people will benefit from it.&lt;/p>
-&lt;p>If you have any comments, questions or suggestions feel free to drop by our &lt;a href="https://owncast.rocket.chat">community chat&lt;/a>.&lt;/p></description></item><item><title>A personal update about career and the future</title><link>https://gabekangas.com/blog/2021/04/a-personal-update-about-career-and-the-future/</link><pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2021/04/a-personal-update-about-career-and-the-future/</guid><description>&lt;p>Before COVID hit I was about three years into working at a pretty cool company as an iOS engineer. I joined the company before the product launched and had a great time. But like things do, sometimes you grow apart when the company gets bigger and priorities change. So at the point everyone started working from home full time it became increasingly more difficult and I decided to leave the company. My plan was the lockdown would only last a few months, and once people started going back to their offices I&amp;rsquo;d get a new role somewhere.&lt;/p>
-&lt;p>&lt;strong>We all know that didn&amp;rsquo;t happen.&lt;/strong>&lt;/p>
-&lt;p>Luckily I&amp;rsquo;ve had some opportunities to do some short term gigs in the past year with a great agency who have been very kind to me. But I&amp;rsquo;ve found this completely disconnected and isolated approach to work as a short-term contractor to be very difficult for me. Starting new jobs or projects is always a confusing time and you rely on the people around you to get up to speed. I&amp;rsquo;ve had nobody around me for a year, and I&amp;rsquo;ve never met a single person I&amp;rsquo;ve been helping with projects outside of Zoom calls. This detached way of working on a project is incompatible with how I work. I need to be a part of a team working on a shared goal, not to be a left alone in my tiny apartment adrift for a year.&lt;/p>
-&lt;p>Right now I find myself ending a project again soon. And this time I&amp;rsquo;m thinking maybe it&amp;rsquo;s best to get a full time job, as a part of a team, somewhere. It still won&amp;rsquo;t be easy working from home, but maybe being a part of a team would be a little bit better than being a contractor right now.&lt;/p>
-&lt;p>Most of the past year I&amp;rsquo;ve been away from doing paid work so it gave me an opportunity to focus on something that matters to me, Owncast. But after a year of Owncast and sporadic work &lt;strong>I don&amp;rsquo;t actually know what role even makes sense for me anymore&lt;/strong>. I had previously focused on iOS development for over 10 years, but after a year of only doing a small bit of it, I no longer feel like an iOS engineer. And while I&amp;rsquo;ve been doing some Android contract work, I certainly don&amp;rsquo;t feel like an Android developer either.&lt;/p>
-&lt;p>I feel most at home doing whatever it is I do for Owncast. I want to build cool shit for people without saying I only do mobile, or I only do backend, or whatever. But unfortunately there&amp;rsquo;s not really room at a company for a &amp;ldquo;do whatever is cool&amp;rdquo; role.&lt;/p>
-&lt;p>It seems like I need to start a new chapter, but I don&amp;rsquo;t really know what that chapter is.&lt;/p></description></item></channel></rss>
+&lt;p>If you have any comments, questions or suggestions feel free to drop by our &lt;a href="https://owncast.rocket.chat">community chat&lt;/a>.&lt;/p></description></item></channel></rss>
