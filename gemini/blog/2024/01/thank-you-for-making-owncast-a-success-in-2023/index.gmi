@@ -77,6 +77,8 @@ Feel free to drop into the
 
 I'm looking forward to 2024. There's some really exciting things on the roadmap, and the behind he scenes stuff are equally going to improve working on the project. I hope to continue to balance features that improve the life of all streamers, regardless what their focus is, but also get to some specific things for the "interactive/twitch-style" streamer.
 
+I'm also looking forward to getting some ways out there to allow more people to easily view Owncast streams easier. Hopefully that's on the horizon soon.
+
 Not everything goes fast with this project. I'm super appreciative that we get handfuls of contributions these days, but drive by contributions are usually not a good fit for working on really large, long-term feature work. But thankfully everyone has always been patient with me, and everyone is really thankful when they get released.
 
 That being said, if you're interested in being a longer-term contributor to Owncast, and working on some of these exciting features that are coming up, I'd love to chat!
