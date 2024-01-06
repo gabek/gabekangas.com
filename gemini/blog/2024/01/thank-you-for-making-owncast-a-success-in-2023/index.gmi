@@ -31,9 +31,11 @@ One of the highlights personally was being given the opportunity to travel to Ri
 
 One problem that has continued to be difficult this year, and will continue to, is people's expectations of Owncast, and how to interpret it.
 
-People, in general, are used to talking about _services_. Like Facebook, or Instagram, or Twitch, or Mastodon, or Pixelfed, or Spotify. Things people sign up to and uses. These things are really easy to talk about. And Owncast will never be that. It's not meant to be that. Owncast isn't a service. It's _software_. Like computing used to be. You wanted your computer to do something? You downloaded the software, you installed it, and now your computer does that thing. People don't do that anymore, so people find it confusing. People want to go to a website and have somebody else run the software for them.
+People, in general, are used to talking about multiuser _services_. Like Facebook, or Instagram, or Twitch, or Mastodon, or Pixelfed, or Spotify. Things anybody can sign up to and use. These things are really easy to talk about. And Owncast will never be that. It's not meant to be that. Owncast isn't a public service. It's _software_. Like computing used to be. You wanted your computer to do something? You downloaded the software, you installed it, and now your computer does that thing. People don't do that anymore, so people find it confusing. People want to go to a website and have somebody else run the software for them.
 
-So I often get questions like "How many users does Owncast have?" And I don't know what that question means. What's a user? Do you mean how many downloads? Do you mean how many servers are online? I have no idea, servers are private. Do you mean how many viewers are watching streams? I have no idea. Streams are private.
+They want unlimited users to be serviced, just like Facebook does. The concept of a person installing software that is just for that single person seems weird these days. So I get asked "How many channels can Owncast have?" Do you mean streams? One. Yours. It's for you. I'm not sure how to make that more clear. It used to be the norm.
+
+I often get questions like "How many users does Owncast have?" And I don't know what that question means. What's a user? Do you mean how many downloads? Do you mean how many servers are online? I have no idea, servers are private. Do you mean how many viewers are watching streams? I have no idea. Streams are private.
 
 It also means most success stories are behind the scenes, and that sometimes leads to people comparing it to services like PeerTube and thinking Owncast is failing, or isn't any good, or is useless, or whatever it is they think. That can't be further from the truth.
 
