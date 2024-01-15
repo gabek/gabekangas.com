@@ -116,7 +116,7 @@ I don't want this to be a negative post about how much Apple sucks, but you migh
 
 Any servers marked as NSFW on the directory get filtered out of the application completely. This should be no surprise. Apple doesn't like bad words or naughty bits.
 
-So if you've set your server as NSFW for no reason, you might want to reevaluate that.
+So if you've set your server as NSFW for no reason, you might want to reevaluate that. Though, of course, you can manually add any Owncast-powered live stream to the app, regardless if it's NSFW or not. So go nuts.
 
 ## So, now what?
 
