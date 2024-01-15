@@ -112,6 +112,12 @@ I don't want this to be a negative post about how much Apple sucks, but you migh
 <img src="/blog/images/owncast-tvbrowse-offline.jpeg" width="70%"/>
 </center>
 
+## NSFA
+
+Any servers marked as NSFW on the directory get filtered out of the application completely. This should be no surprise. Apple doesn't like bad words or naughty bits.
+
+So if you've set your server as NSFW for no reason, you might want to reevaluate that.
+
 ## So, now what?
 
 Like the directory, I don't expect this application to have super active development. Bugs will be fixed, and as new features get added to Owncast they might show up natively in the application as well. We'll have to see.

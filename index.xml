@@ -103,6 +103,14 @@ The long, long road of rejections
 &lt;center>
 &lt;img src="https://gabekangas.com/blog/images/owncast-tvbrowse-offline.jpeg" width="70%"/>
 &lt;/center>
+&lt;h2 id="nsfa">
+NSFA
+&lt;a class="heading-link" href="#nsfa">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Any servers marked as NSFW on the directory get filtered out of the application completely. This should be no surprise. Apple doesn&amp;rsquo;t like bad words or naughty bits.&lt;/p>
+&lt;p>So if you&amp;rsquo;ve set your server as NSFW for no reason, you might want to reevaluate that.&lt;/p>
 &lt;h2 id="so-now-what">
 So, now what?
 &lt;a class="heading-link" href="#so-now-what">
