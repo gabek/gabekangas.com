@@ -1,4 +1,132 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Thank you for making Owncast a success in 2023</title><link>https://gabekangas.com/blog/2024/01/thank-you-for-making-owncast-a-success-in-2023/</link><pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2024/01/thank-you-for-making-owncast-a-success-in-2023/</guid><description>&lt;p>I missed the first week of the year, but I still wanted to write a bit about Owncast and share my appreciation what this past year has brought for Owncast.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Sun, 14 Jan 2024 09:46:12 -0800</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Owncasts - A new iOS and tvOS application for viewing Owncast-powered live video streams</title><link>https://gabekangas.com/blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/</link><pubDate>Sun, 14 Jan 2024 09:46:12 -0800</pubDate><guid>https://gabekangas.com/blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/</guid><description>&lt;h2 id="owncast-is-server-software-thats-it">
+Owncast is server software. That&amp;rsquo;s it
+&lt;a class="heading-link" href="#owncast-is-server-software-thats-it">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>First off, I want to clarify: &lt;a href="https://owncast.online">Owncast&lt;/a> is server software for anybody to run their own, independent, decentralized, completely standalone video streams. It provides some additional features that streamers and their viewers can use, but at its core it&amp;rsquo;s a piece of video server software. That&amp;rsquo;s what I, personally, care about, and that&amp;rsquo;s primarily the value I want the project to offer you. Everything else is secondary.&lt;/p>
+&lt;center>
+&lt;a href="https://apps.apple.com/us/app/owncasts/id6451178968?platform=iphone">
+&lt;img src="https://gabekangas.com/blog/images/owncasts-logo.jpeg" width="70%" />
+&lt;/a>
+&lt;/center>
+&lt;h2 id="the-owncast-directory">
+The Owncast Directory
+&lt;a class="heading-link" href="#the-owncast-directory">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>With that out of the way: Early on, mostly as an experiment, I built the &lt;a href="https://directory.owncast.online">Owncast directory&lt;/a>. Not because Owncast should in any way be a centralized place to discover live video streams, but as a little side project to display examples of what Owncast is being used for by different people. I figured Owncast is a bit of a new concept, so being able to show how other people are using it might help clarify things. I never treated this as an “official” offering, or some kind of service to rival other services. I treated it like it could go away at any time and Owncast, at its core, wouldn&amp;rsquo;t change one bit. People would still be running their independent live streams without any impact. Because that&amp;rsquo;s how it&amp;rsquo;s supposed to work.&lt;/p>
+&lt;p>Since then, I&amp;rsquo;ve been personally uneasy about having any centralized tools for Owncast streamers or viewers. But, I can&amp;rsquo;t argue that this directory does offer some nice to haves, and I do think people appreciate it. It fulfills a want, even if it&amp;rsquo;s not a need. I guess that&amp;rsquo;s ok. I do have some plans to expand how the directory works so it&amp;rsquo;s less centralized, is powered by ActivityPub, and enables anybody to do their own thing. But that&amp;rsquo;s a topic for another day.&lt;/p>
+&lt;p>I never intended to expand the Owncast side projects further than that. But time went on, and I listened to viewers, and I saw a wider audience grow. More people who are used to YouTube and Twitch wanting to watch Owncast-powered streams, but wish they had similar tooling to do so.&lt;/p>
+&lt;center>
+&lt;img src="https://gabekangas.com/blog/images/owncasts-ios-browse-live.jpeg" width="30%"/>
+&lt;img src="https://gabekangas.com/blog/images/owncasts-ios-browse-offline.jpeg" width="30%"/>
+&lt;img src="https://gabekangas.com/blog/images/owncasts-ios-stream-portrait.jpeg" width="30%"/>
+&lt;/center>
+&lt;h2 id="i-want-for-you-something-i-cant-give-you">
+I want for you something I can&amp;rsquo;t give you
+&lt;a class="heading-link" href="#i-want-for-you-something-i-cant-give-you">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>The fact that Owncast, as a project, doesn&amp;rsquo;t have any control over people&amp;rsquo;s servers is essential to me. It&amp;rsquo;s built on standards, so people on any platform, using a multitude of common applications, can watch any Owncast-powered stream. You could even build your own application built specifically for your stream. You don&amp;rsquo;t need me. Likewise, you don&amp;rsquo;t need the directory. Everything already exists for you to do your thing.&lt;/p>
+&lt;p>I&amp;rsquo;ve heard stories of non-technical people refusing to watch an Owncast-powered stream because they like watching on their TVs or phone, and there&amp;rsquo;s no Owncast application they can simply download like they&amp;rsquo;re used to. I&amp;rsquo;ve wished streamers could say &amp;ldquo;Just search the app store for X and press play&amp;rdquo;. But I&amp;rsquo;m aware nobody is going to go build their own mobile apps.&lt;/p>
+&lt;p>But I&amp;rsquo;ve always wished they did. I&amp;rsquo;ve always hoped that every Owncast streamer could have their own native applications to make it super easy for their viewers to watch their streams. I know the open web is super important, but I find native apps to be a really great experience, especially when it comes to media. I want Owncast servers to directly notify their viewers when they go live, and I want a way for people to watch on the TV without having to &amp;ldquo;cast&amp;rdquo; (I hate that word so much, this isn&amp;rsquo;t fishing).&lt;/p>
+&lt;p>I thought about offering templated source code for a native app. Owncast streamers could just fill in the config with their server URL and they&amp;rsquo;d have their own app. But no matter how much I wish that would happen, I know streamers would never go through the effort to submit their own native app to the app stores. Everyone having their native app experience wasn&amp;rsquo;t going to happen, regardless how much I want it to. And given this is all in the spirit of independence and decentralization, that&amp;rsquo;s about all I can offer in that respect. I can&amp;rsquo;t do it for you.&lt;/p>
+&lt;h2 id="i-didnt-mean-to-build-this-for-you">
+I didn&amp;rsquo;t mean to build this for you
+&lt;a class="heading-link" href="#i-didnt-mean-to-build-this-for-you">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Many months ago, due to a handful of personal reasons, I waned to do a little Apple development. I thought it&amp;rsquo;d be fun to build a little application for the AppleTV to make watching Owncast streams easier for me. And it doesn&amp;rsquo;t take a nuclear scientist in 1945 to know where this story goes from here. Within a couple of days I had built a pretty nice way to watch Owncast-powered streams on iOS and the AppleTV.&lt;/p>
+&lt;p>I didn&amp;rsquo;t really know where I was going from there, but I found myself adding support for more of the Owncast APIs, many of the features that exist on the web, push notifications, and more.&lt;/p>
+&lt;p>While the dream of every streamer having their own application wasn&amp;rsquo;t going to be possible, I could supply one application that is built for accessing people&amp;rsquo;s servers, even if they&amp;rsquo;re not publicly listed on the directory. But I&amp;rsquo;d have to be ok with being a gatekeeper of this single application. And honestly, I&amp;rsquo;m not really that ok with it. But I can try anyway.&lt;/p>
+&lt;p>So here we are. A new experimental side project for Owncast viewers on iOS and tvOS. I call it &amp;ldquo;Owncasts&amp;rdquo;, because it&amp;rsquo;s just a place where you can watch Owncast-powered streams. It&amp;rsquo;s not &amp;ldquo;Owncast for iOS&amp;rdquo;. Owncast is server software.&lt;/p>
+&lt;p>If you don&amp;rsquo;t like it, please pretend it doesn&amp;rsquo;t exist. If you don&amp;rsquo;t have Apple hardware, nothing changes for you. If you have an iPhone and don&amp;rsquo;t see the value in this, that&amp;rsquo;s absolutely fine. I&amp;rsquo;m not judging this by any success criteria, and I don&amp;rsquo;t know what, if anything, is next for it.&lt;/p>
+&lt;center>
+&lt;img src="https://gabekangas.com/blog/images/owncast-tvbrowse-profile.jpeg" width="70%"/>
+&lt;/center>
+&lt;h2 id="the-unfortunate-nature-of-apple-push-notifications">
+The unfortunate nature of Apple Push Notifications
+&lt;a class="heading-link" href="#the-unfortunate-nature-of-apple-push-notifications">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Unfortunately, if your Owncast server is not listed on the directory, this application will not be able to receive push notifications on behalf of your live stream. In this case it&amp;rsquo;s the directory that sends out the notifications, and if the directory doesn&amp;rsquo;t know about your server, and doesn&amp;rsquo;t know when you go live, then it simply can&amp;rsquo;t be helpful in that regard.&lt;/p>
+&lt;p>I hate that this is the case. I wish every individual Owncast server could send its own push notifications, but due to how they work that&amp;rsquo;s simply imposable. This is a case where some centralization is required for this feature, and you cannot be 100% private and still take advantage of it. I&amp;rsquo;m sorry. I feel bad about it.&lt;/p>
+&lt;center>
+&lt;img src="https://gabekangas.com/blog/images/owncasts-ios-apns.jpeg" width="30%"/>
+&lt;img src="https://gabekangas.com/blog/images/owncasts-ios-stream-portrait-menu.jpeg" width="30%"/>
+&lt;/center>
+&lt;h2 id="decentralized-user-interfaces">
+Decentralized user interfaces
+&lt;a class="heading-link" href="#decentralized-user-interfaces">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>One thing I&amp;rsquo;d like to see more of is the idea of a single interface of true decentralized content. We&amp;rsquo;re so used to user interfaces of centralized content. Almost every interface displays an array of content that is controlled exclusively by the server who&amp;rsquo;s displaying it. Every stream you see listed on Twitch is controlled by Twitch, every movie you see on Netflix is controlled by Netflix, every image on Instagram is controlled by Instagram.&lt;/p>
+&lt;p>There aren&amp;rsquo;t many real examples of decentralized interfaces left. An RSS reader is a good example of a single interface full of content pulled in from different places. Or a Podcast client that&amp;rsquo;s downloading Podcasts from different places. Search engines fit this definition on the web. There used to be web directories of content, that&amp;rsquo;s how Yahoo got its start. You click on a link and it brings you to somewhere completely disconnected from the place you came from. That&amp;rsquo;s how the internet is supposed to work! All linked together, but not controlled by any one entity.&lt;/p>
+&lt;p>This is what the directory has always been, and this is what &amp;ldquo;Owncasts&amp;rdquo; is. It&amp;rsquo;s just an interface trying to give you another way to help you consume decentralized content. When you add your own, private, streams to the application, you can almost treat it like a purpose built web browser. You put in an Owncast-powered URL, you can consume that content.&lt;/p>
+&lt;center>
+&lt;img src="https://gabekangas.com/blog/images/owncast-tvbrowse-live.jpeg" width="70%"/>
+&lt;/center>
+&lt;h2 id="what-is-this-not">
+What is this not?
+&lt;a class="heading-link" href="#what-is-this-not">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>You might be thinking &amp;ldquo;Cool, lots of Fediverse adjacent projects have iOS apps now!&amp;rdquo; No.&lt;/p>
+&lt;p>Mastodon, the company, has an iOS app for their product. Pixelfed, has an iOS app, PeerTube is starting work on an iOS app. &lt;strong>This is not like &lt;em>any&lt;/em> of those.&lt;/strong>&lt;/p>
+&lt;p>Those are dedicated focuses, with dedicated developers. Those organizations have those applications on their roadmap and feel they are important to drive their vision forward. Those have Jira boards and meetings and budgets. Those have designers. Those are investments into the future of their products and are important to them.&lt;/p>
+&lt;p>That&amp;rsquo;s not what this is for Owncast. I don&amp;rsquo;t feel that about this. I don&amp;rsquo;t feel that about the directory, or any of the side projects that are centralized by Owncast as a project, or me as an individual. The only thing that matters is that you have server software to stream with.&lt;/p>
+&lt;center>
+&lt;img src="https://gabekangas.com/blog/images/owncasts-ios-stream-landscape.jpeg" width="70%">
+&lt;/center>
+&lt;h2 id="the-long-long-road-of-rejections">
+The long, long road of rejections
+&lt;a class="heading-link" href="#the-long-long-road-of-rejections">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>&lt;a href="https://social.gabekangas.com/notice/AatxyxMNMccZlyuXJ2">I posted a couple months ago how I had given up on this project&lt;/a> because Apple found every possible reason to reject it, and I was not making any progress. But I took some time away, and I swapped out my feeling of defeat for defiance and kept at it. One law firm, one conversation with Craig Hockenberry, a series of appeals, and a bunch of creative workarounds later, somehow I made it over the finish line.&lt;/p>
+&lt;p>I don&amp;rsquo;t want this to be a negative post about how much Apple sucks, but you might be interested in a high level list of a couple of the crazier rejection reasons.&lt;/p>
+&lt;ul>
+&lt;li>Apple said I was illegally accessing the Owncast Directory. The same directory the Owncast project itself operates.&lt;/li>
+&lt;li>Any Owncast server that had a &amp;ldquo;Donate&amp;rdquo; link caused this application to get rejected, because Apple said it was it &amp;ldquo;collecting money without using in-app purchases&amp;rdquo;.&lt;/li>
+&lt;li>It&amp;rsquo;s Apple, so of course there has to be a way to &amp;ldquo;report&amp;rdquo; a server, even though that doesn&amp;rsquo;t make much sense in a decentralized world. But if somebody does report one, it&amp;rsquo;ll send me a message. And like usual, if somebody deserves to be removed from the directory they will.&lt;/li>
+&lt;li>Apple said I had no rights to show any of the streams listed in the directory in the application. Note they don&amp;rsquo;t care about the &lt;em>content&lt;/em> in the streams, just the ownership of the streams themselves.&lt;/li>
+&lt;li>Apple at one point rejected the app and said the application shouldn&amp;rsquo;t even exist, because people should use the web version instead. I&amp;rsquo;m not joking.&lt;/li>
+&lt;/ul>
+&lt;center>
+&lt;img src="https://gabekangas.com/blog/images/owncast-tvbrowse-offline.jpeg" width="70%"/>
+&lt;/center>
+&lt;h2 id="so-now-what">
+So, now what?
+&lt;a class="heading-link" href="#so-now-what">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Like the directory, I don&amp;rsquo;t expect this application to have super active development. Bugs will be fixed, and as new features get added to Owncast they might show up natively in the application as well. We&amp;rsquo;ll have to see.&lt;/p>
+&lt;p>It&amp;rsquo;s not the most beautiful application in the world, as UI design has never been something I&amp;rsquo;m terribly good at. But I hope it&amp;rsquo;s functional enough. Maybe that can improve if there are specific things that come up, but I don&amp;rsquo;t anticipate the design of a side project being a focus for anybody.&lt;/p>
+&lt;p>I thought about adding native chat. But that one addition has so many requirements, and is a large amount of additional work, with the different forms of authentication, and moderation, and text formatting, and handling of custom emoji and all of that. I did experiment with embedding the web chat into the application as a shortcut, but that&amp;rsquo;s a pretty lousy experience. Nobody should be surprised that web in a mobile app sucks. But maybe, one day, I&amp;rsquo;ll put in the substantial work to put in real chat if people cared enough. I think people might like that, but I&amp;rsquo;m not sure if it&amp;rsquo;d be enough people. You can let me know, and we can all play it by ear.&lt;/p>
+&lt;p>You might notice this application is not open source, in the same way the directory is not open source. Why? Because neither of these projects got the attention and the dedication that the Owncast server software gets, and it would be irresponsible for me to say they are an open source project. They are not. You would not be able to build them, and I would not be able to support you if you tried. No documentation, no tests, no support, no even the littlest amount of thinking about anybody building and running it other than me. That&amp;rsquo;s not open source. It&amp;rsquo;s a true side project that I didn&amp;rsquo;t know if I would get approved, or would ever ship.&lt;/p>
+&lt;p>All this being said, while I don&amp;rsquo;t plan on it, don&amp;rsquo;t be surprised if I accidentally build the Android version some day. But again, this all depends if this kind of thing is useful to people. The Owncast project is not in the business of building mobile applications, but it is in the business of helping people get their live streams out to the world. So if this helps, great. If not, that&amp;rsquo;s ok too.&lt;/p>
+&lt;p>At the very least this won&amp;rsquo;t be the last conversation around purpose-built applications for viewing Owncast-powered live video streams.&lt;/p>
+&lt;p>Keep on streamin&amp;rsquo;. Or viewin&amp;rsquo;. Or whatever you do, as long as it&amp;rsquo;s cool, keep doing some more of that.&lt;/p>
+&lt;p>&lt;a href="https://apps.apple.com/us/app/owncasts/id6451178968?platform=iphone">Owncasts for iOS and tvOS&lt;/a>&lt;/p>
+&lt;h2 id="thank-yous">
+Thank yous
+&lt;a class="heading-link" href="#thank-yous">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>&lt;a href="https://blog.iconfactory.com/author/craig/">Craig Hockenberry&lt;/a> from &lt;a href="https://apps.iconfactory.com/">Icon Factory&lt;/a> helped me work around one of the iOS guidelines I was having problems getting approvals with. This application would not have made it through app review without him.&lt;/p>
+&lt;p>&lt;a href="https://yannicklung.com/">Yannik Lung&lt;/a> did the icon design for the iOS and tvOS applications and I absolutely love how they came out.&lt;/p>
+&lt;p>The &lt;a href="https://www.sheppardmullin.com/">Sheppard Mullin Law Firm&lt;/a>. I wish I was joking.&lt;/p>
+&lt;p>&lt;a href="https://danieldavis.app/">Daniel Davis&lt;/a> for being my &amp;ldquo;Apple can suck it, but I&amp;rsquo;m still doing this anyway&amp;rdquo; sounding board for many years.&lt;/p></description></item><item><title>Thank you for making Owncast a success in 2023</title><link>https://gabekangas.com/blog/2024/01/thank-you-for-making-owncast-a-success-in-2023/</link><pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2024/01/thank-you-for-making-owncast-a-success-in-2023/</guid><description>&lt;p>I missed the first week of the year, but I still wanted to write a bit about Owncast and share my appreciation what this past year has brought for Owncast.&lt;/p>
 &lt;p>As every year before it, Owncast has had the opportunity to be used to solve more people&amp;rsquo;s live streaming needs, be viewed by more people, and have more conversations around decentralization, Big Tech alternatives, The Fediverse, and all the wonderful things that come along with being a part of Owncast.&lt;/p>
 &lt;h2 id="development">
 Development
@@ -630,15 +758,4 @@ Conclusion
 &lt;p>I can&amp;rsquo;t help but think at this point: As an adult, &lt;strong>have I ever been on a team&lt;/strong>? Maybe you haven&amp;rsquo;t been either.&lt;/p>
 &lt;p>I might be slightly different, as the stereotype of the &lt;em>introverted software engineer&lt;/em> is a real thing. They&amp;rsquo;re not driven by the energy in the room or the relationship of the person next to them, they just want to be left alone to get their work done.&lt;/p>
 &lt;p>But I never cared about any of these stupid companies I worked for, I cared about the room of people. Once there was no room of people, and all that was left was the &lt;em>divide and conquer&lt;/em> approach of corporate management I realized I couldn&amp;rsquo;t rely on work for a sense of connection.&lt;/p>
-&lt;p>But at least I had my Owncast crew. Until they were gone too.&lt;/p></description></item><item><title>An exciting update about Owncast</title><link>https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/</link><pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2021/06/an-exciting-update-about-owncast/</guid><description>&lt;p>Today in our periodic team sync-up call I announced to the Owncast team that we have been awarded a grant by the &lt;a href="https://nlnet.nl/">NLnet Foundation&lt;/a> to support work around federation and ActivityPub.&lt;/p>
-&lt;p>This is super exciting, as NLnet have proven to be a steward of openness, standards and open source. Having approval from NLnet and allowing Owncast to join that community of &lt;a href="https://nlnet.nl/project/current.html">fantastic projects&lt;/a> really makes me believe that Owncast is going the right direction and caring about the right things.&lt;/p>
-&lt;p>&lt;a href="https://nlnet.nl/project/Owncast/">Our project page on NLNet&amp;rsquo;s site is still empty&lt;/a>, but it&amp;rsquo;s there!&lt;/p>
-&lt;p>While it&amp;rsquo;s still early days, and we&amp;rsquo;re getting our goals, approach and roadmap worked out, the major tent pole items I&amp;rsquo;m looking to address with this work is the following:&lt;/p>
-&lt;ul>
-&lt;li>Simply allowing people to &amp;ldquo;follow&amp;rdquo; Owncast servers for notifications and inline content, essentially replacing our stop-gap &lt;a href="https://botsin.space/@owncast">bot&lt;/a> that posts on behalf of servers if they opt into the directory.&lt;/li>
-&lt;li>Support interoperability with PeerTube so Owncast content can show up in PeerTube interfaces, and possibly be able to show up in their search index.&lt;/li>
-&lt;li>Use this as an open building block to allow people to build their own directories and communities to aggregate collections of Owncast servers. This is something that have been asked of us and instead of building an Owncast-specific way of doing this (like we&amp;rsquo;ve done with &lt;a href="https://directory.owncast.online">https://directory.owncast.online&lt;/a>) we can utilize standards, allowing people to follow any number of Owncast servers and build whatever kind of interfaces around that.&lt;/li>
-&lt;/ul>
-&lt;p>Things might change as the project is kicked off and more is learned, but this gives us the building blocks to take advantage of federation when future features get added to Owncast such as recordings being rendered inline, or scheduled events showing up in the right places so people know when to tune in to a live stream. If you have any ideas how Owncast content can live hand-in-hand with other federated services, please reach out!&lt;/p>
-&lt;p>A big thank you to everyone who has supported Owncast, has setup an Owncast instance, or hung out watching an Owncast-powered live stream. Your feedback, support and content continues to push the project forward and allow us to make moves like this knowing that if we do a good job, real people will benefit from it.&lt;/p>
-&lt;p>If you have any comments, questions or suggestions feel free to drop by our &lt;a href="https://owncast.rocket.chat">community chat&lt;/a>.&lt;/p></description></item></channel></rss>
+&lt;p>But at least I had my Owncast crew. Until they were gone too.&lt;/p></description></item></channel></rss>
