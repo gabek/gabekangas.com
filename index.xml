@@ -1,4 +1,60 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Sun, 14 Jan 2024 09:46:12 -0800</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Owncasts - A new iOS and tvOS application for viewing Owncast-powered live video streams</title><link>https://gabekangas.com/blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/</link><pubDate>Sun, 14 Jan 2024 09:46:12 -0800</pubDate><guid>https://gabekangas.com/blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/</guid><description>&lt;h2 id="owncast-is-server-software-thats-it">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Today marks four years of Owncast</title><link>https://gabekangas.com/blog/2024/05/today-marks-four-years-of-owncast/</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2024/05/today-marks-four-years-of-owncast/</guid><description>&lt;p>May 23rd, 2024 marks the 4th anniversary of the first commit of Owncast, aptly titled: “WIP”.&lt;/p>
+&lt;h2 id="wip">
+WIP
+&lt;a class="heading-link" href="#wip">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>It was a bit before exactly four years ago when I actually started working on it in earnest, but not that far before. I remember duct taping a proof of concept together, opening my laptop&amp;rsquo;s web port to the public internet, messaging somebody and asking “Could you open this URL in VLC or QuickTime or something?”. Since there was no web interface or player, I just wanted to see if video would play for somebody over the internet. When I was told it worked, I went from asking “I wonder if this is possible” to knowing it was possible.&lt;/p>
+&lt;h2 id="what-specifically-was-happening-four-years-ago">
+What specifically was happening four years ago?
+&lt;a class="heading-link" href="#what-specifically-was-happening-four-years-ago">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>For fun, I took a look at what the first month of Owncast commits looked like, and I don&amp;rsquo;t remember things moving so fast. At that time, it already:&lt;/p>
+&lt;ul>
+&lt;li>Had native support for serving video via S3 compatible providers.&lt;/li>
+&lt;li>There were two additional contributors apart from me.&lt;/li>
+&lt;li>Chat had a fair bit of functionality.&lt;/li>
+&lt;li>Video transcoding was completely customizable.&lt;/li>
+&lt;li>It had persistent viewer statistics.&lt;/li>
+&lt;li>Documentation existed, including a quickstart guide.&lt;/li>
+&lt;li>A build script and Dockerfile allowed for relatively easy building.&lt;/li>
+&lt;li>You could customize your page content with Markdown.&lt;/li>
+&lt;/ul>
+&lt;p>Here are some other things that were going on at that time that never made it to where we are now:&lt;/p>
+&lt;ul>
+&lt;li>It had native support for serving video via IPFS.&lt;/li>
+&lt;li>The web interface was built with Vue + Tailwind.&lt;/li>
+&lt;li>Your chat username color was determined by a color hash of your username itself.&lt;/li>
+&lt;li>Chat had user avatars.&lt;/li>
+&lt;li>Chat showed embeds when links were shared, including images.&lt;/li>
+&lt;/ul>
+&lt;h2 id="where-i-started-is-not-where-its-been">
+Where I started is not where it&amp;rsquo;s been
+&lt;a class="heading-link" href="#where-i-started-is-not-where-its-been">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>It&amp;rsquo;s remarkable how fast things move at first on any kind of project, and then as it starts to take shape it slows down and becomes a bit more methodical. Once the core functionality is built and it “works”, then you have to think about what&amp;rsquo;s next. I suppose Owncast could have stopped right there. But I wanted it to be even easier to use, and more customizable. The more people who started using it, the more feedback I&amp;rsquo;d get, I started to get a picture of the long-term direction of the project and its features. And that direction is still what we&amp;rsquo;re going from today. I wouldn&amp;rsquo;t blame you if you thought I didn&amp;rsquo;t listen to your suggestions, but I promise that&amp;rsquo;s not true. The specific thing you request might not happen, but the spirit of what you&amp;rsquo;re asking for heavily influences the trajectory of the project, and can turn into something that&amp;rsquo;s useful for a wider user base.&lt;/p>
+&lt;p>Four years ago, Owncast to me, was a free and open source, self-hosted live video server. And since people who live stream also often enjoy having chat, it would be useful to bundle in a little optional minimal chat side feature as well. But the focus was always the video. It&amp;rsquo;s funny how much time and attention has gone into web interfaces (three entirely different implementations!) and chat over these years, when that has nothing to do with opening VLC and playing back a video stream. It&amp;rsquo;s still a balancing act to this day, since some people care very, very much about chat, social features, the public directory, and interactivity. Others aren&amp;rsquo;t concerned with those at all.&lt;/p>
+&lt;h2 id="whats-up">
+What&amp;rsquo;s up?
+&lt;a class="heading-link" href="#whats-up">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>It&amp;rsquo;s never a good time, but I&amp;rsquo;m looking at the backend codebase that began four years ago. As with anything that was started very small, and you build on top of it long enough, there&amp;rsquo;s a point where at least some changes need to be made. Primarily because some of the things that are on our roadmap simply aren&amp;rsquo;t possible with how the backend is architected. So while it&amp;rsquo;s a messy undertaking, I think it&amp;rsquo;s a valuable one, and it&amp;rsquo;s happening now, so the really cool stuff can continue to get built after that.&lt;/p>
+&lt;h2 id="thank-you">
+Thank You
+&lt;a class="heading-link" href="#thank-you">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Thank you for the four-year journey. Your patience, your kindness, your contributions, your feedback, your encouragement, your donations, and for sharing your Owncast-powered live streams with me. Every so often I look at a screen full of those streams and I can&amp;rsquo;t believe I had some small part in helping you build them. It continues to mean the world to me that you let me be involved.&lt;/p>
+&lt;p>I&amp;rsquo;m still excited about Owncast every day. I can&amp;rsquo;t say there hasn&amp;rsquo;t been periods of burnout, and doubt. And if I didn&amp;rsquo;t have an opportunity to see you out there using Owncast, maybe some of those periods would have been the end of it. But all of you keep it alive. At the end of the day, Owncast only exists because you use it. Everything else is an implementation detail.&lt;/p>
+&lt;p>Here&amp;rsquo;s to another four, five, ten years when Owncast will still be a “WIP”.&lt;/p></description></item><item><title>Owncasts - A new iOS and tvOS application for viewing Owncast-powered live video streams</title><link>https://gabekangas.com/blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/</link><pubDate>Sun, 14 Jan 2024 09:46:12 -0800</pubDate><guid>https://gabekangas.com/blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/</guid><description>&lt;h2 id="owncast-is-server-software-thats-it">
 Owncast is server software. That&amp;rsquo;s it
 &lt;a class="heading-link" href="#owncast-is-server-software-thats-it">
 &lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
@@ -717,53 +773,4 @@ In conclusion
 &lt;li>Git and Docker aren’t installation methods.&lt;/li>
 &lt;li>Any piece of software that requires the user to care, or even know, the details behind the scenes have failed the user.&lt;/li>
 &lt;li>If you do exclusively software-as-a-service stuff and nobody needs to run your code but you, then do whatever you want.&lt;/li>
-&lt;/ol></description></item><item><title>Being a part of a team</title><link>https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/05/being-a-part-of-a-team/</guid><description>&lt;p>Growing up I was never a sports person, so I didn&amp;rsquo;t spend a lot of time on what you&amp;rsquo;d call &amp;ldquo;typical&amp;rdquo; teams. But I was heavily into the performing arts all throughout my youth. This included different organized groups such as choirs, theater performances, and both competitive and non-competitive bands of all kinds, including the stereotypical high school garage band. This continued on even after high school, where I took part in a couple competitive Drum &amp;amp; Bugle corps. I remember real gratification being a part of something special with people who are on the same page as you, working on a common
-goal.&lt;/p>
-&lt;p>But as everyone does, I grew up, took part in fewer activities, and focused on work.&lt;/p>
-&lt;h2 id="corporate-teams">
-Corporate Teams
-&lt;a class="heading-link" href="#corporate-teams">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;p>I think most people understand what work is and how it takes place. You show up at an office, and you get assigned coworkers. These coworkers are called your team. Maybe you&amp;rsquo;re on the engineering team, or the marketing team, or a leadership team of some sort. I never really though much of it. &amp;ldquo;These are my teammates!&amp;rdquo; I thought as I move through my career, one company after another, doing different things at different places.&lt;/p>
-&lt;p>I never took a step back to really analyze what being a part of these teams looked like. But the pandemic changed things. So let me share it with you. As I have background in engineering teams, let&amp;rsquo;s use that as an example of what that looks like:&lt;/p>
-&lt;ol>
-&lt;li>A group of engineers are split into &amp;ldquo;cross-functional&amp;rdquo; groups of people to work on things.&lt;/li>
-&lt;li>You show up to meetings consisting of &amp;ldquo;stakeholders&amp;rdquo; of this group, with people like a designer, a product manager, and a project manager.&lt;/li>
-&lt;li>The product manager tells you how something is supposed to work.&lt;/li>
-&lt;li>The designer tells you how it&amp;rsquo;s supposed to look.&lt;/li>
-&lt;li>The project manager tells you the scheduling around the work.&lt;/li>
-&lt;li>You go do the work, giving periodic updates, eventually letting them know when it&amp;rsquo;s done.&lt;/li>
-&lt;li>Repeat.&lt;/li>
-&lt;/ol>
-&lt;p>The reality of the situation was far easier to mask before the pandemic. I would show up every day and and be around people. I&amp;rsquo;d be in the kitchen chatting while making coffee, we&amp;rsquo;d go to lunch. I&amp;rsquo;d do my work sitting next to these people. I&amp;rsquo;d look over and make a comment about something I just did. Being around people makes you, in some way, feel like you&amp;rsquo;re part of a team. The reality is actually quite different.&lt;/p>
-&lt;ol>
-&lt;li>The closest thing you have to a real &amp;ldquo;team&amp;rdquo;, your engineering peers, are immediately split up to make sure as much parallel work is happening at once.&lt;/li>
-&lt;li>You never work &amp;ldquo;with&amp;rdquo; them.&lt;/li>
-&lt;li>You never actually work &amp;ldquo;with&amp;rdquo; anybody.&lt;/li>
-&lt;li>You&amp;rsquo;re on a team of one.&lt;/li>
-&lt;/ol>
-&lt;p>It&amp;rsquo;s like if an NBA team split up to compete in 1-1 games of horse or something. Sure, you can get together and discuss strategy in your daily standup, but you&amp;rsquo;re alone.&lt;/p>
-&lt;h2 id="open-source">
-Open Source
-&lt;a class="heading-link" href="#open-source">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;p>As I moved through my adult, career-driven journey I always looked at open source projects with a sense of awe. There were these people, working together because they had a passion for it, not for the money like at a day job. I had this vision in my mind of wise cabals that work together to make a real difference for their users and combine to be greater than the sum of their parts.&lt;/p>
-&lt;p>I&amp;rsquo;ve dreamt for years what it would be like to be a part of an open source community that operated this way. In my head it was a lot like that high school garage band. You are working &lt;em>together&lt;/em> because you &lt;em>love&lt;/em> it.&lt;/p>
-&lt;p>I&amp;rsquo;ve had some &lt;a href="https://gabekangas.com/blog/2019/02/working-with-others-on-personal-projects/">misses in the past where things didn&amp;rsquo;t click&lt;/a>, and while that was disappointing, I never let the dream die.&lt;/p>
-&lt;p>Owncast changed things. I made friends, and we worked together on a common goal, and I was &lt;a href="https://gabekangas.com/blog/2020/12/a-brief-update-on-owncast/">&lt;em>so happy&lt;/em>&lt;/a>. I saw this as a real team. And better yet, I had made real friends, something that that becomes more difficult, especially for men, as they get older.&lt;/p>
-&lt;p>But it was short lived. Maybe I&amp;rsquo;m a bad project maintainer, or maybe I&amp;rsquo;m a bad person. Maybe people don&amp;rsquo;t like being around me, but those who I thought I was in that team with disappeared. I saw myself as the drummer in a kick ass band, but what I didn&amp;rsquo;t realize was I was an artist playing a drum solo hoping other people would eventually get on stage so we could start the song.&lt;/p>
-&lt;p>Realistically, I&amp;rsquo;m not alone here. If you look at any open source project you&amp;rsquo;re probably going to see one person working on it, with a few contributors here and there. But for me I mistook casual contributors as friends, and that&amp;rsquo;s heartbreaking when you realize you were wrong.&lt;/p>
-&lt;h2 id="conclusion">
-Conclusion
-&lt;a class="heading-link" href="#conclusion">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;p>I can&amp;rsquo;t help but think at this point: As an adult, &lt;strong>have I ever been on a team&lt;/strong>? Maybe you haven&amp;rsquo;t been either.&lt;/p>
-&lt;p>I might be slightly different, as the stereotype of the &lt;em>introverted software engineer&lt;/em> is a real thing. They&amp;rsquo;re not driven by the energy in the room or the relationship of the person next to them, they just want to be left alone to get their work done.&lt;/p>
-&lt;p>But I never cared about any of these stupid companies I worked for, I cared about the room of people. Once there was no room of people, and all that was left was the &lt;em>divide and conquer&lt;/em> approach of corporate management I realized I couldn&amp;rsquo;t rely on work for a sense of connection.&lt;/p>
-&lt;p>But at least I had my Owncast crew. Until they were gone too.&lt;/p></description></item></channel></rss>
+&lt;/ol></description></item></channel></rss>
