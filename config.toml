@@ -4,97 +4,101 @@ title = "Gabe Kangas"
 theme = "hugo-coder"
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
-  author = "authors"
+category = "categories"
+tag = "tags"
+author = "authors"
 
 [outputs]
-  page = ["HTML", "GEMINI"]
-  section = ["HTML", "RSS"]
-  home = ["HTML", "RSS", "GEMINI"]
+page = ["HTML", "GEMINI"]
+section = ["HTML", "RSS"]
+home = ["HTML", "RSS", "GEMINI"]
 
 [permalinks]
-    blog = "/blog/:year/:month/:title/"
-    pages = "/:title/"
+blog = "/blog/:year/:month/:title/"
+pages = "/:title/"
 
 [params]
-  colorScheme = "dark"
-  description = "Gabe's home page." #meta description
-  website = "gabekangas.com"
-  email = "gabek@real-ity.com"
-  github = "https://github.com/gabek/"
-  linkedin = "https://www.linkedin.com/in/gabek/"
-  copyrightyear = "2021"
-  info = "Building products you should use and listening to music you should probably hear."
-  avatarURL = "images/8bitgabe.png"
-  footerContent = "I simplified my website. It's better this way."
-  hideColorSchemeToggle = true
-  hideCredits = true
-  hideCopyright = true
-  maxSeeAlsoItems = 5
+colorScheme = "dark"
+description = "Gabe's home page."                                                          #meta description
+website = "gabekangas.com"
+email = "gabek@real-ity.com"
+github = "https://github.com/gabek/"
+linkedin = "https://www.linkedin.com/in/gabek/"
+copyrightyear = "2021"
+info = "Building products you should use and listening to music you should probably hear."
+avatarURL = "images/8bitgabe.png"
+footerContent = "I simplified my website. It's better this way."
+hideColorSchemeToggle = true
+hideCredits = true
+hideCopyright = true
+maxSeeAlsoItems = 5
 
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github"
-  weight = 1
-  url = "https://github.com/gabek"
-  rel = "me"
+name = "Github"
+icon = "fa fa-github"
+weight = 1
+url = "https://github.com/gabek"
+rel = "me"
 
 [[params.social]]
-  name = "LinkedIn"
-  icon = "fa fa-linkedin"
-  weight = 4
-  url = "https://www.linkedin.com/in/gabek/"
-  rel = "me"
+name = "LinkedIn"
+icon = "fa fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/gabek/"
+rel = "me"
 
 [[params.social]]
-  name = "mastodon"
-  icon = "fa fa-mastodon"
-  weight = 4
-  url = "https://social.gabekangas.com/gabek"
-  rel = "me"
+name = "mastodon"
+icon = "fa fa-mastodon"
+weight = 4
+url = "https://social.gabekangas.com/gabek"
+rel = "me"
 
 [[params.social]]
-  name = "RSS"
-  icon = "fa fa-rss"
-  weight = 6
-  url = "https://gabekangas.com/index.xml"
-  rel = "alternate"
-  type = "application/rss+xml"
+name = "RSS"
+icon = "fa fa-rss"
+weight = 6
+url = "https://gabekangas.com/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
 
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = -200
+name = "Home"
+url = "/"
+weight = -200
 [[menu.main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = -180
+name = "Blog"
+url = "/blog/"
+weight = -180
 [[menu.main]]
-  name = "Owncast"
-  url = "https://owncast.online"
-  weight = -160
+name = "Owncast"
+url = "https://owncast.online"
+weight = -160
 [[menu.main]]
-  name = "GitHub"
-  url = "https://github.com/gabek"
-  weight = -160
+name = "GitHub"
+url = "https://github.com/gabek"
+weight = -160
 [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = "-140"
+name = "About"
+url = "/about/"
+weight = "-140"
+[[menu.main]]
+name = "Media"
+url = "/appearances/"
+weight = "-140"
 
 [mediaTypes]
-  [mediaTypes."text/gemini"]
-    suffixes = ["gmi"]
+[mediaTypes."text/gemini"]
+suffixes = ["gmi"]
 
 [outputFormats.Gemini]
-  name = "GEMINI"
-  isPlainText = true
-  isHTML = false
-  mediaType = "text/gemini"
-  protocol = "gemini://"
-  permalinkable = true
-  path = "gemini/"
+name = "GEMINI"
+isPlainText = true
+isHTML = false
+mediaType = "text/gemini"
+protocol = "gemini://"
+permalinkable = true
+path = "gemini/"

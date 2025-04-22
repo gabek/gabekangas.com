@@ -1,0 +1,148 @@
+<style>
+  .video-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 24px;
+    padding: 24px;
+    background: #f8f9fa;
+  }
+  .video-item {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    background: #000;
+  }
+  .video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+  .video-info {
+    padding: 16px;
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .video-info h3 {
+    margin: 0;
+    font-size: 1.1em;
+    color: #222;
+  }
+  .video-info p {
+    margin: 0;
+    font-size: 0.95em;
+    color: #555;
+  }
+  .youtube-link {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 10px 18px;
+    background: #ff0000;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 1em;
+    transition: background 0.2s;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(255, 0, 0, 0.12);
+  }
+  .youtube-link:hover,
+  .youtube-link:focus {
+    background: #cc0000;
+  }
+  @media (max-width: 600px) {
+    .video-gallery {
+      grid-template-columns: 1fr;
+      padding: 12px;
+      gap: 16px;
+    }
+    .video-info {
+      padding: 10px;
+    }
+  }
+</style>
+
+<div class="video-gallery">
+  {{ $videos := site.Data.gabemedia }} {{ range $videos }}
+  <div class="video-item">
+    <div class="video-container">
+      {{ if eq .type "youtube" }}
+      <iframe
+        src="https://www.youtube.com/embed/{{ .id }}"
+        title="{{ .title }}"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+      {{ else if eq .type "vimeo" }}
+      <iframe
+        src="https://player.vimeo.com/video/{{ .id }}"
+        title="{{ .title }}"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+      {{ else if eq .type "mp4" }}
+      <video controls>
+        <source src="{{ .url }}" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+      {{ else if eq .type "peertube" }}
+      <iframe
+        title="{{.title}}"
+        src="{{.host}}/videos/embed/{{.id}}?title=0&amp;warningTitle=0&amp;peertubeLink=0&amp;p2p=0"
+        frameborder="0"
+        allowfullscreen=""
+        sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+      ></iframe>
+      {{ else if eq .type "external" }} {{ .embed | safeHTML }} {{ end }}
+    </div>
+    <div class="video-info">
+      <h3>{{ .title }}</h3>
+      <p>{{ .description }}</p>
+      {{ if eq .type "youtube" }}
+      <a
+        class="youtube-link"
+        href="https://www.youtube.com/watch?v={{ .id }}"
+        target="_blank"
+        rel="noopener"
+        >▶ Watch on YouTube</a
+      >
+      {{ else if eq .type "vimeo" }}
+      <a
+        class="youtube-link"
+        href="https://vimeo.com/{{ .id }}"
+        target="_blank"
+        rel="noopener"
+        >▶ Watch on Vimeo</a
+      >
+      {{ else if eq .type "mp4" }}
+      <a class="youtube-link" href="{{ .url }}" target="_blank" rel="noopener"
+        >▶ Download/Watch Video</a
+      >
+      {{ else if eq .type "peertube" }}
+      <a
+        class="youtube-link"
+        href="{{.host}}/w/{{ .id }}"
+        target="_blank"
+        rel="noopener"
+        >▶ Watch on Peertube</a
+      >
+      {{ else if eq .type "external" }}
+      <!-- Optionally add a link to the external platform if desired -->
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+</div>

@@ -1,0 +1,51 @@
+[
+    {
+        "id": "JmCEnaL2rzk",
+        "title": "TFiR Interview",
+        "description": "Gabe discusses Owncast and hosting services.",
+        "type": "youtube"
+    },
+    {
+        "id": "sZMEuKI4Lpo",
+        "title": "Talk at Ubuntu Summit: Freedom, Flexibility, and Fun",
+        "description": "Gabe teaches how live video streaming works, and how Owncast fits in.",
+        "type": "youtube"
+    },
+    {
+        "host": "https://video.firesidefedi.live",
+        "id": "nyM8V7WzVb1f2GehjAdSTX",
+        "title": "Fireside Fedi",
+        "description": "Gabe discusses Owncast and the future of live streaming.",
+        "type": "peertube"
+    },
+    {
+        "id": "H24f09ckLoE",
+        "title": "Vultr Marketplace",
+        "description": "Gabe talks about Owncast and the Vultr hosting marketplace.",
+        "type": "youtube"
+    },
+    {
+        "id": "eWE7HGJQI_4",
+        "title": "Akai/Linode Hosting Marketplace",
+        "description": "Sharing Owncast with Akai/Linode.",
+        "type": "youtube"
+    },
+    {
+        "id": "537360098",
+        "title": "Small is Beautiful",
+        "description": "Gabe discusses live video streaming with the Small Tech Foundation.",
+        "type": "vimeo"
+    },
+    {
+        "id": "j-U-kddGklE",
+        "title": "FediForum",
+        "description": "The open source live video server for your events.",
+        "type": "youtube"
+    },
+    {
+        "id": "4QRFbybwMJc",
+        "title": "Linux Lads Podcast",
+        "description": "A discussion around the behind the scenes of Owncast.",
+        "type": "youtube"
+    }
+]
