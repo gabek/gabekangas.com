@@ -7,7 +7,7 @@
     },
     {
         "id": "sZMEuKI4Lpo",
-        "title": "Talk at Ubuntu Summit: Freedom, Flexibility, and Fun",
+        "title": "Ubuntu Summit",
         "description": "Gabe teaches how live video streaming works, and how Owncast fits in.",
         "type": "youtube"
     },
@@ -15,19 +15,19 @@
         "host": "https://video.firesidefedi.live",
         "id": "nyM8V7WzVb1f2GehjAdSTX",
         "title": "Fireside Fedi",
-        "description": "Gabe discusses Owncast and the future of live streaming.",
+        "description": "Discussion on Owncast and the future of live streaming.",
         "type": "peertube"
     },
     {
         "id": "H24f09ckLoE",
         "title": "Vultr Marketplace",
-        "description": "Gabe talks about Owncast and the Vultr hosting marketplace.",
+        "description": "Discusses Owncast and the Vultr marketplace.",
         "type": "youtube"
     },
     {
         "id": "eWE7HGJQI_4",
         "title": "Akamai/Linode Hosting Marketplace",
-        "description": "Sharing Owncast with Akai/Linode.",
+        "description": "Sharing Owncast with Akamai/Linode.",
         "type": "youtube"
     },
     {
