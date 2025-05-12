@@ -1,4 +1,51 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Today marks four years of Owncast</title><link>https://gabekangas.com/blog/2024/05/today-marks-four-years-of-owncast/</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2024/05/today-marks-four-years-of-owncast/</guid><description>&lt;p>May 23rd, 2024 marks the 4th anniversary of the first commit of Owncast, aptly titled: “WIP”.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gabe Kangas</title><link>https://gabekangas.com/</link><description>Blog posts from Gabe</description><atom:link href="https://gabekangas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogs</title><link>https://gabekangas.com/blog/</link><pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/</guid><description/></item><item><title>Five Years of Owncast</title><link>https://gabekangas.com/blog/2025/05/five-years-of-owncast/</link><pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2025/05/five-years-of-owncast/</guid><description>&lt;center>
+&lt;img src="https://gabekangas.com/blog/images/5-years-of-owncast-owncat.webp" alt="Five years of Owncast" width="40%"/>
+&lt;/center>
+&lt;p>It&amp;rsquo;s been a year since I&amp;rsquo;ve written a blog post. So that must mean it&amp;rsquo;s an Owncast anniversary! But this time, it&amp;rsquo;s a bigger one. Five years!&lt;/p>
+&lt;h2 id="the-obligatory-past-5-years-section">
+The Obligatory &amp;ldquo;Past 5 Years&amp;rdquo; Section
+&lt;a class="heading-link" href="#the-obligatory-past-5-years-section">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>Five years is a long time, but it went by really fast. I&amp;rsquo;ve had a chance to work on a lot of cool things, travel to cool places, and meet a lot of cool people.&lt;/p>
+&lt;p>I could write a bunch here about five years of building Owncast, but I &lt;a href="https://gabekangas.com/blog/2024/05/today-marks-four-years-of-owncast/">wrote a lot last year&lt;/a>. And that all holds true, so I won&amp;rsquo;t repeat myself here. Instead I&amp;rsquo;m going to point you at the most recent edition of the &lt;a href="https://owncast.ghost.io/">Owncast newsletter&lt;/a> where I shared a bunch of thoughts with Kit, the editor. Now is a great time for you to sign up for it if you haven&amp;rsquo;t. Kit does a great job with it, and it only comes out once a month, or every other month. So it&amp;rsquo;s low traffic, and it&amp;rsquo;s a great way to keep up with the project. And as a bonus, I don&amp;rsquo;t write it, so it&amp;rsquo;s a chance to not have to listen to me blab about Owncast for a change.&lt;/p>
+&lt;h2 id="owncast-merch-store">
+Owncast Merch Store
+&lt;a class="heading-link" href="#owncast-merch-store">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>As long as Owncast has been a project people have asked for a way to get stickers or a t-shirt for themselves. And I never had a good answer for them. At conferences and events I would bring things to pass out, and contributors and supporters could get a t-shirt. But that was always easy because it didn&amp;rsquo;t require charging people, having a way to manage that money, shipping hassles, and there were no variety of products. Having an actual store would be a big change that I was never ready for.&lt;/p>
+&lt;p>So I figured for our 5th anniversary, it was time to finally do it. Work for it began many months ago, and it required the work of multiple people to make happen. A special huge thank you to &lt;a href="https://donaberger.xyz/">Mitch&lt;/a> and &lt;a href="https://gingervitis.net/">Ginger&lt;/a> on the design side and Grace from &lt;a href="https://oscollective.org/">Open Source Collective&lt;/a> on the finances side.&lt;/p>
+&lt;p>But we did it, the &lt;a href="https://merch.owncast.online">Owncast Merch Store&lt;/a> is live! You can get an assortment of Owncast branded items. Some of which I had to learn how to ship from my apartment. So now I have a shipping label printer and a stack of shipping materials.&lt;/p>
+&lt;p>One of the t-shirts is a &lt;a href="https://merch.owncast.online/category/clothing">limited time, 5-year anniversary shirt&lt;/a>, designed by &lt;a href="https://donaberger.xyz/">Mitch&lt;/a>. I wanted something to commemorate the occasion, and it&amp;rsquo;s super fun. So that will be available as long as it&amp;rsquo;s available.&lt;/p>
+&lt;p>I&amp;rsquo;ve been wearing the &lt;a href="https://merch.owncast.online/product/owncast-embroidered-logo-zip-up-hoodie">embroidered Owncast hoodie&lt;/a> pretty much every day now for a while. It&amp;rsquo;s super comfortable. And when I was in Nashville in February I wore the &lt;a href="https://merch.owncast.online/product/ribbed-knit-beanie">beanie&lt;/a> the entire time because it was freezing out.&lt;/p>
+&lt;p>With each purchase a small portion of the price will be a donation to the Owncast project itself. Most of the price is to pay for the actual physical item, however. Previously there was no good way to manage that money, it would have had to go to me directly, and I would have had to then donate each purchase back to Owncast. But something came up that allowed us to do this. We are an early adopter of a new feature with &lt;a href="https://oscollective.org/">Open Source Collective&lt;/a> where we have a virtual bank account. So when a purchase is made, that money goes into the account, and that gets deposited directly into our Open Source Collective balance without being funneled through me first. The only downside of the process is the other direction. I have to personally expense the cost of every item as its purchased, otherwise I&amp;rsquo;m paying for the manufacturing of every item. That will get tedious, but quite expensive if I don&amp;rsquo;t do it. Even just buying all the different versions of the test items the past few months got expensive.&lt;/p>
+&lt;p>I encourage you to check it out. I hope you find something you like. And if you do, share a picture on the Fediverse, or wherever. I&amp;rsquo;d love to see it.&lt;/p>
+&lt;h3 id="owncat">
+Owncat
+&lt;a class="heading-link" href="#owncat">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h3>
+&lt;p>Did you see &lt;a href="https://owncast.bigcartel.com/product/owncat-unisex-hoodie">Owncat&lt;/a>? He&amp;rsquo;s super chill. Owncat rules.&lt;/p>
+&lt;h2 id="new-owncast-fediverse-account">
+New Owncast Fediverse account
+&lt;a class="heading-link" href="#new-owncast-fediverse-account">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>When Fosstodon was having it&amp;rsquo;s little piece of &lt;a href="https://hub.fosstodon.org/">drama&lt;/a> I toyed with the idea of just pulling the Owncast Fediverse account completely. We don&amp;rsquo;t really post much. But people were vocal that they really didn&amp;rsquo;t want that to happen. And with the 5 year anniversary on the horizon, I figured it was good to be able to reach out. So instead, I thought I&amp;rsquo;d double down.&lt;/p>
+&lt;p>I moved Owncast off of Fosstodon to a &lt;a href="https://social.owncast.online/@owncast">new private server&lt;/a>, just like I had done with my personal account. Fosstodon hasn&amp;rsquo;t been great to me personally in the past and this was a good excuse to get off of it. Unfortunately, due to some issue with Mastodon, we lost our followers. So we went from over 5,000 to 800. So if you were following us before, you&amp;rsquo;ll need to re-follow it again now on the new account. Funny how it went from &amp;ldquo;should we shut down the account?&amp;rdquo; to &amp;ldquo;Please follow us again&amp;rdquo; in a matter of days.&lt;/p>
+&lt;h2 id="onward-and-upward">
+Onward and Upward
+&lt;a class="heading-link" href="#onward-and-upward">
+&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
+&lt;/a>
+&lt;/h2>
+&lt;p>I look forward to the next year, and the next five years. I want to thank everyone who&amp;rsquo;ve allowed me a chance to work on Owncast. It only exists because people have uses for it, and and they want it to exist. So thank you to everyone who has used Owncast, and especially those who&amp;rsquo;ve contributed in some way. Whether that be code, documentation, support, translations, or just sharing it with a friend. It all matters.&lt;/p>
+&lt;p>I haven&amp;rsquo;t been perfect, but I appreciate all of the patience and grace I&amp;rsquo;ve been given in doing my best with Owncast. I hope you can all tell how much it matters to me, and the place that all of the support plays. I don&amp;rsquo;t take any of it for granted. I absolutely know that kind of thing can change in a second any given day. But as long as that doesn&amp;rsquo;t happen, I hope to continue to improve and grow the project, and I hope you&amp;rsquo;ll keep joining me for the ride.&lt;/p></description></item><item><title>Today marks four years of Owncast</title><link>https://gabekangas.com/blog/2024/05/today-marks-four-years-of-owncast/</link><pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2024/05/today-marks-four-years-of-owncast/</guid><description>&lt;p>May 23rd, 2024 marks the 4th anniversary of the first commit of Owncast, aptly titled: “WIP”.&lt;/p>
 &lt;h2 id="wip">
 WIP
 &lt;a class="heading-link" href="#wip">
@@ -621,156 +668,4 @@ Final Thoughts
 &lt;/ul>
 &lt;p>So there you go, an idea. Take it and run with it and I&amp;rsquo;ll make sure Owncast sends you all the data you need via ActivityPub.&lt;/p>
 &lt;p>But clearly we need more people involved for any of this to matter. It can&amp;rsquo;t be &amp;ldquo;Owncast builds an Owncast directory, PeerTube builds a PeerTube search engine, PodcastIndex builds a Podcast search engine ok good enough&amp;rdquo;. From my perspective the Owncast directory is there to show examples of Owncast streams, not as &lt;em>the&lt;/em> solution for live stream discovery.&lt;/p>
-&lt;p>The good news is believe it or not we&amp;rsquo;re in the best possible scenario. We have a diverse collection of people, technologies and ideas at our fingertips. Big Tech only has what it has: a small-minded bubble that doesn&amp;rsquo;t have people in its best interests. We can do better because we can do anything when we build it ourselves.&lt;/p></description></item><item><title>Ship software, not code</title><link>https://gabekangas.com/blog/2022/06/ship-software-not-code/</link><pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate><guid>https://gabekangas.com/blog/2022/06/ship-software-not-code/</guid><description>&lt;p>&lt;strong>Note from the editor. That&amp;rsquo;s me, Gabe. I&amp;rsquo;m the editor.&lt;/strong> I&amp;rsquo;ve had this blog post in draft status for a while, originally creating the outline for a possible conference talk. I didn&amp;rsquo;t write it to
-be negative about any particular software, language, or approach. However, in the past day I&amp;rsquo;ve done some software installing and found myself experiencing much of what I wrote below. However, it&amp;rsquo;s still only a coincidence and I didn&amp;rsquo;t write this to be on the offensive against any one project.&lt;/p>
-&lt;hr>
-&lt;h2 id="software-and-code">
-Software and code
-&lt;a class="heading-link" href="#software-and-code">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;p>&lt;strong>Same thing, right?&lt;/strong> Well, no. You write code, and then you turn it into a software product people can run. I want to discuss how they are very different things, and the differences make a significant impact in how we approach empowering users with new tools and technologies. Especially in a time where giving people legitimate alternatives to centralized, big tech services is more important than ever.&lt;/p>
-&lt;h2 id="so-what-is-software">
-So what is software?
-&lt;a class="heading-link" href="#so-what-is-software">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;p>Take a moment to visualize what software is. &lt;strong>What does it look like?&lt;/strong> Some may think that&amp;rsquo;s a stupid question to ask about something so abstract, but it’s not at all abstract to me. When you say “software” this is what comes to mind.&lt;/p>
-&lt;center>
-&lt;a href="https://gabekangas.com/blog/images/shelf-of-software.jpg">
-&lt;img src="https://gabekangas.com/blog/images/shelf-of-software.jpg" width="50%">
-&lt;/a>
-&lt;/center>
-&lt;p>I think about walking into any big box store in the late 90s/early 2000s and going to their electronics department to see things like Microsoft Word, Doom, Print Shop, or Lotus 123 on the shelf. You could grab a box, bring it home, put it in your computer, and off you go. You were killing monsters, spreadsheeting, or printing out a banner before you knew it.&lt;/p>
-&lt;p>What does this have to do with the topic of this post? Let&amp;rsquo;s start by picking a box of software off that shelf and ask yourself:&lt;/p>
-&lt;ol>
-&lt;li>What programming language was the software written in?&lt;/li>
-&lt;li>What tools were required to build it?&lt;/li>
-&lt;li>How were the dependencies managed in the development of this software?&lt;/li>
-&lt;li>How is data persistence handled?&lt;/li>
-&lt;/ol>
-&lt;p>Let me make this easy for you, the answer for all of the above is &lt;strong>“who cares?”&lt;/strong>.&lt;/p>
-&lt;h3 id="what-about-modern-software">
-What about modern software?
-&lt;a class="heading-link" href="#what-about-modern-software">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>&lt;strong>Let’s ask those same questions for a modern piece of commercial software.&lt;/strong> While it&amp;rsquo;s not as common these days to walk into a store and bring a box home, you still buy it from a different kind of store and install it on your device.&lt;/p>
-&lt;center>
-&lt;a href=https://gabekangas.com/blog/images/android-productivity-apps.png">
-&lt;img src="https://gabekangas.com/blog/images/android-productivity-apps.png" width="50%">
-&lt;/a>
-&lt;/center>
-&lt;p>The answers to the questions are the same. &lt;strong>Nobody looking to run this software knows or cares how the software was built.&lt;/strong>&lt;/p>
-&lt;p>Let’s look at a third example. This time some non-commercial, likely open source software. Say you wanted to host a little photo gallery to share pictures of your vacation with your friends. While it’s not boxed software, and it’s not something from a centralized App Store, it’s still fair to assume that we can just download it and run it. It’s just software, after all.&lt;/p>
-&lt;center>
-&lt;a href="https://gabekangas.com/blog/images/install-instructions.png">
-&lt;img src="https://gabekangas.com/blog/images/install-instructions.png" width="50%">
-&lt;/a>
-&lt;/center>
-&lt;p>Obviously something is different here. You&amp;rsquo;re being given code. And because of this not only do you know the answers to the original above questions, &lt;strong>you have to know the answers in order to begin the process of running anything.&lt;/strong>&lt;/p>
-&lt;h2 id="obvious-disclaimer">
-Obvious disclaimer
-&lt;a class="heading-link" href="#obvious-disclaimer">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;p>While I don&amp;rsquo;t feel like I&amp;rsquo;m overly exaggerating in this post, I do want to make it clear that I don&amp;rsquo;t think &lt;em>everything&lt;/em> is as easy
-as one command or one click.&lt;/p>
-&lt;ol>
-&lt;li>Obviously as requirements increase then users of software have to be aware of and meet those requirements.
-&lt;em>However&lt;/em>, if one person wants to run one piece of software on one computer then yes&amp;hellip; it should be relatively low effort to allow them to do so.&lt;/li>
-&lt;li>Some projects make this stuff a priority and package their Javascript or Python in a way where people can use it, but they are in the minority.&lt;/li>
-&lt;li>If you only write software for yourself, to run personally or in a software-as-a-service scenario (a more and more common occurance), then do whatever you want.&lt;/li>
-&lt;li>Lastly, I&amp;rsquo;m not saying that I&amp;rsquo;m perfect, but I do try to think about these things. And I&amp;rsquo;d like you to think about them with me.&lt;/li>
-&lt;/ol>
-&lt;h2 id="how-did-we-get-here">
-How did we get here?
-&lt;a class="heading-link" href="#how-did-we-get-here">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;p>I wouldn’t normally blame the language for the output, but the language choice and tooling surrounding each language has created a cultural change around shipping software.&lt;/p>
-&lt;p>As the open source movement exploaded, and languages like PHP, Javascript, Python and Ruby became popular, fewer and fewer people were writing software that was natively runnable. Similarly you have languages like Java where you were required to have an entire virtual machine installed to run the software.&lt;/p>
-&lt;p>As &amp;ldquo;shipping source&amp;rdquo; became more common, the next step was inevitable. Developers simply pointed potential users to a repository of raw source code and said “good luck”.&lt;/p>
-&lt;p>And while I&amp;rsquo;m being harsh here about choices we developers have made, I don&amp;rsquo;t place all the blame there. The developers using these languages haven&amp;rsquo;t been shipping software in a self-contained way because these tools simply don’t have a first-class way of doing so. However it is our fault when we collectively choose a tool because of the developer experience without thinking about the final shipped experience. It doesn&amp;rsquo;t seem like many Javascript developers are thinking &lt;em>&amp;ldquo;maybe I shouldn&amp;rsquo;t require my end user to know what npm is or force them to install node before they can play the game I made.&amp;quot;&lt;/em>&lt;/p>
-&lt;h3 id="and-then-the-databases">
-And then the databases
-&lt;a class="heading-link" href="#and-then-the-databases">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>To make it all worse, we started treating database servers as a default dependency for almost any kind of software. Even for the most simple of data persistence cases. This means not only does a user have to understand how to get your software up and running, they have to understand how to spin up an entire database server just because you, as a developer, prefer to use PostgreSQL or MySQL. And don&amp;rsquo;t get me started when things require a relational database server AND Redis just to get running.&lt;/p>
-&lt;h2 id="the-docker-workaround">
-The Docker Workaround
-&lt;a class="heading-link" href="#the-docker-workaround">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;p>As managing source code became more complex and developers wanted a way for potential users to not have to deal with it, many projects simply defaulted to shipping pre-configured container images as their only installation method.&lt;/p>
-&lt;p>But I think we can all agree that if your software is so complex to install, with so many dependencies, that you’ve given up, and started shipping entire copies of a computer with it pre-installed, something is wrong.&lt;/p>
-&lt;h2 id="why-does-this-matter">
-Why does this matter?
-&lt;a class="heading-link" href="#why-does-this-matter">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;p>The responsibilities and knowledge required to be a software developer, such as managing runtimes, installing dependencies, and running raw source code, have been duplicated and handed to the user to also be made their problem.&lt;/p>
-&lt;h3 id="who-cares">
-Who cares?
-&lt;a class="heading-link" href="#who-cares">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;blockquote>
-&lt;p>People who run open source, or non-commercial software are deeply knowledgeable about package managers, tool chains and programming languages, and I shouldn’t be so worked up about how software is shipped to them, right?&lt;/p>
-&lt;/blockquote>
-&lt;p>Well there lies the problem. &lt;strong>We need to build solutions for anybody who wants it.&lt;/strong> The world is falling apart right now due to the centralization and control of big tech. We need small tech to empower individuals and fight back. In order for that to happen everybody needs access to the tools we&amp;rsquo;re building. This means more single-user software that you can download and run without heaps of dependencies, just like the boxed software we talked about above. Just like the software you can find on your phone&amp;rsquo;s app store. Software is meant to be run.&lt;/p>
-&lt;p>If you build a free and open source Yelp alternative for people it doesn&amp;rsquo;t matter how good it is if people get stuck fixing Ruby Version Manager conflicts. If you build an awesome game, but your users only have python2 and you wrote it for python3, that&amp;rsquo;s one fewer person to enjoy your game. If you build a self-hosted Eventbrite but the community leader doesn&amp;rsquo;t know what Postgresql is, then what was the point of building it?&lt;/p>
-&lt;p>Besides, even if the software was &amp;ldquo;&lt;em>just for techies&lt;/em>&amp;rdquo;, don&amp;rsquo;t they deserve a nice experience setting up your software, too?&lt;/p>
-&lt;h2 id="so-lets-fix-this">
-So let’s fix this
-&lt;a class="heading-link" href="#so-lets-fix-this">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;h3 id="ship-binaries">
-Ship binaries
-&lt;a class="heading-link" href="#ship-binaries">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>The good news is I think we’re getting on the right track. Languages that focus on shipping compiled, runnable binaries are on the rise. Go and Rust being two examples that are visibly changing the culture of shipping software to users. &lt;strong>This needs to continue.&lt;/strong>&lt;/p>
-&lt;p>I’m not saying don’t use Ruby, or don’t use Python. But what I am saying is if you’re writing something with the goal of other people running your software, you need to ship software they can run. And some languages are simply going to be better than others at having first-class ways to accomplish that.&lt;/p>
-&lt;h3 id="databases">
-Databases
-&lt;a class="heading-link" href="#databases">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>Let’s stop using external database servers as the default. Start with an embedded database like SQLite. If your software has the requirements then you can also offer a migration path to a larger database server. But a local, embedded database is fine for many more things than you think.&lt;/p>
-&lt;h3 id="hosted-one-click-installs">
-Hosted one-click installs
-&lt;a class="heading-link" href="#hosted-one-click-installs">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h3>
-&lt;p>It&amp;rsquo;s a bit off topic, but it&amp;rsquo;s still completely relevant in making sure that more people can install your software. Sure, this involves &amp;ldquo;the man&amp;rdquo;, but it&amp;rsquo;s a decent compromise. It&amp;rsquo;s free for you to make sure your software is available on the marketplaces of major hosting providers and it allows people who don&amp;rsquo;t have the physical resources to run your software using monetary resources instead.&lt;/p>
-&lt;h2 id="in-conclusion">
-In conclusion
-&lt;a class="heading-link" href="#in-conclusion">
-&lt;i class="fa fa-link" aria-hidden="true">&lt;/i>
-&lt;/a>
-&lt;/h2>
-&lt;p>Write code with the intention of shipping it as software. Code is not software.&lt;/p>
-&lt;ol>
-&lt;li>Let’s empower more people by getting more runnable software into their hands.&lt;/li>
-&lt;li>When building, pick tools that let you do that.&lt;/li>
-&lt;li>Chill it with the database requirements.&lt;/li>
-&lt;li>Git and Docker aren’t installation methods.&lt;/li>
-&lt;li>Any piece of software that requires the user to care, or even know, the details behind the scenes have failed the user.&lt;/li>
-&lt;li>If you do exclusively software-as-a-service stuff and nobody needs to run your code but you, then do whatever you want.&lt;/li>
-&lt;/ol></description></item></channel></rss>
+&lt;p>The good news is believe it or not we&amp;rsquo;re in the best possible scenario. We have a diverse collection of people, technologies and ideas at our fingertips. Big Tech only has what it has: a small-minded bubble that doesn&amp;rsquo;t have people in its best interests. We can do better because we can do anything when we build it ourselves.&lt;/p></description></item></channel></rss>
