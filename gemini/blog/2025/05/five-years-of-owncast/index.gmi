@@ -17,7 +17,7 @@ I could write a bunch here about five years of building Owncast, but I
 
 . And that all holds true, so I won't repeat myself here. Instead I'm going to point you at the most recent edition of the
 
-=> https://owncast.ghost.io/ Owncast newsletter
+=> https://owncast.ghost.io/owncast-newsletter-may-2025/ Owncast newsletter
 
  where I shared a bunch of thoughts with Kit, the editor. Now is a great time for you to sign up for it if you haven't. Kit does a great job with it, and it only comes out once a month, or every other month. So it's low traffic, and it's a great way to keep up with the project. And as a bonus, I don't write it, so it's a chance to not have to listen to me blab about Owncast for a change.
 
