@@ -16,7 +16,7 @@ It's been a year since I've written a blog post. So that must mean it's an Ownca
 
 Five years is a long time, but it went by really fast. I've had a chance to work on a lot of cool things, travel to cool places, and meet a lot of cool people.
 
-I could write a bunch here about five years of building Owncast, but I [wrote a lot last year](/blog/2024/05/today-marks-four-years-of-owncast/). And that all holds true, so I won't repeat myself here. Instead I'm going to point you at the most recent edition of the [Owncast newsletter](https://owncast.ghost.io/) where I shared a bunch of thoughts with Kit, the editor. Now is a great time for you to sign up for it if you haven't. Kit does a great job with it, and it only comes out once a month, or every other month. So it's low traffic, and it's a great way to keep up with the project. And as a bonus, I don't write it, so it's a chance to not have to listen to me blab about Owncast for a change.
+I could write a bunch here about five years of building Owncast, but I [wrote a lot last year](/blog/2024/05/today-marks-four-years-of-owncast/). And that all holds true, so I won't repeat myself here. Instead I'm going to point you at the most recent edition of the [Owncast newsletter](https://owncast.ghost.io/owncast-newsletter-may-2025/) where I shared a bunch of thoughts with Kit, the editor. Now is a great time for you to sign up for it if you haven't. Kit does a great job with it, and it only comes out once a month, or every other month. So it's low traffic, and it's a great way to keep up with the project. And as a bonus, I don't write it, so it's a chance to not have to listen to me blab about Owncast for a change.
 
 ## Owncast Merch Store
 
