@@ -139,7 +139,7 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2010/12/2010-year-in-review/index.gmi 2010 Year in Review
 
 
-=> gemini://gemini.real-ity.com/blog/2010/12/radvent-dec-5-#radvent-tunage/index.gmi Radvent Dec 5 - #Radvent tunage
+=> gemini://gemini.real-ity.com/blog/2010/12/radvent-dec-5-%23radvent-tunage/index.gmi Radvent Dec 5 - #Radvent tunage
 
 
 => gemini://gemini.real-ity.com/blog/2010/12/radvent-dec-3-sexy-notes-to-yourself/index.gmi Radvent Dec 3 - Sexy notes to yourself
@@ -163,7 +163,7 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2010/10/weekly-song-recommendation-mark-mallman-mother-made-me-do-it/index.gmi Weekly Song Recommendation: Mark Mallman - Mother Made Me Do It
 
 
-=> gemini://gemini.real-ity.com/blog/2010/09/#thecabin-mobile-for-iphone/index.gmi #TheCabin Mobile for iPhone
+=> gemini://gemini.real-ity.com/blog/2010/09/%23thecabin-mobile-for-iphone/index.gmi #TheCabin Mobile for iPhone
 
 
 => gemini://gemini.real-ity.com/blog/2010/07/equilibrium-had-it-right/index.gmi Equilibrium had it right
@@ -214,7 +214,7 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2009/09/nin-for-the-last-time.-for-real-this-time.-chicago./index.gmi NIN for the last time.  For real this time.  Chicago.
 
 
-=> gemini://gemini.real-ity.com/blog/2009/08/the-social-experiment-#1-peter-cales/index.gmi The social experiment: #1 Peter Cales
+=> gemini://gemini.real-ity.com/blog/2009/08/the-social-experiment-%231-peter-cales/index.gmi The social experiment: #1 Peter Cales
 
 
 => gemini://gemini.real-ity.com/blog/2009/08/admiral-ackbar-joins-twitter/index.gmi Admiral Ackbar joins Twitter
@@ -244,7 +244,7 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2009/07/the-military-creeps-me-out/index.gmi The military creeps me out
 
 
-=> gemini://gemini.real-ity.com/blog/2009/06/closest-friends-of-gabe-#tweetdinner/index.gmi Closest friends of Gabe #tweetdinner
+=> gemini://gemini.real-ity.com/blog/2009/06/closest-friends-of-gabe-%23tweetdinner/index.gmi Closest friends of Gabe #tweetdinner
 
 
 => gemini://gemini.real-ity.com/blog/2009/05/a-goodbye-to-an-old-friend/index.gmi A goodbye to an old friend
@@ -265,7 +265,7 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2009/05/quick-big-omaha-video/index.gmi Quick Big Omaha video
 
 
-=> gemini://gemini.real-ity.com/blog/2009/05/six-months-of-being-an-omahan-#bigomaha/index.gmi Six months of being an Omahan ( #bigomaha )
+=> gemini://gemini.real-ity.com/blog/2009/05/six-months-of-being-an-omahan-%23bigomaha/index.gmi Six months of being an Omahan ( #bigomaha )
 
 
 => gemini://gemini.real-ity.com/blog/2009/05/search-engine-queries-are-funny/index.gmi Search engine queries are funny
@@ -280,7 +280,7 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2009/04/next-step...-there-is-no-next-step.-yet./index.gmi Next step... there is no next step.  Yet.
 
 
-=> gemini://gemini.real-ity.com/blog/2009/04/tweetup-#4/index.gmi Tweetup #4
+=> gemini://gemini.real-ity.com/blog/2009/04/tweetup-%234/index.gmi Tweetup #4
 
 
 => gemini://gemini.real-ity.com/blog/2009/04/welcome-to-the-new-face-of-gabe/index.gmi Welcome to the new face of Gabe
@@ -352,7 +352,7 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2008/10/7-days-to-go/photo-montage/index.gmi 7 days to go/Photo montage
 
 
-=> gemini://gemini.real-ity.com/blog/2008/10/chronicling-my-time-in-chicago-#3/index.gmi Chronicling my time in Chicago #3
+=> gemini://gemini.real-ity.com/blog/2008/10/chronicling-my-time-in-chicago-%233/index.gmi Chronicling my time in Chicago #3
 
 
 => gemini://gemini.real-ity.com/blog/2008/10/good-morning-omaha/index.gmi Good morning, Omaha
@@ -373,13 +373,13 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2008/10/anyone-shop-online-for-clothes-aparently-its-more-difficult-than-i-thought./index.gmi Anyone shop online for clothes?  Aparently it's more difficult than I thought.
 
 
-=> gemini://gemini.real-ity.com/blog/2008/10/chronicling-my-time-in-chicago-#2/index.gmi Chronicling my time in Chicago #2
+=> gemini://gemini.real-ity.com/blog/2008/10/chronicling-my-time-in-chicago-%232/index.gmi Chronicling my time in Chicago #2
 
 
 => gemini://gemini.real-ity.com/blog/2008/09/im-moving-to-jesusland/index.gmi I'm moving to Jesusland :(
 
 
-=> gemini://gemini.real-ity.com/blog/2008/09/chronicling-my-time-in-chicagoland-#1/index.gmi Chronicling my time in Chicagoland #1
+=> gemini://gemini.real-ity.com/blog/2008/09/chronicling-my-time-in-chicagoland-%231/index.gmi Chronicling my time in Chicagoland #1
 
 
 => gemini://gemini.real-ity.com/blog/2008/09/hello-omaha-part-2/index.gmi Hello Omaha part 2
@@ -418,7 +418,7 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2008/07/hello-inkernet/index.gmi Hello Inkernet
 
 
-=> gemini://gemini.real-ity.com/blog/2008/07/cutefacebook/index.gmi Cute@Facebook
+=> gemini://gemini.real-ity.com/blog/2008/07/cute@facebook/index.gmi Cute@Facebook
 
 
 => gemini://gemini.real-ity.com/blog/2008/07/todays-links/index.gmi Today's links
@@ -475,7 +475,7 @@ These are my blog posts going back as far as I have them.
 => gemini://gemini.real-ity.com/blog/2008/04/new-nine-inch-nails-track-with-words/index.gmi New Nine Inch Nails Track (with words)
 
 
-=> gemini://gemini.real-ity.com/blog/2008/04/saturday-night-mannequin-nightclub/index.gmi Saturday Night @ Mannequin Nightclub
+=> gemini://gemini.real-ity.com/blog/2008/04/saturday-night-@-mannequin-nightclub/index.gmi Saturday Night @ Mannequin Nightclub
 
 
 => gemini://gemini.real-ity.com/blog/2008/04/odd-irc-dream/index.gmi Odd IRC dream
