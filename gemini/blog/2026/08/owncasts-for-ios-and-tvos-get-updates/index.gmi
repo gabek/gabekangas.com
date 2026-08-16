@@ -23,7 +23,7 @@ If you're an Owncast streamer, you can now stream live FROM the application. Put
 
 It used to suck. Now (especially in landscape) it's pretty nice.
 
-*So check it out* and let know what you think. As previously stated, this is a side project with no promises of features
+*So check it out* and let know what you think. As previously stated, this is a side project with no promises of features or attention. But if people use it, I'll keep at it.
 
 https://apps.apple.com/us/app/owncasts/id6451178968
 
