@@ -11,7 +11,6 @@ tags:
 - spnosor
 status: publish
 type: post
-published: true
 date: 2009-09-17 00:53:26.000000000 +00:00
 meta: {}
 author:

@@ -10,7 +10,6 @@ tags:
 - trips
 status: publish
 type: post
-published: true
 date: 2010-03-10 19:26:37.000000000 +00:00
 meta: {}
 author:

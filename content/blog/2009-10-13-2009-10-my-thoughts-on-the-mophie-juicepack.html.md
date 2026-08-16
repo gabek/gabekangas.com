@@ -10,7 +10,6 @@ tags:
 - review
 status: publish
 type: post
-published: true
 date: 2009-10-13 09:00:15.000000000 +00:00
 meta: {}
 author:

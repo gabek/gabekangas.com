@@ -6,7 +6,6 @@ categories:
 tags: []
 status: publish
 type: post
-published: true
 date: 2008-04-23 05:33:33.000000000 +00:00
 meta: {}
 author:

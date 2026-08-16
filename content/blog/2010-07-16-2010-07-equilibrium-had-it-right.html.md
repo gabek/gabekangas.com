@@ -7,7 +7,6 @@ tags:
 - depression
 status: publish
 type: post
-published: true
 date: 2010-07-16 18:49:20.000000000 +00:00
 meta: {}
 author:

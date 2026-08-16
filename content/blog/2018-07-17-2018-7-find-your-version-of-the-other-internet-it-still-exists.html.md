@@ -8,7 +8,6 @@ tags:
   - irc
 status: publish
 type: post
-published: true
 date: 2018-07-17 15:53:57.000000000 +00:00
 meta: {}
 cardthumbimage: '/blog/images/your-internet-sucks.jpg'

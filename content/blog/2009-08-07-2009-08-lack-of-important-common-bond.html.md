@@ -8,7 +8,6 @@ tags:
 - religion
 status: publish
 type: post
-published: true
 date: 2009-08-07 13:22:28.000000000 +00:00
 meta: {}
 author:

@@ -7,7 +7,6 @@ tags:
 - Work
 status: publish
 type: post
-published: true
 date: 2009-09-16 17:10:11.000000000 +00:00
 meta: {}
 author:

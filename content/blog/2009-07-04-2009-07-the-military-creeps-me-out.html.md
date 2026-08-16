@@ -8,7 +8,6 @@ tags:
 - military
 status: publish
 type: post
-published: true
 date: 2009-07-04 11:10:50.000000000 +00:00
 meta: {}
 author:

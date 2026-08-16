@@ -9,7 +9,6 @@ tags:
 - thecabin
 status: publish
 type: post
-published: true
 date: 2009-05-18 14:57:25.000000000 +00:00
 meta: {}
 author:

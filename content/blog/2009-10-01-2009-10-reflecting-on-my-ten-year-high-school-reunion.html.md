@@ -9,7 +9,6 @@ tags:
 - high school
 status: publish
 type: post
-published: true
 date: 2009-10-01 00:55:03.000000000 +00:00
 meta: {}
 author:

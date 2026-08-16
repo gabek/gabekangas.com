@@ -12,7 +12,6 @@ tags:
 - Omaha
 status: publish
 type: post
-published: true
 date: 2010-11-22 16:41:23.000000000 +00:00
 meta: {}
 author:

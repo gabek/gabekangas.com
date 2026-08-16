@@ -11,7 +11,6 @@ tags:
 - Recommendations
 status: publish
 type: post
-published: true
 date: 2010-10-11 10:00:43.000000000 +00:00
 meta: {}
 author:

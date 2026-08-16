@@ -7,7 +7,6 @@ tags:
 - the bat player
 status: publish
 type: post
-published: true
 date: 2016-07-14 15:37:41.000000000 +00:00
 meta: {}
 author:

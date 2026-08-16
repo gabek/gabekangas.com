@@ -7,7 +7,6 @@ tags:
 - radvent
 status: publish
 type: post
-published: true
 date: 2010-12-02 10:04:50.000000000 +00:00
 meta: {}
 author:

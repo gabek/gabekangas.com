@@ -11,7 +11,6 @@ tags:
 - san francisco
 status: publish
 type: post
-published: true
 date: 2012-07-22 10:23:59.000000000 +00:00
 meta: {}
 author:

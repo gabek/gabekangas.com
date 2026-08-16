@@ -10,7 +10,6 @@ tags:
   - featured
 status: publish
 type: post
-published: true
 date: 2015-11-17 17:41:12.000000000 +00:00
 cardthumbimage: '/blog/images/rdio-retro-image.jpg'
 cardheaderimage: '/blog/images/rdio-retro-image.jpg'

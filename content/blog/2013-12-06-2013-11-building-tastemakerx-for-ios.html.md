@@ -9,7 +9,6 @@ tags:
 - development
 status: publish
 type: post
-published: true
 date: 2013-12-06 19:28:36.000000000 +00:00
 meta:
   _thumbnail_id: '268'

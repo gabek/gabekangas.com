@@ -8,7 +8,6 @@ tags:
 - nin
 status: publish
 type: post
-published: true
 date: 2009-09-02 10:00:26.000000000 +00:00
 meta: {}
 author:

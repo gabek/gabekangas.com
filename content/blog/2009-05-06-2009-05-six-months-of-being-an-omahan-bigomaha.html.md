@@ -11,7 +11,6 @@ tags:
 - Twitter
 status: publish
 type: post
-published: true
 date: 2009-05-06 15:48:36.000000000 +00:00
 meta: {}
 author:

@@ -10,7 +10,6 @@ tags:
 - trent
 status: publish
 type: post
-published: true
 date: 2009-05-29 10:42:01.000000000 +00:00
 meta: {}
 author:

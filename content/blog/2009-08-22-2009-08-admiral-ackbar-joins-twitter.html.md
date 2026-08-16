@@ -8,7 +8,6 @@ tags:
 - Twitter
 status: publish
 type: post
-published: true
 date: 2009-08-22 15:39:27.000000000 +00:00
 meta: {}
 author:

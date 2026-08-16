@@ -10,7 +10,6 @@ tags:
   - javascript
 status: publish
 type: post
-published: true
 date: 2018-02-06 17:32:39.000000000 +00:00
 cardthumbimage: '/blog/images/tech-stack-matters.jpg'
 cardheaderimage: '/blog/images/tech-stack-matters.jpg'

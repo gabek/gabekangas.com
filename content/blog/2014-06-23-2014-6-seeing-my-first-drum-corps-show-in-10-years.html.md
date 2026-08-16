@@ -7,7 +7,6 @@ tags:
 - drum corps
 status: publish
 type: post
-published: true
 date: 2014-06-23 21:54:10.000000000 +00:00
 meta:
   _thumbnail_id: '275'
