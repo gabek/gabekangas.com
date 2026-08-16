@@ -1,0 +1,43 @@
+# Owncasts for iOS and tvOS get updates!
+
+
+In 2024 "Owncasts" for iOS was released as a side project to give a native interface on the iPhone and AppleTV. I highly recommend you read the first post in this series:
+
+=> /blog/2024/01/owncasts-a-new-ios-and-tvos-application-for-viewing-owncast-powered-live-video-streams/ Owncasts for iOS and tvOS
+
+. It will detail what the goal with the application were, and how it came to life.
+
+It was something that wasn't directly connected to or maintained by the Owncast project. And it hadn't been touched much since then. But I did have a list of things I wished it could do. But I just never got to them.
+
+Until now! Today a new release is out, and it finally has most of the functionality originally wished for.
+
+## You can chat!
+
+You can finally chat while mobile. On AppleTV you can just follow along, since typing with a remote really sucks. It doesn't support chat auth, though. So if people find themselves using it, let me know.
+
+## Mobile live streaming!
+
+If you're an Owncast streamer, you can now stream live FROM the application. Put in your stream details into settings, and you can do live mobile live streaming. I think that's neat. Let me know how it works for you. The real world network connectivity makes this kind of challenging, so I'm curious how it goes.
+
+## iPad no longer sucks!
+
+It used to suck. Now (especially in landscape) it's pretty nice.
+
+*So check it out* and let know what you think. As previously stated, this is a side project with no promises of features
+
+https://apps.apple.com/us/app/owncasts/id6451178968
+
+<center>
+<img src="/blog/images/iphone-01-home.webp" width="30%" alt="Owncasts iPhone home screen"/>
+<img src="/blog/images/iphone-02-server.webp" width="30%" alt="Owncasts iPhone server screen"/>
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/b1/61/84b1612e-5f49-8297-2c01-a715832734f3/iphone-03-server-chat.png/460x996bb.webp" width="30%" alt="Owncasts iPhone server chat screen"/>
+</center>
+
+<center>
+<img src="/blog/images/ipad-01-home-landscape.webp" width="70%" alt="Owncasts iPad home screen"/>
+</center>
+
+<center>
+<img src="/blog/images/appletv-01-home.webp" width="45%" alt="Owncasts Apple TV home screen"/>
+<img src="/blog/images/appletv-03-server-chat.webp" width="45%" alt="Owncasts Apple TV server chat screen"/>
+</center>

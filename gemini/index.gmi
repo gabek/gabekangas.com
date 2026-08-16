@@ -7,6 +7,9 @@ These are my blog posts going back as far as I have them.
 => https://gabekangas.com/blog/ Blogs
 
 
+=> gemini://gemini.real-ity.com/blog/2026/08/owncasts-for-ios-and-tvos-get-updates/index.gmi Owncasts for iOS and tvOS get updates!
+
+
 => gemini://gemini.real-ity.com/blog/2025/05/five-years-of-owncast/index.gmi Five Years of Owncast
 
 
