@@ -18,17 +18,11 @@
         "type": "youtube"
     },
     {
-        "host": "https://video.firesidefedi.live",
-        "id": "nyM8V7WzVb1f2GehjAdSTX",
+        "host": "https://tubefree.org",
+        "id": "6ewwbr4AW1z8PAZ6cNTgjF",
         "title": "Fireside Fedi",
         "description": "Discussion on Owncast and the future of live streaming.",
         "type": "peertube"
-    },
-    {
-        "id": "H24f09ckLoE",
-        "title": "Vultr Marketplace",
-        "description": "Discusses Owncast and the Vultr marketplace.",
-        "type": "youtube"
     },
     {
         "id": "eWE7HGJQI_4",
